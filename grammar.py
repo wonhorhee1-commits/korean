@@ -75,6 +75,8 @@ def run_drill(srs: SRSEngine, session_size: int = 10):
         ui.show_card_prompt(pattern)
         ui.console.print("[dim]What does this pattern mean?[/dim]\n")
         user_answer = ui.ask("Your answer")
+        if user_answer.strip().lower() == "q":
+            break
         ui.console.print()
 
         # Reveal meaning + explanation
@@ -90,6 +92,8 @@ def run_drill(srs: SRSEngine, session_size: int = 10):
             ui.console.print("[bold bright_cyan]Fill in the blank:[/bold bright_cyan]")
             ui.console.print(f"  {drill['prompt']}\n")
             user_drill = ui.ask("Answer")
+            if user_drill.strip().lower() == "q":
+                break
             ui.console.print()
 
             is_correct = user_drill.strip() == drill["answer"]

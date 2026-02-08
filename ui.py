@@ -44,7 +44,9 @@ def menu(options: list[str]) -> int:
 
 
 def ask(prompt_text: str, default: str | None = None) -> str:
-    return Prompt.ask(f"[bright_cyan]{prompt_text}[/]", default=default or "")
+    """Ask for input. Returns 'q' if user wants to quit."""
+    result = Prompt.ask(f"[bright_cyan]{prompt_text}[/] [dim](q to quit)[/]", default=default or "")
+    return result
 
 
 def show_card_prompt(korean: str, hint: str | None = None):
