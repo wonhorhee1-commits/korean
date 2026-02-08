@@ -1,0 +1,304 @@
+{
+  "격식 & 문어체 (Formal & Written)": [
+    {
+      "korean": "~(으)ㄴ/는 것으로 전해졌다",
+      "english": "it has been reported that",
+      "example": "피해자는 현재 병원에서 치료를 받고 있는 것으로 전해졌다.",
+      "example_en": "It has been reported that the victim is currently receiving treatment at a hospital."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 알려졌다",
+      "english": "it is known that; it has been revealed that",
+      "example": "해당 기업은 이미 파산 절차에 들어간 것으로 알려졌다.",
+      "example_en": "It is known that the company has already entered bankruptcy proceedings."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 나타났다",
+      "english": "it has been found/shown that (reporting survey or data results)",
+      "example": "조사 결과 시민의 70%가 정책에 반대하는 것으로 나타났다.",
+      "example_en": "The survey found that 70% of citizens oppose the policy."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 확인되었다",
+      "english": "it has been confirmed that",
+      "example": "사고 원인은 운전자의 부주의인 것으로 확인되었다.",
+      "example_en": "It has been confirmed that the cause of the accident was the driver's negligence."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 드러났다",
+      "english": "it has been uncovered/revealed that",
+      "example": "공금을 유용한 사실이 감사를 통해 드러났다.",
+      "example_en": "It was revealed through an audit that public funds had been embezzled."
+    },
+    {
+      "korean": "~(으)ㄹ 전망이다",
+      "english": "it is projected/expected that",
+      "example": "내년 경제 성장률은 2%대에 머물 전망이다.",
+      "example_en": "The economic growth rate is projected to remain at around 2% next year."
+    },
+    {
+      "korean": "~(으)ㄹ 것으로 보인다",
+      "english": "it appears/seems that (journalistic hedging)",
+      "example": "양측의 합의까지는 상당한 시간이 걸릴 것으로 보인다.",
+      "example_en": "It appears that reaching an agreement between the two sides will take considerable time."
+    },
+    {
+      "korean": "~(으)ㄹ 방침이다",
+      "english": "it is the policy/plan to",
+      "example": "정부는 내년부터 규제를 대폭 완화할 방침이다.",
+      "example_en": "The government plans to significantly ease regulations starting next year."
+    },
+    {
+      "korean": "~에 나서다",
+      "english": "to step forward to; to take action toward",
+      "example": "시민단체들이 환경 보호를 위한 캠페인에 나섰다.",
+      "example_en": "Civic groups have stepped forward to campaign for environmental protection."
+    },
+    {
+      "korean": "~을/를 촉구하다",
+      "english": "to urge; to call for",
+      "example": "야당은 정부에 즉각적인 대책 마련을 촉구했다.",
+      "example_en": "The opposition party urged the government to prepare immediate countermeasures."
+    },
+    {
+      "korean": "파장이 일다",
+      "english": "to cause ripples/repercussions",
+      "example": "대표이사의 돌연 사임으로 업계에 큰 파장이 일고 있다.",
+      "example_en": "The CEO's sudden resignation is causing major repercussions in the industry."
+    },
+    {
+      "korean": "논란이 일다",
+      "english": "controversy arises; to spark debate",
+      "example": "새로운 교육 정책을 둘러싸고 논란이 일고 있다.",
+      "example_en": "Controversy is arising over the new education policy."
+    },
+    {
+      "korean": "귀추가 주목되다",
+      "english": "the outcome is being closely watched",
+      "example": "대법원의 최종 판결에 귀추가 주목된다.",
+      "example_en": "The outcome of the Supreme Court's final ruling is being closely watched."
+    },
+    {
+      "korean": "~(으)ㄹ 것으로 전망되다",
+      "english": "it is forecast/expected that",
+      "example": "올해 수출액은 사상 최고치를 기록할 것으로 전망된다.",
+      "example_en": "Exports this year are forecast to reach a record high."
+    },
+    {
+      "korean": "~(으)ㄴ/는 추세이다",
+      "english": "it is a trend that; there is a tendency toward",
+      "example": "비대면 서비스를 선호하는 소비자가 늘어나는 추세이다.",
+      "example_en": "There is a growing trend of consumers preferring contactless services."
+    },
+    {
+      "korean": "~을/를 고찰하다",
+      "english": "to examine; to investigate (academically)",
+      "example": "본 연구에서는 한국 사회의 저출산 원인을 고찰하고자 한다.",
+      "example_en": "This study aims to examine the causes of low birth rates in Korean society."
+    },
+    {
+      "korean": "~을/를 논하다",
+      "english": "to discuss; to argue (in academic discourse)",
+      "example": "효율성만을 논할 것이 아니라 공정성도 고려해야 한다.",
+      "example_en": "We should not only discuss efficiency but also consider fairness."
+    },
+    {
+      "korean": "~(으)ㄴ/는 데 있어(서)",
+      "english": "in terms of; when it comes to",
+      "example": "정책을 수립하는 데 있어 국민의 의견을 반영해야 한다.",
+      "example_en": "When it comes to establishing policy, public opinion must be reflected."
+    },
+    {
+      "korean": "~을/를 전제로 하다",
+      "english": "to be premised on; on the assumption of",
+      "example": "이 이론은 합리적 경제 주체를 전제로 한다.",
+      "example_en": "This theory is premised on rational economic agents."
+    },
+    {
+      "korean": "~에 국한되다",
+      "english": "to be limited/confined to",
+      "example": "이 현상은 특정 지역에 국한되지 않는다.",
+      "example_en": "This phenomenon is not confined to a specific region."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 사료되다",
+      "english": "it is thought/considered that (formal academic)",
+      "example": "추가적인 연구가 필요한 것으로 사료된다.",
+      "example_en": "It is considered that additional research is necessary."
+    },
+    {
+      "korean": "~(으)ㄹ 필요가 있다",
+      "english": "there is a need to",
+      "example": "기존 연구의 한계를 극복할 필요가 있다.",
+      "example_en": "There is a need to overcome the limitations of existing research."
+    },
+    {
+      "korean": "~과/와 상관관계가 있다",
+      "english": "to be correlated with",
+      "example": "교육 수준과 소득은 밀접한 상관관계가 있다.",
+      "example_en": "Education level and income are closely correlated."
+    },
+    {
+      "korean": "~을/를 시사하다",
+      "english": "to suggest; to imply (in academic/analytical context)",
+      "example": "이 결과는 기존 이론의 재검토가 필요함을 시사한다.",
+      "example_en": "These results suggest that a re-examination of existing theories is necessary."
+    },
+    {
+      "korean": "~에 근거하다",
+      "english": "to be based on; to be grounded in",
+      "example": "본 논문의 분석은 실증적 데이터에 근거한다.",
+      "example_en": "The analysis in this paper is grounded in empirical data."
+    },
+    {
+      "korean": "~에 저촉되다",
+      "english": "to be in violation of; to contravene",
+      "example": "해당 행위는 현행법에 저촉될 수 있다.",
+      "example_en": "The act in question may contravene current law."
+    },
+    {
+      "korean": "~을/를 공포하다",
+      "english": "to promulgate; to officially announce (a law)",
+      "example": "정부는 개정된 법률을 관보에 공포했다.",
+      "example_en": "The government promulgated the amended law in the official gazette."
+    },
+    {
+      "korean": "~에 해당하다",
+      "english": "to fall under; to constitute",
+      "example": "이 행위는 사기죄에 해당한다.",
+      "example_en": "This act constitutes fraud."
+    },
+    {
+      "korean": "~(으)ㄹ 의무가 있다",
+      "english": "to have the obligation to",
+      "example": "고용주는 근로자의 안전을 보장할 의무가 있다.",
+      "example_en": "The employer has the obligation to guarantee workers' safety."
+    },
+    {
+      "korean": "~에 관한",
+      "english": "regarding; concerning (used in legal/official titles and documents)",
+      "example": "개인정보 보호에 관한 법률이 개정되었다.",
+      "example_en": "The law regarding personal information protection has been amended."
+    },
+    {
+      "korean": "~(으)로 간주하다",
+      "english": "to regard as; to deem",
+      "example": "기한 내 회신이 없을 경우 동의한 것으로 간주합니다.",
+      "example_en": "If no reply is received within the deadline, it will be deemed as consent."
+    },
+    {
+      "korean": "~을/를 준수하다",
+      "english": "to comply with; to observe (rules, laws)",
+      "example": "모든 참가자는 대회 규정을 준수해야 한다.",
+      "example_en": "All participants must comply with the competition regulations."
+    },
+    {
+      "korean": "~에 상응하는",
+      "english": "commensurate with; corresponding to",
+      "example": "위반의 정도에 상응하는 처벌이 내려질 것이다.",
+      "example_en": "Punishment commensurate with the degree of the violation will be imposed."
+    },
+    {
+      "korean": "~(으)ㄴ/는 바에 따라",
+      "english": "in accordance with what was (decided/stated)",
+      "example": "이사회에서 결의한 바에 따라 인사 개편을 단행합니다.",
+      "example_en": "In accordance with the board's resolution, a personnel reorganization will be carried out."
+    },
+    {
+      "korean": "~을/를 불허하다",
+      "english": "to not permit; to prohibit",
+      "example": "당국은 무허가 시위를 불허한다고 밝혔다.",
+      "example_en": "The authorities stated that unauthorized protests will not be permitted."
+    },
+    {
+      "korean": "~(으)ㄹ 것을 약속드립니다",
+      "english": "I promise to (formal pledge to audience)",
+      "example": "국민의 기대에 부응할 것을 약속드립니다.",
+      "example_en": "I promise to live up to the expectations of the people."
+    },
+    {
+      "korean": "~(으)ㄴ/는 데 최선을 다하겠습니다",
+      "english": "I will do my best to (formal commitment)",
+      "example": "국민의 안전을 지키는 데 최선을 다하겠습니다.",
+      "example_en": "I will do my best to protect the safety of the people."
+    },
+    {
+      "korean": "~(으)시기 바랍니다",
+      "english": "please (do something) (formal request/directive)",
+      "example": "질서를 유지해 주시기 바랍니다.",
+      "example_en": "Please maintain order."
+    },
+    {
+      "korean": "~고자 합니다",
+      "english": "I intend to; I would like to (formal speech opener)",
+      "example": "오늘은 우리 회사의 미래 전략에 대해 말씀드리고자 합니다.",
+      "example_en": "Today, I would like to speak about our company's future strategy."
+    },
+    {
+      "korean": "~(으)ㄹ 것을 당부드립니다",
+      "english": "I earnestly request/urge that",
+      "example": "안전 수칙을 철저히 지켜 주실 것을 당부드립니다.",
+      "example_en": "I earnestly urge you to thoroughly observe the safety regulations."
+    },
+    {
+      "korean": "~해 주시기를 부탁드립니다",
+      "english": "I humbly request that you (very polite request)",
+      "example": "관련 서류를 기한 내에 제출해 주시기를 부탁드립니다.",
+      "example_en": "I request that you submit the relevant documents within the deadline."
+    },
+    {
+      "korean": "~(으)ㄴ/는 만큼",
+      "english": "inasmuch as; given that; to the extent that",
+      "example": "모두가 노력한 만큼 좋은 결과가 있을 것입니다.",
+      "example_en": "Given that everyone has worked hard, there will be good results."
+    },
+    {
+      "korean": "심심한 사의를 표하다",
+      "english": "to express one's deepest (gratitude, condolences, or apology)",
+      "example": "유족에게 심심한 위로의 말씀을 드립니다.",
+      "example_en": "I express my deepest condolences to the bereaved family."
+    },
+    {
+      "korean": "~(으)ㅁ을 알려 드립니다",
+      "english": "I wish to inform you that (formal notification)",
+      "example": "다음 달부터 운영 시간이 변경됨을 알려 드립니다.",
+      "example_en": "I wish to inform you that operating hours will change starting next month."
+    },
+    {
+      "korean": "~에 유의하시기 바랍니다",
+      "english": "please take note of; please be mindful of",
+      "example": "출입 시 보안 절차에 유의하시기 바랍니다.",
+      "example_en": "Please take note of the security procedures upon entry."
+    },
+    {
+      "korean": "~(으)리라",
+      "english": "shall; will (literary future expressing resolve or prophecy)",
+      "example": "이 땅에 평화가 찾아오리라 믿는다.",
+      "example_en": "I believe peace shall come to this land."
+    },
+    {
+      "korean": "~(으)련마는",
+      "english": "although it would be; even though (literary concessive)",
+      "example": "가고 싶으련마는 사정이 허락하지 않는다.",
+      "example_en": "Although I would like to go, circumstances do not permit it."
+    },
+    {
+      "korean": "~노라",
+      "english": "I have been doing; I declare that I (archaic/literary declarative)",
+      "example": "평생을 이 연구에 바쳐 왔노라.",
+      "example_en": "I have devoted my entire life to this research."
+    },
+    {
+      "korean": "~(으)ㄹ지어다",
+      "english": "may it be so!; let there be (literary optative/wish)",
+      "example": "모든 이가 자유를 누릴지어다.",
+      "example_en": "May all people enjoy freedom."
+    },
+    {
+      "korean": "~(으)ㄹ지니",
+      "english": "for; since (literary causal reasoning)",
+      "example": "세월은 기다려 주지 않을지니 오늘을 최선을 다해 살아라.",
+      "example_en": "For time waits for no one, live today to the fullest."
+    }
+  ]
+}

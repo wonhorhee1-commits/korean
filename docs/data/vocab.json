@@ -971,6 +971,366 @@
       "example": "업무로 인한 정서적 소진이 심각한 사회 문제다.",
       "example_en": "Emotional burnout from work is a serious social problem.",
       "notes": "소 appears in 소모(consumption), 소멸(extinction), 소비(consumption). 진 appears in 고진감래(sweetness after bitterness). 번아웃(burnout) is also used as loanword"
+    },
+    {
+      "korean": "투자",
+      "english": "investment",
+      "hanja": "投資",
+      "breakdown": "투(投) throw/invest + 자(資) capital/resources",
+      "example": "장기적인 투자가 안정적인 수익을 가져온다.",
+      "example_en": "Long-term investment brings stable returns.",
+      "notes": "투 appears in 투입(input), 투기(speculation). 자 appears in 자본(capital), 자원(resources), 자금(funds)"
+    },
+    {
+      "korean": "수익",
+      "english": "profit; revenue",
+      "hanja": "收益",
+      "breakdown": "수(收) collect/receive + 익(益) benefit/profit",
+      "example": "이번 분기 수익이 전년 대비 20% 증가했다.",
+      "example_en": "This quarter's revenue increased by 20% compared to last year.",
+      "notes": "수 appears in 수입(income), 수확(harvest). 익 appears in 이익(profit), 유익(beneficial)"
+    },
+    {
+      "korean": "손실",
+      "english": "loss; damage",
+      "hanja": "損失",
+      "breakdown": "손(損) damage/lose + 실(失) lose/miss",
+      "example": "천재지변으로 인한 손실이 막대하다.",
+      "example_en": "The losses caused by the natural disaster are enormous.",
+      "notes": "손 appears in 손해(damage), 손상(injury). 실 appears in 실패(failure), 상실(loss)"
+    },
+    {
+      "korean": "유통",
+      "english": "distribution; circulation",
+      "hanja": "流通",
+      "breakdown": "유(流) flow + 통(通) pass through/circulate",
+      "example": "유통 과정에서 식품의 안전성을 보장해야 한다.",
+      "example_en": "Food safety must be ensured during the distribution process.",
+      "notes": "유 appears in 유출(leak), 유행(trend). 통 appears in 통화(currency/call), 교통(traffic)"
+    },
+    {
+      "korean": "채권",
+      "english": "bond (financial instrument)",
+      "hanja": "債券",
+      "breakdown": "채(債) debt + 권(券) certificate/ticket",
+      "example": "국채와 회사채 등 다양한 채권에 분산 투자했다.",
+      "example_en": "I diversified my investments across various bonds including government and corporate bonds.",
+      "notes": "채 appears in 부채(debt), 채무(obligation). 권 appears in 증권(securities), 입장권(admission ticket)"
+    },
+    {
+      "korean": "자산",
+      "english": "assets; property",
+      "hanja": "資産",
+      "breakdown": "자(資) capital/resources + 산(産) produce/property",
+      "example": "부동산은 한국인이 선호하는 자산 중 하나이다.",
+      "example_en": "Real estate is one of the preferred assets among Koreans.",
+      "notes": "자 appears in 자본(capital), 투자(investment). 산 appears in 재산(property), 생산(production)"
+    },
+    {
+      "korean": "부채",
+      "english": "debt; liability",
+      "hanja": "負債",
+      "breakdown": "부(負) bear/carry + 채(債) debt",
+      "example": "가계 부채가 사상 최고 수준에 달했다.",
+      "example_en": "Household debt has reached an all-time high.",
+      "notes": "부 appears in 부담(burden), 부과(impose). 채 appears in 채권(bond), 채무(obligation)"
+    },
+    {
+      "korean": "예산",
+      "english": "budget",
+      "hanja": "豫算",
+      "breakdown": "예(豫) beforehand/in advance + 산(算) calculate",
+      "example": "내년도 국가 예산안이 국회에 제출되었다.",
+      "example_en": "Next year's national budget proposal was submitted to the National Assembly.",
+      "notes": "예 appears in 예측(prediction), 예방(prevention). 산 appears in 결산(settlement), 산출(calculation)"
+    },
+    {
+      "korean": "이윤",
+      "english": "profit margin; gain",
+      "hanja": "利潤",
+      "breakdown": "이(利) profit/benefit + 윤(潤) moisten/enrich",
+      "example": "기업의 이윤 추구와 사회적 책임은 양립할 수 있다.",
+      "example_en": "A company's pursuit of profit and social responsibility can coexist.",
+      "notes": "이 appears in 이익(profit), 이자(interest). 윤 appears in 윤택(abundant), 윤활(lubrication)"
+    },
+    {
+      "korean": "경매",
+      "english": "auction",
+      "hanja": "競賣",
+      "breakdown": "경(競) compete + 매(賣) sell",
+      "example": "유명 화가의 작품이 경매에서 높은 가격에 낙찰되었다.",
+      "example_en": "A famous painter's work was sold at a high price at auction.",
+      "notes": "경 appears in 경쟁(competition), 경기(game/economy). 매 appears in 매매(trade), 판매(sales)"
+    },
+    {
+      "korean": "불안",
+      "english": "anxiety; unease",
+      "hanja": "不安",
+      "breakdown": "불(不) not + 안(安) peaceful/safe",
+      "example": "취업 준비생들의 불안감이 날로 커지고 있다.",
+      "example_en": "The anxiety of job seekers is growing day by day.",
+      "notes": "불 appears in 불만(dissatisfaction), 불신(distrust). 안 appears in 안전(safety), 안정(stability)"
+    },
+    {
+      "korean": "초조",
+      "english": "nervousness; restlessness",
+      "hanja": "焦燥",
+      "breakdown": "초(焦) scorched/anxious + 조(燥) dry/irritable",
+      "example": "결과 발표를 기다리며 초조해했다.",
+      "example_en": "I waited nervously for the results to be announced.",
+      "notes": "초 appears in 초점(focus). 조 appears in 조급(impatient), 건조(dry)"
+    },
+    {
+      "korean": "우울",
+      "english": "depression; melancholy",
+      "hanja": "憂鬱",
+      "breakdown": "우(憂) worry/grief + 울(鬱) gloomy/stagnant",
+      "example": "우울증은 조기에 치료하면 충분히 회복할 수 있다.",
+      "example_en": "Depression can be fully recovered from if treated early.",
+      "notes": "우 appears in 우려(concern), 우환(trouble). 울 appears in 울적(gloomy), 울분(pent-up anger)"
+    },
+    {
+      "korean": "집착",
+      "english": "obsession; attachment",
+      "hanja": "執着",
+      "breakdown": "집(執) hold/grasp + 착(着) attach/stick",
+      "example": "과거에 대한 집착을 버려야 앞으로 나아갈 수 있다.",
+      "example_en": "You must let go of your obsession with the past to move forward.",
+      "notes": "집 appears in 집행(execution), 집필(writing). 착 appears in 애착(attachment), 착수(commencement)"
+    },
+    {
+      "korean": "혐오",
+      "english": "disgust; hatred; aversion",
+      "hanja": "嫌惡",
+      "breakdown": "혐(嫌) dislike/suspect + 오(惡) evil/bad",
+      "example": "혐오 표현은 사회적 갈등을 심화시킨다.",
+      "example_en": "Hate speech deepens social conflicts.",
+      "notes": "혐 appears in 혐의(suspicion/charge), 기혐(displeasure). 오 appears in 증오(hatred), 악감정(ill feeling)"
+    },
+    {
+      "korean": "강박",
+      "english": "compulsion; obsessive pressure",
+      "hanja": "强迫",
+      "breakdown": "강(强) strong/force + 박(迫) press/urge",
+      "example": "완벽해야 한다는 강박에서 벗어나야 한다.",
+      "example_en": "You need to free yourself from the compulsion to be perfect.",
+      "notes": "강 appears in 강제(coercion), 강요(demand). 박 appears in 압박(pressure), 절박(urgency)"
+    },
+    {
+      "korean": "열등감",
+      "english": "inferiority complex",
+      "hanja": "劣等感",
+      "breakdown": "열(劣) inferior + 등(等) equal/grade + 감(感) feeling",
+      "example": "열등감을 극복하려면 자신의 장점에 집중해야 한다.",
+      "example_en": "To overcome feelings of inferiority, you should focus on your strengths.",
+      "notes": "열 appears in 열악(poor/harsh). 등 appears in 평등(equality), 동등(equal). 감 appears in 감정(emotion), 공감(empathy)"
+    },
+    {
+      "korean": "자존감",
+      "english": "self-esteem",
+      "hanja": "自尊感",
+      "breakdown": "자(自) self + 존(尊) respect/honor + 감(感) feeling",
+      "example": "건강한 자존감은 인간관계의 기본이다.",
+      "example_en": "Healthy self-esteem is the foundation of human relationships.",
+      "notes": "자 appears in 자아(ego), 자신(oneself). 존 appears in 존경(respect), 존중(esteem). 감 appears in 감정(emotion), 감각(sense)"
+    },
+    {
+      "korean": "공감",
+      "english": "empathy; sympathy",
+      "hanja": "共感",
+      "breakdown": "공(共) together/common + 감(感) feel",
+      "example": "리더에게는 구성원의 입장에 공감하는 능력이 필요하다.",
+      "example_en": "Leaders need the ability to empathize with their team members' positions.",
+      "notes": "공 appears in 공유(sharing), 공동(joint). 감 appears in 감정(emotion), 감동(being moved)"
+    },
+    {
+      "korean": "애착",
+      "english": "attachment (emotional)",
+      "hanja": "愛着",
+      "breakdown": "애(愛) love + 착(着) attach/stick",
+      "example": "아이와 부모 사이의 애착 형성이 성격 발달에 큰 영향을 미친다.",
+      "example_en": "The formation of attachment between a child and parents greatly influences personality development.",
+      "notes": "애 appears in 애정(affection), 애호(fondness). 착 appears in 집착(obsession), 착수(commencement)"
+    },
+    {
+      "korean": "선거",
+      "english": "election",
+      "hanja": "選擧",
+      "breakdown": "선(選) choose/select + 거(擧) raise/lift",
+      "example": "대통령 선거는 5년마다 실시된다.",
+      "example_en": "Presidential elections are held every five years.",
+      "notes": "선 appears in 선출(election), 선택(choice). 거 appears in 거론(mention), 거수(show of hands)"
+    },
+    {
+      "korean": "여당",
+      "english": "ruling party",
+      "hanja": "與黨",
+      "breakdown": "여(與) give/participate + 당(黨) party/faction",
+      "example": "여당은 법안 통과를 위해 야당과 협상에 나섰다.",
+      "example_en": "The ruling party entered negotiations with the opposition to pass the bill.",
+      "notes": "여 appears in 참여(participation), 수여(conferring). 당 appears in 야당(opposition party), 정당(political party)"
+    },
+    {
+      "korean": "야당",
+      "english": "opposition party",
+      "hanja": "野黨",
+      "breakdown": "야(野) field/wild + 당(黨) party/faction",
+      "example": "야당은 정부의 정책을 강하게 비판했다.",
+      "example_en": "The opposition party strongly criticized the government's policies.",
+      "notes": "야 appears in 야망(ambition), 재야(out of power). 당 appears in 여당(ruling party), 정당(political party)"
+    },
+    {
+      "korean": "민주",
+      "english": "democracy",
+      "hanja": "民主",
+      "breakdown": "민(民) people + 주(主) master/main",
+      "example": "민주주의는 시민의 참여로 완성된다.",
+      "example_en": "Democracy is completed through citizen participation.",
+      "notes": "민 appears in 국민(citizen), 시민(citizen). 주 appears in 주권(sovereignty), 자주(independence)"
+    },
+    {
+      "korean": "외교",
+      "english": "diplomacy",
+      "hanja": "外交",
+      "breakdown": "외(外) outside + 교(交) exchange/interact",
+      "example": "양국 간의 외교 관계가 회복되기까지 오랜 시간이 걸렸다.",
+      "example_en": "It took a long time for diplomatic relations between the two countries to be restored.",
+      "notes": "외 appears in 외국(foreign country), 외부(exterior). 교 appears in 교류(exchange), 교섭(negotiation)"
+    },
+    {
+      "korean": "개헌",
+      "english": "constitutional amendment",
+      "hanja": "改憲",
+      "breakdown": "개(改) change/reform + 헌(憲) constitution",
+      "example": "개헌 논의가 정치권에서 다시 불거졌다.",
+      "example_en": "Constitutional amendment discussions have flared up again in political circles.",
+      "notes": "개 appears in 개혁(reform), 개선(improvement). 헌 appears in 헌법(constitution), 합헌(constitutional)"
+    },
+    {
+      "korean": "정책",
+      "english": "policy",
+      "hanja": "政策",
+      "breakdown": "정(政) govern/politics + 책(策) plan/strategy",
+      "example": "정부는 저출산 문제 해결을 위한 정책을 발표했다.",
+      "example_en": "The government announced policies to address the low birth rate problem.",
+      "notes": "정 appears in 정치(politics), 행정(administration). 책 appears in 대책(countermeasure), 방책(plan)"
+    },
+    {
+      "korean": "의회",
+      "english": "parliament; congress",
+      "hanja": "議會",
+      "breakdown": "의(議) discuss/deliberate + 회(會) meeting/assembly",
+      "example": "의회에서 새로운 법안이 통과되었다.",
+      "example_en": "A new bill was passed in parliament.",
+      "notes": "의 appears in 의견(opinion), 회의(meeting). 회 appears in 국회(National Assembly), 사회(society)"
+    },
+    {
+      "korean": "입법",
+      "english": "legislation",
+      "hanja": "立法",
+      "breakdown": "입(立) stand/establish + 법(法) law",
+      "example": "입법 과정에서 다양한 이해관계가 충돌한다.",
+      "example_en": "Various interests clash during the legislative process.",
+      "notes": "입 appears in 독립(independence), 설립(establishment). 법 appears in 헌법(constitution), 사법(judiciary)"
+    },
+    {
+      "korean": "공약",
+      "english": "campaign pledge; public promise",
+      "hanja": "公約",
+      "breakdown": "공(公) public + 약(約) promise/agreement",
+      "example": "후보자의 공약 이행 여부가 재선에 영향을 미쳤다.",
+      "example_en": "Whether the candidate fulfilled their campaign pledges affected their reelection.",
+      "notes": "공 appears in 공공(public), 공정(fair). 약 appears in 계약(contract), 약속(promise)"
+    },
+    {
+      "korean": "세포",
+      "english": "cell (biological)",
+      "hanja": "細胞",
+      "breakdown": "세(細) fine/detailed + 포(胞) cell/womb",
+      "example": "인체는 약 37조 개의 세포로 이루어져 있다.",
+      "example_en": "The human body is made up of about 37 trillion cells.",
+      "notes": "세 appears in 세균(bacteria), 세밀(meticulous). 포 appears in 동포(compatriot), 포자(spore)"
+    },
+    {
+      "korean": "혈압",
+      "english": "blood pressure",
+      "hanja": "血壓",
+      "breakdown": "혈(血) blood + 압(壓) pressure",
+      "example": "고혈압은 심혈관 질환의 주요 위험 요인이다.",
+      "example_en": "High blood pressure is a major risk factor for cardiovascular disease.",
+      "notes": "혈 appears in 혈액(blood), 혈관(blood vessel). 압 appears in 기압(atmospheric pressure), 압력(pressure)"
+    },
+    {
+      "korean": "항체",
+      "english": "antibody",
+      "hanja": "抗體",
+      "breakdown": "항(抗) resist + 체(體) body",
+      "example": "백신 접종 후 항체가 형성되기까지 약 2주가 걸린다.",
+      "example_en": "It takes about two weeks for antibodies to form after vaccination.",
+      "notes": "항 appears in 항생제(antibiotic), 저항(resistance). 체 appears in 인체(human body), 신체(body)"
+    },
+    {
+      "korean": "유전",
+      "english": "heredity; genetics",
+      "hanja": "遺傳",
+      "breakdown": "유(遺) leave behind + 전(傳) transmit/pass down",
+      "example": "이 질병은 유전적 요인과 환경적 요인이 복합적으로 작용한다.",
+      "example_en": "This disease involves a combination of genetic and environmental factors.",
+      "notes": "유 appears in 유산(inheritance/heritage), 유언(will/testament). 전 appears in 전통(tradition), 전염(contagion)"
+    },
+    {
+      "korean": "합성",
+      "english": "synthesis; synthetic",
+      "hanja": "合成",
+      "breakdown": "합(合) combine + 성(成) become/complete",
+      "example": "합성 섬유는 천연 섬유보다 내구성이 강하다.",
+      "example_en": "Synthetic fibers are more durable than natural fibers.",
+      "notes": "합 appears in 결합(combination), 종합(comprehensive). 성 appears in 구성(composition), 형성(formation)"
+    },
+    {
+      "korean": "분자",
+      "english": "molecule",
+      "hanja": "分子",
+      "breakdown": "분(分) divide/part + 자(子) child/small unit",
+      "example": "물 분자는 수소 원자 두 개와 산소 원자 한 개로 구성된다.",
+      "example_en": "A water molecule consists of two hydrogen atoms and one oxygen atom.",
+      "notes": "분 appears in 분석(analysis), 분리(separation). 자 appears in 원자(atom), 전자(electron)"
+    },
+    {
+      "korean": "임상",
+      "english": "clinical",
+      "hanja": "臨床",
+      "breakdown": "임(臨) face/approach + 상(床) bed",
+      "example": "신약은 임상 시험을 거쳐야 시판될 수 있다.",
+      "example_en": "New drugs must go through clinical trials before they can be marketed.",
+      "notes": "임 appears in 임시(temporary), 임박(imminent). 상 appears in 병상(sickbed), 온상(hotbed)"
+    },
+    {
+      "korean": "염증",
+      "english": "inflammation",
+      "hanja": "炎症",
+      "breakdown": "염(炎) flame/inflammation + 증(症) symptom/disease",
+      "example": "관절 염증이 심해져서 병원을 찾았다.",
+      "example_en": "I went to the hospital because my joint inflammation got worse.",
+      "notes": "염 appears in 폐렴(pneumonia), 위염(gastritis). 증 appears in 증상(symptom), 증후군(syndrome)"
+    },
+    {
+      "korean": "수술",
+      "english": "surgery; operation",
+      "hanja": "手術",
+      "breakdown": "수(手) hand + 술(術) technique/art",
+      "example": "로봇을 이용한 수술이 점점 보편화되고 있다.",
+      "example_en": "Robot-assisted surgery is becoming increasingly common.",
+      "notes": "수 appears in 수단(means), 수기(handwriting). 술 appears in 기술(technology), 학술(academic)"
+    },
+    {
+      "korean": "발병",
+      "english": "onset of disease; outbreak",
+      "hanja": "發病",
+      "breakdown": "발(發) emit/start + 병(病) illness/disease",
+      "example": "스트레스는 다양한 질환의 발병 원인이 될 수 있다.",
+      "example_en": "Stress can be a cause of the onset of various diseases.",
+      "notes": "발 appears in 발생(occurrence), 발견(discovery). 병 appears in 질병(disease), 병원(hospital)"
     }
   ],
   "뉘앙스 & 유의어 (Nuance & Synonyms)": [
@@ -1273,6 +1633,306 @@
       "english": "뉘우치다 = to repent / feel remorse (deep moral awakening, literary)\n반성하다 = to reflect on one's actions / self-criticize (practical, often requested by others)\n후회하다 = to regret (wishing you hadn't done something — personal)",
       "example": "잘못을 뉘우치고 새 사람이 되었다. / 자신의 행동을 반성해라. / 그때 떠나지 않은 것을 후회한다.",
       "example_en": "He repented his wrongs and became a new person. / Reflect on your behavior. / I regret not leaving then."
+    },
+    {
+      "korean": "그립다 vs 보고 싶다",
+      "english": "그립다 = to miss / long for (deep, nostalgic yearning — places, times, people gone)\n보고 싶다 = to miss / want to see (direct, personal — actively wanting reunion)",
+      "example": "고향이 그립다. / 엄마가 보고 싶다.",
+      "example_en": "I miss my hometown. / I miss my mom (I want to see her)."
+    },
+    {
+      "korean": "섭섭하다 vs 허전하다",
+      "english": "섭섭하다 = disappointed / a bit hurt (by someone's actions or parting — interpersonal)\n허전하다 = feeling empty / something's missing (a void left behind — situational)",
+      "example": "인사도 없이 가서 섭섭했다. / 그가 떠나니 마음이 허전하다.",
+      "example_en": "I was hurt that you left without saying goodbye. / With him gone, I feel empty."
+    },
+    {
+      "korean": "짜증나다 vs 화나다 vs 성나다",
+      "english": "짜증나다 = annoyed / irritated (minor, repetitive triggers)\n화나다 = angry (general anger, clear cause)\n성나다 = angered / wrathful (literary/formal, stronger indignation)",
+      "example": "모기 때문에 짜증난다. / 거짓말을 듣고 화가 났다. / 불의를 보고 성이 났다.",
+      "example_en": "Mosquitoes are annoying me. / I got angry hearing the lie. / I was angered seeing injustice."
+    },
+    {
+      "korean": "설레다 vs 흥분하다",
+      "english": "설레다 = to flutter / feel butterflies (romantic, hopeful anticipation)\n흥분하다 = to be excited / agitated (intense arousal — positive or negative, can imply losing composure)",
+      "example": "첫 데이트라 설렌다. / 골이 들어가자 관중이 흥분했다.",
+      "example_en": "I have butterflies because it's my first date. / The crowd got excited when the goal went in."
+    },
+    {
+      "korean": "안타깝다 vs 가엾다 vs 불쌍하다",
+      "english": "안타깝다 = regrettable / heartbreaking (empathy for someone's unfortunate situation)\n가엾다 = pitiable (literary, compassionate sorrow for the weak)\n불쌍하다 = pitiful / poor thing (common, can sound condescending)",
+      "example": "젊은 나이에 세상을 떠나다니 안타깝다. / 가엾은 아이를 돌봐 주었다. / 불쌍해서 못 보겠다.",
+      "example_en": "It's heartbreaking that they passed away so young. / They looked after the pitiable child. / It's so pitiful I can't bear to watch."
+    },
+    {
+      "korean": "뿌듯하다 vs 자랑스럽다",
+      "english": "뿌듯하다 = deeply satisfied / fulfilled (quiet inner pride from effort or nurturing)\n자랑스럽다 = proud (outward pride, wanting to show off or celebrate)",
+      "example": "아이가 잘 자라서 뿌듯하다. / 대한민국이 자랑스럽다.",
+      "example_en": "I feel fulfilled seeing my child grow well. / I'm proud of Korea."
+    },
+    {
+      "korean": "민망하다 vs 창피하다 vs 부끄럽다",
+      "english": "민망하다 = awkwardly embarrassed (uncomfortable situation, secondhand embarrassment)\n창피하다 = ashamed / humiliated (public embarrassment, loss of face)\n부끄럽다 = shy / bashful / ashamed (broadest — shyness, modesty, or moral shame)",
+      "example": "칭찬을 받으니 민망했다. / 실수를 해서 창피했다. / 아직 부끄러운 실력이다.",
+      "example_en": "I felt awkward receiving praise. / I was humiliated by my mistake. / My skills are still embarrassingly lacking."
+    },
+    {
+      "korean": "속상하다 vs 마음이 아프다",
+      "english": "속상하다 = upset / vexed (frustrated distress, something eating at you)\n마음이 아프다 = heartbroken / heart aches (deeper emotional pain, empathy or loss)",
+      "example": "시험에 떨어져서 속상하다. / 아픈 아이를 보면 마음이 아프다.",
+      "example_en": "I'm upset about failing the exam. / It breaks my heart to see a sick child."
+    },
+    {
+      "korean": "허무하다 vs 공허하다",
+      "english": "허무하다 = futile / anticlimactic (effort was pointless, 'all for nothing')\n공허하다 = hollow / void (existential emptiness, lack of meaning)",
+      "example": "열심히 준비했는데 취소되어 허무하다. / 성공했지만 마음은 공허하다.",
+      "example_en": "I prepared hard but it was canceled — so futile. / I succeeded but feel hollow inside."
+    },
+    {
+      "korean": "짠하다 vs 측은하다",
+      "english": "짠하다 = touching in a pitiful way / makes your heart ache (colloquial, emotional gut response)\n측은하다 = to feel compassion / pity (literary/formal, noble sympathy)",
+      "example": "혼자 밥 먹는 모습이 짠하다. / 측은한 마음에 도와주었다.",
+      "example_en": "Seeing them eat alone is heartbreaking. / I helped out of compassion."
+    },
+    {
+      "korean": "던지다 vs 내던지다 vs 집어던지다",
+      "english": "던지다 = to throw (general, neutral)\n내던지다 = to fling / hurl away (forceful rejection or abandonment)\n집어던지다 = to grab and throw / slam down (anger, frustration — picking up and hurling)",
+      "example": "공을 던졌다. / 서류를 내던지고 나갔다. / 화가 나서 책을 집어던졌다.",
+      "example_en": "Threw the ball. / Flung the documents and walked out. / Got angry and hurled the book."
+    },
+    {
+      "korean": "끌다 vs 당기다",
+      "english": "끌다 = to drag / pull along (continuous, often heavy — also figurative: attract, prolong)\n당기다 = to pull toward oneself (quick, direct tug — also: craving food)",
+      "example": "짐을 끌고 갔다. / 문을 당겨서 여세요. / 매운 게 당긴다.",
+      "example_en": "Dragged the luggage along. / Pull the door to open it. / I'm craving something spicy."
+    },
+    {
+      "korean": "흔들다 vs 떨다 vs 진동하다",
+      "english": "흔들다 = to shake / sway (deliberate or external force — a tree, one's resolve)\n떨다 = to tremble / shiver (involuntary — cold, fear, nervousness)\n진동하다 = to vibrate (mechanical, rhythmic oscillation)",
+      "example": "나무가 바람에 흔들린다. / 추위에 몸을 떨었다. / 핸드폰이 진동했다.",
+      "example_en": "The tree sways in the wind. / Shivered from the cold. / The phone vibrated."
+    },
+    {
+      "korean": "쫓다 vs 뒤쫓다 vs 추적하다",
+      "english": "쫓다 = to chase / drive away (dual meaning: pursue or expel)\n뒤쫓다 = to run after / follow behind (physical pursuit from behind)\n추적하다 = to track / trace (systematic, investigative — detectives, data)",
+      "example": "개가 고양이를 쫓았다. / 범인을 뒤쫓아 골목으로 들어갔다. / 경찰이 용의자를 추적하고 있다.",
+      "example_en": "The dog chased the cat. / Ran after the criminal into the alley. / Police are tracking the suspect."
+    },
+    {
+      "korean": "옮기다 vs 이동하다 vs 이전하다",
+      "english": "옮기다 = to move / carry (something from one place to another — physical objects)\n이동하다 = to move / travel (oneself or a group — changing location)\n이전하다 = to relocate (formal — offices, institutions, capitals)",
+      "example": "짐을 2층으로 옮겼다. / 다음 장소로 이동합시다. / 본사를 서울에서 세종으로 이전했다.",
+      "example_en": "Moved the luggage to the 2nd floor. / Let's move to the next location. / Relocated HQ from Seoul to Sejong."
+    },
+    {
+      "korean": "숨다 vs 숨기다 vs 감추다",
+      "english": "숨다 = to hide (oneself — intransitive)\n숨기다 = to hide (something — transitive, physical or factual)\n감추다 = to conceal (deliberate, secretive — emotions, truth, objects)",
+      "example": "아이가 이불 속에 숨었다. / 선물을 숨겨 놓았다. / 슬픔을 감추고 웃었다.",
+      "example_en": "The child hid under the blanket. / I hid the present. / Concealed the sadness and smiled."
+    },
+    {
+      "korean": "붙잡다 vs 움켜쥐다",
+      "english": "붙잡다 = to grab / hold onto (catching or restraining — people, opportunities)\n움켜쥐다 = to clutch / grip tightly (forceful, desperate grasp)",
+      "example": "도망치는 도둑을 붙잡았다. / 그녀는 그의 손을 움켜쥐었다.",
+      "example_en": "Caught the fleeing thief. / She clutched his hand tightly."
+    },
+    {
+      "korean": "흘리다 vs 쏟다 vs 엎지르다",
+      "english": "흘리다 = to spill / shed (small amount, gradual — tears, blood, drops)\n쏟다 = to pour out / spill (large amount, intentional or accidental dump)\n엎지르다 = to knock over and spill (accidental tipping of a container)",
+      "example": "눈물을 흘렸다. / 물을 쏟아 버렸다. / 커피를 엎질렀다.",
+      "example_en": "Shed tears. / Poured out the water. / Knocked over the coffee."
+    },
+    {
+      "korean": "구르다 vs 굴리다 vs 뒹굴다",
+      "english": "구르다 = to roll (intransitive — a ball rolling, falling and rolling)\n굴리다 = to roll something (transitive, also figurative: use one's brain)\n뒹굴다 = to roll around / lie about (lazy, idle rolling on the ground)",
+      "example": "공이 언덕 아래로 굴러갔다. / 머리를 굴려 봐. / 주말에 집에서 뒹굴었다.",
+      "example_en": "The ball rolled down the hill. / Use your head (roll your brain). / Rolled around at home over the weekend."
+    },
+    {
+      "korean": "밀다 vs 밀치다 vs 밀어내다",
+      "english": "밀다 = to push (general, sustained — a door, a cart)\n밀치다 = to shove / push away (sudden, aggressive — person vs person)\n밀어내다 = to push out / force away (deliberate removal or rejection)",
+      "example": "문을 밀어서 여세요. / 화가 나서 그를 밀쳤다. / 다가오는 사람을 밀어냈다.",
+      "example_en": "Push the door to open it. / Shoved him in anger. / Pushed away the approaching person."
+    },
+    {
+      "korean": "말하다 vs 이야기하다 vs 언급하다",
+      "english": "말하다 = to say / tell (most general, any speech act)\n이야기하다 = to talk / discuss / tell a story (conversational, extended)\n언급하다 = to mention / refer to (formal, briefly touching on a topic)",
+      "example": "솔직하게 말해 줘. / 우리 좀 이야기하자. / 그 문제는 언급하지 맙시다.",
+      "example_en": "Tell me honestly. / Let's talk. / Let's not mention that issue."
+    },
+    {
+      "korean": "묻다 vs 여쭙다 vs 질문하다",
+      "english": "묻다 = to ask (general, everyday)\n여쭙다 = to ask (humble honorific — speaking to superiors)\n질문하다 = to pose a question (formal, structured — classrooms, interviews)",
+      "example": "길을 물어봤다. / 선생님께 여쭤 봐도 될까요? / 질문이 있으시면 말씀해 주세요.",
+      "example_en": "I asked for directions. / May I ask the teacher? / If you have a question, please speak up."
+    },
+    {
+      "korean": "속삭이다 vs 귓속말하다",
+      "english": "속삭이다 = to whisper (soft, intimate, poetic — lovers, wind, secrets)\n귓속말하다 = to whisper into someone's ear (physical act, secretive, childlike)",
+      "example": "그가 사랑한다고 속삭였다. / 친구에게 귓속말로 비밀을 전했다.",
+      "example_en": "He whispered 'I love you.' / I whispered the secret into my friend's ear."
+    },
+    {
+      "korean": "외치다 vs 소리치다 vs 고함치다",
+      "english": "외치다 = to shout / cry out (with purpose — slogans, calls for help)\n소리치다 = to yell / scream (general loud vocalization)\n고함치다 = to bellow / roar (commanding, intimidating — authority, anger)",
+      "example": "자유를 외쳤다. / 무서워서 소리쳤다. / 상사가 부하에게 고함쳤다.",
+      "example_en": "Cried out for freedom. / Screamed out of fear. / The boss bellowed at his subordinate."
+    },
+    {
+      "korean": "떠올리다 vs 회상하다 vs 추억하다",
+      "english": "떠올리다 = to recall / bring to mind (spontaneous, something pops into your head)\n회상하다 = to reminisce / recollect (deliberate, looking back at past events)\n추억하다 = to cherish memories / look back fondly (warm, nostalgic)",
+      "example": "갑자기 옛날 일이 떠올랐다. / 전쟁 시절을 회상했다. / 학창 시절을 추억하다.",
+      "example_en": "Old memories suddenly came to mind. / Reminisced about the war years. / Looking back fondly on school days."
+    },
+    {
+      "korean": "깨닫다 vs 알아차리다 vs 인식하다",
+      "english": "깨닫다 = to realize / come to understand (internal epiphany, life lesson)\n알아차리다 = to notice / catch on (detecting something quickly — subtle cues)\n인식하다 = to recognize / be aware of (cognitive, systematic — academic, policy)",
+      "example": "실수를 깨달았다. / 거짓말인 걸 알아차렸다. / 문제의 심각성을 인식해야 한다.",
+      "example_en": "I realized my mistake. / I caught on that it was a lie. / We need to recognize the severity of the problem."
+    },
+    {
+      "korean": "의심하다 vs 수상히 여기다",
+      "english": "의심하다 = to doubt / suspect (direct suspicion of a person or claim)\n수상히 여기다 = to find suspicious / sense something fishy (observation-based, preliminary unease)",
+      "example": "그의 말을 의심했다. / 행동이 이상해서 수상히 여겼다.",
+      "example_en": "I doubted his words. / His behavior was odd, so I found it suspicious."
+    },
+    {
+      "korean": "설득하다 vs 꼬드기다",
+      "english": "설득하다 = to persuade / convince (rational, legitimate arguments)\n꼬드기다 = to coax / sweet-talk into (manipulative, tempting someone into something)",
+      "example": "부모님을 설득해서 허락을 받았다. / 친구를 꼬드겨서 같이 수업을 빠졌다.",
+      "example_en": "I persuaded my parents and got permission. / I sweet-talked my friend into skipping class together."
+    },
+    {
+      "korean": "중얼거리다 vs 투덜거리다 vs 불평하다",
+      "english": "중얼거리다 = to mutter / mumble (quiet, to oneself — barely audible)\n투덜거리다 = to grumble / gripe (ongoing, complaining under one's breath)\n불평하다 = to complain (direct, explicit expression of dissatisfaction)",
+      "example": "혼자 중얼거리며 걸어갔다. / 아침부터 투덜거린다. / 서비스에 대해 불평했다.",
+      "example_en": "Walked along muttering to himself. / Grumbling since morning. / Complained about the service."
+    },
+    {
+      "korean": "고백하다 vs 자백하다 vs 털어놓다",
+      "english": "고백하다 = to confess (love confession or admitting personal truth)\n자백하다 = to confess to a crime (legal, admitting guilt)\n털어놓다 = to open up / spill everything (emotional unburdening to someone)",
+      "example": "좋아한다고 고백했다. / 범인이 범행을 자백했다. / 친구에게 고민을 털어놓았다.",
+      "example_en": "Confessed feelings of love. / The criminal confessed to the crime. / Opened up about my worries to a friend."
+    },
+    {
+      "korean": "꼼꼼하다 vs 세심하다 vs 치밀하다",
+      "english": "꼼꼼하다 = meticulous / thorough (detail-oriented in practical tasks)\n세심하다 = attentive / delicate (considerate of subtle details — feelings, needs)\n치밀하다 = elaborate / calculated (strategic precision — plans, schemes)",
+      "example": "꼼꼼하게 검토했다. / 세심한 배려에 감동받았다. / 치밀하게 계획을 세웠다.",
+      "example_en": "Reviewed it meticulously. / Touched by the attentive consideration. / Made an elaborately calculated plan."
+    },
+    {
+      "korean": "넉넉하다 vs 풍족하다 vs 여유롭다",
+      "english": "넉넉하다 = ample / enough and then some (quantity — time, money, food)\n풍족하다 = abundant / affluent (material wealth, living comfortably)\n여유롭다 = relaxed / leisurely (having room to breathe — time, money, composure)",
+      "example": "시간이 넉넉하니 천천히 하세요. / 풍족한 환경에서 자랐다. / 여유로운 주말을 보냈다.",
+      "example_en": "There's plenty of time, so take it slow. / Grew up in an affluent environment. / Spent a leisurely weekend."
+    },
+    {
+      "korean": "어색하다 vs 서먹하다 vs 낯설다",
+      "english": "어색하다 = awkward (uncomfortable tension — between people or in situations)\n서먹하다 = distant / reserved (formerly close people now feeling a gap)\n낯설다 = unfamiliar / strange (encountering something new or unknown)",
+      "example": "처음이라 어색했다. / 오랜만에 만나니 서먹했다. / 낯선 환경에 적응 중이다.",
+      "example_en": "It was awkward since it was the first time. / It felt distant meeting after so long. / Adjusting to an unfamiliar environment."
+    },
+    {
+      "korean": "당당하다 vs 의젓하다 vs 늠름하다",
+      "english": "당당하다 = confident / dignified (self-assured, unapologetic)\n의젓하다 = composed / mature beyond one's years (calm, collected — often children acting grown-up)\n늠름하다 = imposing / stately (commanding physical or moral presence — literary)",
+      "example": "당당하게 의견을 말했다. / 어린데 참 의젓하다. / 늠름한 자세로 연단에 섰다.",
+      "example_en": "Spoke their opinion confidently. / So mature for a child. / Stood at the podium with a stately bearing."
+    },
+    {
+      "korean": "고집스럽다 vs 완고하다 vs 뚝심 있다",
+      "english": "고집스럽다 = stubborn / obstinate (negative, refusing to yield)\n완고하다 = rigid / inflexible (formal, ideologically fixed — older generations)\n뚝심 있다 = determined / tenacious (positive, steadfast perseverance)",
+      "example": "고집스럽게 자기 주장만 한다. / 완고한 태도를 바꾸지 않았다. / 뚝심 있게 끝까지 밀고 나갔다.",
+      "example_en": "Stubbornly insists only on their own view. / Did not change their rigid attitude. / Tenaciously pushed through to the end."
+    },
+    {
+      "korean": "엉뚱하다 vs 황당하다 vs 뜬금없다",
+      "english": "엉뚱하다 = quirky / off-the-wall (unexpectedly different, can be charming)\n황당하다 = absurd / preposterous (bewilderingly ridiculous)\n뜬금없다 = out of the blue / random (no context or connection)",
+      "example": "엉뚱한 발상이 오히려 성공했다. / 황당한 요구에 할 말을 잃었다. / 뜬금없이 무슨 소리야?",
+      "example_en": "The quirky idea actually succeeded. / I was speechless at the absurd demand. / What are you talking about out of the blue?"
+    },
+    {
+      "korean": "무뚝뚝하다 vs 쌀쌀맞다 vs 차갑다",
+      "english": "무뚝뚝하다 = blunt / curt (unsociable but not malicious — personality type)\n쌀쌀맞다 = cold / unfriendly (deliberately distant, dismissive attitude)\n차갑다 = cold (general coldness — emotionally ice-cold, can be cruel)",
+      "example": "무뚝뚝하지만 속은 따뜻하다. / 쌀쌀맞게 대답했다. / 차가운 눈빛으로 쳐다봤다.",
+      "example_en": "Blunt, but warm on the inside. / Replied coldly. / Stared with ice-cold eyes."
+    },
+    {
+      "korean": "능숙하다 vs 능란하다 vs 숙련되다",
+      "english": "능숙하다 = skilled / proficient (competent at a task through practice)\n능란하다 = masterful / deft (smooth, polished skill — sometimes sly)\n숙련되다 = experienced / seasoned (trained through long practice — workers, craftsmen)",
+      "example": "영어를 능숙하게 한다. / 능란한 화술로 사람들을 사로잡았다. / 숙련된 기술자가 필요하다.",
+      "example_en": "Speaks English proficiently. / Captivated people with masterful eloquence. / We need a seasoned technician."
+    },
+    {
+      "korean": "느긋하다 vs 태평하다 vs 한가하다",
+      "english": "느긋하다 = easygoing / laid-back (relaxed temperament, not rushing)\n태평하다 = carefree / nonchalant (overly unconcerned — can be irresponsible)\n한가하다 = idle / having free time (nothing to do — sometimes implies others are busy)",
+      "example": "느긋하게 커피를 마셨다. / 이런 상황에 태평하기는! / 요즘 좀 한가하다.",
+      "example_en": "Leisurely sipped coffee. / How can you be so carefree in this situation! / I've been kind of idle lately."
+    },
+    {
+      "korean": "수상하다 vs 의심스럽다 vs 미심쩍다",
+      "english": "수상하다 = suspicious / fishy (something seems off — behavior, situations)\n의심스럽다 = doubtful / questionable (reason to doubt truth or sincerity)\n미심쩍다 = dubious / not fully convinced (lingering uncertainty, can't quite trust it)",
+      "example": "수상한 사람이 주변을 서성거린다. / 그 이야기가 의심스럽다. / 뭔가 미심쩍은 구석이 있다.",
+      "example_en": "A suspicious person is lurking around. / That story is doubtful. / There's something dubious about it."
+    },
+    {
+      "korean": "먹다 vs 드시다 vs 잡수시다",
+      "english": "먹다 = to eat (plain/casual)\n드시다 = to eat (standard honorific — used for elders/superiors)\n잡수시다 = to eat (highest honorific — grandparents, esteemed elders)",
+      "example": "나 먼저 먹을게. / 어머니, 많이 드세요. / 할아버지, 진지 잡수세요.",
+      "example_en": "I'll eat first. / Mother, please eat a lot. / Grandfather, please have your meal."
+    },
+    {
+      "korean": "자다 vs 주무시다",
+      "english": "자다 = to sleep (plain/casual)\n주무시다 = to sleep (honorific — used for parents, elders, superiors)",
+      "example": "나 먼저 잘게. / 아버지는 일찍 주무셨다.",
+      "example_en": "I'll go to sleep first. / Father went to sleep early."
+    },
+    {
+      "korean": "주다 vs 드리다 vs 하사하다",
+      "english": "주다 = to give (plain/casual)\n드리다 = to give (humble — giving to someone of higher status)\n하사하다 = to bestow / grant (from king or supreme authority — archaic/literary)",
+      "example": "친구에게 선물을 줬다. / 선생님께 꽃을 드렸다. / 왕이 신하에게 벼슬을 하사했다.",
+      "example_en": "Gave a gift to a friend. / Presented flowers to the teacher. / The king bestowed a rank upon the vassal."
+    },
+    {
+      "korean": "있다 vs 계시다",
+      "english": "있다 = to be / exist / stay (plain)\n계시다 = to be / exist / stay (honorific — referring to esteemed persons' location or existence)",
+      "example": "형은 집에 있어. / 사장님은 회의실에 계십니다.",
+      "example_en": "My brother is at home. / The president is in the conference room."
+    },
+    {
+      "korean": "말 vs 말씀",
+      "english": "말 = words / speech (plain)\n말씀 = words / speech (honorific — elevating the speaker's words, or humble when referring to one's own words to a superior)",
+      "example": "무슨 말이야? / 말씀 감사합니다. / 말씀드릴 게 있습니다.",
+      "example_en": "What are you saying? / Thank you for your words. / I have something to tell you (humbly)."
+    },
+    {
+      "korean": "죽다 vs 돌아가시다 vs 서거하다",
+      "english": "죽다 = to die (plain, blunt)\n돌아가시다 = to pass away (honorific, respectful — family elders)\n서거하다 = to pass away (formal/public — national figures, leaders)",
+      "example": "물고기가 죽었다. / 할머니가 돌아가셨다. / 대통령이 서거하셨다.",
+      "example_en": "The fish died. / Grandmother passed away. / The president passed away."
+    },
+    {
+      "korean": "데리고 가다 vs 모시고 가다",
+      "english": "데리고 가다 = to take someone along (plain — children, juniors, peers)\n모시고 가다 = to escort / accompany someone (humble honorific — elders, superiors)",
+      "example": "아이를 데리고 병원에 갔다. / 어머니를 모시고 병원에 갔다.",
+      "example_en": "Took the child to the hospital. / Accompanied my mother to the hospital."
+    },
+    {
+      "korean": "보다 vs 뵙다",
+      "english": "보다 = to see / meet (plain)\n뵙다 = to see / meet (humble honorific — meeting someone of higher status)",
+      "example": "내일 친구를 만나서 봐야 해. / 처음 뵙겠습니다.",
+      "example_en": "I need to see my friend tomorrow. / It's nice to meet you (humble, formal)."
+    },
+    {
+      "korean": "나이 vs 연세 vs 춘추",
+      "english": "나이 = age (plain, everyday)\n연세 = age (honorific — asking/referring to elders' age)\n춘추 = age (very formal/literary honorific — historical, royal contexts)",
+      "example": "나이가 몇 살이에요? / 연세가 어떻게 되세요? / 왕의 춘추가 높으시다.",
+      "example_en": "How old are you? / May I ask your age? (honorific) / The king is of advanced age."
+    },
+    {
+      "korean": "밥 vs 식사 vs 진지",
+      "english": "밥 = rice / meal (casual, everyday)\n식사 = meal (polite/neutral formal)\n진지 = meal (honorific — offering food to elders)",
+      "example": "밥 먹었어? / 식사하셨습니까? / 할아버지, 진지 드세요.",
+      "example_en": "Did you eat? / Have you had your meal? (polite) / Grandfather, please have your meal. (honorific)"
     }
   ],
   "격식 & 문어체 (Formal & Written)": [
@@ -1575,6 +2235,306 @@
       "english": "in that; in the sense that; from the standpoint that",
       "example": "모든 국민에게 영향을 미친다는 점에서 신중한 접근이 필요하다.",
       "example_en": "In that it affects all citizens, a cautious approach is needed."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 전해졌다",
+      "english": "it has been reported that",
+      "example": "피해자는 현재 병원에서 치료를 받고 있는 것으로 전해졌다.",
+      "example_en": "It has been reported that the victim is currently receiving treatment at a hospital."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 알려졌다",
+      "english": "it is known that; it has been revealed that",
+      "example": "해당 기업은 이미 파산 절차에 들어간 것으로 알려졌다.",
+      "example_en": "It is known that the company has already entered bankruptcy proceedings."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 나타났다",
+      "english": "it has been found/shown that (reporting survey or data results)",
+      "example": "조사 결과 시민의 70%가 정책에 반대하는 것으로 나타났다.",
+      "example_en": "The survey found that 70% of citizens oppose the policy."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 확인되었다",
+      "english": "it has been confirmed that",
+      "example": "사고 원인은 운전자의 부주의인 것으로 확인되었다.",
+      "example_en": "It has been confirmed that the cause of the accident was the driver's negligence."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 드러났다",
+      "english": "it has been uncovered/revealed that",
+      "example": "공금을 유용한 사실이 감사를 통해 드러났다.",
+      "example_en": "It was revealed through an audit that public funds had been embezzled."
+    },
+    {
+      "korean": "~(으)ㄹ 전망이다",
+      "english": "it is projected/expected that",
+      "example": "내년 경제 성장률은 2%대에 머물 전망이다.",
+      "example_en": "The economic growth rate is projected to remain at around 2% next year."
+    },
+    {
+      "korean": "~(으)ㄹ 것으로 보인다",
+      "english": "it appears/seems that (journalistic hedging)",
+      "example": "양측의 합의까지는 상당한 시간이 걸릴 것으로 보인다.",
+      "example_en": "It appears that reaching an agreement between the two sides will take considerable time."
+    },
+    {
+      "korean": "~(으)ㄹ 방침이다",
+      "english": "it is the policy/plan to",
+      "example": "정부는 내년부터 규제를 대폭 완화할 방침이다.",
+      "example_en": "The government plans to significantly ease regulations starting next year."
+    },
+    {
+      "korean": "~에 나서다",
+      "english": "to step forward to; to take action toward",
+      "example": "시민단체들이 환경 보호를 위한 캠페인에 나섰다.",
+      "example_en": "Civic groups have stepped forward to campaign for environmental protection."
+    },
+    {
+      "korean": "~을/를 촉구하다",
+      "english": "to urge; to call for",
+      "example": "야당은 정부에 즉각적인 대책 마련을 촉구했다.",
+      "example_en": "The opposition party urged the government to prepare immediate countermeasures."
+    },
+    {
+      "korean": "파장이 일다",
+      "english": "to cause ripples/repercussions",
+      "example": "대표이사의 돌연 사임으로 업계에 큰 파장이 일고 있다.",
+      "example_en": "The CEO's sudden resignation is causing major repercussions in the industry."
+    },
+    {
+      "korean": "논란이 일다",
+      "english": "controversy arises; to spark debate",
+      "example": "새로운 교육 정책을 둘러싸고 논란이 일고 있다.",
+      "example_en": "Controversy is arising over the new education policy."
+    },
+    {
+      "korean": "귀추가 주목되다",
+      "english": "the outcome is being closely watched",
+      "example": "대법원의 최종 판결에 귀추가 주목된다.",
+      "example_en": "The outcome of the Supreme Court's final ruling is being closely watched."
+    },
+    {
+      "korean": "~(으)ㄹ 것으로 전망되다",
+      "english": "it is forecast/expected that",
+      "example": "올해 수출액은 사상 최고치를 기록할 것으로 전망된다.",
+      "example_en": "Exports this year are forecast to reach a record high."
+    },
+    {
+      "korean": "~(으)ㄴ/는 추세이다",
+      "english": "it is a trend that; there is a tendency toward",
+      "example": "비대면 서비스를 선호하는 소비자가 늘어나는 추세이다.",
+      "example_en": "There is a growing trend of consumers preferring contactless services."
+    },
+    {
+      "korean": "~을/를 고찰하다",
+      "english": "to examine; to investigate (academically)",
+      "example": "본 연구에서는 한국 사회의 저출산 원인을 고찰하고자 한다.",
+      "example_en": "This study aims to examine the causes of low birth rates in Korean society."
+    },
+    {
+      "korean": "~을/를 논하다",
+      "english": "to discuss; to argue (in academic discourse)",
+      "example": "효율성만을 논할 것이 아니라 공정성도 고려해야 한다.",
+      "example_en": "We should not only discuss efficiency but also consider fairness."
+    },
+    {
+      "korean": "~(으)ㄴ/는 데 있어(서)",
+      "english": "in terms of; when it comes to",
+      "example": "정책을 수립하는 데 있어 국민의 의견을 반영해야 한다.",
+      "example_en": "When it comes to establishing policy, public opinion must be reflected."
+    },
+    {
+      "korean": "~을/를 전제로 하다",
+      "english": "to be premised on; on the assumption of",
+      "example": "이 이론은 합리적 경제 주체를 전제로 한다.",
+      "example_en": "This theory is premised on rational economic agents."
+    },
+    {
+      "korean": "~에 국한되다",
+      "english": "to be limited/confined to",
+      "example": "이 현상은 특정 지역에 국한되지 않는다.",
+      "example_en": "This phenomenon is not confined to a specific region."
+    },
+    {
+      "korean": "~(으)ㄴ/는 것으로 사료되다",
+      "english": "it is thought/considered that (formal academic)",
+      "example": "추가적인 연구가 필요한 것으로 사료된다.",
+      "example_en": "It is considered that additional research is necessary."
+    },
+    {
+      "korean": "~(으)ㄹ 필요가 있다",
+      "english": "there is a need to",
+      "example": "기존 연구의 한계를 극복할 필요가 있다.",
+      "example_en": "There is a need to overcome the limitations of existing research."
+    },
+    {
+      "korean": "~과/와 상관관계가 있다",
+      "english": "to be correlated with",
+      "example": "교육 수준과 소득은 밀접한 상관관계가 있다.",
+      "example_en": "Education level and income are closely correlated."
+    },
+    {
+      "korean": "~을/를 시사하다",
+      "english": "to suggest; to imply (in academic/analytical context)",
+      "example": "이 결과는 기존 이론의 재검토가 필요함을 시사한다.",
+      "example_en": "These results suggest that a re-examination of existing theories is necessary."
+    },
+    {
+      "korean": "~에 근거하다",
+      "english": "to be based on; to be grounded in",
+      "example": "본 논문의 분석은 실증적 데이터에 근거한다.",
+      "example_en": "The analysis in this paper is grounded in empirical data."
+    },
+    {
+      "korean": "~에 저촉되다",
+      "english": "to be in violation of; to contravene",
+      "example": "해당 행위는 현행법에 저촉될 수 있다.",
+      "example_en": "The act in question may contravene current law."
+    },
+    {
+      "korean": "~을/를 공포하다",
+      "english": "to promulgate; to officially announce (a law)",
+      "example": "정부는 개정된 법률을 관보에 공포했다.",
+      "example_en": "The government promulgated the amended law in the official gazette."
+    },
+    {
+      "korean": "~에 해당하다",
+      "english": "to fall under; to constitute",
+      "example": "이 행위는 사기죄에 해당한다.",
+      "example_en": "This act constitutes fraud."
+    },
+    {
+      "korean": "~(으)ㄹ 의무가 있다",
+      "english": "to have the obligation to",
+      "example": "고용주는 근로자의 안전을 보장할 의무가 있다.",
+      "example_en": "The employer has the obligation to guarantee workers' safety."
+    },
+    {
+      "korean": "~에 관한",
+      "english": "regarding; concerning (used in legal/official titles and documents)",
+      "example": "개인정보 보호에 관한 법률이 개정되었다.",
+      "example_en": "The law regarding personal information protection has been amended."
+    },
+    {
+      "korean": "~(으)로 간주하다",
+      "english": "to regard as; to deem",
+      "example": "기한 내 회신이 없을 경우 동의한 것으로 간주합니다.",
+      "example_en": "If no reply is received within the deadline, it will be deemed as consent."
+    },
+    {
+      "korean": "~을/를 준수하다",
+      "english": "to comply with; to observe (rules, laws)",
+      "example": "모든 참가자는 대회 규정을 준수해야 한다.",
+      "example_en": "All participants must comply with the competition regulations."
+    },
+    {
+      "korean": "~에 상응하는",
+      "english": "commensurate with; corresponding to",
+      "example": "위반의 정도에 상응하는 처벌이 내려질 것이다.",
+      "example_en": "Punishment commensurate with the degree of the violation will be imposed."
+    },
+    {
+      "korean": "~(으)ㄴ/는 바에 따라",
+      "english": "in accordance with what was (decided/stated)",
+      "example": "이사회에서 결의한 바에 따라 인사 개편을 단행합니다.",
+      "example_en": "In accordance with the board's resolution, a personnel reorganization will be carried out."
+    },
+    {
+      "korean": "~을/를 불허하다",
+      "english": "to not permit; to prohibit",
+      "example": "당국은 무허가 시위를 불허한다고 밝혔다.",
+      "example_en": "The authorities stated that unauthorized protests will not be permitted."
+    },
+    {
+      "korean": "~(으)ㄹ 것을 약속드립니다",
+      "english": "I promise to (formal pledge to audience)",
+      "example": "국민의 기대에 부응할 것을 약속드립니다.",
+      "example_en": "I promise to live up to the expectations of the people."
+    },
+    {
+      "korean": "~(으)ㄴ/는 데 최선을 다하겠습니다",
+      "english": "I will do my best to (formal commitment)",
+      "example": "국민의 안전을 지키는 데 최선을 다하겠습니다.",
+      "example_en": "I will do my best to protect the safety of the people."
+    },
+    {
+      "korean": "~(으)시기 바랍니다",
+      "english": "please (do something) (formal request/directive)",
+      "example": "질서를 유지해 주시기 바랍니다.",
+      "example_en": "Please maintain order."
+    },
+    {
+      "korean": "~고자 합니다",
+      "english": "I intend to; I would like to (formal speech opener)",
+      "example": "오늘은 우리 회사의 미래 전략에 대해 말씀드리고자 합니다.",
+      "example_en": "Today, I would like to speak about our company's future strategy."
+    },
+    {
+      "korean": "~(으)ㄹ 것을 당부드립니다",
+      "english": "I earnestly request/urge that",
+      "example": "안전 수칙을 철저히 지켜 주실 것을 당부드립니다.",
+      "example_en": "I earnestly urge you to thoroughly observe the safety regulations."
+    },
+    {
+      "korean": "~해 주시기를 부탁드립니다",
+      "english": "I humbly request that you (very polite request)",
+      "example": "관련 서류를 기한 내에 제출해 주시기를 부탁드립니다.",
+      "example_en": "I request that you submit the relevant documents within the deadline."
+    },
+    {
+      "korean": "~(으)ㄴ/는 만큼",
+      "english": "inasmuch as; given that; to the extent that",
+      "example": "모두가 노력한 만큼 좋은 결과가 있을 것입니다.",
+      "example_en": "Given that everyone has worked hard, there will be good results."
+    },
+    {
+      "korean": "심심한 사의를 표하다",
+      "english": "to express one's deepest (gratitude, condolences, or apology)",
+      "example": "유족에게 심심한 위로의 말씀을 드립니다.",
+      "example_en": "I express my deepest condolences to the bereaved family."
+    },
+    {
+      "korean": "~(으)ㅁ을 알려 드립니다",
+      "english": "I wish to inform you that (formal notification)",
+      "example": "다음 달부터 운영 시간이 변경됨을 알려 드립니다.",
+      "example_en": "I wish to inform you that operating hours will change starting next month."
+    },
+    {
+      "korean": "~에 유의하시기 바랍니다",
+      "english": "please take note of; please be mindful of",
+      "example": "출입 시 보안 절차에 유의하시기 바랍니다.",
+      "example_en": "Please take note of the security procedures upon entry."
+    },
+    {
+      "korean": "~(으)리라",
+      "english": "shall; will (literary future expressing resolve or prophecy)",
+      "example": "이 땅에 평화가 찾아오리라 믿는다.",
+      "example_en": "I believe peace shall come to this land."
+    },
+    {
+      "korean": "~(으)련마는",
+      "english": "although it would be; even though (literary concessive)",
+      "example": "가고 싶으련마는 사정이 허락하지 않는다.",
+      "example_en": "Although I would like to go, circumstances do not permit it."
+    },
+    {
+      "korean": "~노라",
+      "english": "I have been doing; I declare that I (archaic/literary declarative)",
+      "example": "평생을 이 연구에 바쳐 왔노라.",
+      "example_en": "I have devoted my entire life to this research."
+    },
+    {
+      "korean": "~(으)ㄹ지어다",
+      "english": "may it be so!; let there be (literary optative/wish)",
+      "example": "모든 이가 자유를 누릴지어다.",
+      "example_en": "May all people enjoy freedom."
+    },
+    {
+      "korean": "~(으)ㄹ지니",
+      "english": "for; since (literary causal reasoning)",
+      "example": "세월은 기다려 주지 않을지니 오늘을 최선을 다해 살아라.",
+      "example_en": "For time waits for no one, live today to the fullest."
     }
   ],
   "사자성어 (Four-Character Idioms)": [
@@ -1943,6 +2903,246 @@
       "example": "시대가 변했는데 아직도 각주구검식으로 하면 안 된다.",
       "example_en": "Times have changed — you can't keep doing it the old way.",
       "notes": "From a story about a man who dropped his sword from a boat, carved a mark on the hull, and tried to find it at that spot after the boat moved"
+    },
+    {
+      "korean": "백발백중",
+      "english": "Every shot hits the mark; unerring accuracy",
+      "hanja": "百發百中",
+      "breakdown": "백(百) hundred + 발(發) shoot + 백(百) hundred + 중(中) hit",
+      "example": "그 선수는 자유투 백발백중이다.",
+      "example_en": "That player hits every free throw without fail."
+    },
+    {
+      "korean": "대기만성",
+      "english": "Great talents mature late; a late bloomer",
+      "hanja": "大器晩成",
+      "breakdown": "대(大) great + 기(器) vessel + 만(晩) late + 성(成) achieve",
+      "example": "대기만성이라고, 그는 50대에 비로소 성공했다.",
+      "example_en": "As they say, great talents mature late — he finally succeeded in his fifties."
+    },
+    {
+      "korean": "막역지우",
+      "english": "A bosom friend; an inseparable companion",
+      "hanja": "莫逆之友",
+      "breakdown": "막(莫) none + 역(逆) go against + 지(之) 's + 우(友) friend",
+      "example": "우리는 어릴 때부터 막역지우 사이다.",
+      "example_en": "We have been the closest of friends since childhood."
+    },
+    {
+      "korean": "명경지수",
+      "english": "A clear mirror and still water; a calm and unclouded mind",
+      "hanja": "明鏡止水",
+      "breakdown": "명(明) bright + 경(鏡) mirror + 지(止) still + 수(水) water",
+      "example": "명경지수의 마음으로 판단해야 한다.",
+      "example_en": "You must judge with a calm and unclouded mind."
+    },
+    {
+      "korean": "인과응보",
+      "english": "Karmic retribution; every action has its consequence",
+      "hanja": "因果應報",
+      "breakdown": "인(因) cause + 과(果) result + 응(應) respond + 보(報) repay",
+      "example": "나쁜 짓을 하면 인과응보를 받는 법이다.",
+      "example_en": "If you do bad things, karmic retribution will catch up with you."
+    },
+    {
+      "korean": "반면교사",
+      "english": "A negative example; someone whose mistakes teach you what not to do",
+      "hanja": "反面教師",
+      "breakdown": "반(反) opposite + 면(面) face/side + 교(教) teach + 사(師) teacher",
+      "example": "그의 실패를 반면교사로 삼았다.",
+      "example_en": "I took his failure as a lesson in what not to do."
+    },
+    {
+      "korean": "우왕좌왕",
+      "english": "Running around in confusion; not knowing which way to turn",
+      "hanja": "右往左往",
+      "breakdown": "우(右) right + 왕(往) go + 좌(左) left + 왕(往) go",
+      "example": "비상 상황에 사람들이 우왕좌왕했다.",
+      "example_en": "People ran around in confusion during the emergency."
+    },
+    {
+      "korean": "자초지종",
+      "english": "The whole story from beginning to end",
+      "hanja": "自初至終",
+      "breakdown": "자(自) from + 초(初) beginning + 지(至) to + 종(終) end",
+      "example": "자초지종을 설명해 주세요.",
+      "example_en": "Please explain the whole story from beginning to end."
+    },
+    {
+      "korean": "심사숙고",
+      "english": "Careful and thorough deliberation; deep consideration",
+      "hanja": "深思熟考",
+      "breakdown": "심(深) deep + 사(思) think + 숙(熟) mature/ripe + 고(考) consider",
+      "example": "심사숙고 끝에 이직을 결심했다.",
+      "example_en": "After careful deliberation, I decided to change jobs."
+    },
+    {
+      "korean": "일취월장",
+      "english": "Making rapid progress day by day and month by month",
+      "hanja": "日就月將",
+      "breakdown": "일(日) day + 취(就) accomplish + 월(月) month + 장(將) advance",
+      "example": "그의 한국어 실력이 일취월장하고 있다.",
+      "example_en": "His Korean skills are improving by leaps and bounds."
+    },
+    {
+      "korean": "동분서주",
+      "english": "Running about busily in all directions",
+      "hanja": "東奔西走",
+      "breakdown": "동(東) east + 분(奔) run + 서(西) west + 주(走) dash",
+      "example": "행사 준비로 동분서주하느라 지쳤다.",
+      "example_en": "I'm exhausted from running around in all directions preparing for the event."
+    },
+    {
+      "korean": "자화자찬",
+      "english": "Self-praise; blowing one's own trumpet",
+      "hanja": "自畫自讚",
+      "breakdown": "자(自) self + 화(畫) paint/draw + 자(自) self + 찬(讚) praise",
+      "example": "자화자찬도 정도껏 해야지.",
+      "example_en": "There's a limit to how much you should praise yourself."
+    },
+    {
+      "korean": "언행일치",
+      "english": "Matching words with actions; practicing what one preaches",
+      "hanja": "言行一致",
+      "breakdown": "언(言) words + 행(行) actions + 일(一) one + 치(致) reach/arrive",
+      "example": "리더라면 언행일치가 중요하다.",
+      "example_en": "If you are a leader, it is important to practice what you preach."
+    },
+    {
+      "korean": "전무후무",
+      "english": "Unprecedented and unrepeatable; one of a kind",
+      "hanja": "前無後無",
+      "breakdown": "전(前) before + 무(無) without + 후(後) after + 무(無) without",
+      "example": "그것은 역사상 전무후무한 기록이다.",
+      "example_en": "That is an unprecedented and unrepeatable record in history."
+    },
+    {
+      "korean": "고군분투",
+      "english": "Fighting a lonely battle; struggling alone against the odds",
+      "hanja": "孤軍奮鬪",
+      "breakdown": "고(孤) solitary + 군(軍) army + 분(奮) exert + 투(鬪) fight",
+      "example": "혼자서 고군분투하지 말고 도움을 요청해라.",
+      "example_en": "Don't struggle alone — ask for help."
+    },
+    {
+      "korean": "좌충우돌",
+      "english": "Charging recklessly in all directions; dashing about without a plan",
+      "hanja": "左衝右突",
+      "breakdown": "좌(左) left + 충(衝) charge + 우(右) right + 돌(突) rush",
+      "example": "그는 좌충우돌하며 사업을 키웠다.",
+      "example_en": "He grew his business by charging ahead recklessly in every direction."
+    },
+    {
+      "korean": "배은망덕",
+      "english": "Repaying kindness with ingratitude; biting the hand that feeds you",
+      "hanja": "背恩忘德",
+      "breakdown": "배(背) turn one's back + 은(恩) grace + 망(忘) forget + 덕(德) virtue",
+      "example": "도와줬더니 배은망덕하는 사람이었다.",
+      "example_en": "I helped them, but they turned out to be an ungrateful person."
+    },
+    {
+      "korean": "사생결단",
+      "english": "A life-or-death decision; risking everything",
+      "hanja": "死生決斷",
+      "breakdown": "사(死) death + 생(生) life + 결(決) decide + 단(斷) sever/judge",
+      "example": "사생결단의 각오로 시합에 임했다.",
+      "example_en": "I entered the match with a do-or-die determination."
+    },
+    {
+      "korean": "속수무책",
+      "english": "Helpless; unable to do anything; with hands tied",
+      "hanja": "束手無策",
+      "breakdown": "속(束) bind + 수(手) hands + 무(無) without + 책(策) plan",
+      "example": "갑작스러운 재난 앞에 속수무책이었다.",
+      "example_en": "We were helpless in the face of the sudden disaster."
+    },
+    {
+      "korean": "일사천리",
+      "english": "Progressing at lightning speed; advancing a thousand miles at once",
+      "hanja": "一瀉千里",
+      "breakdown": "일(一) one + 사(瀉) pour + 천(千) thousand + 리(里) ri (distance)",
+      "example": "협상이 일사천리로 진행되었다.",
+      "example_en": "The negotiations progressed at lightning speed."
+    },
+    {
+      "korean": "풍전등화",
+      "english": "A candle flickering in the wind; a precarious situation",
+      "hanja": "風前燈火",
+      "breakdown": "풍(風) wind + 전(前) before + 등(燈) lamp + 화(火) fire",
+      "example": "회사의 존폐가 풍전등화의 위기에 놓였다.",
+      "example_en": "The company's survival hangs in the balance like a candle in the wind."
+    },
+    {
+      "korean": "어부지리",
+      "english": "The fisherman's gain; profiting from others' conflict",
+      "hanja": "漁夫之利",
+      "breakdown": "어(漁) fish + 부(夫) man + 지(之) 's + 리(利) profit",
+      "example": "두 회사가 싸우는 사이에 어부지리로 이익을 챙겼다.",
+      "example_en": "While the two companies fought, a third party profited from the conflict."
+    },
+    {
+      "korean": "적반하장",
+      "english": "The guilty party acting indignant; the thief wielding the stick",
+      "hanja": "賊反荷杖",
+      "breakdown": "적(賊) thief + 반(反) instead + 하(荷) carry + 장(杖) stick",
+      "example": "잘못해 놓고 오히려 화를 내다니 적반하장이다.",
+      "example_en": "Making a mistake and then getting angry about it — that's the pot calling the kettle black."
+    },
+    {
+      "korean": "감언이설",
+      "english": "Sweet talk; honeyed words used to deceive",
+      "hanja": "甘言利說",
+      "breakdown": "감(甘) sweet + 언(言) words + 이(利) profitable + 설(說) speech",
+      "example": "감언이설에 속지 마라.",
+      "example_en": "Don't be fooled by honeyed words."
+    },
+    {
+      "korean": "일편단심",
+      "english": "Wholehearted devotion; single-minded loyalty",
+      "hanja": "一片丹心",
+      "breakdown": "일(一) one + 편(片) piece + 단(丹) red/sincere + 심(心) heart",
+      "example": "나라를 향한 일편단심으로 살겠다.",
+      "example_en": "I will live with wholehearted devotion to my country."
+    },
+    {
+      "korean": "천재일우",
+      "english": "A once-in-a-thousand-years opportunity; an extremely rare chance",
+      "hanja": "千載一遇",
+      "breakdown": "천(千) thousand + 재(載) years + 일(一) one + 우(遇) encounter",
+      "example": "이번 기회는 천재일우이니 놓치지 마라.",
+      "example_en": "This is a once-in-a-lifetime opportunity, so don't let it slip away."
+    },
+    {
+      "korean": "일망타진",
+      "english": "Catching everything in one net; a complete roundup",
+      "hanja": "一網打盡",
+      "breakdown": "일(一) one + 망(網) net + 타(打) strike + 진(盡) exhaust/all",
+      "example": "경찰이 범죄 조직을 일망타진했다.",
+      "example_en": "The police rounded up the entire criminal organization in one sweep."
+    },
+    {
+      "korean": "독불장군",
+      "english": "A lone wolf; someone who insists on doing everything alone",
+      "hanja": "獨不將軍",
+      "breakdown": "독(獨) alone + 불(不) not + 장(將) general + 군(軍) army",
+      "example": "독불장군 식으로 하면 팀워크가 무너진다.",
+      "example_en": "If you act like a lone wolf, teamwork falls apart."
+    },
+    {
+      "korean": "일거양득",
+      "english": "Gaining two things with one action; double benefit from a single effort",
+      "hanja": "一擧兩得",
+      "breakdown": "일(一) one + 거(擧) raise/act + 양(兩) two + 득(得) gain",
+      "example": "재활용하면 환경도 지키고 비용도 줄이고 일거양득이다.",
+      "example_en": "Recycling protects the environment and reduces costs — a double benefit."
+    },
+    {
+      "korean": "백골난망",
+      "english": "Gratitude beyond death; a debt of kindness one can never forget",
+      "hanja": "白骨難忘",
+      "breakdown": "백(白) white + 골(骨) bone + 난(難) difficult + 망(忘) forget",
+      "example": "생명을 구해 주신 은혜는 백골난망입니다.",
+      "example_en": "The kindness of saving my life is a debt I can never repay, even in death."
     }
   ],
   "관용어 (Korean Idioms)": [
@@ -2191,6 +3391,486 @@
       "english": "A fish in water; someone in their element; thriving in the right environment",
       "example": "무대에 서니 물 만난 고기처럼 신이 났다.",
       "example_en": "Once on stage, he was like a fish in water — completely in his element."
+    },
+    {
+      "korean": "눈이 돌아가다",
+      "english": "To lose one's mind; to go crazy with greed or anger (lit. 'eyes rolling')",
+      "example": "세일 소식을 듣자마자 눈이 돌아가서 다 사 버렸다.",
+      "example_en": "As soon as I heard about the sale, I went crazy and bought everything."
+    },
+    {
+      "korean": "코앞에 닥치다",
+      "english": "To be imminent; right around the corner (lit. 'approaching the tip of one's nose')",
+      "example": "시험이 코앞에 닥쳤는데 아직 준비를 못 했다.",
+      "example_en": "The exam is right around the corner but I still haven't prepared."
+    },
+    {
+      "korean": "입이 가볍다",
+      "english": "To be loose-lipped; unable to keep secrets (lit. 'light mouth')",
+      "example": "그 사람은 입이 가벼워서 비밀을 말하면 안 돼.",
+      "example_en": "He's loose-lipped, so you shouldn't tell him secrets."
+    },
+    {
+      "korean": "귀를 기울이다",
+      "english": "To listen attentively; to lend an ear (lit. 'tilt one's ear')",
+      "example": "학생들이 선생님의 이야기에 귀를 기울였다.",
+      "example_en": "The students listened attentively to the teacher's story."
+    },
+    {
+      "korean": "손이 모자라다",
+      "english": "To be short-handed; not enough people to help (lit. 'hands are insufficient')",
+      "example": "주문이 밀려서 손이 모자란다.",
+      "example_en": "Orders are piling up and we're short-handed."
+    },
+    {
+      "korean": "발이 묶이다",
+      "english": "To be stuck; unable to leave or go somewhere (lit. 'feet are tied')",
+      "example": "폭설 때문에 공항에서 발이 묶였다.",
+      "example_en": "I was stranded at the airport because of heavy snow."
+    },
+    {
+      "korean": "배가 아프다",
+      "english": "To be jealous of someone's success (lit. 'stomach hurts')",
+      "example": "친구가 승진했다는 소식에 솔직히 배가 아팠다.",
+      "example_en": "Honestly, I was jealous when I heard my friend got promoted."
+    },
+    {
+      "korean": "등을 돌리다",
+      "english": "To turn one's back on someone; to abandon (lit. 'turn one's back')",
+      "example": "어려울 때 모두가 등을 돌렸다.",
+      "example_en": "When times got tough, everyone turned their backs on me."
+    },
+    {
+      "korean": "머리를 맞대다",
+      "english": "To put heads together; to brainstorm collectively (lit. 'press heads together')",
+      "example": "팀원들이 머리를 맞대고 해결책을 찾았다.",
+      "example_en": "The team members put their heads together and found a solution."
+    },
+    {
+      "korean": "눈에 불을 켜다",
+      "english": "To search with fierce intensity; to be on high alert (lit. 'light a fire in one's eyes')",
+      "example": "경찰이 눈에 불을 켜고 범인을 찾고 있다.",
+      "example_en": "The police are searching with fierce intensity for the suspect."
+    },
+    {
+      "korean": "코빼기도 안 보이다",
+      "english": "No trace of someone; completely absent (lit. 'can't even see the bridge of the nose')",
+      "example": "약속 시간이 지났는데 코빼기도 안 보인다.",
+      "example_en": "The meeting time has passed and there's no sign of them."
+    },
+    {
+      "korean": "입을 모으다",
+      "english": "To speak unanimously; to say the same thing in one voice (lit. 'gather mouths')",
+      "example": "전문가들이 입을 모아 경제 회복을 전망했다.",
+      "example_en": "Experts unanimously predicted an economic recovery."
+    },
+    {
+      "korean": "발을 끊다",
+      "english": "To stop visiting; to cut ties with a place (lit. 'sever one's feet')",
+      "example": "그 식당은 서비스가 나빠서 발을 끊었다.",
+      "example_en": "I stopped going to that restaurant because the service was bad."
+    },
+    {
+      "korean": "눈 깜짝할 사이",
+      "english": "In the blink of an eye; in an instant (lit. 'while blinking an eye')",
+      "example": "눈 깜짝할 사이에 아이가 이렇게 컸다.",
+      "example_en": "The child grew up this much in the blink of an eye."
+    },
+    {
+      "korean": "손을 보다",
+      "english": "To fix or repair something; also to teach someone a lesson (lit. 'look at one's hands')",
+      "example": "고장 난 시계를 좀 손을 봐야겠다.",
+      "example_en": "I need to fix the broken clock."
+    },
+    {
+      "korean": "입이 귀에 걸리다",
+      "english": "To grin from ear to ear; to beam with joy (lit. 'mouth hangs on the ears')",
+      "example": "합격 소식을 듣고 입이 귀에 걸렸다.",
+      "example_en": "After hearing the news of passing, I was grinning from ear to ear."
+    },
+    {
+      "korean": "발을 동동 구르다",
+      "english": "To stamp one's feet in frustration or anxiety (lit. 'stomp feet thump-thump')",
+      "example": "버스가 눈앞에서 떠나자 발을 동동 굴렀다.",
+      "example_en": "I stamped my feet in frustration as the bus left right before my eyes."
+    },
+    {
+      "korean": "눈을 붙이다",
+      "english": "To catch some sleep; to doze off briefly (lit. 'attach one's eyes')",
+      "example": "밤새 일하다가 잠깐 눈을 붙였다.",
+      "example_en": "I caught a brief nap after working all night."
+    },
+    {
+      "korean": "손을 씻다",
+      "english": "To wash one's hands of something; to quit a shady business (lit. 'wash hands')",
+      "example": "그는 도박에서 손을 씻고 새 출발을 했다.",
+      "example_en": "He washed his hands of gambling and made a fresh start."
+    },
+    {
+      "korean": "머리가 굳다",
+      "english": "To become set in one's ways; inflexible thinking (lit. 'head hardens')",
+      "example": "나이가 드니까 머리가 굳어서 새로운 걸 배우기 힘들다.",
+      "example_en": "As I get older, my thinking gets rigid and it's hard to learn new things."
+    },
+    {
+      "korean": "등골이 빠지다",
+      "english": "To work oneself to the bone; back-breaking labor (lit. 'spine comes out')",
+      "example": "등골이 빠지게 일해도 월급은 그대로다.",
+      "example_en": "Even though I work myself to the bone, the salary stays the same."
+    },
+    {
+      "korean": "귀가 따갑다",
+      "english": "To hear something so often it stings; tired of hearing (lit. 'ears sting')",
+      "example": "일찍 자라는 말을 귀가 따갑게 들었다.",
+      "example_en": "I've heard 'go to bed early' so many times my ears sting."
+    },
+    {
+      "korean": "목을 매다",
+      "english": "To stake everything on something; to be desperate about (lit. 'hang by the neck')",
+      "example": "그 프로젝트에 목을 매고 있으니 꼭 성공해야 한다.",
+      "example_en": "I've staked everything on that project, so it must succeed."
+    },
+    {
+      "korean": "입을 다물다",
+      "english": "To keep one's mouth shut; to remain silent (lit. 'close one's mouth')",
+      "example": "그 사건에 대해 모두가 입을 다물었다.",
+      "example_en": "Everyone kept their mouths shut about the incident."
+    },
+    {
+      "korean": "손발이 맞다",
+      "english": "To work well together; to be in perfect sync (lit. 'hands and feet match')",
+      "example": "오래 같이 일해서 이제 손발이 잘 맞는다.",
+      "example_en": "We've worked together so long that we're in perfect sync now."
+    },
+    {
+      "korean": "하룻강아지 범 무서운 줄 모른다",
+      "english": "A day-old puppy doesn't fear the tiger; the young and inexperienced are fearless",
+      "example": "신입이 사장한테 직접 건의하다니, 하룻강아지 범 무서운 줄 모르는구나.",
+      "example_en": "The new hire made a suggestion directly to the CEO — talk about not knowing what they're up against."
+    },
+    {
+      "korean": "우물 안 개구리",
+      "english": "A frog in a well; someone with a narrow worldview",
+      "example": "여행을 다녀와 보니 내가 우물 안 개구리였다는 걸 깨달았다.",
+      "example_en": "After traveling, I realized I had been a frog in a well."
+    },
+    {
+      "korean": "소 잃고 외양간 고친다",
+      "english": "Fixing the barn after losing the cow; too late to prevent damage",
+      "example": "사고가 난 후에야 안전 점검을 하다니, 소 잃고 외양간 고치는 격이다.",
+      "example_en": "Doing safety inspections only after an accident is like locking the barn after the cow is gone."
+    },
+    {
+      "korean": "호랑이도 제 말 하면 온다",
+      "english": "Speak of the devil (lit. 'speak of the tiger and it comes')",
+      "example": "호랑이도 제 말 하면 온다더니, 방금 네 이야기를 하고 있었어.",
+      "example_en": "Speak of the devil — we were just talking about you."
+    },
+    {
+      "korean": "까마귀 날자 배 떨어진다",
+      "english": "An unfortunate coincidence; bad timing creates suspicion (lit. 'the crow flies off and the pear falls')",
+      "example": "내가 지나가자마자 꽃병이 깨졌는데, 까마귀 날자 배 떨어진 격이다.",
+      "example_en": "The vase broke right when I walked by — just an unfortunate coincidence."
+    },
+    {
+      "korean": "개천에서 용 나다",
+      "english": "A dragon rising from a stream; a great person from humble origins",
+      "example": "가난한 집안에서 의사가 되다니, 개천에서 용 났다.",
+      "example_en": "Becoming a doctor from a poor family — a dragon has risen from the stream."
+    },
+    {
+      "korean": "빈 수레가 요란하다",
+      "english": "An empty cart rattles the loudest; those who know least talk the most",
+      "example": "아는 것도 없으면서 목소리만 크다니, 빈 수레가 요란하다.",
+      "example_en": "Talking so loud without knowing anything — the empty cart rattles the most."
+    },
+    {
+      "korean": "바람 앞의 등불",
+      "english": "A candle in the wind; a precarious and fragile situation",
+      "example": "회사의 경영 상태가 바람 앞의 등불이다.",
+      "example_en": "The company's financial state is like a candle in the wind."
+    },
+    {
+      "korean": "닭 쫓던 개 지붕 쳐다보듯",
+      "english": "Like a dog that chased a chicken staring at the roof; helplessly watching after losing one's chance",
+      "example": "기회를 놓치고 닭 쫓던 개 지붕 쳐다보듯 멍하니 서 있었다.",
+      "example_en": "After missing the opportunity, I stood there helplessly staring into space."
+    },
+    {
+      "korean": "원숭이도 나무에서 떨어진다",
+      "english": "Even monkeys fall from trees; even experts make mistakes",
+      "example": "그렇게 실력 있는 선수도 실수하네, 원숭이도 나무에서 떨어지는 법이지.",
+      "example_en": "Even such a skilled player makes mistakes — even monkeys fall from trees."
+    },
+    {
+      "korean": "가는 날이 장날",
+      "english": "The day you go happens to be market day; an unexpected coincidence",
+      "example": "가는 날이 장날이라고, 도착하자마자 비가 쏟아졌다.",
+      "example_en": "Just my luck — it started pouring the moment I arrived."
+    },
+    {
+      "korean": "세 살 버릇 여든까지 간다",
+      "english": "Habits formed at age three last until eighty; old habits die hard",
+      "example": "세 살 버릇 여든까지 간다고, 어릴 때부터 올바른 습관을 길러야 한다.",
+      "example_en": "As they say, habits from age three last to eighty — you should build good habits from childhood."
+    },
+    {
+      "korean": "구름 잡는 이야기",
+      "english": "A story of catching clouds; vague or unrealistic talk",
+      "example": "구체적인 계획 없이 구름 잡는 이야기만 하고 있다.",
+      "example_en": "Without any concrete plan, they're just talking about pie in the sky."
+    },
+    {
+      "korean": "비 온 뒤에 땅이 굳어진다",
+      "english": "The ground hardens after rain; adversity makes one stronger",
+      "example": "비 온 뒤에 땅이 굳어진다고, 이번 위기를 잘 넘기면 더 강해질 거야.",
+      "example_en": "They say the ground hardens after rain — if we get through this crisis, we'll be stronger."
+    },
+    {
+      "korean": "뱁새가 황새 따라가면 가랑이 찢어진다",
+      "english": "If a small bird tries to follow a crane, its legs will split; don't overreach beyond your means",
+      "example": "부자 친구를 따라 쓰다가는 뱁새가 황새 따라가면 가랑이 찢어진다.",
+      "example_en": "If you keep spending like your rich friend, you'll tear yourself apart trying to keep up."
+    },
+    {
+      "korean": "그림의 떡",
+      "english": "A rice cake in a painting; something desirable but unattainable",
+      "example": "저 명품 가방은 나에게 그림의 떡이다.",
+      "example_en": "That luxury bag is like a painting of rice cake to me — I can only look."
+    },
+    {
+      "korean": "누워서 떡 먹기",
+      "english": "Eating rice cake while lying down; something extremely easy",
+      "example": "이 정도 문제는 나에게 누워서 떡 먹기지.",
+      "example_en": "A problem like this is a walk in the park for me."
+    },
+    {
+      "korean": "국수를 먹다",
+      "english": "To eat noodles; to attend someone's wedding (noodles are served at Korean weddings)",
+      "example": "언제 국수 먹여 줄 거야?",
+      "example_en": "When are you going to let us eat your wedding noodles? (When are you getting married?)"
+    },
+    {
+      "korean": "떡 줄 사람은 생각도 않는데 김칫국부터 마신다",
+      "english": "Drinking kimchi broth before being offered rice cake; counting chickens before they hatch",
+      "example": "합격도 안 했는데 월급부터 계산하다니, 떡 줄 사람은 생각도 않는데 김칫국부터 마신다.",
+      "example_en": "You haven't even passed yet but you're calculating your salary — you're counting your chickens before they hatch."
+    },
+    {
+      "korean": "찬밥 신세",
+      "english": "Cold-rice treatment; being neglected or left out (lit. 'the fate of cold rice')",
+      "example": "새 직원이 오고 나서 나는 찬밥 신세가 됐다.",
+      "example_en": "After the new employee came, I became old news — treated like cold rice."
+    },
+    {
+      "korean": "밥 먹듯 하다",
+      "english": "To do something as regularly as eating rice; to do habitually or constantly",
+      "example": "그 사람은 거짓말을 밥 먹듯 한다.",
+      "example_en": "That person lies as often as they eat — it's a daily habit."
+    },
+    {
+      "korean": "죽도 밥도 안 되다",
+      "english": "Neither porridge nor rice; something that turned out to be neither one thing nor another",
+      "example": "이것저것 하다 보니 죽도 밥도 안 됐다.",
+      "example_en": "I tried doing this and that and ended up with nothing — neither here nor there."
+    },
+    {
+      "korean": "떡 본 김에 제사 지낸다",
+      "english": "Since you see the rice cake, hold the memorial rite; seize the opportunity while it's there",
+      "example": "떡 본 김에 제사 지낸다고, 재료가 있으니 오늘 바로 만들자.",
+      "example_en": "Since we already have the ingredients, let's just make it today — strike while the iron's hot."
+    },
+    {
+      "korean": "밥값을 하다",
+      "english": "To earn one's keep; to pull one's weight (lit. 'earn the price of rice')",
+      "example": "이번 프로젝트에서 제대로 밥값 좀 해 봐.",
+      "example_en": "Try to really pull your weight on this project."
+    },
+    {
+      "korean": "콩으로 메주를 쑨다 해도 안 믿는다",
+      "english": "Wouldn't believe it even if told meju is made from beans; to completely distrust someone",
+      "example": "그 사람이 하는 말은 콩으로 메주를 쑨다 해도 안 믿겠다.",
+      "example_en": "I wouldn't believe a word that person says, even if they stated the obvious."
+    },
+    {
+      "korean": "눈치가 빠르다",
+      "english": "To be quick at reading the room; perceptive and socially aware (lit. 'fast nunchi')",
+      "example": "눈치가 빨라서 분위기를 금방 파악한다.",
+      "example_en": "She's so perceptive that she reads the room in an instant."
+    },
+    {
+      "korean": "정이 들다",
+      "english": "To grow fond of; to become emotionally attached over time",
+      "example": "처음엔 싫었는데 살다 보니 이 동네에 정이 들었다.",
+      "example_en": "I didn't like it at first, but after living here a while, I've grown attached to this neighborhood."
+    },
+    {
+      "korean": "뒷담화를 하다",
+      "english": "To gossip behind someone's back; to talk about someone when they're not around",
+      "example": "뒷담화를 하다가 본인한테 들킨 적이 있다.",
+      "example_en": "I once got caught gossiping behind someone's back."
+    },
+    {
+      "korean": "미운 정 고운 정",
+      "english": "Feelings of both love and hate; a love-hate bond formed over time",
+      "example": "오래 사귀다 보니 미운 정 고운 정 다 들었다.",
+      "example_en": "After being together so long, we've built up both love and resentment."
+    },
+    {
+      "korean": "말이 통하다",
+      "english": "To communicate well; to be on the same wavelength (lit. 'words connect')",
+      "example": "그 친구하고는 말이 잘 통해서 같이 있으면 편하다.",
+      "example_en": "I communicate well with that friend, so it's comfortable being together."
+    },
+    {
+      "korean": "마음이 맞다",
+      "english": "To be like-minded; to click with someone (lit. 'hearts match')",
+      "example": "처음 만났는데 마음이 맞아서 금방 친해졌다.",
+      "example_en": "We just met, but we clicked right away and became friends quickly."
+    },
+    {
+      "korean": "낯이 뜨겁다",
+      "english": "To feel embarrassed or ashamed (lit. 'face is hot')",
+      "example": "칭찬을 너무 많이 받아서 낯이 뜨거웠다.",
+      "example_en": "I received so many compliments that I felt embarrassed."
+    },
+    {
+      "korean": "체면을 차리다",
+      "english": "To save face; to keep up appearances",
+      "example": "체면을 차리느라 도움을 요청하지 못했다.",
+      "example_en": "I couldn't ask for help because I was trying to save face."
+    },
+    {
+      "korean": "뒤끝이 있다",
+      "english": "To hold grudges; to harbor resentment after a conflict",
+      "example": "그 사람은 뒤끝이 있어서 한번 싸우면 오래 간다.",
+      "example_en": "He holds grudges, so once you fight with him, it lasts a long time."
+    },
+    {
+      "korean": "눈치를 보다",
+      "english": "To read the room; to gauge others' reactions cautiously (lit. 'look at nunchi')",
+      "example": "상사 눈치를 보느라 자기 의견을 말하지 못했다.",
+      "example_en": "I couldn't express my opinion because I was too busy reading my boss's mood."
+    },
+    {
+      "korean": "정이 떨어지다",
+      "english": "To lose affection; to fall out of love (lit. 'affection drops')",
+      "example": "계속 실망시키더니 이제 정이 떨어졌다.",
+      "example_en": "After being disappointed over and over, I've lost all affection."
+    },
+    {
+      "korean": "피도 눈물도 없다",
+      "english": "To be cold-hearted and merciless (lit. 'no blood, no tears')",
+      "example": "그렇게 잘라 버리다니 피도 눈물도 없는 사람이다.",
+      "example_en": "Cutting people off like that — what a cold-hearted person."
+    },
+    {
+      "korean": "마음을 놓다",
+      "english": "To feel at ease; to let one's guard down (lit. 'release one's heart')",
+      "example": "검사 결과가 정상이라 이제 마음을 놓았다.",
+      "example_en": "The test results came back normal, so now I can relax."
+    },
+    {
+      "korean": "사돈 남 말 하다",
+      "english": "The pot calling the kettle black; criticizing others for faults you share",
+      "example": "너도 똑같이 하면서 사돈 남 말 하고 있네.",
+      "example_en": "You do the same thing and yet here you are pointing fingers — pot, meet kettle."
+    },
+    {
+      "korean": "찬물을 끼얹다",
+      "english": "To pour cold water on; to dampen someone's enthusiasm",
+      "example": "신나서 이야기하는데 찬물을 끼얹지 마.",
+      "example_en": "Don't pour cold water on me when I'm excitedly talking about it."
+    },
+    {
+      "korean": "발 벗고 나서다",
+      "english": "To eagerly step up to help; to jump in with both feet (lit. 'take off shoes and step forward')",
+      "example": "이웃이 어려움에 처하자 모두가 발 벗고 나섰다.",
+      "example_en": "When the neighbor was in trouble, everyone eagerly stepped up to help."
+    },
+    {
+      "korean": "삽질을 하다",
+      "english": "To do pointless or wasted work (lit. 'to shovel')",
+      "example": "방향을 잘못 잡아서 하루 종일 삽질만 했다.",
+      "example_en": "I went in the wrong direction and ended up doing pointless work all day."
+    },
+    {
+      "korean": "쇠뿔도 단김에 빼라",
+      "english": "Strike while the iron is hot; do it while you have the momentum (lit. 'pull the ox horn while it's hot')",
+      "example": "쇠뿔도 단김에 빼라고, 결심했으면 바로 시작해.",
+      "example_en": "Strike while the iron's hot — if you've made up your mind, start right away."
+    },
+    {
+      "korean": "작심삼일",
+      "english": "A resolution that lasts only three days; failing to keep a commitment",
+      "example": "다이어트를 시작했지만 또 작심삼일이 되고 말았다.",
+      "example_en": "I started a diet, but once again it only lasted three days."
+    },
+    {
+      "korean": "빛 좋은 개살구",
+      "english": "A pretty but tasteless wild apricot; all show, no substance",
+      "example": "그 식당은 인테리어만 화려하고 빛 좋은 개살구다.",
+      "example_en": "That restaurant has fancy decor but the food is nothing special — all style, no substance."
+    },
+    {
+      "korean": "천리 길도 한 걸음부터",
+      "english": "A journey of a thousand li begins with a single step",
+      "example": "천리 길도 한 걸음부터라고, 작은 것부터 시작해 보자.",
+      "example_en": "A journey of a thousand miles begins with a single step — let's start with the small things."
+    },
+    {
+      "korean": "돌다리도 두들겨 보고 건너라",
+      "english": "Knock on a stone bridge before crossing; look before you leap",
+      "example": "돌다리도 두들겨 보고 건너라고, 계약 전에 꼼꼼히 확인해.",
+      "example_en": "Look before you leap — check everything carefully before signing the contract."
+    },
+    {
+      "korean": "티끌 모아 태산",
+      "english": "Gather dust to make a mountain; every little bit adds up",
+      "example": "티끌 모아 태산이라고, 매일 조금씩 저축하면 큰돈이 된다.",
+      "example_en": "Every little bit adds up — if you save a little each day, it becomes a large sum."
+    },
+    {
+      "korean": "팔을 걷어붙이다",
+      "english": "To roll up one's sleeves; to get down to serious work",
+      "example": "더 이상 미룰 수 없어서 팔을 걷어붙이고 일을 시작했다.",
+      "example_en": "I couldn't put it off any longer, so I rolled up my sleeves and got to work."
+    },
+    {
+      "korean": "하나를 보면 열을 안다",
+      "english": "See one thing and know ten; you can judge the whole from a part",
+      "example": "하나를 보면 열을 안다고, 그 사람의 행동만 봐도 성격을 알 수 있다.",
+      "example_en": "As the saying goes, you can tell ten things from one — just watching their behavior reveals their character."
+    },
+    {
+      "korean": "백지장도 맞들면 낫다",
+      "english": "Even a sheet of paper is lighter when held by two; teamwork makes things easier",
+      "example": "백지장도 맞들면 낫다고, 같이 하면 금방 끝낼 수 있어.",
+      "example_en": "Two heads are better than one — if we work together, we can finish quickly."
+    },
+    {
+      "korean": "소 귀에 경 읽기",
+      "english": "Reading scriptures to a cow; wasting your breath on someone who won't listen",
+      "example": "그 사람한테 아무리 조언해 봤자 소 귀에 경 읽기다.",
+      "example_en": "No matter how much advice you give that person, it's like talking to a wall."
+    },
+    {
+      "korean": "될성부른 나무는 떡잎부터 알아본다",
+      "english": "A tree destined to grow tall is recognized from its first leaves; talent shows early",
+      "example": "될성부른 나무는 떡잎부터 알아본다더니, 어릴 때부터 재능이 보였다.",
+      "example_en": "They say you can spot talent early — even as a child, the gift was obvious."
+    },
+    {
+      "korean": "급할수록 돌아가라",
+      "english": "The more urgent it is, take the longer path; haste makes waste",
+      "example": "급할수록 돌아가라고, 서두르지 말고 차근차근 하자.",
+      "example_en": "Haste makes waste — let's not rush and take it step by step."
+    },
+    {
+      "korean": "우물을 파도 한 우물을 파라",
+      "english": "Even if you dig a well, dig one well deep; focus on one thing rather than many",
+      "example": "이것저것 손대지 말고 우물을 파도 한 우물을 파라.",
+      "example_en": "Don't dabble in everything — if you're going to dig, dig one well deep."
     }
   ]
 }

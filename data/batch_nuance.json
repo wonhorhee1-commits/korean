@@ -1,0 +1,304 @@
+{
+  "뉘앙스 & 유의어 (Nuance & Synonyms)": [
+    {
+      "korean": "그립다 vs 보고 싶다",
+      "english": "그립다 = to miss / long for (deep, nostalgic yearning — places, times, people gone)\n보고 싶다 = to miss / want to see (direct, personal — actively wanting reunion)",
+      "example": "고향이 그립다. / 엄마가 보고 싶다.",
+      "example_en": "I miss my hometown. / I miss my mom (I want to see her)."
+    },
+    {
+      "korean": "섭섭하다 vs 허전하다",
+      "english": "섭섭하다 = disappointed / a bit hurt (by someone's actions or parting — interpersonal)\n허전하다 = feeling empty / something's missing (a void left behind — situational)",
+      "example": "인사도 없이 가서 섭섭했다. / 그가 떠나니 마음이 허전하다.",
+      "example_en": "I was hurt that you left without saying goodbye. / With him gone, I feel empty."
+    },
+    {
+      "korean": "짜증나다 vs 화나다 vs 성나다",
+      "english": "짜증나다 = annoyed / irritated (minor, repetitive triggers)\n화나다 = angry (general anger, clear cause)\n성나다 = angered / wrathful (literary/formal, stronger indignation)",
+      "example": "모기 때문에 짜증난다. / 거짓말을 듣고 화가 났다. / 불의를 보고 성이 났다.",
+      "example_en": "Mosquitoes are annoying me. / I got angry hearing the lie. / I was angered seeing injustice."
+    },
+    {
+      "korean": "설레다 vs 흥분하다",
+      "english": "설레다 = to flutter / feel butterflies (romantic, hopeful anticipation)\n흥분하다 = to be excited / agitated (intense arousal — positive or negative, can imply losing composure)",
+      "example": "첫 데이트라 설렌다. / 골이 들어가자 관중이 흥분했다.",
+      "example_en": "I have butterflies because it's my first date. / The crowd got excited when the goal went in."
+    },
+    {
+      "korean": "안타깝다 vs 가엾다 vs 불쌍하다",
+      "english": "안타깝다 = regrettable / heartbreaking (empathy for someone's unfortunate situation)\n가엾다 = pitiable (literary, compassionate sorrow for the weak)\n불쌍하다 = pitiful / poor thing (common, can sound condescending)",
+      "example": "젊은 나이에 세상을 떠나다니 안타깝다. / 가엾은 아이를 돌봐 주었다. / 불쌍해서 못 보겠다.",
+      "example_en": "It's heartbreaking that they passed away so young. / They looked after the pitiable child. / It's so pitiful I can't bear to watch."
+    },
+    {
+      "korean": "뿌듯하다 vs 자랑스럽다",
+      "english": "뿌듯하다 = deeply satisfied / fulfilled (quiet inner pride from effort or nurturing)\n자랑스럽다 = proud (outward pride, wanting to show off or celebrate)",
+      "example": "아이가 잘 자라서 뿌듯하다. / 대한민국이 자랑스럽다.",
+      "example_en": "I feel fulfilled seeing my child grow well. / I'm proud of Korea."
+    },
+    {
+      "korean": "민망하다 vs 창피하다 vs 부끄럽다",
+      "english": "민망하다 = awkwardly embarrassed (uncomfortable situation, secondhand embarrassment)\n창피하다 = ashamed / humiliated (public embarrassment, loss of face)\n부끄럽다 = shy / bashful / ashamed (broadest — shyness, modesty, or moral shame)",
+      "example": "칭찬을 받으니 민망했다. / 실수를 해서 창피했다. / 아직 부끄러운 실력이다.",
+      "example_en": "I felt awkward receiving praise. / I was humiliated by my mistake. / My skills are still embarrassingly lacking."
+    },
+    {
+      "korean": "속상하다 vs 마음이 아프다",
+      "english": "속상하다 = upset / vexed (frustrated distress, something eating at you)\n마음이 아프다 = heartbroken / heart aches (deeper emotional pain, empathy or loss)",
+      "example": "시험에 떨어져서 속상하다. / 아픈 아이를 보면 마음이 아프다.",
+      "example_en": "I'm upset about failing the exam. / It breaks my heart to see a sick child."
+    },
+    {
+      "korean": "허무하다 vs 공허하다",
+      "english": "허무하다 = futile / anticlimactic (effort was pointless, 'all for nothing')\n공허하다 = hollow / void (existential emptiness, lack of meaning)",
+      "example": "열심히 준비했는데 취소되어 허무하다. / 성공했지만 마음은 공허하다.",
+      "example_en": "I prepared hard but it was canceled — so futile. / I succeeded but feel hollow inside."
+    },
+    {
+      "korean": "짠하다 vs 측은하다",
+      "english": "짠하다 = touching in a pitiful way / makes your heart ache (colloquial, emotional gut response)\n측은하다 = to feel compassion / pity (literary/formal, noble sympathy)",
+      "example": "혼자 밥 먹는 모습이 짠하다. / 측은한 마음에 도와주었다.",
+      "example_en": "Seeing them eat alone is heartbreaking. / I helped out of compassion."
+    },
+    {
+      "korean": "던지다 vs 내던지다 vs 집어던지다",
+      "english": "던지다 = to throw (general, neutral)\n내던지다 = to fling / hurl away (forceful rejection or abandonment)\n집어던지다 = to grab and throw / slam down (anger, frustration — picking up and hurling)",
+      "example": "공을 던졌다. / 서류를 내던지고 나갔다. / 화가 나서 책을 집어던졌다.",
+      "example_en": "Threw the ball. / Flung the documents and walked out. / Got angry and hurled the book."
+    },
+    {
+      "korean": "끌다 vs 당기다",
+      "english": "끌다 = to drag / pull along (continuous, often heavy — also figurative: attract, prolong)\n당기다 = to pull toward oneself (quick, direct tug — also: craving food)",
+      "example": "짐을 끌고 갔다. / 문을 당겨서 여세요. / 매운 게 당긴다.",
+      "example_en": "Dragged the luggage along. / Pull the door to open it. / I'm craving something spicy."
+    },
+    {
+      "korean": "흔들다 vs 떨다 vs 진동하다",
+      "english": "흔들다 = to shake / sway (deliberate or external force — a tree, one's resolve)\n떨다 = to tremble / shiver (involuntary — cold, fear, nervousness)\n진동하다 = to vibrate (mechanical, rhythmic oscillation)",
+      "example": "나무가 바람에 흔들린다. / 추위에 몸을 떨었다. / 핸드폰이 진동했다.",
+      "example_en": "The tree sways in the wind. / Shivered from the cold. / The phone vibrated."
+    },
+    {
+      "korean": "쫓다 vs 뒤쫓다 vs 추적하다",
+      "english": "쫓다 = to chase / drive away (dual meaning: pursue or expel)\n뒤쫓다 = to run after / follow behind (physical pursuit from behind)\n추적하다 = to track / trace (systematic, investigative — detectives, data)",
+      "example": "개가 고양이를 쫓았다. / 범인을 뒤쫓아 골목으로 들어갔다. / 경찰이 용의자를 추적하고 있다.",
+      "example_en": "The dog chased the cat. / Ran after the criminal into the alley. / Police are tracking the suspect."
+    },
+    {
+      "korean": "옮기다 vs 이동하다 vs 이전하다",
+      "english": "옮기다 = to move / carry (something from one place to another — physical objects)\n이동하다 = to move / travel (oneself or a group — changing location)\n이전하다 = to relocate (formal — offices, institutions, capitals)",
+      "example": "짐을 2층으로 옮겼다. / 다음 장소로 이동합시다. / 본사를 서울에서 세종으로 이전했다.",
+      "example_en": "Moved the luggage to the 2nd floor. / Let's move to the next location. / Relocated HQ from Seoul to Sejong."
+    },
+    {
+      "korean": "숨다 vs 숨기다 vs 감추다",
+      "english": "숨다 = to hide (oneself — intransitive)\n숨기다 = to hide (something — transitive, physical or factual)\n감추다 = to conceal (deliberate, secretive — emotions, truth, objects)",
+      "example": "아이가 이불 속에 숨었다. / 선물을 숨겨 놓았다. / 슬픔을 감추고 웃었다.",
+      "example_en": "The child hid under the blanket. / I hid the present. / Concealed the sadness and smiled."
+    },
+    {
+      "korean": "붙잡다 vs 움켜쥐다",
+      "english": "붙잡다 = to grab / hold onto (catching or restraining — people, opportunities)\n움켜쥐다 = to clutch / grip tightly (forceful, desperate grasp)",
+      "example": "도망치는 도둑을 붙잡았다. / 그녀는 그의 손을 움켜쥐었다.",
+      "example_en": "Caught the fleeing thief. / She clutched his hand tightly."
+    },
+    {
+      "korean": "흘리다 vs 쏟다 vs 엎지르다",
+      "english": "흘리다 = to spill / shed (small amount, gradual — tears, blood, drops)\n쏟다 = to pour out / spill (large amount, intentional or accidental dump)\n엎지르다 = to knock over and spill (accidental tipping of a container)",
+      "example": "눈물을 흘렸다. / 물을 쏟아 버렸다. / 커피를 엎질렀다.",
+      "example_en": "Shed tears. / Poured out the water. / Knocked over the coffee."
+    },
+    {
+      "korean": "구르다 vs 굴리다 vs 뒹굴다",
+      "english": "구르다 = to roll (intransitive — a ball rolling, falling and rolling)\n굴리다 = to roll something (transitive, also figurative: use one's brain)\n뒹굴다 = to roll around / lie about (lazy, idle rolling on the ground)",
+      "example": "공이 언덕 아래로 굴러갔다. / 머리를 굴려 봐. / 주말에 집에서 뒹굴었다.",
+      "example_en": "The ball rolled down the hill. / Use your head (roll your brain). / Rolled around at home over the weekend."
+    },
+    {
+      "korean": "밀다 vs 밀치다 vs 밀어내다",
+      "english": "밀다 = to push (general, sustained — a door, a cart)\n밀치다 = to shove / push away (sudden, aggressive — person vs person)\n밀어내다 = to push out / force away (deliberate removal or rejection)",
+      "example": "문을 밀어서 여세요. / 화가 나서 그를 밀쳤다. / 다가오는 사람을 밀어냈다.",
+      "example_en": "Push the door to open it. / Shoved him in anger. / Pushed away the approaching person."
+    },
+    {
+      "korean": "말하다 vs 이야기하다 vs 언급하다",
+      "english": "말하다 = to say / tell (most general, any speech act)\n이야기하다 = to talk / discuss / tell a story (conversational, extended)\n언급하다 = to mention / refer to (formal, briefly touching on a topic)",
+      "example": "솔직하게 말해 줘. / 우리 좀 이야기하자. / 그 문제는 언급하지 맙시다.",
+      "example_en": "Tell me honestly. / Let's talk. / Let's not mention that issue."
+    },
+    {
+      "korean": "묻다 vs 여쭙다 vs 질문하다",
+      "english": "묻다 = to ask (general, everyday)\n여쭙다 = to ask (humble honorific — speaking to superiors)\n질문하다 = to pose a question (formal, structured — classrooms, interviews)",
+      "example": "길을 물어봤다. / 선생님께 여쭤 봐도 될까요? / 질문이 있으시면 말씀해 주세요.",
+      "example_en": "I asked for directions. / May I ask the teacher? / If you have a question, please speak up."
+    },
+    {
+      "korean": "속삭이다 vs 귓속말하다",
+      "english": "속삭이다 = to whisper (soft, intimate, poetic — lovers, wind, secrets)\n귓속말하다 = to whisper into someone's ear (physical act, secretive, childlike)",
+      "example": "그가 사랑한다고 속삭였다. / 친구에게 귓속말로 비밀을 전했다.",
+      "example_en": "He whispered 'I love you.' / I whispered the secret into my friend's ear."
+    },
+    {
+      "korean": "외치다 vs 소리치다 vs 고함치다",
+      "english": "외치다 = to shout / cry out (with purpose — slogans, calls for help)\n소리치다 = to yell / scream (general loud vocalization)\n고함치다 = to bellow / roar (commanding, intimidating — authority, anger)",
+      "example": "자유를 외쳤다. / 무서워서 소리쳤다. / 상사가 부하에게 고함쳤다.",
+      "example_en": "Cried out for freedom. / Screamed out of fear. / The boss bellowed at his subordinate."
+    },
+    {
+      "korean": "떠올리다 vs 회상하다 vs 추억하다",
+      "english": "떠올리다 = to recall / bring to mind (spontaneous, something pops into your head)\n회상하다 = to reminisce / recollect (deliberate, looking back at past events)\n추억하다 = to cherish memories / look back fondly (warm, nostalgic)",
+      "example": "갑자기 옛날 일이 떠올랐다. / 전쟁 시절을 회상했다. / 학창 시절을 추억하다.",
+      "example_en": "Old memories suddenly came to mind. / Reminisced about the war years. / Looking back fondly on school days."
+    },
+    {
+      "korean": "깨닫다 vs 알아차리다 vs 인식하다",
+      "english": "깨닫다 = to realize / come to understand (internal epiphany, life lesson)\n알아차리다 = to notice / catch on (detecting something quickly — subtle cues)\n인식하다 = to recognize / be aware of (cognitive, systematic — academic, policy)",
+      "example": "실수를 깨달았다. / 거짓말인 걸 알아차렸다. / 문제의 심각성을 인식해야 한다.",
+      "example_en": "I realized my mistake. / I caught on that it was a lie. / We need to recognize the severity of the problem."
+    },
+    {
+      "korean": "의심하다 vs 수상히 여기다",
+      "english": "의심하다 = to doubt / suspect (direct suspicion of a person or claim)\n수상히 여기다 = to find suspicious / sense something fishy (observation-based, preliminary unease)",
+      "example": "그의 말을 의심했다. / 행동이 이상해서 수상히 여겼다.",
+      "example_en": "I doubted his words. / His behavior was odd, so I found it suspicious."
+    },
+    {
+      "korean": "설득하다 vs 꼬드기다",
+      "english": "설득하다 = to persuade / convince (rational, legitimate arguments)\n꼬드기다 = to coax / sweet-talk into (manipulative, tempting someone into something)",
+      "example": "부모님을 설득해서 허락을 받았다. / 친구를 꼬드겨서 같이 수업을 빠졌다.",
+      "example_en": "I persuaded my parents and got permission. / I sweet-talked my friend into skipping class together."
+    },
+    {
+      "korean": "중얼거리다 vs 투덜거리다 vs 불평하다",
+      "english": "중얼거리다 = to mutter / mumble (quiet, to oneself — barely audible)\n투덜거리다 = to grumble / gripe (ongoing, complaining under one's breath)\n불평하다 = to complain (direct, explicit expression of dissatisfaction)",
+      "example": "혼자 중얼거리며 걸어갔다. / 아침부터 투덜거린다. / 서비스에 대해 불평했다.",
+      "example_en": "Walked along muttering to himself. / Grumbling since morning. / Complained about the service."
+    },
+    {
+      "korean": "고백하다 vs 자백하다 vs 털어놓다",
+      "english": "고백하다 = to confess (love confession or admitting personal truth)\n자백하다 = to confess to a crime (legal, admitting guilt)\n털어놓다 = to open up / spill everything (emotional unburdening to someone)",
+      "example": "좋아한다고 고백했다. / 범인이 범행을 자백했다. / 친구에게 고민을 털어놓았다.",
+      "example_en": "Confessed feelings of love. / The criminal confessed to the crime. / Opened up about my worries to a friend."
+    },
+    {
+      "korean": "꼼꼼하다 vs 세심하다 vs 치밀하다",
+      "english": "꼼꼼하다 = meticulous / thorough (detail-oriented in practical tasks)\n세심하다 = attentive / delicate (considerate of subtle details — feelings, needs)\n치밀하다 = elaborate / calculated (strategic precision — plans, schemes)",
+      "example": "꼼꼼하게 검토했다. / 세심한 배려에 감동받았다. / 치밀하게 계획을 세웠다.",
+      "example_en": "Reviewed it meticulously. / Touched by the attentive consideration. / Made an elaborately calculated plan."
+    },
+    {
+      "korean": "넉넉하다 vs 풍족하다 vs 여유롭다",
+      "english": "넉넉하다 = ample / enough and then some (quantity — time, money, food)\n풍족하다 = abundant / affluent (material wealth, living comfortably)\n여유롭다 = relaxed / leisurely (having room to breathe — time, money, composure)",
+      "example": "시간이 넉넉하니 천천히 하세요. / 풍족한 환경에서 자랐다. / 여유로운 주말을 보냈다.",
+      "example_en": "There's plenty of time, so take it slow. / Grew up in an affluent environment. / Spent a leisurely weekend."
+    },
+    {
+      "korean": "어색하다 vs 서먹하다 vs 낯설다",
+      "english": "어색하다 = awkward (uncomfortable tension — between people or in situations)\n서먹하다 = distant / reserved (formerly close people now feeling a gap)\n낯설다 = unfamiliar / strange (encountering something new or unknown)",
+      "example": "처음이라 어색했다. / 오랜만에 만나니 서먹했다. / 낯선 환경에 적응 중이다.",
+      "example_en": "It was awkward since it was the first time. / It felt distant meeting after so long. / Adjusting to an unfamiliar environment."
+    },
+    {
+      "korean": "당당하다 vs 의젓하다 vs 늠름하다",
+      "english": "당당하다 = confident / dignified (self-assured, unapologetic)\n의젓하다 = composed / mature beyond one's years (calm, collected — often children acting grown-up)\n늠름하다 = imposing / stately (commanding physical or moral presence — literary)",
+      "example": "당당하게 의견을 말했다. / 어린데 참 의젓하다. / 늠름한 자세로 연단에 섰다.",
+      "example_en": "Spoke their opinion confidently. / So mature for a child. / Stood at the podium with a stately bearing."
+    },
+    {
+      "korean": "고집스럽다 vs 완고하다 vs 뚝심 있다",
+      "english": "고집스럽다 = stubborn / obstinate (negative, refusing to yield)\n완고하다 = rigid / inflexible (formal, ideologically fixed — older generations)\n뚝심 있다 = determined / tenacious (positive, steadfast perseverance)",
+      "example": "고집스럽게 자기 주장만 한다. / 완고한 태도를 바꾸지 않았다. / 뚝심 있게 끝까지 밀고 나갔다.",
+      "example_en": "Stubbornly insists only on their own view. / Did not change their rigid attitude. / Tenaciously pushed through to the end."
+    },
+    {
+      "korean": "엉뚱하다 vs 황당하다 vs 뜬금없다",
+      "english": "엉뚱하다 = quirky / off-the-wall (unexpectedly different, can be charming)\n황당하다 = absurd / preposterous (bewilderingly ridiculous)\n뜬금없다 = out of the blue / random (no context or connection)",
+      "example": "엉뚱한 발상이 오히려 성공했다. / 황당한 요구에 할 말을 잃었다. / 뜬금없이 무슨 소리야?",
+      "example_en": "The quirky idea actually succeeded. / I was speechless at the absurd demand. / What are you talking about out of the blue?"
+    },
+    {
+      "korean": "무뚝뚝하다 vs 쌀쌀맞다 vs 차갑다",
+      "english": "무뚝뚝하다 = blunt / curt (unsociable but not malicious — personality type)\n쌀쌀맞다 = cold / unfriendly (deliberately distant, dismissive attitude)\n차갑다 = cold (general coldness — emotionally ice-cold, can be cruel)",
+      "example": "무뚝뚝하지만 속은 따뜻하다. / 쌀쌀맞게 대답했다. / 차가운 눈빛으로 쳐다봤다.",
+      "example_en": "Blunt, but warm on the inside. / Replied coldly. / Stared with ice-cold eyes."
+    },
+    {
+      "korean": "능숙하다 vs 능란하다 vs 숙련되다",
+      "english": "능숙하다 = skilled / proficient (competent at a task through practice)\n능란하다 = masterful / deft (smooth, polished skill — sometimes sly)\n숙련되다 = experienced / seasoned (trained through long practice — workers, craftsmen)",
+      "example": "영어를 능숙하게 한다. / 능란한 화술로 사람들을 사로잡았다. / 숙련된 기술자가 필요하다.",
+      "example_en": "Speaks English proficiently. / Captivated people with masterful eloquence. / We need a seasoned technician."
+    },
+    {
+      "korean": "느긋하다 vs 태평하다 vs 한가하다",
+      "english": "느긋하다 = easygoing / laid-back (relaxed temperament, not rushing)\n태평하다 = carefree / nonchalant (overly unconcerned — can be irresponsible)\n한가하다 = idle / having free time (nothing to do — sometimes implies others are busy)",
+      "example": "느긋하게 커피를 마셨다. / 이런 상황에 태평하기는! / 요즘 좀 한가하다.",
+      "example_en": "Leisurely sipped coffee. / How can you be so carefree in this situation! / I've been kind of idle lately."
+    },
+    {
+      "korean": "수상하다 vs 의심스럽다 vs 미심쩍다",
+      "english": "수상하다 = suspicious / fishy (something seems off — behavior, situations)\n의심스럽다 = doubtful / questionable (reason to doubt truth or sincerity)\n미심쩍다 = dubious / not fully convinced (lingering uncertainty, can't quite trust it)",
+      "example": "수상한 사람이 주변을 서성거린다. / 그 이야기가 의심스럽다. / 뭔가 미심쩍은 구석이 있다.",
+      "example_en": "A suspicious person is lurking around. / That story is doubtful. / There's something dubious about it."
+    },
+    {
+      "korean": "먹다 vs 드시다 vs 잡수시다",
+      "english": "먹다 = to eat (plain/casual)\n드시다 = to eat (standard honorific — used for elders/superiors)\n잡수시다 = to eat (highest honorific — grandparents, esteemed elders)",
+      "example": "나 먼저 먹을게. / 어머니, 많이 드세요. / 할아버지, 진지 잡수세요.",
+      "example_en": "I'll eat first. / Mother, please eat a lot. / Grandfather, please have your meal."
+    },
+    {
+      "korean": "자다 vs 주무시다",
+      "english": "자다 = to sleep (plain/casual)\n주무시다 = to sleep (honorific — used for parents, elders, superiors)",
+      "example": "나 먼저 잘게. / 아버지는 일찍 주무셨다.",
+      "example_en": "I'll go to sleep first. / Father went to sleep early."
+    },
+    {
+      "korean": "주다 vs 드리다 vs 하사하다",
+      "english": "주다 = to give (plain/casual)\n드리다 = to give (humble — giving to someone of higher status)\n하사하다 = to bestow / grant (from king or supreme authority — archaic/literary)",
+      "example": "친구에게 선물을 줬다. / 선생님께 꽃을 드렸다. / 왕이 신하에게 벼슬을 하사했다.",
+      "example_en": "Gave a gift to a friend. / Presented flowers to the teacher. / The king bestowed a rank upon the vassal."
+    },
+    {
+      "korean": "있다 vs 계시다",
+      "english": "있다 = to be / exist / stay (plain)\n계시다 = to be / exist / stay (honorific — referring to esteemed persons' location or existence)",
+      "example": "형은 집에 있어. / 사장님은 회의실에 계십니다.",
+      "example_en": "My brother is at home. / The president is in the conference room."
+    },
+    {
+      "korean": "말 vs 말씀",
+      "english": "말 = words / speech (plain)\n말씀 = words / speech (honorific — elevating the speaker's words, or humble when referring to one's own words to a superior)",
+      "example": "무슨 말이야? / 말씀 감사합니다. / 말씀드릴 게 있습니다.",
+      "example_en": "What are you saying? / Thank you for your words. / I have something to tell you (humbly)."
+    },
+    {
+      "korean": "죽다 vs 돌아가시다 vs 서거하다",
+      "english": "죽다 = to die (plain, blunt)\n돌아가시다 = to pass away (honorific, respectful — family elders)\n서거하다 = to pass away (formal/public — national figures, leaders)",
+      "example": "물고기가 죽었다. / 할머니가 돌아가셨다. / 대통령이 서거하셨다.",
+      "example_en": "The fish died. / Grandmother passed away. / The president passed away."
+    },
+    {
+      "korean": "데리고 가다 vs 모시고 가다",
+      "english": "데리고 가다 = to take someone along (plain — children, juniors, peers)\n모시고 가다 = to escort / accompany someone (humble honorific — elders, superiors)",
+      "example": "아이를 데리고 병원에 갔다. / 어머니를 모시고 병원에 갔다.",
+      "example_en": "Took the child to the hospital. / Accompanied my mother to the hospital."
+    },
+    {
+      "korean": "보다 vs 뵙다",
+      "english": "보다 = to see / meet (plain)\n뵙다 = to see / meet (humble honorific — meeting someone of higher status)",
+      "example": "내일 친구를 만나서 봐야 해. / 처음 뵙겠습니다.",
+      "example_en": "I need to see my friend tomorrow. / It's nice to meet you (humble, formal)."
+    },
+    {
+      "korean": "나이 vs 연세 vs 춘추",
+      "english": "나이 = age (plain, everyday)\n연세 = age (honorific — asking/referring to elders' age)\n춘추 = age (very formal/literary honorific — historical, royal contexts)",
+      "example": "나이가 몇 살이에요? / 연세가 어떻게 되세요? / 왕의 춘추가 높으시다.",
+      "example_en": "How old are you? / May I ask your age? (honorific) / The king is of advanced age."
+    },
+    {
+      "korean": "밥 vs 식사 vs 진지",
+      "english": "밥 = rice / meal (casual, everyday)\n식사 = meal (polite/neutral formal)\n진지 = meal (honorific — offering food to elders)",
+      "example": "밥 먹었어? / 식사하셨습니까? / 할아버지, 진지 드세요.",
+      "example_en": "Did you eat? / Have you had your meal? (polite) / Grandfather, please have your meal. (honorific)"
+    }
+  ]
+}
