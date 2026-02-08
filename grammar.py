@@ -11,7 +11,7 @@ DATA_FILE = Path(__file__).parent / "data" / "grammar.json"
 
 
 def load_grammar() -> dict[str, list[dict]]:
-    return json.loads(DATA_FILE.read_text())
+    return json.loads(DATA_FILE.read_text(encoding="utf-8"))
 
 
 def card_id(category: str, idx: int) -> str:
