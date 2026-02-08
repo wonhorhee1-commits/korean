@@ -56,6 +56,15 @@ def show_card_prompt(korean: str, hint: str | None = None):
     console.print(Panel(content, box=box.ROUNDED, border_style="bright_blue", padding=(1, 3)))
 
 
+def show_answer(answer: str, explanation: str | None = None):
+    """Reveal the answer (self-rated, no correct/incorrect judgment)."""
+    parts = [Text(answer, style="bold white")]
+    if explanation:
+        parts.append(Text(f"\n{explanation}", style="dim"))
+    content = Text.assemble(*parts)
+    console.print(Panel(content, box=box.ROUNDED, border_style="bright_blue", padding=(0, 2)))
+
+
 def show_result(correct: bool, answer: str, explanation: str | None = None):
     if correct:
         mark = Text("✓ Correct!", style="bold bright_green")

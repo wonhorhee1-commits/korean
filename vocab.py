@@ -77,14 +77,14 @@ def run_drill(srs: SRSEngine, session_size: int = 15):
             ui.console.print("[dim]What does this mean?[/dim]\n")
             user_answer = ui.ask("Your answer")
             ui.console.print()
-            ui.show_result(True, english, explanation=None)
+            ui.show_answer(english)
         else:
             # English → Korean
             ui.show_card_prompt(english)
             ui.console.print("[dim]What is this in Korean?[/dim]\n")
             user_answer = ui.ask("Your answer")
             ui.console.print()
-            ui.show_result(True, korean, explanation=entry.get("notes"))
+            ui.show_answer(korean, explanation=entry.get("notes"))
 
         # Show example
         if "example" in entry:
