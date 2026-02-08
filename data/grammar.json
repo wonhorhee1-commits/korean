@@ -1,0 +1,326 @@
+{
+  "Intermediate Connectors": [
+    {
+      "pattern": "~(으)ㄴ/는 셈이다",
+      "meaning": "It amounts to; you could say that",
+      "explanation": "Used to express that something is approximately or effectively the case. Often used when the literal situation isn't exactly X, but practically speaking it is.",
+      "examples": [
+        {
+          "korean": "거의 매일 운동하니까 건강한 셈이다.",
+          "english": "I exercise almost every day, so you could say I'm healthy."
+        },
+        {
+          "korean": "10년 살았으니 한국 사람인 셈이다.",
+          "english": "I've lived here 10 years, so I basically count as Korean."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 공짜로 받았으니 ___ 셈이다. (lucky)",
+        "answer": "운이 좋은",
+        "full_sentence": "공짜로 받았으니 운이 좋은 셈이다."
+      }
+    },
+    {
+      "pattern": "~더니",
+      "meaning": "And then (observed change); as expected from what I saw",
+      "explanation": "Connects a past observation (something the speaker witnessed) to its consequence or result. First clause must be something the speaker directly observed.",
+      "examples": [
+        {
+          "korean": "열심히 공부하더니 1등을 했다.",
+          "english": "He was studying hard, and then (as expected) he got first place."
+        },
+        {
+          "korean": "비가 오더니 갑자기 그쳤다.",
+          "english": "It was raining, but then it suddenly stopped."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 어제까지 아프_____ 오늘은 괜찮아 보인다.",
+        "answer": "더니",
+        "full_sentence": "어제까지 아프더니 오늘은 괜찮아 보인다."
+      }
+    },
+    {
+      "pattern": "~는 바람에",
+      "meaning": "Because of (unexpected/unplanned cause, usually negative)",
+      "explanation": "Expresses that something happened because of an unexpected event, typically with a negative result. Different from ~아/어서 in that it emphasizes the cause was unplanned.",
+      "examples": [
+        {
+          "korean": "갑자기 비가 오는 바람에 옷이 다 젖었다.",
+          "english": "Because it suddenly rained, my clothes got all wet."
+        },
+        {
+          "korean": "알람이 안 울리는 바람에 늦었다.",
+          "english": "Because the alarm didn't go off, I was late."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 차가 갑자기 고장 나___ 약속에 못 갔다.",
+        "answer": "는 바람에",
+        "full_sentence": "차가 갑자기 고장 나는 바람에 약속에 못 갔다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ 뿐만 아니라",
+      "meaning": "Not only... but also",
+      "explanation": "Adds information on top of what was already stated. More formal than ~도 and emphasizes both elements.",
+      "examples": [
+        {
+          "korean": "그는 똑똒할 뿐만 아니라 성격도 좋다.",
+          "english": "He's not only smart but also has a good personality."
+        },
+        {
+          "korean": "가격이 비쌀 뿐만 아니라 품질도 나쁘다.",
+          "english": "Not only is the price high, but the quality is also bad."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 이 앱은 무료___ 아니라 광고도 없다.",
+        "answer": "일 뿐만",
+        "full_sentence": "이 앱은 무료일 뿐만 아니라 광고도 없다."
+      }
+    },
+    {
+      "pattern": "~게 마련이다",
+      "meaning": "It's bound to; it's only natural that",
+      "explanation": "Expresses that something is an inevitable or natural outcome. Used for general truths or expected results.",
+      "examples": [
+        {
+          "korean": "노력하면 결과가 나오게 마련이다.",
+          "english": "If you put in effort, results are bound to come."
+        },
+        {
+          "korean": "세월이 지나면 잊히게 마련이다.",
+          "english": "With time, things are bound to be forgotten."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 열심히 하면 실력이 늘___ 마련이다.",
+        "answer": "게",
+        "full_sentence": "열심히 하면 실력이 늘게 마련이다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄴ/는 만큼",
+      "meaning": "To the extent that; as much as; since",
+      "explanation": "Proportional relationship — 'to the degree that A, B follows.' Can also mean 'since/given that.'",
+      "examples": [
+        {
+          "korean": "노력한 만큼 보상을 받는다.",
+          "english": "You get rewarded as much as you put in effort."
+        },
+        {
+          "korean": "제가 맡은 만큼 책임지겠습니다.",
+          "english": "Since I took it on, I'll take responsibility."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 기대가 큰 ___ 실망도 크다.",
+        "answer": "만큼",
+        "full_sentence": "기대가 큰 만큼 실망도 크다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ 리가 없다",
+      "meaning": "There's no way that...; it can't be that...",
+      "explanation": "Strong denial of possibility. Expresses the speaker's firm belief that something is impossible.",
+      "examples": [
+        {
+          "korean": "그가 거짓말을 할 리가 없다.",
+          "english": "There's no way he would lie."
+        },
+        {
+          "korean": "그렇게 쉬울 리가 없다.",
+          "english": "There's no way it's that easy."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 아무 이유 없이 화를 낼 ___ 없다.",
+        "answer": "리가",
+        "full_sentence": "아무 이유 없이 화를 낼 리가 없다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ수록",
+      "meaning": "The more... the more...",
+      "explanation": "Expresses proportional increase. Often paired with another clause showing the corresponding result.",
+      "examples": [
+        {
+          "korean": "생각할수록 화가 난다.",
+          "english": "The more I think about it, the angrier I get."
+        },
+        {
+          "korean": "배우면 배울수록 모르는 게 많다.",
+          "english": "The more you learn, the more you realize you don't know."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 한국어는 공부하면 ___수록 재미있다.",
+        "answer": "할",
+        "full_sentence": "한국어는 공부하면 할수록 재미있다."
+      }
+    }
+  ],
+  "Advanced Endings & Expressions": [
+    {
+      "pattern": "~(으)ㄴ/는 법이다",
+      "meaning": "It's the way things are; that's how it goes",
+      "explanation": "States a general truth or principle about how things typically work. Similar to ~게 마련이다 but more about established norms.",
+      "examples": [
+        {
+          "korean": "좋은 일 뒤에는 나쁜 일이 오는 법이다.",
+          "english": "Bad things follow good things — that's just how it goes."
+        },
+        {
+          "korean": "사람은 실수하는 법이다.",
+          "english": "People make mistakes — it's only natural."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 시간은 빨리 가___ 법이다.",
+        "answer": "는",
+        "full_sentence": "시간은 빨리 가는 법이다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ 따름이다",
+      "meaning": "Can only; merely; nothing but",
+      "explanation": "Expresses that the speaker can do nothing other than X. Conveys a sense of limitation or resignation.",
+      "examples": [
+        {
+          "korean": "결과를 기다릴 따름이다.",
+          "english": "All I can do is wait for the results."
+        },
+        {
+          "korean": "감사할 따름입니다.",
+          "english": "I can only be grateful."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 놀라울 ___이다.",
+        "answer": "따름",
+        "full_sentence": "놀라울 따름이다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ 겸 ~(으)ㄹ 겸",
+      "meaning": "Partly to... and partly to... (dual purpose)",
+      "explanation": "Expresses doing something for two purposes simultaneously.",
+      "examples": [
+        {
+          "korean": "운동할 겸 산책할 겸 밖에 나갔다.",
+          "english": "I went out partly to exercise and partly to take a walk."
+        },
+        {
+          "korean": "인사할 겸 선물 줄 겸 들렀다.",
+          "english": "I stopped by partly to say hello and partly to give a gift."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 구경___ 겸 쇼핑할 겸 명동에 갔다.",
+        "answer": "할",
+        "full_sentence": "구경할 겸 쇼핑할 겸 명동에 갔다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄴ/는 탓에",
+      "meaning": "Because of (blame); due to (negative cause)",
+      "explanation": "Like ~때문에 but specifically assigns blame. Always implies the cause led to a bad outcome.",
+      "examples": [
+        {
+          "korean": "준비를 안 한 탓에 발표를 망쳤다.",
+          "english": "Because I didn't prepare, I messed up the presentation."
+        },
+        {
+          "korean": "날씨가 추운 탓에 손님이 없다.",
+          "english": "Because of the cold weather, there are no customers."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 잠을 못 ___ 탓에 집중이 안 된다.",
+        "answer": "잔",
+        "full_sentence": "잠을 못 잔 탓에 집중이 안 된다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ 지경이다",
+      "meaning": "To the point of; on the verge of",
+      "explanation": "Expresses an extreme situation where something is almost happening (usually negative or dramatic).",
+      "examples": [
+        {
+          "korean": "너무 바빠서 쓰러질 지경이다.",
+          "english": "I'm so busy I'm on the verge of collapsing."
+        },
+        {
+          "korean": "웃겨서 죽을 지경이다.",
+          "english": "It's so funny I'm about to die laughing."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 배가 고파서 쓰러___ 지경이다.",
+        "answer": "질",
+        "full_sentence": "배가 고파서 쓰러질 지경이다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄴ/는 이상",
+      "meaning": "As long as; now that; since (committed)",
+      "explanation": "Once a condition is met or a decision made, the consequence follows. Implies commitment or inevitability.",
+      "examples": [
+        {
+          "korean": "약속한 이상 지켜야 한다.",
+          "english": "Now that you've promised, you have to keep it."
+        },
+        {
+          "korean": "시작한 이상 끝까지 해야지.",
+          "english": "Since we've started, we should see it through."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 맡___ 이상 책임지겠습니다.",
+        "answer": "은",
+        "full_sentence": "맡은 이상 책임지겠습니다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ 뻔하다",
+      "meaning": "Almost did; nearly happened",
+      "explanation": "Expresses that something almost happened but didn't. Can convey relief or regret.",
+      "examples": [
+        {
+          "korean": "넘어질 뻔했다.",
+          "english": "I almost fell."
+        },
+        {
+          "korean": "비행기를 놓칠 뻔했다.",
+          "english": "I almost missed the flight."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 깜빡 잊어버___ 뻔했다.",
+        "answer": "릴",
+        "full_sentence": "깜빡 잊어버릴 뻔했다."
+      }
+    },
+    {
+      "pattern": "~는 둥 마는 둥",
+      "meaning": "Half-heartedly; barely doing something",
+      "explanation": "Doing something so carelessly or minimally that it barely counts as doing it.",
+      "examples": [
+        {
+          "korean": "밥을 먹는 둥 마는 둥 나갔다.",
+          "english": "He barely ate and left."
+        },
+        {
+          "korean": "공부를 하는 둥 마는 둥 했다.",
+          "english": "He studied half-heartedly."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 인사를 ___ 둥 마는 둥 지나갔다.",
+        "answer": "하는",
+        "full_sentence": "인사를 하는 둥 마는 둥 지나갔다."
+      }
+    }
+  ]
+}
