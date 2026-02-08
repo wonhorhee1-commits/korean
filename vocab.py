@@ -78,6 +78,8 @@ def run_drill(srs: SRSEngine, session_size: int = 15):
             ui.show_card_prompt(korean, hint=entry.get("hanja"))
             ui.console.print("[dim]What does this mean?[/dim]\n")
             user_answer = ui.ask("Your answer")
+            if user_answer.strip().lower() == "q":
+                break
             ui.console.print()
             ui.show_answer(english, explanation=entry.get("notes"))
         else:
@@ -85,6 +87,8 @@ def run_drill(srs: SRSEngine, session_size: int = 15):
             ui.show_card_prompt(english)
             ui.console.print("[dim]What is this in Korean?[/dim]\n")
             user_answer = ui.ask("Your answer")
+            if user_answer.strip().lower() == "q":
+                break
             ui.console.print()
             ui.show_answer(korean, explanation=entry.get("notes"))
 
