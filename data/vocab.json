@@ -4,142 +4,181 @@
       "korean": "모순",
       "english": "contradiction",
       "hanja": "矛盾",
+      "breakdown": "모(矛) spear + 순(盾) shield",
       "example": "그의 말에는 모순이 있다.",
       "example_en": "There is a contradiction in what he said.",
-      "notes": "From 'spear' + 'shield' — the classic Chinese paradox"
+      "notes": "The classic Chinese paradox: a merchant claimed his spear could pierce any shield, and his shield could block any spear"
     },
     {
       "korean": "역설",
       "english": "paradox; irony",
       "hanja": "逆說",
+      "breakdown": "역(逆) reverse/contrary + 설(說) speak/theory",
       "example": "인생의 역설은 가진 것이 많을수록 불안해진다는 것이다.",
-      "example_en": "Life's paradox is that the more you have, the more anxious you become."
+      "example_en": "Life's paradox is that the more you have, the more anxious you become.",
+      "notes": "역 appears in 역행(go backwards), 반역(rebellion). 설 appears in 소설(novel), 설명(explanation)"
     },
     {
       "korean": "고충",
       "english": "hardship; grievance; difficulty",
       "hanja": "苦衷",
+      "breakdown": "고(苦) bitter/suffering + 충(衷) inner feelings",
       "example": "직장인들의 고충을 들어봤다.",
-      "example_en": "We listened to the hardships of office workers."
+      "example_en": "We listened to the hardships of office workers.",
+      "notes": "고 appears in 고통(pain), 고생(hardship). 충 appears in 충심(sincerity), 절충(compromise)"
     },
     {
       "korean": "양심",
       "english": "conscience",
       "hanja": "良心",
+      "breakdown": "양(良) good/virtuous + 심(心) heart/mind",
       "example": "양심에 따라 행동해야 한다.",
-      "example_en": "You must act according to your conscience."
+      "example_en": "You must act according to your conscience.",
+      "notes": "심 is one of the most common hanja: 심리(psychology), 관심(interest), 안심(relief), 결심(determination)"
     },
     {
       "korean": "소신",
       "english": "conviction; personal belief",
       "hanja": "所信",
+      "breakdown": "소(所) that which / place + 신(信) believe/trust",
       "example": "소신 있게 말하는 사람이 좋다.",
-      "example_en": "I like people who speak with conviction."
+      "example_en": "I like people who speak with conviction.",
+      "notes": "소 means 'that which' (abstract). 신 appears in 신뢰(trust), 신용(credit), 자신(self-confidence), 확신(certainty)"
     },
     {
       "korean": "파급",
       "english": "ripple effect; repercussion",
       "hanja": "波及",
+      "breakdown": "파(波) wave + 급(及) reach/extend to",
       "example": "이 정책의 파급 효과가 크다.",
-      "example_en": "The ripple effect of this policy is significant."
+      "example_en": "The ripple effect of this policy is significant.",
+      "notes": "파 appears in 파도(wave), 파장(wavelength). 급 appears in 보급(supply/distribution), 언급(mention)"
     },
     {
       "korean": "체감",
       "english": "to feel firsthand; perceived (as in 체감 온도)",
       "hanja": "體感",
+      "breakdown": "체(體) body + 감(感) feel/sense",
       "example": "체감 물가가 계속 오르고 있다.",
-      "example_en": "The perceived cost of living keeps going up."
+      "example_en": "The perceived cost of living keeps going up.",
+      "notes": "체 appears in 체력(stamina), 신체(body). 감 appears in 감동(emotion), 감각(sense), 직감(intuition)"
     },
     {
       "korean": "쟁점",
       "english": "issue; point of contention",
       "hanja": "爭點",
+      "breakdown": "쟁(爭) dispute/contend + 점(點) point/dot",
       "example": "이번 선거의 핵심 쟁점은 경제 문제다.",
-      "example_en": "The key issue in this election is the economy."
+      "example_en": "The key issue in this election is the economy.",
+      "notes": "쟁 appears in 경쟁(competition), 논쟁(debate), 전쟁(war). 점 appears in 관점(viewpoint), 시점(point in time)"
     },
     {
       "korean": "시사",
       "english": "current affairs; to suggest/imply",
       "hanja": "時事 / 示唆",
+      "breakdown": "As 'current affairs': 시(時) time + 사(事) affairs. As 'suggest': 시(示) show + 사(唆) incite/hint",
       "example": "이 연구 결과는 중요한 점을 시사한다.",
-      "example_en": "This research result suggests an important point."
+      "example_en": "This research result suggests an important point.",
+      "notes": "Two different words with same pronunciation. Context determines meaning"
     },
     {
       "korean": "취지",
       "english": "purpose; intent; gist",
       "hanja": "趣旨",
+      "breakdown": "취(趣) purport/interest + 지(旨) meaning/intent",
       "example": "이 법의 취지를 이해해야 한다.",
-      "example_en": "You need to understand the intent of this law."
+      "example_en": "You need to understand the intent of this law.",
+      "notes": "취 appears in 취미(hobby), 흥취(interest). 지 appears in 요지(gist), 본지(true meaning)"
     },
     {
       "korean": "맥락",
       "english": "context",
       "hanja": "脈絡",
+      "breakdown": "맥(脈) vein/pulse + 락(絡) connection/link",
       "example": "그 말은 맥락을 알아야 이해된다.",
-      "example_en": "You need to know the context to understand that."
+      "example_en": "You need to know the context to understand that.",
+      "notes": "Think of it as 'the veins that connect things' — the underlying thread. 맥 appears in 맥박(pulse), 동맥(artery)"
     },
     {
       "korean": "함축",
       "english": "implication; connotation",
       "hanja": "含蓄",
+      "breakdown": "함(含) contain/hold + 축(蓄) store/accumulate",
       "example": "이 문장에는 깊은 함축이 담겨 있다.",
-      "example_en": "This sentence carries a deep implication."
+      "example_en": "This sentence carries a deep implication.",
+      "notes": "Meaning stored within — not said directly. 축 appears in 축적(accumulation), 저축(savings)"
     },
     {
       "korean": "논거",
       "english": "basis for an argument; grounds",
       "hanja": "論據",
+      "breakdown": "논(論) argue/discuss + 거(據) basis/evidence",
       "example": "충분한 논거 없이 주장하면 안 된다.",
-      "example_en": "You shouldn't argue without sufficient grounds."
+      "example_en": "You shouldn't argue without sufficient grounds.",
+      "notes": "논 appears in 논문(thesis), 논리(logic), 토론(debate). 거 appears in 근거(basis), 증거(evidence)"
     },
     {
       "korean": "귀결",
       "english": "conclusion; outcome",
       "hanja": "歸結",
+      "breakdown": "귀(歸) return/go back to + 결(結) tie/conclude",
       "example": "결국 같은 귀결에 도달했다.",
-      "example_en": "In the end, we reached the same conclusion."
+      "example_en": "In the end, we reached the same conclusion.",
+      "notes": "귀 appears in 귀국(return to country), 귀환(return). 결 appears in 결론(conclusion), 결과(result)"
     },
     {
       "korean": "전제",
       "english": "premise; prerequisite",
       "hanja": "前提",
+      "breakdown": "전(前) before/in front + 제(提) raise/put forward",
       "example": "이 논리의 전제가 틀렸다.",
-      "example_en": "The premise of this logic is wrong."
+      "example_en": "The premise of this logic is wrong.",
+      "notes": "What you 'put forward before' the argument. 전 appears in 이전(before), 전진(advance). 제 appears in 제안(proposal), 제출(submit)"
     },
     {
       "korean": "도모",
       "english": "to plan; to seek (a goal)",
       "hanja": "圖謀",
+      "breakdown": "도(圖) plan/diagram + 모(謀) scheme/strategize",
       "example": "발전을 도모하기 위해 노력하고 있다.",
-      "example_en": "We are working to seek development."
+      "example_en": "We are working to seek development.",
+      "notes": "도 appears in 도표(chart), 의도(intention). 모 appears in 음모(conspiracy), 참모(advisor/strategist)"
     },
     {
       "korean": "양상",
       "english": "aspect; pattern; phase",
       "hanja": "樣相",
+      "breakdown": "양(樣) form/manner + 상(相) appearance/mutual",
       "example": "사회의 양상이 빠르게 변하고 있다.",
-      "example_en": "The patterns of society are changing rapidly."
+      "example_en": "The patterns of society are changing rapidly.",
+      "notes": "상 is very common: 상상(imagination), 인상(impression), 상대(counterpart)"
     },
     {
       "korean": "유의",
       "english": "to pay attention; caution",
       "hanja": "留意",
+      "breakdown": "유(留) stay/remain + 의(意) mind/meaning",
       "example": "건강에 유의하세요.",
-      "example_en": "Please take care of your health."
+      "example_en": "Please take care of your health.",
+      "notes": "Keep your mind on something. 유 appears in 유학(study abroad, 'stay + learn'). 의 appears in 의미(meaning), 의견(opinion), 주의(caution)"
     },
     {
       "korean": "수렴",
       "english": "to converge; to collect (opinions)",
       "hanja": "收斂",
+      "breakdown": "수(收) gather/collect + 렴(斂) collect/restrain",
       "example": "다양한 의견을 수렴해야 한다.",
-      "example_en": "We need to collect various opinions."
+      "example_en": "We need to collect various opinions.",
+      "notes": "수 appears in 수집(collection), 회수(retrieval), 수입(income/import)"
     },
     {
       "korean": "대두",
       "english": "to emerge; to rise (as an issue)",
       "hanja": "擡頭",
+      "breakdown": "대(擡) lift/raise + 두(頭) head",
       "example": "환경 문제가 중요한 과제로 대두되고 있다.",
-      "example_en": "Environmental issues are emerging as an important challenge."
+      "example_en": "Environmental issues are emerging as an important challenge.",
+      "notes": "Literally 'raise one's head' — to surface. 두 appears in 두통(headache), 선두(lead/front)"
     }
   ],
   "뉘앙스 & 유의어 (Nuance & Synonyms)": [

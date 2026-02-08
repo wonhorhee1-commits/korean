@@ -57,13 +57,16 @@ def mixed_review(srs: SRSEngine):
                 ui.console.print("[dim]What does this mean?[/dim]\n")
                 ui.ask("Your answer")
                 ui.console.print()
-                ui.show_answer(english)
+                ui.show_answer(english, explanation=entry.get("notes"))
             else:
                 ui.show_card_prompt(english)
                 ui.console.print("[dim]What is this in Korean?[/dim]\n")
                 ui.ask("Your answer")
                 ui.console.print()
                 ui.show_answer(korean, explanation=entry.get("notes"))
+
+            if "breakdown" in entry:
+                ui.show_breakdown(entry["breakdown"])
 
             if "example" in entry:
                 ui.show_example(entry["example"], entry.get("example_en"))

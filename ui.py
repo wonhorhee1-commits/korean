@@ -79,6 +79,11 @@ def show_result(correct: bool, answer: str, explanation: str | None = None):
     console.print(Panel(content, box=box.ROUNDED, border_style=style, padding=(0, 2)))
 
 
+def show_breakdown(breakdown: str):
+    """Show hanja syllable breakdown for Sino-Korean words."""
+    console.print(f"  [bright_magenta]한자 breakdown:[/] [white]{breakdown}[/]")
+
+
 def show_example(sentence: str, translation: str | None = None):
     parts = [Text(f"  {sentence}", style="italic bright_yellow")]
     if translation:
