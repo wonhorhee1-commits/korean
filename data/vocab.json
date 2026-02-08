@@ -1,0 +1,333 @@
+{
+  "한자어 (Sino-Korean)": [
+    {
+      "korean": "모순",
+      "english": "contradiction",
+      "hanja": "矛盾",
+      "example": "그의 말에는 모순이 있다.",
+      "example_en": "There is a contradiction in what he said.",
+      "notes": "From 'spear' + 'shield' — the classic Chinese paradox"
+    },
+    {
+      "korean": "역설",
+      "english": "paradox; irony",
+      "hanja": "逆說",
+      "example": "인생의 역설은 가진 것이 많을수록 불안해진다는 것이다.",
+      "example_en": "Life's paradox is that the more you have, the more anxious you become."
+    },
+    {
+      "korean": "고충",
+      "english": "hardship; grievance; difficulty",
+      "hanja": "苦衷",
+      "example": "직장인들의 고충을 들어봤다.",
+      "example_en": "We listened to the hardships of office workers."
+    },
+    {
+      "korean": "양심",
+      "english": "conscience",
+      "hanja": "良心",
+      "example": "양심에 따라 행동해야 한다.",
+      "example_en": "You must act according to your conscience."
+    },
+    {
+      "korean": "소신",
+      "english": "conviction; personal belief",
+      "hanja": "所信",
+      "example": "소신 있게 말하는 사람이 좋다.",
+      "example_en": "I like people who speak with conviction."
+    },
+    {
+      "korean": "파급",
+      "english": "ripple effect; repercussion",
+      "hanja": "波及",
+      "example": "이 정책의 파급 효과가 크다.",
+      "example_en": "The ripple effect of this policy is significant."
+    },
+    {
+      "korean": "체감",
+      "english": "to feel firsthand; perceived (as in 체감 온도)",
+      "hanja": "體感",
+      "example": "체감 물가가 계속 오르고 있다.",
+      "example_en": "The perceived cost of living keeps going up."
+    },
+    {
+      "korean": "쟁점",
+      "english": "issue; point of contention",
+      "hanja": "爭點",
+      "example": "이번 선거의 핵심 쟁점은 경제 문제다.",
+      "example_en": "The key issue in this election is the economy."
+    },
+    {
+      "korean": "시사",
+      "english": "current affairs; to suggest/imply",
+      "hanja": "時事 / 示唆",
+      "example": "이 연구 결과는 중요한 점을 시사한다.",
+      "example_en": "This research result suggests an important point."
+    },
+    {
+      "korean": "취지",
+      "english": "purpose; intent; gist",
+      "hanja": "趣旨",
+      "example": "이 법의 취지를 이해해야 한다.",
+      "example_en": "You need to understand the intent of this law."
+    },
+    {
+      "korean": "맥락",
+      "english": "context",
+      "hanja": "脈絡",
+      "example": "그 말은 맥락을 알아야 이해된다.",
+      "example_en": "You need to know the context to understand that."
+    },
+    {
+      "korean": "함축",
+      "english": "implication; connotation",
+      "hanja": "含蓄",
+      "example": "이 문장에는 깊은 함축이 담겨 있다.",
+      "example_en": "This sentence carries a deep implication."
+    },
+    {
+      "korean": "논거",
+      "english": "basis for an argument; grounds",
+      "hanja": "論據",
+      "example": "충분한 논거 없이 주장하면 안 된다.",
+      "example_en": "You shouldn't argue without sufficient grounds."
+    },
+    {
+      "korean": "귀결",
+      "english": "conclusion; outcome",
+      "hanja": "歸結",
+      "example": "결국 같은 귀결에 도달했다.",
+      "example_en": "In the end, we reached the same conclusion."
+    },
+    {
+      "korean": "전제",
+      "english": "premise; prerequisite",
+      "hanja": "前提",
+      "example": "이 논리의 전제가 틀렸다.",
+      "example_en": "The premise of this logic is wrong."
+    },
+    {
+      "korean": "도모",
+      "english": "to plan; to seek (a goal)",
+      "hanja": "圖謀",
+      "example": "발전을 도모하기 위해 노력하고 있다.",
+      "example_en": "We are working to seek development."
+    },
+    {
+      "korean": "양상",
+      "english": "aspect; pattern; phase",
+      "hanja": "樣相",
+      "example": "사회의 양상이 빠르게 변하고 있다.",
+      "example_en": "The patterns of society are changing rapidly."
+    },
+    {
+      "korean": "유의",
+      "english": "to pay attention; caution",
+      "hanja": "留意",
+      "example": "건강에 유의하세요.",
+      "example_en": "Please take care of your health."
+    },
+    {
+      "korean": "수렴",
+      "english": "to converge; to collect (opinions)",
+      "hanja": "收斂",
+      "example": "다양한 의견을 수렴해야 한다.",
+      "example_en": "We need to collect various opinions."
+    },
+    {
+      "korean": "대두",
+      "english": "to emerge; to rise (as an issue)",
+      "hanja": "擡頭",
+      "example": "환경 문제가 중요한 과제로 대두되고 있다.",
+      "example_en": "Environmental issues are emerging as an important challenge."
+    }
+  ],
+  "뉘앙스 & 유의어 (Nuance & Synonyms)": [
+    {
+      "korean": "아쉽다 vs 서운하다",
+      "english": "아쉽다 = regretful (situation-focused, 'what a shame')\n서운하다 = hurt/disappointed (person-focused, feeling let down by someone)",
+      "example": "시간이 없어서 아쉽다. / 연락도 없이 가서 서운했다.",
+      "example_en": "It's a shame there's no time. / I was hurt that you left without contacting me."
+    },
+    {
+      "korean": "부럽다 vs 질투하다",
+      "english": "부럽다 = envious (benign, admiring)\n질투하다 = jealous (more negative, possessive)",
+      "example": "네가 부럽다. / 여자친구가 다른 남자한테 질투한다.",
+      "example_en": "I envy you. / My girlfriend is jealous of other guys."
+    },
+    {
+      "korean": "무섭다 vs 두렵다",
+      "english": "무섭다 = scary (immediate, visceral fear)\n두렵다 = fearful/daunting (deeper, more abstract fear)",
+      "example": "귀신이 무섭다. / 미래가 두렵다.",
+      "example_en": "Ghosts are scary. / The future is daunting."
+    },
+    {
+      "korean": "고치다 vs 수정하다 vs 보완하다",
+      "english": "고치다 = fix/repair (broken things, bad habits)\n수정하다 = revise/amend (documents, plans)\n보완하다 = supplement/shore up (fill gaps)",
+      "example": "버릇을 고치다 / 계획을 수정하다 / 부족한 점을 보완하다",
+      "example_en": "Fix a habit / Revise a plan / Shore up weak points"
+    },
+    {
+      "korean": "결국 vs 마침내 vs 드디어",
+      "english": "결국 = in the end (neutral/negative outcome)\n마침내 = at last (after long effort, literary)\n드디어 = finally! (excitement, long-awaited)",
+      "example": "결국 실패했다. / 마침내 정상에 도착했다. / 드디어 졸업이다!",
+      "example_en": "In the end, it failed. / At last, we reached the summit. / Finally, graduation!"
+    },
+    {
+      "korean": "차라리 vs 오히려",
+      "english": "차라리 = rather/I'd rather (choosing lesser evil)\n오히려 = on the contrary; rather (unexpected reversal)",
+      "example": "이럴 바에야 차라리 안 할래. / 도와주려다가 오히려 방해가 됐다.",
+      "example_en": "If it's like this, I'd rather not. / I tried to help but rather got in the way."
+    },
+    {
+      "korean": "내세우다 vs 주장하다",
+      "english": "내세우다 = to put forward / champion (a person, cause, principle)\n주장하다 = to argue / claim (an opinion or position)",
+      "example": "그를 후보로 내세웠다. / 자기 의견을 강하게 주장했다.",
+      "example_en": "They put him forward as a candidate. / He argued his opinion strongly."
+    },
+    {
+      "korean": "눈치 vs 분위기",
+      "english": "눈치 = social awareness; reading people (interpersonal)\n분위기 = atmosphere; mood; vibe (of a place or situation)",
+      "example": "눈치가 빨라서 바로 알아챘다. / 분위기가 좋은 카페다.",
+      "example_en": "He's perceptive so he caught on right away. / It's a cafe with a good vibe."
+    },
+    {
+      "korean": "삼가다 vs 자제하다",
+      "english": "삼가다 = to refrain from (respectful/formal, often warnings)\n자제하다 = to restrain oneself (self-control focused)",
+      "example": "음주를 삼가세요. / 감정을 자제해야 한다.",
+      "example_en": "Please refrain from drinking. / You need to restrain your emotions."
+    },
+    {
+      "korean": "헤아리다 vs 파악하다",
+      "english": "헤아리다 = to fathom/empathize (emotional, deeper understanding)\n파악하다 = to grasp/assess (analytical, factual understanding)",
+      "example": "남의 마음을 헤아리다. / 상황을 정확히 파악하다.",
+      "example_en": "To fathom someone's feelings. / To accurately grasp the situation."
+    }
+  ],
+  "격식 & 문어체 (Formal & Written)": [
+    {
+      "korean": "~에 불과하다",
+      "english": "to be merely; nothing more than",
+      "example": "이것은 시작에 불과하다.",
+      "example_en": "This is merely the beginning."
+    },
+    {
+      "korean": "~을/를 불문하고",
+      "english": "regardless of",
+      "example": "남녀를 불문하고 지원 가능합니다.",
+      "example_en": "You can apply regardless of gender."
+    },
+    {
+      "korean": "~에 입각하여",
+      "english": "based on; grounded in",
+      "example": "사실에 입각하여 판단해야 한다.",
+      "example_en": "You must judge based on facts."
+    },
+    {
+      "korean": "~에 준하는",
+      "english": "equivalent to; on par with",
+      "example": "정규직에 준하는 대우를 받는다.",
+      "example_en": "Receiving treatment on par with full-time employees."
+    },
+    {
+      "korean": "~을/를 위시하여",
+      "english": "starting with; led by",
+      "example": "대통령을 위시하여 관계자들이 참석했다.",
+      "example_en": "Officials attended, led by the president."
+    },
+    {
+      "korean": "~에 여념이 없다",
+      "english": "to be absorbed in; devoted entirely to",
+      "example": "그는 연구에 여념이 없다.",
+      "example_en": "He is entirely absorbed in research."
+    },
+    {
+      "korean": "~을/를 상기하다",
+      "english": "to recall; to be reminded of",
+      "example": "초심을 상기해야 할 때다.",
+      "example_en": "It's time to recall our original intentions."
+    },
+    {
+      "korean": "~에 기인하다",
+      "english": "to be attributable to; to originate from",
+      "example": "이 문제는 소통 부재에 기인한다.",
+      "example_en": "This problem is attributable to a lack of communication."
+    },
+    {
+      "korean": "~을/를 방불케 하다",
+      "english": "to be reminiscent of; to rival",
+      "example": "전쟁터를 방불케 하는 현장이었다.",
+      "example_en": "It was a scene reminiscent of a battlefield."
+    },
+    {
+      "korean": "~에 이바지하다",
+      "english": "to contribute to",
+      "example": "사회 발전에 이바지하고 싶다.",
+      "example_en": "I want to contribute to the development of society."
+    }
+  ],
+  "사자성어 & 관용어 (Idioms)": [
+    {
+      "korean": "갈수록 태산",
+      "english": "Things keep getting harder (lit. 'the further you go, the bigger the mountain')",
+      "example": "해결하려고 했는데 갈수록 태산이다.",
+      "example_en": "I tried to resolve it but things just keep getting harder."
+    },
+    {
+      "korean": "우이독경",
+      "english": "Like talking to a wall (lit. 'reading sutras to a cow's ear')",
+      "hanja": "牛耳讀經",
+      "example": "아무리 말해도 우이독경이야.",
+      "example_en": "No matter what I say, it's like talking to a wall."
+    },
+    {
+      "korean": "자업자득",
+      "english": "You reap what you sow (lit. 'your own doing, your own reward')",
+      "hanja": "自業自得",
+      "example": "그건 자업자득이지.",
+      "example_en": "That's what you get (you brought it on yourself)."
+    },
+    {
+      "korean": "눈 밖에 나다",
+      "english": "To fall out of favor",
+      "example": "상사 눈 밖에 나면 힘들어진다.",
+      "example_en": "If you fall out of your boss's favor, things get tough."
+    },
+    {
+      "korean": "배보다 배꼽이 더 크다",
+      "english": "The tail wagging the dog (lit. 'the belly button is bigger than the belly')",
+      "example": "수리비가 배보다 배꼽이 더 크다.",
+      "example_en": "The repair cost is more than the thing itself."
+    },
+    {
+      "korean": "손이 크다",
+      "english": "To be generous (lit. 'big hands') — esp. with food/hosting",
+      "example": "우리 엄마는 손이 커서 항상 많이 해.",
+      "example_en": "My mom is generous so she always makes a lot."
+    },
+    {
+      "korean": "발이 넓다",
+      "english": "Well-connected; knows many people (lit. 'wide feet')",
+      "example": "그 사람은 발이 넓어서 어디든 아는 사람이 있다.",
+      "example_en": "He's so well-connected that he knows someone everywhere."
+    },
+    {
+      "korean": "간에 기별도 안 가다",
+      "english": "Not even enough to notice (of food — still hungry)",
+      "example": "이거 먹어도 간에 기별도 안 간다.",
+      "example_en": "Even after eating this, I don't feel a thing."
+    },
+    {
+      "korean": "입이 짧다",
+      "english": "Picky eater (lit. 'short mouth')",
+      "example": "아이가 입이 짧아서 먹이기 힘들다.",
+      "example_en": "The kid is a picky eater so it's hard to feed them."
+    },
+    {
+      "korean": "어깨가 무겁다",
+      "english": "To bear a heavy burden/responsibility (lit. 'heavy shoulders')",
+      "example": "팀장이 되니까 어깨가 무겁다.",
+      "example_en": "Now that I'm team lead, the weight on my shoulders is heavy."
+    }
+  ]
+}
