@@ -130,10 +130,10 @@ def rating_prompt() -> int | None:
     """Ask the user to self-rate after seeing the answer. Returns SRS quality."""
     from srs import AGAIN, HARD, GOOD, EASY
     console.print(
-        "  [bright_red][1] Again[/]  "
-        "[yellow][2] Hard[/]  "
-        "[bright_green][3] Good[/]  "
-        "[bright_cyan][4] Easy[/]"
+        "  [bright_red][1] Again[/] [dim]didn't know[/]  "
+        "[yellow][2] Hard[/] [dim]struggled[/]  "
+        "[bright_green][3] Good[/] [dim]knew it[/]  "
+        "[bright_cyan][4] Easy[/] [dim]effortless[/]"
     )
     while True:
         choice = Prompt.ask("[dim]Rate[/]", default="3")
