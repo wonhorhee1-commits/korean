@@ -52,7 +52,9 @@ def mixed_review(srs: SRSEngine):
             korean = entry["korean"]
             english = entry["english"]
 
-            if random.random() < 0.5:
+            is_comparison = " vs " in korean
+
+            if is_comparison or random.random() < 0.5:
                 ui.show_card_prompt(korean, hint=entry.get("hanja"))
                 ui.console.print("[dim]What does this mean?[/dim]\n")
                 ui.ask("Your answer")
