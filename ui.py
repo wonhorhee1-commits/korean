@@ -56,6 +56,15 @@ def show_card_prompt(korean: str, hint: str | None = None):
     console.print(Panel(content, box=box.ROUNDED, border_style="bright_blue", padding=(1, 3)))
 
 
+def show_answer(answer: str, explanation: str | None = None):
+    """Reveal the answer (self-rated, no correct/incorrect judgment)."""
+    parts = [Text(answer, style="bold white")]
+    if explanation:
+        parts.append(Text(f"\n{explanation}", style="dim"))
+    content = Text.assemble(*parts)
+    console.print(Panel(content, box=box.ROUNDED, border_style="bright_blue", padding=(0, 2)))
+
+
 def show_result(correct: bool, answer: str, explanation: str | None = None):
     if correct:
         mark = Text("✓ Correct!", style="bold bright_green")
@@ -121,10 +130,10 @@ def rating_prompt() -> int | None:
     """Ask the user to self-rate after seeing the answer. Returns SRS quality."""
     from srs import AGAIN, HARD, GOOD, EASY
     console.print(
-        "  [bright_red][1] Again[/]  "
-        "[yellow][2] Hard[/]  "
-        "[bright_green][3] Good[/]  "
-        "[bright_cyan][4] Easy[/]"
+        "  [bright_red][1] Again[/] [dim]didn't know[/]  "
+        "[yellow][2] Hard[/] [dim]struggled[/]  "
+        "[bright_green][3] Good[/] [dim]knew it[/]  "
+        "[bright_cyan][4] Easy[/] [dim]effortless[/]"
     )
     while True:
         choice = Prompt.ask("[dim]Rate[/]", default="3")

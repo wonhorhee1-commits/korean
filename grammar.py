@@ -78,7 +78,7 @@ def run_drill(srs: SRSEngine, session_size: int = 10):
         ui.console.print()
 
         # Reveal meaning + explanation
-        ui.show_result(True, meaning, explanation=explanation)
+        ui.show_answer(meaning, explanation=explanation)
         ui.console.print()
 
         # Show examples

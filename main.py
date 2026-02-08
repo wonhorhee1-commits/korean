@@ -57,13 +57,13 @@ def mixed_review(srs: SRSEngine):
                 ui.console.print("[dim]What does this mean?[/dim]\n")
                 ui.ask("Your answer")
                 ui.console.print()
-                ui.show_result(True, english)
+                ui.show_answer(english)
             else:
                 ui.show_card_prompt(english)
                 ui.console.print("[dim]What is this in Korean?[/dim]\n")
                 ui.ask("Your answer")
                 ui.console.print()
-                ui.show_result(True, korean, explanation=entry.get("notes"))
+                ui.show_answer(korean, explanation=entry.get("notes"))
 
             if "example" in entry:
                 ui.show_example(entry["example"], entry.get("example_en"))
@@ -79,7 +79,7 @@ def mixed_review(srs: SRSEngine):
             ui.console.print("[dim]What does this pattern mean?[/dim]\n")
             ui.ask("Your answer")
             ui.console.print()
-            ui.show_result(True, meaning, explanation=explanation)
+            ui.show_answer(meaning, explanation=explanation)
             ui.console.print()
 
             for ex in examples:
