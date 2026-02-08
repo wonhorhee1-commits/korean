@@ -74,13 +74,13 @@ class SRSEngine:
 
     def _load(self) -> None:
         if self.progress_file.exists():
-            data = json.loads(self.progress_file.read_text())
+            data = json.loads(self.progress_file.read_text(encoding="utf-8"))
             for card_id, card_data in data.items():
                 self.cards[card_id] = Card(**card_data)
 
     def save(self) -> None:
         data = {cid: asdict(card) for cid, card in self.cards.items()}
-        self.progress_file.write_text(json.dumps(data, indent=2, ensure_ascii=False))
+        self.progress_file.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
     def get_card(self, card_id: str) -> Card:
         if card_id not in self.cards:
