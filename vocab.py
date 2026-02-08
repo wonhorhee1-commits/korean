@@ -70,8 +70,10 @@ def run_drill(srs: SRSEngine, session_size: int = 15):
         korean = entry["korean"]
         english = entry["english"]
 
-        # Randomly choose direction
-        if random.random() < 0.5:
+        # For "vs" comparison cards, only show Korean → English (no flip)
+        is_comparison = " vs " in korean
+
+        if is_comparison or random.random() < 0.5:
             # Korean → English
             ui.show_card_prompt(korean, hint=entry.get("hanja"))
             ui.console.print("[dim]What does this mean?[/dim]\n")
