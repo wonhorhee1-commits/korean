@@ -1,0 +1,274 @@
+{
+  "격식 & 문어체 (Formal & Written)": [
+    {
+      "korean": "정중히 사양하다",
+      "english": "to politely decline/refuse",
+      "example": "감사한 제안이지만, 일정상의 사유로 정중히 사양하겠습니다.",
+      "example_en": "It is a kind offer, but I must politely decline due to scheduling reasons."
+    },
+    {
+      "korean": "부득이하게 거절하다",
+      "english": "to decline unavoidably; to refuse due to circumstances beyond one's control",
+      "example": "내부 규정에 따라 부득이하게 거절하게 된 점 양해 부탁드립니다.",
+      "example_en": "We ask for your understanding that we must unavoidably decline in accordance with internal regulations."
+    },
+    {
+      "korean": "수용하기 어렵다",
+      "english": "to be difficult to accept (diplomatic refusal)",
+      "example": "현 시점에서 해당 조건을 수용하기 어려운 상황입니다.",
+      "example_en": "At this point in time, we are in a situation where it is difficult to accept those terms."
+    },
+    {
+      "korean": "재고의 여지가 없다",
+      "english": "there is no room for reconsideration",
+      "example": "이번 결정은 최종적인 것으로, 재고의 여지가 없음을 알려 드립니다.",
+      "example_en": "We inform you that this decision is final and there is no room for reconsideration."
+    },
+    {
+      "korean": "심려를 끼쳐 드려 죄송합니다",
+      "english": "I am sorry to have caused you concern (formal apology/soft refusal)",
+      "example": "이번 건으로 심려를 끼쳐 드려 죄송합니다만, 저희 입장을 말씀드리겠습니다.",
+      "example_en": "We apologize for causing you concern over this matter, but allow us to explain our position."
+    },
+    {
+      "korean": "난색을 표하다",
+      "english": "to express reluctance; to show difficulty (in accepting)",
+      "example": "상대 측에서 추가 비용 부담에 대해 난색을 표하였습니다.",
+      "example_en": "The other party expressed reluctance regarding the additional cost burden."
+    },
+    {
+      "korean": "불가피하게",
+      "english": "unavoidably; inevitably (formal adverb)",
+      "example": "예산 삭감으로 인해 불가피하게 사업 규모를 축소하게 되었습니다.",
+      "example_en": "Due to budget cuts, we have unavoidably had to reduce the scale of the project."
+    },
+    {
+      "korean": "응하기 곤란하다",
+      "english": "to be difficult to comply with (polite refusal)",
+      "example": "말씀하신 일정에는 응하기 곤란한 점 널리 이해해 주시기 바랍니다.",
+      "example_en": "We ask for your broad understanding that it is difficult for us to comply with the proposed schedule."
+    },
+    {
+      "korean": "유감을 표명하다",
+      "english": "to express regret (diplomatic/formal)",
+      "example": "이번 사태에 대해 깊은 유감을 표명하는 바입니다.",
+      "example_en": "We hereby express deep regret regarding this incident."
+    },
+    {
+      "korean": "안건을 부의하다",
+      "english": "to submit/bring up an agenda item (for deliberation)",
+      "example": "다음 이사회에서 해당 안건을 부의할 예정입니다.",
+      "example_en": "We plan to submit the agenda item for deliberation at the next board meeting."
+    },
+    {
+      "korean": "이의를 제기하다",
+      "english": "to raise an objection",
+      "example": "위원 두 명이 수정안에 대해 이의를 제기하였습니다.",
+      "example_en": "Two committee members raised objections to the amendment."
+    },
+    {
+      "korean": "표결에 부치다",
+      "english": "to put to a vote",
+      "example": "충분한 토론을 거친 후 해당 안건을 표결에 부치겠습니다.",
+      "example_en": "After sufficient deliberation, we will put the matter to a vote."
+    },
+    {
+      "korean": "동의를 구하다",
+      "english": "to seek consent/approval (in a meeting)",
+      "example": "위원장이 참석자들에게 회의 연장에 대한 동의를 구하였습니다.",
+      "example_en": "The chairperson sought consent from the attendees regarding the extension of the meeting."
+    },
+    {
+      "korean": "만장일치로 가결하다",
+      "english": "to pass unanimously",
+      "example": "해당 결의안은 만장일치로 가결되었습니다.",
+      "example_en": "The resolution was passed unanimously."
+    },
+    {
+      "korean": "정족수를 충족하다",
+      "english": "to meet the quorum",
+      "example": "출석 위원이 과반수를 넘어 정족수를 충족하였습니다.",
+      "example_en": "A majority of committee members were present, thus meeting the quorum."
+    },
+    {
+      "korean": "속기록을 남기다",
+      "english": "to keep a stenographic/verbatim record",
+      "example": "공청회에서는 발언 내용을 속기록으로 남기도록 하겠습니다.",
+      "example_en": "At the public hearing, we will keep a verbatim record of all statements."
+    },
+    {
+      "korean": "폐회를 선언하다",
+      "english": "to declare the meeting adjourned/closed",
+      "example": "모든 안건의 심의가 끝났으므로 폐회를 선언합니다.",
+      "example_en": "As deliberation on all agenda items has concluded, I hereby declare the meeting adjourned."
+    },
+    {
+      "korean": "의견을 개진하다",
+      "english": "to state/present one's opinion (formal)",
+      "example": "각 부서 대표가 차례로 의견을 개진하였습니다.",
+      "example_en": "Representatives from each department presented their opinions in turn."
+    },
+    {
+      "korean": "귀하",
+      "english": "Dear Sir/Madam; esteemed recipient (formal letter salutation)",
+      "example": "귀하의 건승과 발전을 기원합니다.",
+      "example_en": "We wish you good health and continued prosperity."
+    },
+    {
+      "korean": "상기 내용을 참고하시기 바랍니다",
+      "english": "please refer to the above (formal letter/email closing)",
+      "example": "변경된 일정은 첨부 파일과 같으니, 상기 내용을 참고하시기 바랍니다.",
+      "example_en": "The revised schedule is as per the attached file; please refer to the above."
+    },
+    {
+      "korean": "~에 관하여 통보 드립니다",
+      "english": "we hereby notify you regarding ~ (formal notice phrasing)",
+      "example": "계약 조건 변경에 관하여 통보 드립니다.",
+      "example_en": "We hereby notify you regarding the change in contract terms."
+    },
+    {
+      "korean": "조속한 회신을 부탁드립니다",
+      "english": "we kindly request a prompt reply",
+      "example": "상기 문의 사항에 대해 조속한 회신을 부탁드립니다.",
+      "example_en": "We kindly request a prompt reply regarding the above inquiry."
+    },
+    {
+      "korean": "수신: / 발신:",
+      "english": "To: / From: (formal letter/document header)",
+      "example": "공문 상단에는 수신과 발신을 명확히 기재해야 합니다.",
+      "example_en": "The recipient and sender must be clearly indicated at the top of an official document."
+    },
+    {
+      "korean": "별첨과 같이 송부 드립니다",
+      "english": "we send/forward (this) as per the attachment",
+      "example": "요청하신 자료를 별첨과 같이 송부 드리오니 확인 바랍니다.",
+      "example_en": "We are forwarding the requested materials as per the attachment; please confirm receipt."
+    },
+    {
+      "korean": "~을/를 통지하다",
+      "english": "to formally notify/give notice of",
+      "example": "임대차 계약 만료일 3개월 전에 갱신 여부를 통지해야 합니다.",
+      "example_en": "You must notify whether you intend to renew no later than three months before the lease expiration date."
+    },
+    {
+      "korean": "선처를 부탁드립니다",
+      "english": "I humbly ask for your leniency/favorable consideration",
+      "example": "사정을 감안하시어 선처를 부탁드립니다.",
+      "example_en": "Taking the circumstances into account, I humbly ask for your favorable consideration."
+    },
+    {
+      "korean": "~(으)ㄴ/는 점 널리 양해 바랍니다",
+      "english": "we ask for your broad understanding regarding ~ (formal apology/notice)",
+      "example": "시스템 점검으로 서비스가 일시 중단되는 점 널리 양해 바랍니다.",
+      "example_en": "We ask for your broad understanding that the service will be temporarily suspended due to system maintenance."
+    },
+    {
+      "korean": "삼가 고인의 명복을 빕니다",
+      "english": "we respectfully pray for the repose of the deceased",
+      "example": "유가족 여러분께 위로의 말씀을 드리며, 삼가 고인의 명복을 빕니다.",
+      "example_en": "We offer our condolences to the bereaved family and respectfully pray for the repose of the deceased."
+    },
+    {
+      "korean": "건승을 기원하다",
+      "english": "to wish (someone) good health and success (ceremonial)",
+      "example": "새해를 맞아 임직원 여러분의 건승을 기원합니다.",
+      "example_en": "On the occasion of the new year, we wish all executives and staff good health and success."
+    },
+    {
+      "korean": "축사를 올리다",
+      "english": "to deliver a congratulatory address",
+      "example": "총장님께서 졸업식에서 축사를 올리셨습니다.",
+      "example_en": "The university president delivered a congratulatory address at the graduation ceremony."
+    },
+    {
+      "korean": "헌정하다",
+      "english": "to dedicate (a work, award, etc.) to someone (ceremonial)",
+      "example": "이 상을 묵묵히 헌신해 오신 모든 분들께 헌정합니다.",
+      "example_en": "I dedicate this award to all those who have devoted themselves quietly."
+    },
+    {
+      "korean": "개회사를 하다",
+      "english": "to deliver an opening address",
+      "example": "학회장이 간략한 개회사를 한 뒤 기조 강연이 시작되었습니다.",
+      "example_en": "After the society president delivered a brief opening address, the keynote lecture began."
+    },
+    {
+      "korean": "봉축하다",
+      "english": "to celebrate reverently; to offer ceremonial congratulations",
+      "example": "부처님 오신 날을 맞아 전국 사찰에서 봉축 행사를 거행하였습니다.",
+      "example_en": "Celebratory ceremonies were held at temples nationwide on the occasion of Buddha's Birthday."
+    },
+    {
+      "korean": "추도사를 낭독하다",
+      "english": "to read a memorial eulogy",
+      "example": "유족 대표가 영전에서 추도사를 낭독하였습니다.",
+      "example_en": "A representative of the bereaved family read the memorial eulogy before the portrait of the deceased."
+    },
+    {
+      "korean": "임명장을 수여하다",
+      "english": "to confer/present a letter of appointment",
+      "example": "장관이 신임 대사에게 임명장을 수여하였습니다.",
+      "example_en": "The minister conferred the letter of appointment upon the newly appointed ambassador."
+    },
+    {
+      "korean": "소송을 제기하다",
+      "english": "to file a lawsuit",
+      "example": "피해자 측이 손해배상 소송을 제기하였습니다.",
+      "example_en": "The victim's side filed a lawsuit for damages."
+    },
+    {
+      "korean": "판결을 선고하다",
+      "english": "to pronounce/hand down a verdict",
+      "example": "재판부는 피고인에게 징역 3년을 선고하였습니다.",
+      "example_en": "The court sentenced the defendant to three years in prison."
+    },
+    {
+      "korean": "항소를 기각하다",
+      "english": "to dismiss/reject an appeal",
+      "example": "대법원은 피고 측의 항소를 기각하였습니다.",
+      "example_en": "The Supreme Court dismissed the defendant's appeal."
+    },
+    {
+      "korean": "구속 영장을 발부하다",
+      "english": "to issue an arrest warrant",
+      "example": "법원이 해당 용의자에 대한 구속 영장을 발부하였습니다.",
+      "example_en": "The court issued an arrest warrant for the suspect in question."
+    },
+    {
+      "korean": "진단을 내리다",
+      "english": "to make a diagnosis (medical, formal)",
+      "example": "담당 의사가 정밀 검사 결과를 바탕으로 최종 진단을 내렸습니다.",
+      "example_en": "The attending physician made the final diagnosis based on the results of the thorough examination."
+    },
+    {
+      "korean": "예후가 좋다/나쁘다",
+      "english": "the prognosis is good/poor (medical)",
+      "example": "조기에 발견한 덕분에 예후가 좋을 것으로 판단됩니다.",
+      "example_en": "Thanks to early detection, the prognosis is judged to be favorable."
+    },
+    {
+      "korean": "임상 시험을 실시하다",
+      "english": "to conduct a clinical trial",
+      "example": "신약에 대한 제3상 임상 시험을 실시할 예정입니다.",
+      "example_en": "A Phase 3 clinical trial for the new drug is scheduled to be conducted."
+    },
+    {
+      "korean": "학술 논문을 게재하다",
+      "english": "to publish an academic paper",
+      "example": "연구진은 해당 결과를 국제 학술지에 논문으로 게재하였습니다.",
+      "example_en": "The research team published the findings as a paper in an international academic journal."
+    },
+    {
+      "korean": "가설을 입증하다",
+      "english": "to prove/verify a hypothesis",
+      "example": "실험 결과가 기존 가설을 입증하는 데 결정적인 역할을 하였습니다.",
+      "example_en": "The experimental results played a decisive role in proving the existing hypothesis."
+    },
+    {
+      "korean": "동료 심사를 거치다",
+      "english": "to undergo peer review",
+      "example": "본 논문은 엄격한 동료 심사를 거쳐 게재가 승인되었습니다.",
+      "example_en": "This paper was approved for publication after undergoing rigorous peer review."
+    }
+  ]
+}
