@@ -10316,280 +10316,280 @@
       "english": "courtroom",
       "example": "피고인은 법정에 출석하여 자신의 입장을 밝혔다.",
       "example_en": "The defendant appeared in the courtroom and stated their position.",
-      "notes": "Collocates with 출석하다, 다투다. Related: 법원 (court as institution), 재판정. 법정 드라마 means courtroom drama."
+      "notes": "Sino-Korean: 法(법) + 廷(정) 'pavilion.' Collocates with 출석하다, 싸우다. Common mistake: confusing 법정 (courtroom) with 법원 (court building/institution). 법정 드라마 is a popular genre."
     },
     {
       "korean": "증인",
       "english": "witness",
       "example": "검찰 측 증인이 사건 당일의 상황을 상세히 증언했다.",
       "example_en": "The prosecution's witness testified in detail about the circumstances on the day of the incident.",
-      "notes": "Collocates with 출석하다, 증언하다, 심문하다. Compounds: 목격 증인 (eyewitness), 증인 보호 (witness protection)."
+      "notes": "Sino-Korean: 證(증) + 人(인) 'person.' Collocates with 출석하다, 증언하다, 심문하다. Types: 목격 증인 (eyewitness), 신청 증인 (requested witness). Key: 증인 보호법 (witness protection)."
     },
     {
       "korean": "변호인",
       "english": "defense attorney; defense counsel",
       "example": "변호인은 의뢰인의 무죄를 입증하기 위해 새로운 증거를 제출했다.",
       "example_en": "The defense attorney submitted new evidence to prove their client's innocence.",
-      "notes": "Formal term; casual is 변호사 (lawyer). Collocates with 선임하다 (retain). Related: 국선 변호인 (public defender)."
+      "notes": "Formal/legal term (변호사 is more casual). Sino-Korean: 辯(변) + 護(호) + 人(인) 'defender-person.' Always collocates with 선임하다 (retain). Related: 국선 변호인 (public defender). Criminal law term."
     },
     {
       "korean": "검사",
       "english": "prosecutor",
       "example": "담당 검사는 피고인에게 징역 10년을 구형했다.",
       "example_en": "The prosecutor requested a 10-year prison sentence for the defendant.",
-      "notes": "Homonym: 검사 also means examination/test. Context clarifies. Collocates with 담당, 구형하다. Related: 검찰 (prosecution)."
+      "notes": "Sino-Korean: 檢(검) + 査(사) 'inspect.' Homonym alert: also means 'examination/inspection' in non-legal contexts. Collocates with 담당, 구형하다 (request sentence). Related: 검찰청 (prosecutors' office)."
     },
     {
       "korean": "재판",
       "english": "trial; court proceedings",
       "example": "이번 재판은 국민적 관심이 집중된 가운데 진행되었다.",
       "example_en": "This trial proceeded amid intense public attention.",
-      "notes": "Collocates with 받다, 열리다, 진행되다. Compounds: 재판부 (panel of judges), 재판장 (presiding judge)."
+      "notes": "Sino-Korean: 裁(재) + 判(판) 'judge-decide.' Most common term for trial/court proceedings. Collocates with 받다, 열리다, 진행되다. Types: 1심, 항소심, 상고심. Broader than 공판."
     },
     {
       "korean": "배심원",
       "english": "juror; member of a jury",
       "example": "배심원단은 만장일치로 피고인의 유죄를 인정했다.",
       "example_en": "The jury unanimously found the defendant guilty.",
-      "notes": "Korean courts use 국민참여재판, not a full jury system. Collocates with 단 (panel), 평결 (verdict)."
+      "notes": "Sino-Korean: 配(배) + 審(심) + 員(원). In Korea, limited jury system (국민참여재판). Collocates with 단 (panel/group), 평결. Usage: always plural context (배심원단). Not traditional Korean law."
     },
     {
       "korean": "공판",
       "english": "public trial; court hearing",
       "example": "첫 공판에서 피고인은 모든 혐의를 부인했다.",
       "example_en": "At the first court hearing, the defendant denied all charges.",
-      "notes": "More formal than 재판. Collocates with 열리다, 진행되다. Compounds: 공판 기일 (trial date), 첫 공판 (first hearing)."
+      "notes": "Sino-Korean: 公(공) + 判(판). More formal than 재판, emphasizes 'public.' Collocates with 열리다, 첫 공판 (first hearing), 최종 공판. Written/legal register. Opposite: 비공개 재판 (closed hearing)."
     },
     {
       "korean": "변론",
       "english": "oral argument; pleading",
       "example": "양측 변호사가 최종 변론을 마친 후 판사가 판결을 내렸다.",
       "example_en": "After both attorneys completed their closing arguments, the judge delivered the verdict.",
-      "notes": "Collocates with 최종, 마치다. Related: 구두 변론 (oral argument), 준비서면 (written brief). Legal register only."
+      "notes": "Sino-Korean: 辯(변) + 論(론) 'argumentation.' Formal legal term; oral presentation. Collocates with 최종 변론 (closing argument), 마치다. Related: 준비서면 (written brief), 구두 변론 (oral pleading). Rare in spoken Korean."
     },
     {
       "korean": "심리",
       "english": "hearing; judicial deliberation",
       "example": "헌법재판소는 해당 법률에 대한 심리를 개시했다.",
       "example_en": "The Constitutional Court commenced deliberation on the law in question.",
-      "notes": "Homonym: 심리 also means psychology. Legal sense collocates with 개시하다, 진행하다. Related: 공개 심리 (public hearing)."
+      "notes": "Sino-Korean: 審(심) + 理(리) 'deliberate-order.' Homonym: also means 'psychology' (심리학). Legal context: deliberation by judge/court. Collocates with 개시하다, 공개 심리. Different from 심판 (judgment)."
     },
     {
       "korean": "선고",
       "english": "sentencing; pronouncement of judgment",
       "example": "선고 공판은 다음 달 15일로 예정되어 있다.",
       "example_en": "The sentencing hearing is scheduled for the 15th of next month.",
-      "notes": "Collocates with 공판, 내리다, 받다. Compounds: 선고 유예 (suspended pronouncement), 판결 선고 (sentencing)."
+      "notes": "Sino-Korean: 宣(선) + 告(고) 'announce-declare.' Specifically sentencing moment. Collocates with 공판, 내리다, 받다, 유예. Types: 선고 유예 (suspended pronouncement). Criminal law term."
     },
     {
       "korean": "약관",
       "english": "terms and conditions; standard contract terms",
       "example": "이용 약관을 꼼꼼히 읽지 않고 동의하면 나중에 불이익을 당할 수 있다.",
       "example_en": "If you agree without carefully reading the terms and conditions, you may face disadvantages later.",
-      "notes": "Collocates with 동의하다, 읽다. Related: 이용 약관 (terms of use), 불공정 약관 (unfair terms). Very common in digital life."
+      "notes": "Sino-Korean: 約(약) + 款(관). Modern term, very common in digital/business context. Collocates with 동의하다 (agree), 위반하다. Common mistake: forgetting to read terms. Related: 이용 약관, 불공정 약관."
     },
     {
       "korean": "위약금",
       "english": "penalty; liquidated damages; breach-of-contract fine",
       "example": "계약을 중도 해지하면 위약금을 물어야 한다.",
       "example_en": "If you terminate the contract early, you must pay a penalty.",
-      "notes": "Compound: 위약 (breach) + 금 (money). Collocates with 물다, 지급하다. Related: 계약 해지 (contract termination)."
+      "notes": "Sino-Korean: 違(위) + 約(약) + 金(금). Compound word easy to decode: breach + money. Collocates with 물다 (pay), 지급하다. Related: 계약 위반, 해지 (termination). Civil law context."
     },
     {
       "korean": "채무",
       "english": "obligation; debt (legal)",
       "example": "채무자가 채무를 이행하지 않으면 채권자가 법적 조치를 취할 수 있다.",
       "example_en": "If the debtor does not fulfill their obligation, the creditor can take legal action.",
-      "notes": "Opposite: 채권 (creditor right/bond). Collocates with 이행하다, 불이행. Compounds: 채무자 (debtor), 채무 조정 (restructuring)."
+      "notes": "Sino-Korean: 債(채) + 務(무) 'debt-duty.' Opposite: 채권 (claim/right). Collocates with 이행하다 (fulfill), 불이행 (non-performance). Related: 채무자 (debtor), 채권자 (creditor). Legal register."
     },
     {
       "korean": "보증인",
       "english": "guarantor; surety",
       "example": "함부로 보증인을 서면 큰 빚을 떠안을 수 있으니 신중해야 한다.",
       "example_en": "You must be careful because carelessly becoming a guarantor can saddle you with enormous debt.",
-      "notes": "Collocates with 서다 (stand as). Common warning: 보증은 서지 마라. Related: 연대 보증 (joint and several guarantee)."
+      "notes": "Sino-Korean: 保(보) + 證(증) + 人(인) 'guarantee-person.' Warning collocate: 보증은 서지 마라 (don't become surety). Collocates with 서다 (stand as). Related: 연대 보증 (joint and several guarantee). Critical in Korean contracts."
     },
     {
       "korean": "공증",
       "english": "notarization; notarial certification",
       "example": "부동산 매매 계약서는 공증을 받아 두는 것이 안전하다.",
       "example_en": "It is safer to have a real estate sales contract notarized.",
-      "notes": "Collocates with 받다, 사무소. Related: 공증인 (notary public), 인증 (certification). Common in real estate transactions."
+      "notes": "Sino-Korean: 公(공) + 證(증) 'public-certify.' Collocates with 받다 (receive), 사무소 (office). Related: 공증인 (notary public), 공증료 (notary fee). Essential for property transactions in Korea."
     },
     {
       "korean": "위임장",
       "english": "power of attorney; letter of delegation",
       "example": "본인이 직접 출석하지 못할 경우 위임장을 제출해야 한다.",
       "example_en": "If you cannot appear in person, you must submit a power of attorney.",
-      "notes": "Compound: 위임 (delegation) + 장 (document). Collocates with 제출하다, 작성하다. Related: 대리인 (representative/agent)."
+      "notes": "Sino-Korean: 位(위) + 任(임) + 장 (document). Compound: delegation + document suffix. Collocates with 제출하다 (submit), 작성하다 (prepare). Related: 대리인 (representative/agent), 위임 (delegation). Legal document term."
     },
     {
       "korean": "조항",
       "english": "clause; provision; article (of a contract or law)",
       "example": "이 계약서의 제5조 조항에 따르면 양측 모두 30일 전에 통보해야 한다.",
       "example_en": "According to the clause in Article 5 of this contract, both parties must give 30 days' notice.",
-      "notes": "Collocates with 제~조 (article number), 위반하다. Related: 단서 조항 (proviso), 부칙 (supplementary provisions)."
+      "notes": "Sino-Korean: 條(조) + 項(항) 'clause-item.' Collocates with 제~조 (Article ~), 위반하다 (violate). Compounds: 부칙 (supplementary), 단서 조항 (proviso). Written/formal: 조약 (treaty), 법률 (statute)."
     },
     {
       "korean": "갱신",
       "english": "renewal (of a contract, license, etc.)",
       "example": "임대차 계약이 만료되기 전에 갱신 여부를 통보해야 한다.",
       "example_en": "You must notify whether you will renew before the lease agreement expires.",
-      "notes": "Collocates with 자동, 거부하다. Also non-legal uses: 면허 갱신, 비자 갱신. Related: 연장 (extension)."
+      "notes": "Sino-Korean: 更(갱) + 新(신) 'renew-fresh.' Collocates with 자동 (automatic), 거부하다 (refuse), 기한. Also used: 면허 갱신 (license renewal), 비자 갱신. Related: 연장 (extension, longer term)."
     },
     {
       "korean": "하자",
       "english": "defect; flaw (legal: in a contract or product)",
       "example": "시공 하자가 발견되면 시공사에 보수를 요구할 수 있다.",
       "example_en": "If a construction defect is found, you can demand repairs from the contractor.",
-      "notes": "Collocates with 발견되다, 보수하다. Compounds: 하자 보수 (defect repair), 하자 담보 (warranty). Real estate/construction term."
+      "notes": "Sino-Korean: 瑕(하) + 疵(자) 'flaw-defect.' Collocates with 발견되다 (discovered), 보수하다 (repair). Compounds: 하자 보수 (warranty repair), 하자 담보기간 (warranty period). Real estate/construction critical term."
     },
     {
       "korean": "명의",
       "english": "registered name; title (legal ownership name)",
       "example": "부동산을 타인 명의로 등기하면 법적 분쟁의 소지가 있다.",
       "example_en": "Registering real estate under someone else's name can lead to legal disputes.",
-      "notes": "Collocates with 변경, 도용, 빌려주다. Compounds: 명의 도용 (identity theft), 차명 (borrowed-name). Important in Korean law."
+      "notes": "Sino-Korean: 名(명) + 義(의) 'name-form.' Collocates with 변경, 도용 (identity theft), 빌려주다 (loan name). Compound: 차명 (borrowed name). Korean property law: 명의 문제 is very common legal issue."
     },
     {
       "korean": "혐의",
       "english": "suspicion; criminal charges",
       "example": "경찰은 사기 혐의로 용의자를 긴급 체포했다.",
       "example_en": "The police arrested the suspect on charges of fraud.",
-      "notes": "Collocates with 받다, 부인하다, 인정하다. Compounds: 사기 혐의, 살인 혐의. Very frequent in Korean crime news."
+      "notes": "Sino-Korean: 嫌(혐) + 疑(의) 'suspicion-doubt.' Collocates with 받다 (face charges), 부인하다 (deny), 인정하다 (admit). Compounds: 사기 혐의, 살인 혐의. Ubiquitous in Korean crime news/정치."
     },
     {
       "korean": "피고인",
       "english": "defendant; the accused (in criminal proceedings)",
       "example": "피고인은 최후 진술에서 깊이 반성하고 있다고 밝혔다.",
       "example_en": "The defendant stated in the final statement that they deeply regret their actions.",
-      "notes": "Criminal case defendant. Civil equivalent: 피고. Collocates with 출석하다, 진술하다. Related: 원고 (plaintiff)."
+      "notes": "Sino-Korean: 被(피) + 告(고) + 人(인) 'accused-person.' Criminal defendant. Civil equivalent: 피고. Collocates with 출석하다 (appear), 진술하다 (state). Common pairing: 피고인과 피해자."
     },
     {
       "korean": "무죄",
       "english": "not guilty; innocence",
       "example": "결정적 증거가 부족하여 법원은 무죄를 선고했다.",
       "example_en": "Due to insufficient conclusive evidence, the court pronounced a not-guilty verdict.",
-      "notes": "Opposite: 유죄. Collocates with 선고하다, 주장하다, 입증하다. Compound: 무죄 추정 (presumption of innocence)."
+      "notes": "Sino-Korean: 無(무) + 罪(죄) 'without-guilt.' Opposite: 유죄. Collocates with 선고하다, 주장하다, 입증하다. Key concept: 무죄 추정 (presumption of innocence). Formal/legal register."
     },
     {
       "korean": "유죄",
       "english": "guilty; conviction",
       "example": "배심원단이 유죄 평결을 내리자 법정이 술렁였다.",
       "example_en": "When the jury delivered the guilty verdict, a murmur swept through the courtroom.",
-      "notes": "Opposite: 무죄. Collocates with 판결, 인정하다, 평결. Related: 유죄 확정 (conviction finalized)."
+      "notes": "Sino-Korean: 有(유) + 罪(죄) 'with-guilt.' Opposite: 무죄. Collocates with 판결, 인정하다, 평결 (verdict). Compound: 유죄 확정 (conviction finalized). Formal register only."
     },
     {
       "korean": "형량",
       "english": "length of sentence; severity of punishment",
       "example": "범행의 경중에 따라 형량이 크게 달라질 수 있다.",
       "example_en": "The length of the sentence can vary greatly depending on the severity of the crime.",
-      "notes": "Collocates with 정하다, 높다/낮다, 줄이다. Related: 양형 (sentencing), 감형 (sentence reduction). Legal register."
+      "notes": "Sino-Korean: 刑(형) + 量(량) 'sentence-measure.' Formal legal term; spoken: 징역/벌금 amount. Collocates with 정하다, 높다/낮다. Related: 양형 (sentencing principle), 감형 (sentence reduction). Rare in casual speech."
     },
     {
       "korean": "집행유예",
       "english": "suspended sentence; probation",
       "example": "초범인 점을 고려하여 법원은 징역 2년에 집행유예 3년을 선고했다.",
       "example_en": "Considering that it was a first offense, the court sentenced two years in prison suspended for three years.",
-      "notes": "Literally execution suspension. Collocates with 선고하다. If probation is violated, the original prison sentence is served."
+      "notes": "Sino-Korean: 執(집) + 行(행) + 猶(유) + 豫(예). Four-part compound = execution + suspension. Collocates with 선고하다. Critical: if violated, original sentence begins. Benefit: record doesn't show prison time."
     },
     {
       "korean": "벌금",
       "english": "fine (criminal penalty)",
       "example": "음주운전 적발 시 면허 취소와 함께 고액의 벌금이 부과된다.",
       "example_en": "When caught for drunk driving, a hefty fine is imposed along with license revocation.",
-      "notes": "Distinguished from 과태료 (administrative fine). Collocates with 부과하다, 납부하다. A criminal penalty recorded on one's record."
+      "notes": "Sino-Korean: 罰(벌) + 金(금) 'penalty-money.' Distinguished from 과태료 (administrative fine, non-criminal). Collocates with 부과하다 (impose), 납부하다 (pay). Goes on criminal record. More serious than 과태료."
     },
     {
       "korean": "공소",
       "english": "prosecution; public action (formal criminal charge)",
       "example": "검찰이 공소를 제기한 지 6개월 만에 첫 공판이 열렸다.",
       "example_en": "The first hearing was held six months after the prosecution filed the indictment.",
-      "notes": "Collocates with 제기하다, 취하하다. Compounds: 공소장 (indictment), 공소 시효 (statute of limitations). Formal legal term."
+      "notes": "Sino-Korean: 公(공) + 訴(소) 'public-lawsuit.' Formal criminal charge by prosecutor. Collocates with 제기하다 (file), 취하하다 (withdraw). Compounds: 공소장 (indictment), 공소 시효 (statute of limitations)."
     },
     {
       "korean": "자수",
       "english": "turning oneself in; voluntary surrender",
       "example": "도주 중이던 용의자가 양심의 가책을 느끼고 경찰에 자수했다.",
       "example_en": "The suspect, who had been on the run, turned himself in to the police out of guilt.",
-      "notes": "Collocates with 하다, 경찰에. May lead to 감형 (reduced sentence). Related: 출두 (appearing before authorities)."
+      "notes": "Sino-Korean: 自(자) + 首(수) 'self-surrender.' Turning oneself in to police. Collocates with 하다, 경찰에 (to police). Legal benefit: typically leads to 감형 (reduced sentence). Shows remorse/mitigates."
     },
     {
       "korean": "공범",
       "english": "accomplice; co-conspirator",
       "example": "경찰은 주범뿐 아니라 공범 두 명도 함께 검거했다.",
       "example_en": "The police apprehended not only the principal offender but also two accomplices.",
-      "notes": "Collocates with 검거하다. Related: 주범 (principal offender), 종범 (accessory), 교사범 (instigator). Criminal law term."
+      "notes": "Sino-Korean: 共(공) + 犯(범) 'co-offender.' Collocates with 검거하다 (apprehend). Ranking: 주범 (principal) > 공범. Related: 종범 (accessory after fact), 교사범 (instigator). Criminal law hierarchy."
     },
     {
       "korean": "원고",
       "english": "plaintiff (in a civil case)",
       "example": "원고 측은 피고의 과실로 인한 손해배상을 청구했다.",
       "example_en": "The plaintiff's side filed a claim for damages caused by the defendant's negligence.",
-      "notes": "Civil case plaintiff. Homonym: 원고 also means manuscript. Collocates with 측, 주장. Opposite: 피고 (defendant)."
+      "notes": "Sino-Korean: 原(원) + 告(고) 'original-accuse.' Civil plaintiff. Homonym: 원고 also means 'manuscript.' Collocates with 측 (side), 주장. Paired term: 피고 (defendant). Only in civil cases."
     },
     {
       "korean": "피고",
       "english": "defendant (in a civil case)",
       "example": "피고는 원고의 주장에 대해 반박 자료를 법원에 제출했다.",
       "example_en": "The defendant submitted rebuttal materials to the court against the plaintiff's claims.",
-      "notes": "Civil case defendant. Distinguished from 피고인 (criminal). Collocates with 측, 반박하다. Paired with 원고 (plaintiff)."
+      "notes": "Sino-Korean: 被(피) + 告(고) 'accused-person.' Civil defendant. Criminal equivalent: 피고인 (with 인). Collocates with 측, 반박하다 (rebut). Paired with 원고. Avoids 인 suffix in civil cases."
     },
     {
       "korean": "손해배상",
       "english": "damages; compensation for loss",
       "example": "법원은 피고에게 원고에 대한 손해배상 1억 원을 명령했다.",
       "example_en": "The court ordered the defendant to pay 100 million won in damages to the plaintiff.",
-      "notes": "Compound: 손해 (damage) + 배상 (compensation). Collocates with 청구하다, 소송. Related: 위자료 (damages for suffering)."
+      "notes": "Sino-Korean: 損(손) + 害(해) + 賠(배) + 償(상). Four-part: damage + compensation. Collocates with 청구하다 (claim), 소송. Related: 위자료 (emotional damages). Most common civil remedy in Korea."
     },
     {
       "korean": "가처분",
       "english": "injunction; provisional disposition",
       "example": "회사는 전직 임원의 경업 금지를 위해 가처분 신청을 냈다.",
       "example_en": "The company filed for a provisional injunction to prevent the former executive from competing.",
-      "notes": "Collocates with 신청, 결정. A temporary court order before final judgment. Related: 가압류 (provisional seizure of assets)."
+      "notes": "Sino-Korean: 假(가) + 處(처) + 分(분) 'provisional-order.' Temporary court order before final judgment. Collocates with 신청 (request), 결정. Related: 가압류 (provisional asset freeze). Important in urgent cases."
     },
     {
       "korean": "조정",
       "english": "mediation; conciliation (legal)",
       "example": "양측이 법원의 조정안을 받아들여 소송이 마무리되었다.",
       "example_en": "Both sides accepted the court's mediation proposal, and the lawsuit was concluded.",
-      "notes": "Homonym: 조정 also means adjustment or rowing. Legal sense: mediation between disputing parties, less adversarial than 소송."
+      "notes": "Sino-Korean: 調(조) + 整(정) 'harmonize-arrange.' Homonym: also means 'rowing' or 'adjustment.' Legal sense: mediation, less adversarial than 소송. Collocates with 신청하다, 받아들이다. Encouraged in family/neighbor disputes."
     },
     {
       "korean": "청구",
       "english": "claim; petition; demand (legal)",
       "example": "보험사는 과실 비율을 다투며 보험금 청구를 일부 거부했다.",
       "example_en": "The insurance company disputed the fault ratio and partially rejected the insurance claim.",
-      "notes": "Collocates with 하다, 기각하다, 인용하다. Compounds: 보험금 청구, 손해배상 청구. Common across legal and business contexts."
+      "notes": "Sino-Korean: 請(청) + 求(구) 'request-demand.' Most common legal/business term. Collocates with 하다, 기각하다 (dismiss), 인용하다 (grant). Compounds: 손해배상 청구, 보험금 청구. Very productive term."
     },
     {
       "korean": "상고",
       "english": "appeal to the Supreme Court; final appeal",
       "example": "피고 측은 항소심 판결에 불복하여 대법원에 상고했다.",
       "example_en": "The defendant's side appealed to the Supreme Court, contesting the appellate court's ruling.",
-      "notes": "Third and final appeal level. Order: 1심 (first instance) then 항소 (appeal) then 상고 (Supreme Court appeal)."
+      "notes": "Sino-Korean: 上(상) + 告(고) 'appeal-accuse.' Final appeal to Supreme Court (대법원). Order: 1심 → 항소 → 상고. Collocates with 하다, 기각. Related: 상고심 (Supreme Court proceedings). Rare in practice."
     },
     {
       "korean": "승소",
       "english": "winning a lawsuit; prevailing in court",
       "example": "3년간의 긴 법정 싸움 끝에 원고가 최종 승소했다.",
       "example_en": "After a three-year-long legal battle, the plaintiff ultimately prevailed.",
-      "notes": "Opposite: 패소. Collocates with 하다, 확정. Related: 일부 승소 (partial win). Always used in litigation context."
+      "notes": "Sino-Korean: 勝(승) + 訴(소) 'victory-lawsuit.' Winning verdict. Collocates with 하다, 확정 (finalized). Types: 전부 승소 (full win), 일부 승소 (partial win). Opposite: 패소. Litigation outcome."
     },
     {
       "korean": "패소",
       "english": "losing a lawsuit; defeat in court",
       "example": "패소한 측은 소송 비용까지 부담해야 하는 상황에 놓였다.",
       "example_en": "The losing side was placed in a situation where they had to bear the litigation costs as well.",
-      "notes": "Opposite: 승소. Collocates with 하다, 측. Related: 소송 비용 (litigation costs). The loser often bears court costs."
+      "notes": "Sino-Korean: 敗(패) + 訴(소) 'defeat-lawsuit.' Losing verdict. Collocates with 하다, 항소 (appeal). Consequence: often must pay 소송 비용 (court costs). Opposite: 승소. Neutral legal term."
     },
     {
       "korean": "강제집행",
       "english": "compulsory execution; enforcement (of a court order)",
       "example": "판결 후에도 배상금을 지급하지 않아 강제집행이 이루어졌다.",
       "example_en": "Since the damages were not paid even after the ruling, compulsory execution was carried out.",
-      "notes": "Collocates with 이루어지다, 신청하다. Types: 재산 압류, 부동산 경매. Last resort when a judgment is not voluntarily obeyed."
+      "notes": "Sino-Korean: 強(강) + 制(제) + 執(집) + 行(행). Four-part: force + execution. Enforcement of court order when judgment not obeyed. Collocates with 신청, 이루어지다. Types: 재산 압류, 부동산 경매. Last resort enforcement."
     }
   ],
   "주제별 단어 — 비즈니스 (Topic: Business)": [
@@ -28110,6 +28110,994 @@
       "english": "employment support",
       "example": "정부의 고용 지원 정책에 따라 기업이 장애인을 고용하면 세금 감면 혜택을 받을 수 있다.",
       "example_en": "Under the government's employment support policies, companies can receive tax benefits for hiring people with disabilities."
+    }
+  ],
+  "주제별 단어 — 법의학 (Topic: Forensics)": [
+    {
+      "korean": "법의학",
+      "english": "forensic pathology; forensic medicine",
+      "example": "법의학은 법정에서 사용될 증거를 과학적으로 분석하는 학문이다.",
+      "example_en": "Forensic pathology is the science of analyzing evidence used in court scientifically."
+    },
+    {
+      "korean": "과학수사",
+      "english": "scientific investigation; forensic investigation",
+      "example": "경찰청은 과학수사 기법을 이용해 범인을 추적했다.",
+      "example_en": "The police used scientific investigation techniques to track down the culprit."
+    },
+    {
+      "korean": "범죄 현장",
+      "english": "crime scene",
+      "example": "범죄 현장의 증거를 훼손하면 수사에 심각한 영향을 미친다.",
+      "example_en": "Tampering with evidence at a crime scene severely affects the investigation."
+    },
+    {
+      "korean": "증거 보관 관리",
+      "english": "chain of custody",
+      "example": "증거 보관 관리가 제대로 이루어지지 않으면 법정에서 증거로 인정받지 못할 수 있다.",
+      "example_en": "If chain of custody is not properly maintained, evidence may not be admissible in court."
+    },
+    {
+      "korean": "DNA 분석",
+      "english": "DNA analysis",
+      "example": "DNA 분석 결과가 용의자와 일치하여 범인임이 증명되었다.",
+      "example_en": "The DNA analysis matched the suspect, proving he was the culprit."
+    },
+    {
+      "korean": "지문 채취",
+      "english": "fingerprint collection",
+      "example": "경찰이 피의자의 손에서 지문을 채취하여 비교했다.",
+      "example_en": "Police collected fingerprints from the suspect's hands for comparison."
+    },
+    {
+      "korean": "법의관",
+      "english": "forensic pathologist; medical examiner",
+      "example": "법의관은 시신의 사인을 규명하기 위해 상세한 검사를 실시했다.",
+      "example_en": "The forensic pathologist conducted a detailed examination to determine the cause of death."
+    },
+    {
+      "korean": "증거 수집",
+      "english": "evidence collection",
+      "example": "범죄 현장의 철저한 증거 수집이 사건 해결의 핵심이었다.",
+      "example_en": "Thorough evidence collection at the crime scene was key to solving the case."
+    },
+    {
+      "korean": "혈흔",
+      "english": "blood stain; bloodstain",
+      "example": "혈흔 분석을 통해 용의자의 위치를 파악할 수 있었다.",
+      "example_en": "Through bloodstain analysis, the suspect's location could be determined."
+    },
+    {
+      "korean": "혈액형 검사",
+      "english": "blood type testing",
+      "example": "혈액형 검사는 용의자 선별의 초기 단계에서 중요한 역할을 한다.",
+      "example_en": "Blood type testing plays an important role in the initial stages of suspect screening."
+    },
+    {
+      "korean": "독성학",
+      "english": "toxicology",
+      "example": "독성학 검사 결과 피해자의 체내에서 독극물이 발견되었다.",
+      "example_en": "Toxicology tests revealed poison in the victim's body."
+    },
+    {
+      "korean": "독극물",
+      "english": "poison; toxic substance",
+      "example": "범인은 음식에 독극물을 섞어서 피해자를 살해했다.",
+      "example_en": "The perpetrator mixed poison into the food to kill the victim."
+    },
+    {
+      "korean": "약물 검사",
+      "english": "drug testing",
+      "example": "약물 검사를 통해 피해자가 마약을 투여받았음이 밝혀졌다.",
+      "example_en": "Drug testing revealed that the victim had been administered drugs."
+    },
+    {
+      "korean": "총기 거리측정",
+      "english": "ballistics",
+      "example": "총기 거리측정 전문가가 총구와의 거리를 추정했다.",
+      "example_en": "A ballistics expert estimated the distance from the gun barrel."
+    },
+    {
+      "korean": "총알",
+      "english": "bullet",
+      "example": "현장에서 발견된 총알은 등록된 총기의 종류와 일치했다.",
+      "example_en": "The bullet found at the scene matched the type of registered firearm."
+    },
+    {
+      "korean": "탄도 분석",
+      "english": "ballistic analysis; ballistics examination",
+      "example": "탄도 분석을 통해 총기의 종류를 특정할 수 있었다.",
+      "example_en": "Through ballistic analysis, the type of firearm could be identified."
+    },
+    {
+      "korean": "디지털 포렌식",
+      "english": "digital forensics",
+      "example": "디지털 포렌식 전문가가 용의자의 컴퓨터를 조사했다.",
+      "example_en": "A digital forensics expert examined the suspect's computer."
+    },
+    {
+      "korean": "프로파일링",
+      "english": "profiling; criminal profiling",
+      "example": "프로파일러는 범인의 심리적 특성을 분석하여 프로파일을 작성했다.",
+      "example_en": "The profiler analyzed the perpetrator's psychological characteristics and created a profile."
+    },
+    {
+      "korean": "범죄 프로필",
+      "english": "criminal profile",
+      "example": "범죄 프로필에 따르면 범인은 30대 남성일 가능성이 높다.",
+      "example_en": "According to the criminal profile, the perpetrator is likely a man in his 30s."
+    },
+    {
+      "korean": "현장 검증",
+      "english": "crime scene examination; on-site investigation",
+      "example": "현장 검증 과정에서 범인의 흔적을 발견했다.",
+      "example_en": "During the crime scene examination, traces of the perpetrator were found."
+    },
+    {
+      "korean": "흔적",
+      "english": "trace; evidence; clue",
+      "example": "현장에 남겨진 각종 흔적들이 수사의 단서가 되었다.",
+      "example_en": "Various traces left at the scene became clues in the investigation."
+    },
+    {
+      "korean": "증언",
+      "english": "testimony; statement",
+      "example": "법정에서 증인은 자신이 목격한 내용을 상세히 증언했다.",
+      "example_en": "In court, the witness testified in detail about what he witnessed."
+    },
+    {
+      "korean": "법의학 감정",
+      "english": "forensic expert examination; forensic evaluation",
+      "example": "법의학 감정 결과가 법정에서 증거로 제출되었다.",
+      "example_en": "The results of the forensic examination were submitted as evidence in court."
+    },
+    {
+      "korean": "사인",
+      "english": "cause of death",
+      "example": "부검을 통해 사인을 명확히 파악할 수 있었다.",
+      "example_en": "The cause of death was clearly determined through autopsy."
+    },
+    {
+      "korean": "외상",
+      "english": "trauma; external injury",
+      "example": "피해자의 신체에서 여러 개의 외상이 발견되었다.",
+      "example_en": "Multiple external injuries were found on the victim's body."
+    },
+    {
+      "korean": "법의학 해부",
+      "english": "forensic dissection; forensic autopsy",
+      "example": "법의학 해부를 통해 독극물이 발견되었다.",
+      "example_en": "Poison was discovered through forensic autopsy."
+    },
+    {
+      "korean": "흉기",
+      "english": "murder weapon; lethal weapon",
+      "example": "수사 과정에서 범행에 사용된 흉기가 발견되었다.",
+      "example_en": "The murder weapon used in the crime was found during the investigation."
+    },
+    {
+      "korean": "감정서",
+      "english": "expert report; forensic report",
+      "example": "법의관이 작성한 감정서는 재판에서 중요한 증거가 되었다.",
+      "example_en": "The expert report written by the forensic pathologist became important evidence at trial."
+    },
+    {
+      "korean": "휴대전화 기록",
+      "english": "cellular phone records; phone records",
+      "example": "용의자의 휴대전화 기록을 통해 범행 시간대를 특정할 수 있었다.",
+      "example_en": "Through the suspect's phone records, the time of the crime could be determined."
+    },
+    {
+      "korean": "폐쇄회로 텔레비전",
+      "english": "closed-circuit television; CCTV",
+      "example": "편의점의 폐쇄회로 텔레비전에 범인의 모습이 선명하게 담겼다.",
+      "example_en": "The perpetrator was clearly captured on the convenience store's CCTV."
+    },
+    {
+      "korean": "현장 분석",
+      "english": "crime scene analysis",
+      "example": "현장 분석을 통해 범행 순서와 범인의 행동을 재구성했다.",
+      "example_en": "Through crime scene analysis, the sequence of the crime and the perpetrator's actions were reconstructed."
+    },
+    {
+      "korean": "법 의료 증거",
+      "english": "legal medical evidence",
+      "example": "법 의료 증거들이 피고인의 유죄를 입증했다.",
+      "example_en": "Legal medical evidence proved the defendant's guilt."
+    }
+  ],
+  "주제별 단어 — 도자기/공예 (Topic: Ceramics & Crafts)": [
+    {
+      "korean": "물레",
+      "english": "potter's wheel",
+      "example": "도자기 장인은 물레 위에서 흙을 회전시키며 섬세하게 빚는다.",
+      "example_en": "The ceramicist carefully shapes clay on the potter's wheel by rotating it."
+    },
+    {
+      "korean": "성형하다",
+      "english": "to shape; to form",
+      "example": "이 항아리는 손으로 성형한 후 가마에서 구워진다.",
+      "example_en": "This jar is hand-formed and then fired in the kiln."
+    },
+    {
+      "korean": "태토",
+      "english": "clay body",
+      "example": "이 그릇의 태토는 매우 치밀하고 세련되었다.",
+      "example_en": "The clay body of this vessel is very dense and refined."
+    },
+    {
+      "korean": "코일링",
+      "english": "coiling technique",
+      "example": "코일링 기법은 인류 역사상 가장 오래된 도자기 제작 방법 중 하나다.",
+      "example_en": "Coiling is one of the oldest pottery-making methods in human history."
+    },
+    {
+      "korean": "가마",
+      "english": "kiln",
+      "example": "가마의 온도가 1200도에 도달했을 때 색이 변했다.",
+      "example_en": "The color changed when the kiln temperature reached 1200 degrees."
+    },
+    {
+      "korean": "등요",
+      "english": "climbing kiln; anagama",
+      "example": "이 도자기는 전통 등요에서 수일에 걸쳐 소성되었다.",
+      "example_en": "This ceramic was fired in a traditional climbing kiln over several days."
+    },
+    {
+      "korean": "소성",
+      "english": "firing",
+      "example": "첫 번째 소성은 900도에서 천천히 진행되어야 한다.",
+      "example_en": "The first firing must proceed slowly at 900 degrees."
+    },
+    {
+      "korean": "환원 소성",
+      "english": "reduction firing",
+      "example": "청자는 환원 소성으로만 그 독특한 비취색을 얻을 수 있다.",
+      "example_en": "Celadon can only achieve its distinctive jade-green color through reduction firing."
+    },
+    {
+      "korean": "산화 소성",
+      "english": "oxidation firing",
+      "example": "백자는 산화 소성 환경에서 구워져야 순백색이 나타난다.",
+      "example_en": "White porcelain must be fired in an oxidation environment to achieve pure white."
+    },
+    {
+      "korean": "유약",
+      "english": "glaze",
+      "example": "이 유약은 장석, 규사, 장석 성분을 특정 비율로 섞어 만들었다.",
+      "example_en": "This glaze is made by mixing feldspar, silica, and clay in specific proportions."
+    },
+    {
+      "korean": "유약칠하기",
+      "english": "glazing",
+      "example": "유약칠하기 전에 소지가 적절하게 건조되어야 균등한 코팅이 가능하다.",
+      "example_en": "Proper drying before glazing ensures uniform coating on the clay body."
+    },
+    {
+      "korean": "광택",
+      "english": "gloss; luster",
+      "example": "광택이 많은 유약은 햇빛에서 아름다운 반사를 만든다.",
+      "example_en": "Glossy glazes create beautiful reflections in sunlight."
+    },
+    {
+      "korean": "크래클",
+      "english": "crackle effect",
+      "example": "크래클은 유약과 흙의 수축 속도 차이로 인해 자연스럽게 생긴다.",
+      "example_en": "Crackle forms naturally due to different shrinkage rates between glaze and clay."
+    },
+    {
+      "korean": "점토",
+      "english": "clay",
+      "example": "순수한 점토는 주로 카올린, 장석, 규사로 이루어진다.",
+      "example_en": "Pure clay mainly consists of kaolin, feldspar, and silica."
+    },
+    {
+      "korean": "백토",
+      "english": "white clay; kaolin",
+      "example": "백토 함량이 높을수록 최종 도자기의 색이 더 희어진다.",
+      "example_en": "Higher white clay content results in whiter final ceramics."
+    },
+    {
+      "korean": "적토",
+      "english": "red clay; earthenware",
+      "example": "적토는 옛날 토기, 벽돌, 기와 제작에 널리 사용되었다.",
+      "example_en": "Red clay was widely used in ancient pottery, brick, and tile-making."
+    },
+    {
+      "korean": "청자",
+      "english": "celadon; green porcelain",
+      "example": "고려 청자는 세계 도자기 역사에서 가장 뛰어난 예술 작품으로 평가된다.",
+      "example_en": "Goryeo celadon is considered one of the finest artistic achievements in ceramic history."
+    },
+    {
+      "korean": "백자",
+      "english": "white porcelain",
+      "example": "조선 백자의 수려한 형태와 소박한 아름다움은 깊은 감동을 준다.",
+      "example_en": "The elegant form and understated beauty of Joseon white porcelain move the viewer deeply."
+    },
+    {
+      "korean": "분청사기",
+      "english": "buncheong; punch'ong ware",
+      "example": "분청사기는 청자의 우아함과 백자의 소박함을 동시에 담고 있다.",
+      "example_en": "Buncheong combines the elegance of celadon with the simplicity of white porcelain."
+    },
+    {
+      "korean": "삼색기",
+      "english": "tri-color ceramic; sancai ware",
+      "example": "당나라 삼색기는 초록, 갈색, 크림색의 화려한 색감이 특징이다.",
+      "example_en": "Tang dynasty tri-color ceramics feature vibrant green, brown, and cream colors."
+    },
+    {
+      "korean": "소지",
+      "english": "pottery body; clay surface",
+      "example": "이 항아리의 소지는 매끄럽고 견고하여 문양이 선명하게 드러난다.",
+      "example_en": "The smooth, sturdy clay body of this jar makes the patterns stand out clearly."
+    },
+    {
+      "korean": "고르다",
+      "english": "to smooth; to even out",
+      "example": "물레에서 벗겨낸 후 표면을 손으로 섬세하게 고르게 다듬었다.",
+      "example_en": "After removing it from the wheel, I smoothed out the surface delicately by hand."
+    },
+    {
+      "korean": "빚다",
+      "english": "to shape; to mold",
+      "example": "도공은 흙을 물레 위에서 자유롭게 빚어내며 형태를 만들었다.",
+      "example_en": "The potter freely molded the clay on the wheel to create the form."
+    },
+    {
+      "korean": "건조",
+      "english": "drying",
+      "example": "건조 중에 균열이 생기지 않도록 천천히 말려야 한다.",
+      "example_en": "It must be dried slowly to prevent cracks during the drying process."
+    },
+    {
+      "korean": "균열",
+      "english": "crack; fissure",
+      "example": "소성 후 급격한 냉각은 균열의 원인이 될 수 있다.",
+      "example_en": "Rapid cooling after firing can cause cracks."
+    },
+    {
+      "korean": "옻칠",
+      "english": "lacquerware; lacquered ware",
+      "example": "한국의 옻칠 공예는 수천 년의 역사를 가진 전통이다.",
+      "example_en": "Korean lacquerware is a tradition with thousands of years of history."
+    },
+    {
+      "korean": "나전칠기",
+      "english": "mother-of-pearl lacquerware; inlaid lacquerware",
+      "example": "나전칠기는 검은 옻칠 위에 조개껍질을 정교하게 박아 만든 공예품이다.",
+      "example_en": "Mother-of-pearl lacquerware is made by inlaying shell into black lacquer with precision."
+    },
+    {
+      "korean": "목공예",
+      "english": "woodcraft; woodworking",
+      "example": "전통 목공예 장인들은 나무의 결을 살려 독특한 가구와 공예품을 만든다.",
+      "example_en": "Traditional woodcraft masters create unique furniture and crafts by highlighting the wood grain."
+    },
+    {
+      "korean": "금속공예",
+      "english": "metalwork; metal crafts",
+      "example": "금속공예 장인은 금, 은, 동을 정교한 기술로 다루어 아름다운 장식품을 만든다.",
+      "example_en": "Metal craft masters skillfully work with gold, silver, and copper to create beautiful ornaments."
+    },
+    {
+      "korean": "수놓기",
+      "english": "embroidery",
+      "example": "세밀한 수놓기로 화려하고 복잡한 무늬를 표현하는 것은 매우 어려운 작업이다.",
+      "example_en": "Expressing vibrant, complex patterns through delicate embroidery is an extremely difficult task."
+    },
+    {
+      "korean": "서예",
+      "english": "calligraphy",
+      "example": "동양 서예는 먹의 농담과 필획의 강약으로 깊은 정취를 표현한다.",
+      "example_en": "Oriental calligraphy expresses deep sentiment through ink gradation and brush stroke variation."
+    },
+    {
+      "korean": "먹",
+      "english": "ink stick; sumi; Chinese ink",
+      "example": "상등품 먹은 향기로운 연기를 내며 부드럽게 벼루에 간다.",
+      "example_en": "High-quality ink grinds smoothly on the inkstone while producing fragrant smoke."
+    },
+    {
+      "korean": "벼루",
+      "english": "inkstone; grinding stone",
+      "example": "벼루는 먹을 물과 함께 갈아서 액체 먹을 만드는 전통 도구다.",
+      "example_en": "An inkstone is a traditional tool used to grind ink with water to make liquid ink."
+    },
+    {
+      "korean": "화선지",
+      "english": "rice paper; xuan paper",
+      "example": "화선지는 먹의 확산 정도를 조절하여 다양한 먹 표현이 가능하다.",
+      "example_en": "Rice paper allows various ink effects by controlling ink diffusion."
+    },
+    {
+      "korean": "문양",
+      "english": "pattern; design motif; decoration",
+      "example": "청자의 문양은 주로 자연의 식물과 동물을 테마로 한다.",
+      "example_en": "Celadon patterns are typically themed around natural plants and animals."
+    },
+    {
+      "korean": "소성온도",
+      "english": "firing temperature",
+      "example": "이 도자기를 제대로 만들려면 1250도 이상의 소성온도가 필요하다.",
+      "example_en": "This ceramic requires a firing temperature of at least 1250 degrees to be properly made."
+    },
+    {
+      "korean": "투명도",
+      "english": "transparency; translucency",
+      "example": "유약의 투명도가 높을수록 흙의 색감이 더 선명하게 드러난다.",
+      "example_en": "Higher glaze transparency makes the clay color more vivid and clear."
+    }
+  ],
+  "주제별 단어 — 인구/사회문제 (Topic: Demographics & Social Issues)": [
+    {
+      "korean": "저출산",
+      "english": "low birth rate",
+      "example": "한국의 저출산 현상이 심각해져서 정부에서 다양한 정책을 추진하고 있다.",
+      "example_en": "Korea's low birth rate issue has become serious, so the government is promoting various policies."
+    },
+    {
+      "korean": "고령화",
+      "english": "aging (of population)",
+      "example": "전 세계적으로 고령화 추세가 가속화되고 있으며, 이는 많은 국가에서 정책 과제가 되고 있다.",
+      "example_en": "The aging trend is accelerating globally, and it has become a policy issue in many countries."
+    },
+    {
+      "korean": "인구감소",
+      "english": "population decline",
+      "example": "지난 10년간 지방의 인구감소로 인해 폐교가 증가했다.",
+      "example_en": "Due to population decline in rural areas over the past decade, the number of closed schools has increased."
+    },
+    {
+      "korean": "인구증가",
+      "english": "population growth",
+      "example": "개발도상국의 빠른 인구증가는 환경 문제를 야기하고 있다.",
+      "example_en": "Rapid population growth in developing countries is causing environmental problems."
+    },
+    {
+      "korean": "인구밀도",
+      "english": "population density",
+      "example": "서울의 인구밀도는 세계 주요 도시 중에서도 가장 높은 수준이다.",
+      "example_en": "Seoul's population density is among the highest among major cities in the world."
+    },
+    {
+      "korean": "지역소멸",
+      "english": "regional depopulation; regional extinction",
+      "example": "지역소멸을 막기 위해 정부는 지방 일자리 창출에 집중하고 있다.",
+      "example_en": "To prevent regional depopulation, the government is focusing on creating jobs in local areas."
+    },
+    {
+      "korean": "시골 공동화",
+      "english": "rural hollowing out",
+      "example": "청년들이 도시로 나가면서 시골은 점점 공동화되고 있다.",
+      "example_en": "As young people move to cities, rural areas are becoming increasingly hollowed out."
+    },
+    {
+      "korean": "이민자",
+      "english": "immigrant",
+      "example": "이민자들이 지역 경제에 어떤 영향을 미치는지 연구하는 것이 중요하다.",
+      "example_en": "It is important to study what impact immigrants have on the local economy."
+    },
+    {
+      "korean": "다문화가족",
+      "english": "multicultural family",
+      "example": "다문화가족의 자녀들은 한국 사회에서 여러 어려움을 겪고 있다.",
+      "example_en": "Children of multicultural families face various difficulties in Korean society."
+    },
+    {
+      "korean": "부의 양극화",
+      "english": "wealth polarization",
+      "example": "부의 양극화는 중산층의 붕괴로 이어질 수 있다.",
+      "example_en": "Wealth polarization can lead to the collapse of the middle class."
+    },
+    {
+      "korean": "주택위기",
+      "english": "housing crisis",
+      "example": "젊은 세대는 주택위기로 인해 결혼과 출산을 미루고 있다.",
+      "example_en": "Young people are delaying marriage and childbirth due to the housing crisis."
+    },
+    {
+      "korean": "전세 사기",
+      "english": "jeonse (key money deposit) fraud",
+      "example": "최근 전세 사기 사건들이 언론에 크게 보도되고 있다.",
+      "example_en": "Recent jeonse fraud cases are being widely reported in the media."
+    },
+    {
+      "korean": "청년실업",
+      "english": "youth unemployment",
+      "example": "청년실업 문제를 해결하기 위해 정부의 과감한 정책이 필요하다.",
+      "example_en": "Bold government policies are needed to solve the youth unemployment problem."
+    },
+    {
+      "korean": "비정규직",
+      "english": "non-regular workers; precarious workers",
+      "example": "비정규직 노동자들은 정규직보다 훨씬 불안정한 고용 조건을 갖고 있다.",
+      "example_en": "Non-regular workers have much more unstable employment conditions than regular workers."
+    },
+    {
+      "korean": "남녀평등",
+      "english": "gender equality",
+      "example": "직장에서의 남녀평등을 실현하기 위한 법적 조치가 강화되고 있다.",
+      "example_en": "Legal measures to realize gender equality in the workplace are being strengthened."
+    },
+    {
+      "korean": "일과 생활의 균형",
+      "english": "work-life balance",
+      "example": "선진국들은 일과 생활의 균형을 중요시하는 문화를 만들고 있다.",
+      "example_en": "Advanced countries are creating a culture that values work-life balance."
+    },
+    {
+      "korean": "사회안전망",
+      "english": "social safety net",
+      "example": "강한 사회안전망은 사회 구성원들의 불안감을 덜어준다.",
+      "example_en": "A strong social safety net alleviates the anxiety of society's members."
+    },
+    {
+      "korean": "빈곤",
+      "english": "poverty",
+      "example": "절대적 빈곤뿐만 아니라 상대적 빈곤도 중요한 사회 문제이다.",
+      "example_en": "Not only absolute poverty but also relative poverty is an important social issue."
+    },
+    {
+      "korean": "상대적 빈곤",
+      "english": "relative poverty",
+      "example": "상대적 빈곤층은 사회에서 박탈감을 느끼기 쉽다.",
+      "example_en": "Those in relative poverty tend to feel a sense of deprivation in society."
+    },
+    {
+      "korean": "중산층 붕괴",
+      "english": "collapse of the middle class",
+      "example": "중산층 붕괴로 인해 사회의 양극화가 심화되고 있다.",
+      "example_en": "The collapse of the middle class is intensifying social polarization."
+    },
+    {
+      "korean": "자살률",
+      "english": "suicide rate",
+      "example": "한국의 자살률은 OECD 국가 중에서도 높은 편이다.",
+      "example_en": "Korea's suicide rate is relatively high among OECD countries."
+    },
+    {
+      "korean": "사망률",
+      "english": "mortality rate",
+      "example": "코로나19로 인해 일시적으로 사망률이 증가했다.",
+      "example_en": "The mortality rate temporarily increased due to COVID-19."
+    },
+    {
+      "korean": "기대수명",
+      "english": "life expectancy",
+      "example": "한국의 평균 기대수명은 지난 20년간 크게 증가했다.",
+      "example_en": "Korea's average life expectancy has increased significantly over the past 20 years."
+    },
+    {
+      "korean": "초고령화",
+      "english": "super-aging",
+      "example": "초고령화 사회에서는 노인 부양 문제가 핵심이다.",
+      "example_en": "In a super-aged society, elderly care is the key issue."
+    },
+    {
+      "korean": "구조적 실업",
+      "english": "structural unemployment",
+      "example": "산업 변화로 인한 구조적 실업을 해결하기 위해 재교육이 필수적이다.",
+      "example_en": "Retraining is essential to solve structural unemployment caused by industrial change."
+    },
+    {
+      "korean": "세대 간 갈등",
+      "english": "generational conflict",
+      "example": "MZ 세대와 기성 세대의 가치관 차이로 인한 세대 간 갈등이 심하다.",
+      "example_en": "Generational conflict due to differences in values between Gen MZ and older generations is severe."
+    },
+    {
+      "korean": "동거",
+      "english": "cohabitation",
+      "example": "혼외 동거는 한국 사회에서 점점 보편화되고 있다.",
+      "example_en": "Cohabitation without marriage is becoming increasingly common in Korean society."
+    },
+    {
+      "korean": "미혼율",
+      "english": "unmarried rate; rate of remaining single",
+      "example": "급증하는 미혼율은 출생률 저하와 깊은 연관이 있다.",
+      "example_en": "The rapidly increasing unmarried rate is closely related to the decline in birth rate."
+    },
+    {
+      "korean": "만혼화",
+      "english": "delayed marriage; trend toward marrying later",
+      "example": "만혼화 추세로 인해 평균 결혼 나이가 계속 올라가고 있다.",
+      "example_en": "Due to the trend of delayed marriage, the average age at marriage continues to rise."
+    },
+    {
+      "korean": "여성경제활동",
+      "english": "female labor force participation",
+      "example": "여성경제활동 참여율을 높이려면 직장 문화 개선이 필요하다.",
+      "example_en": "To increase female labor force participation, workplace culture improvement is needed."
+    },
+    {
+      "korean": "육아휴직",
+      "english": "parental leave; childcare leave",
+      "example": "남성 육아휴직 사용률이 점점 증가하고 있다.",
+      "example_en": "The rate of male parental leave usage is gradually increasing."
+    },
+    {
+      "korean": "사회갈등",
+      "english": "social conflict",
+      "example": "빈부격차로 인한 사회갈등이 심화되는 것을 우려하는 전문가들이 많다.",
+      "example_en": "Many experts are concerned about intensifying social conflict due to income inequality."
+    },
+    {
+      "korean": "노인 부양",
+      "english": "elderly care; support for the elderly",
+      "example": "자녀 세대의 노인 부양 부담이 점점 커지고 있다.",
+      "example_en": "The burden of elderly care on the younger generation is increasing."
+    }
+  ],
+  "주제별 단어 — 무용/댄스 (Topic: Dance)": [
+    {
+      "korean": "현대무용",
+      "english": "contemporary dance",
+      "example": "현대무용 공연에서는 전통적인 음악 대신 실험적인 사운드를 사용하기도 한다.",
+      "example_en": "In contemporary dance performances, experimental sounds are sometimes used instead of traditional music."
+    },
+    {
+      "korean": "전통무용",
+      "english": "traditional dance",
+      "example": "한국의 전통무용은 우리 민족의 정서와 역사를 담고 있다.",
+      "example_en": "Korean traditional dance embodies the emotions and history of our people."
+    },
+    {
+      "korean": "부채춤",
+      "english": "fan dance",
+      "example": "부채춤은 우아한 동작과 선명한 라인으로 매력적인 한국 전통무용이다.",
+      "example_en": "Fan dance is a charming Korean traditional dance characterized by graceful movements and sharp lines."
+    },
+    {
+      "korean": "사물놀이",
+      "english": "nongak (Korean percussion performance)",
+      "example": "사물놀이는 징, 장고, 북, 꽹과리 네 가지 악기로 이루어진 한국 전통 공연 예술이다.",
+      "example_en": "Nongak is a traditional Korean performance art consisting of four instruments: jing, janggu, buk, and kkwaenggwari."
+    },
+    {
+      "korean": "동작",
+      "english": "movement/motion",
+      "example": "이 안무의 특징은 빠른 동작과 느린 동작이 극명하게 대비되는 것이다.",
+      "example_en": "The characteristic of this choreography is the stark contrast between fast and slow movements."
+    },
+    {
+      "korean": "스텝",
+      "english": "step (dancing movement)",
+      "example": "발레의 기본 스텝들을 마스터하는 데 수년이 걸린다.",
+      "example_en": "It takes years to master the basic steps of ballet."
+    },
+    {
+      "korean": "포즈",
+      "english": "pose",
+      "example": "마지막 포즈를 우아하게 결정하는 것이 무용 공연의 성공을 좌우한다.",
+      "example_en": "Gracefully concluding with a final pose determines the success of a dance performance."
+    },
+    {
+      "korean": "회전",
+      "english": "spin/rotation",
+      "example": "발레에서 회전 기술은 무용수의 실력을 평가하는 중요한 요소다.",
+      "example_en": "In ballet, spinning technique is an important factor in evaluating a dancer's skill."
+    },
+    {
+      "korean": "점프",
+      "english": "jump",
+      "example": "높은 점프를 안정적으로 착지하는 것은 발레 기본기 중 하나다.",
+      "example_en": "Landing a high jump stably is one of the fundamentals of ballet."
+    },
+    {
+      "korean": "착지",
+      "english": "landing",
+      "example": "점프 후 착지할 때 무릎을 부드럽게 굽혀서 충격을 흡수해야 한다.",
+      "example_en": "When landing after a jump, you must bend your knees gently to absorb impact."
+    },
+    {
+      "korean": "음악",
+      "english": "music",
+      "example": "현대무용에서는 클래식 음악뿐만 아니라 다양한 장르의 음악이 사용된다.",
+      "example_en": "Contemporary dance uses not only classical music but also various music genres."
+    },
+    {
+      "korean": "무대장치",
+      "english": "stage set/scenery",
+      "example": "창의적인 무대장치는 무용 공연을 더욱 인상적으로 만든다.",
+      "example_en": "Creative stage sets make dance performances even more impressive."
+    },
+    {
+      "korean": "유연성",
+      "english": "flexibility",
+      "example": "무용수들은 몸의 유연성을 늘리기 위해 매일 스트레칭을 한다.",
+      "example_en": "Dancers stretch daily to increase their body's flexibility."
+    },
+    {
+      "korean": "표현력",
+      "english": "expressiveness",
+      "example": "좋은 무용수는 뛰어난 기술뿐만 아니라 풍부한 표현력을 가져야 한다.",
+      "example_en": "A good dancer must have not only excellent technique but also rich expressiveness."
+    },
+    {
+      "korean": "우아함",
+      "english": "grace/elegance",
+      "example": "발레의 특징은 모든 동작에서 우아함을 유지하는 것이다.",
+      "example_en": "The characteristic of ballet is maintaining grace in all movements."
+    },
+    {
+      "korean": "자세",
+      "english": "posture",
+      "example": "올바른 자세는 무용 기초 훈련의 첫 번째 단계다.",
+      "example_en": "Correct posture is the first step in basic dance training."
+    },
+    {
+      "korean": "기본 동작",
+      "english": "basic movement",
+      "example": "모든 무용 스타일을 배우기 전에 기본 동작부터 완벽하게 익혀야 한다.",
+      "example_en": "Before learning any dance style, you must first master the basic movements perfectly."
+    },
+    {
+      "korean": "발레화",
+      "english": "ballet shoes",
+      "example": "발레화의 발끝은 특별한 처리가 되어 있어 무용수가 발끝으로 설 수 있게 한다.",
+      "example_en": "Ballet shoes have special construction at the toe allowing dancers to stand on their toes."
+    },
+    {
+      "korean": "튀튀",
+      "english": "tutu",
+      "example": "튀튀 스커트의 길이는 발레 작품의 종류에 따라 달라진다.",
+      "example_en": "The length of a tutu skirt varies depending on the type of ballet piece."
+    },
+    {
+      "korean": "무용 치료",
+      "english": "dance therapy",
+      "example": "무용 치료는 신체와 정신 건강을 동시에 개선하는 효과적인 방법이다.",
+      "example_en": "Dance therapy is an effective method for improving both physical and mental health."
+    },
+    {
+      "korean": "경연대회",
+      "english": "competition/contest",
+      "example": "국제 무용 경연대회에 참가하는 것은 무용수의 경력에 중요한 이정표가 된다.",
+      "example_en": "Participating in international dance competitions is an important milestone in a dancer's career."
+    },
+    {
+      "korean": "무용단",
+      "english": "dance company/troupe",
+      "example": "그 무용단은 전통무용과 현대무용을 모두 공연하는 것으로 유명하다.",
+      "example_en": "That dance company is known for performing both traditional and contemporary dance."
+    },
+    {
+      "korean": "움직임",
+      "english": "movement",
+      "example": "무용수의 부드러운 움직임이 관객들을 매료시킨다.",
+      "example_en": "The graceful movements of dancers captivate the audience."
+    }
+  ],
+  "주제별 단어 — 생명공학 (Topic: Biotechnology)": [
+    {
+      "korean": "유전자 편집",
+      "english": "gene editing",
+      "example": "CRISPR를 이용한 유전자 편집은 많은 유전질환 치료에 혁신을 일으켰다.",
+      "example_en": "Gene editing using CRISPR has revolutionized the treatment of many genetic diseases."
+    },
+    {
+      "korean": "크리스퍼-카스9",
+      "english": "CRISPR-Cas9",
+      "example": "크리스퍼-카스9 기술은 DNA의 특정 부분을 정교하게 절단할 수 있다.",
+      "example_en": "CRISPR-Cas9 technology can precisely cut specific sections of DNA."
+    },
+    {
+      "korean": "염기 서열",
+      "english": "base sequence",
+      "example": "인간 게놈의 염기 서열은 약 30억 개의 염기로 구성되어 있다.",
+      "example_en": "The human genome's base sequence consists of approximately 3 billion bases."
+    },
+    {
+      "korean": "유전자 가위",
+      "english": "genetic scissors",
+      "example": "과학자들은 유전자 가위를 이용하여 질병을 유발하는 유전자를 제거했다.",
+      "example_en": "Scientists used genetic scissors to remove genes that cause disease."
+    },
+    {
+      "korean": "복제",
+      "english": "cloning",
+      "example": "동물 복제 기술은 1996년 돌리양의 탄생으로 현실화되었다.",
+      "example_en": "Animal cloning technology became reality with the birth of Dolly the sheep in 1996."
+    },
+    {
+      "korean": "배아복제",
+      "english": "embryonic cloning",
+      "example": "배아복제는 배아 분할을 통해 동일한 유전자를 가진 개체를 만드는 방식이다.",
+      "example_en": "Embryonic cloning creates identical individuals by dividing embryos."
+    },
+    {
+      "korean": "조직배양",
+      "english": "tissue culture",
+      "example": "의료진들은 조직배양 기술을 통해 손상된 장기를 재생시키고 있다.",
+      "example_en": "Medical professionals are regenerating damaged organs through tissue culture techniques."
+    },
+    {
+      "korean": "줄기세포",
+      "english": "stem cell",
+      "example": "줄기세포는 다양한 세포 유형으로 분화될 수 있는 능력이 있다.",
+      "example_en": "Stem cells have the ability to differentiate into various cell types."
+    },
+    {
+      "korean": "배아줄기세포",
+      "english": "embryonic stem cell",
+      "example": "배아줄기세포의 다분화능은 신경계 질환 치료에 큰 가능성을 보여준다.",
+      "example_en": "The pluripotency of embryonic stem cells shows great potential for treating neurological disorders."
+    },
+    {
+      "korean": "역분화",
+      "english": "dedifferentiation",
+      "example": "유도만능줄기세포는 성숙한 세포의 역분화를 통해 만들어진다.",
+      "example_en": "Induced pluripotent stem cells are created through the dedifferentiation of mature cells."
+    },
+    {
+      "korean": "분화",
+      "english": "differentiation",
+      "example": "배아의 분화 과정은 복잡한 신호 전달 경로에 의해 조절된다.",
+      "example_en": "The differentiation process of embryos is regulated by complex signaling pathways."
+    },
+    {
+      "korean": "유전자변형생물",
+      "english": "genetically modified organism; GMO",
+      "example": "유전자변형생물의 안전성에 관한 논쟁은 여전히 진행 중이다.",
+      "example_en": "The debate about the safety of genetically modified organisms continues."
+    },
+    {
+      "korean": "유전자변형",
+      "english": "genetic modification",
+      "example": "유전자변형을 통해 더 높은 수확량을 가진 작물을 개발할 수 있다.",
+      "example_en": "Higher-yielding crops can be developed through genetic modification."
+    },
+    {
+      "korean": "형질전환",
+      "english": "genetic transformation",
+      "example": "박테리아의 형질전환 기술은 현대 생명공학의 핵심이다.",
+      "example_en": "Bacterial genetic transformation is a cornerstone of modern biotechnology."
+    },
+    {
+      "korean": "외래유전자",
+      "english": "foreign gene; transgene",
+      "example": "외래유전자의 도입은 식물의 특성을 근본적으로 변화시킬 수 있다.",
+      "example_en": "Introduction of foreign genes can fundamentally change plant characteristics."
+    },
+    {
+      "korean": "생물정보학",
+      "english": "bioinformatics",
+      "example": "생물정보학은 생물학적 데이터를 컴퓨터를 이용해 분석하는 학문이다.",
+      "example_en": "Bioinformatics is the field of analyzing biological data using computers."
+    },
+    {
+      "korean": "게노믹스",
+      "english": "genomics",
+      "example": "게노믹스 연구는 전체 유전체의 기능과 구조를 이해하는 데 도움이 된다.",
+      "example_en": "Genomics research helps us understand the function and structure of the entire genome."
+    },
+    {
+      "korean": "단백질 공학",
+      "english": "protein engineering",
+      "example": "단백질 공학을 통해 더 효율적인 효소를 만들 수 있다.",
+      "example_en": "More efficient enzymes can be created through protein engineering."
+    },
+    {
+      "korean": "효소 설계",
+      "english": "enzyme design",
+      "example": "효소 설계 기술은 산업적 생산 과정을 크게 개선했다.",
+      "example_en": "Enzyme design technology has greatly improved industrial production processes."
+    },
+    {
+      "korean": "발효",
+      "english": "fermentation",
+      "example": "요구르트의 발효 과정에서 유산균이 중요한 역할을 한다.",
+      "example_en": "Lactic acid bacteria play a crucial role in the fermentation process of yogurt."
+    },
+    {
+      "korean": "미생물 발효",
+      "english": "microbial fermentation",
+      "example": "미생물 발효는 항생제와 백신 생산의 핵심 기술이다.",
+      "example_en": "Microbial fermentation is a key technology in antibiotic and vaccine production."
+    },
+    {
+      "korean": "생물 연료",
+      "english": "biofuel",
+      "example": "생물 연료는 재생 가능한 에너지 자원으로서 각광받고 있다.",
+      "example_en": "Biofuels are attracting attention as renewable energy resources."
+    },
+    {
+      "korean": "바이오에탄올",
+      "english": "bioethanol",
+      "example": "바이오에탄올은 옥수수와 사탕수수에서 추출할 수 있다.",
+      "example_en": "Bioethanol can be extracted from corn and sugarcane."
+    },
+    {
+      "korean": "생물윤리",
+      "english": "bioethics",
+      "example": "생물윤리는 유전자 편집 기술의 사용을 규제하는 데 중요하다.",
+      "example_en": "Bioethics is important in regulating the use of gene editing technology."
+    },
+    {
+      "korean": "윤리심사",
+      "english": "ethical review",
+      "example": "모든 인간 대상 연구는 윤리심사위원회의 승인을 받아야 한다.",
+      "example_en": "All human subject research must receive approval from an ethics review committee."
+    },
+    {
+      "korean": "임상시험",
+      "english": "clinical trial",
+      "example": "신약 개발을 위한 임상시험은 여러 단계를 거친다.",
+      "example_en": "Clinical trials for new drug development go through several stages."
+    },
+    {
+      "korean": "상 I 임상시험",
+      "english": "Phase I clinical trial",
+      "example": "상 I 임상시험은 신약의 안전성과 용량을 평가한다.",
+      "example_en": "Phase I clinical trials evaluate the safety and dosage of new drugs."
+    },
+    {
+      "korean": "백신",
+      "english": "vaccine",
+      "example": "백신은 질병에 대한 면역력을 형성하는 생물학적 제제이다.",
+      "example_en": "A vaccine is a biological preparation that forms immunity against disease."
+    },
+    {
+      "korean": "mRNA 백신",
+      "english": "mRNA vaccine",
+      "example": "mRNA 백신은 코로나바이러스 팬데믹 대응에 혁신적인 역할을 했다.",
+      "example_en": "mRNA vaccines played an innovative role in responding to the coronavirus pandemic."
+    },
+    {
+      "korean": "유전자 치료",
+      "english": "gene therapy",
+      "example": "유전자 치료는 결함 있는 유전자를 건강한 유전자로 대체하는 기술이다.",
+      "example_en": "Gene therapy is a technique for replacing defective genes with healthy ones."
+    },
+    {
+      "korean": "체세포 유전자 치료",
+      "english": "somatic gene therapy",
+      "example": "체세포 유전자 치료는 환자 개인의 질병만 치료하며 유전되지 않는다.",
+      "example_en": "Somatic gene therapy only treats the individual patient's disease and is not inherited."
+    },
+    {
+      "korean": "게놈 서열 결정",
+      "english": "genome sequencing",
+      "example": "게놈 서열 결정 비용이 급격히 감소하면서 개인 맞춤 의료가 가능해졌다.",
+      "example_en": "As genome sequencing costs have plummeted, personalized medicine has become possible."
+    },
+    {
+      "korean": "온전한 게놈 분석",
+      "english": "whole genome analysis",
+      "example": "온전한 게놈 분석은 희귀 유전질환의 진단에 도움이 된다.",
+      "example_en": "Whole genome analysis helps diagnose rare genetic diseases."
+    },
+    {
+      "korean": "합성생물학",
+      "english": "synthetic biology",
+      "example": "합성생물학은 자연에 존재하지 않는 생물을 만드는 학문이다.",
+      "example_en": "Synthetic biology is the field of creating organisms that do not exist in nature."
+    },
+    {
+      "korean": "생명회로",
+      "english": "biological circuit",
+      "example": "합성생물학자들은 세포 내에서 작동하는 생명회로를 설계했다.",
+      "example_en": "Synthetic biologists have designed biological circuits that operate within cells."
+    },
+    {
+      "korean": "미생물군집",
+      "english": "microbiome",
+      "example": "인간의 미생물군집은 소화, 면역, 심지어 정신 건강에도 영향을 미친다.",
+      "example_en": "The human microbiome affects digestion, immunity, and even mental health."
+    },
+    {
+      "korean": "장내 미생물",
+      "english": "gut microbiota",
+      "example": "장내 미생물의 다양성은 전반적인 건강과 밀접한 관련이 있다.",
+      "example_en": "The diversity of gut microbiota is closely related to overall health."
+    },
+    {
+      "korean": "생물치료제",
+      "english": "biotherapeutic; biological drug",
+      "example": "생물치료제는 단백질과 핵산으로 만든 의약품이다.",
+      "example_en": "Biotherapeutics are medicines made from proteins and nucleic acids."
     }
   ]
 }
