@@ -1,0 +1,284 @@
+{
+  "주제별 단어 — 에너지 (Topic: Energy)": [
+    {
+      "korean": "발전소",
+      "english": "power plant",
+      "example": "이 발전소는 매년 수십만 톤의 석탄을 소비한다.",
+      "example_en": "This power plant consumes hundreds of thousands of tons of coal annually.",
+      "notes": "Power plant; 화석 발전소, 원자력 발전소. Related: 발전 시설."
+    },
+    {
+      "korean": "전력",
+      "english": "electric power; electricity",
+      "example": "정부는 재생 에너지 전력의 비중을 높이기로 결정했다.",
+      "example_en": "The government decided to increase the proportion of renewable energy power.",
+      "notes": "Electric power/electricity; 전력 공급, 전력 요금. Core utility term. Etymology: 力(력) = power."
+    },
+    {
+      "korean": "에너지원",
+      "english": "energy source",
+      "example": "태양광은 점점 더 중요한 에너지원이 되고 있다.",
+      "example_en": "Solar energy is becoming an increasingly important energy source.",
+      "notes": "Energy source; 에너지원 다양화. Related: 에너지 자원."
+    },
+    {
+      "korean": "재생 에너지",
+      "english": "renewable energy",
+      "example": "재생 에너지 산업은 지난 10년간 급속도로 성장했다.",
+      "example_en": "The renewable energy industry has grown rapidly over the past decade.",
+      "notes": "Renewable energy (태양광, 풍력 등); Korean policy focus. Related: 신재생에너지."
+    },
+    {
+      "korean": "화석 연료",
+      "english": "fossil fuel",
+      "example": "화석 연료에 대한 의존도를 줄이는 것이 시급하다.",
+      "example_en": "Reducing dependence on fossil fuels is urgent.",
+      "notes": "Fossil fuels (coal, oil, gas); being phased out globally. Related: 천연가스."
+    },
+    {
+      "korean": "핵전력",
+      "english": "nuclear power",
+      "example": "핵전력은 탄소 배출이 적은 에너지원이다.",
+      "example_en": "Nuclear power is an energy source with low carbon emissions.",
+      "notes": "Nuclear power; 핵전력 발전소. Controversial in Korea. Related: 원자력."
+    },
+    {
+      "korean": "태양광",
+      "english": "solar power; photovoltaic",
+      "example": "옥상에 태양광 패널을 설치했다.",
+      "example_en": "We installed solar panels on the rooftop.",
+      "notes": "Solar power/photovoltaic; 태양광 패널, 태양광 발전. Korean growth sector."
+    },
+    {
+      "korean": "풍력",
+      "english": "wind power",
+      "example": "해상 풍력 발전은 육상 풍력보다 더 효율적이다.",
+      "example_en": "Offshore wind power is more efficient than onshore wind.",
+      "notes": "Wind power; 풍력 발전소, 풍력 터빈. Related: 해상풍력."
+    },
+    {
+      "korean": "수력",
+      "english": "hydropower; water power",
+      "example": "이 지역의 수력 발전소는 지역 경제에 큰 역할을 한다.",
+      "example_en": "The hydropower plant in this area plays a major role in the local economy.",
+      "notes": "Hydropower/water power; 수력 발전, 댐. Largest renewable in Korea. Related: 수자원."
+    },
+    {
+      "korean": "지열",
+      "english": "geothermal energy",
+      "example": "아이슬란드는 지열 에너지를 적극 활용한다.",
+      "example_en": "Iceland actively utilizes geothermal energy.",
+      "notes": "Geothermal energy; 지열 발전, 지열 난방. Emerging technology."
+    },
+    {
+      "korean": "생체 에너지",
+      "english": "biomass energy",
+      "example": "생체 에너지는 농업 폐기물에서 추출할 수 있다.",
+      "example_en": "Biomass energy can be extracted from agricultural waste.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "석탄",
+      "english": "coal",
+      "example": "석탄 채광 산업이 쇠퇴하면서 많은 지역이 경제적 어려움을 겪고 있다.",
+      "example_en": "As the coal mining industry declines, many regions face economic hardship.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "석유",
+      "english": "oil; petroleum",
+      "example": "석유 가격이 급등하면 에너지 비용이 올라간다.",
+      "example_en": "When oil prices surge, energy costs rise.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "천연가스",
+      "english": "natural gas",
+      "example": "천연가스는 석탄보다 청정하다.",
+      "example_en": "Natural gas is cleaner than coal.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "발전",
+      "english": "power generation",
+      "example": "재생 에너지 발전의 비중이 30%를 넘었다.",
+      "example_en": "Renewable energy generation has exceeded 30 percent.",
+      "notes": "Power generation; 발전 용량, 발전량. Related: 발전사."
+    },
+    {
+      "korean": "송전",
+      "english": "power transmission",
+      "example": "송전 시스템을 현대화하는 것이 필수적이다.",
+      "example_en": "Modernizing the power transmission system is essential.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "배전",
+      "english": "power distribution",
+      "example": "스마트 배전 기술은 전력 낭비를 줄인다.",
+      "example_en": "Smart distribution technology reduces power waste.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "전기",
+      "english": "electricity",
+      "example": "전기 가격이 계속 오르고 있다.",
+      "example_en": "Electricity prices continue to rise.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "전력 그리드",
+      "english": "power grid",
+      "example": "전력 그리드가 안정적이어야 산업이 운영된다.",
+      "example_en": "A stable power grid is necessary for industry to operate.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "피크 수요",
+      "english": "peak demand",
+      "example": "여름철 피크 수요 때문에 가동 중단이 발생할 수 있다.",
+      "example_en": "Blackouts can occur during summer peak demand.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "에너지 효율",
+      "english": "energy efficiency",
+      "example": "에너지 효율을 높이는 것은 환경과 경제 모두에 좋다.",
+      "example_en": "Improving energy efficiency is good for both environment and economy.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "탄소 중립",
+      "english": "carbon neutrality",
+      "example": "많은 선진국이 2050년까지 탄소 중립을 목표로 하고 있다.",
+      "example_en": "Many developed nations aim for carbon neutrality by 2050.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "탈탄소화",
+      "english": "decarbonization",
+      "example": "에너지 부문의 탈탄소화가 가장 시급한 과제다.",
+      "example_en": "Decarbonization of the energy sector is the most urgent task.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "배터리 저장",
+      "english": "battery storage",
+      "example": "배터리 저장 기술이 재생 에너지의 간헐성 문제를 해결한다.",
+      "example_en": "Battery storage technology solves the intermittency problem of renewable energy.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "스마트 그리드",
+      "english": "smart grid",
+      "example": "스마트 그리드는 에너지 낭비를 최소화한다.",
+      "example_en": "Smart grids minimize energy waste.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "적재 인수",
+      "english": "load factor",
+      "example": "풍력 발전소의 적재 인수는 약 35%이다.",
+      "example_en": "The load factor of wind farms is about 35 percent.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "용량",
+      "english": "capacity",
+      "example": "이 발전소의 용량은 1,000메가와트다.",
+      "example_en": "This power plant has a capacity of 1,000 megawatts.",
+      "notes": "Capacity; 발전 용량, 수용 용량. Related: 규모."
+    },
+    {
+      "korean": "메가와트",
+      "english": "megawatt (MW)",
+      "example": "이 태양광 시설은 50메가와트를 생산한다.",
+      "example_en": "This solar facility produces 50 megawatts.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "기가와트시",
+      "english": "gigawatt-hour (GWh)",
+      "example": "이 나라의 연간 발전량은 수백 기가와트시다.",
+      "example_en": "This country's annual power generation is hundreds of gigawatt-hours.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "원자로",
+      "english": "nuclear reactor",
+      "example": "이 원자로는 1970년부터 가동 중이다.",
+      "example_en": "This nuclear reactor has been in operation since 1970.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "핵연료",
+      "english": "nuclear fuel",
+      "example": "핵연료 관리는 매우 엄격한 규제 대상이다.",
+      "example_en": "Nuclear fuel management is subject to very strict regulations.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "방사능 폐기물",
+      "english": "radioactive waste",
+      "example": "방사능 폐기물 처리는 원자력 발전의 주요 과제다.",
+      "example_en": "Radioactive waste disposal is a major challenge for nuclear power.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "풍력 터빈",
+      "english": "wind turbine",
+      "example": "새로운 풍력 터빈은 전보다 훨씬 조용하다.",
+      "example_en": "New wind turbines are much quieter than before.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "태양광 패널",
+      "english": "solar panel",
+      "example": "태양광 패널의 효율이 매해 향상되고 있다.",
+      "example_en": "Solar panel efficiency improves every year.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "댐",
+      "english": "dam",
+      "example": "이 댐은 식수와 전력을 모두 공급한다.",
+      "example_en": "This dam supplies both drinking water and electricity.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "변전소",
+      "english": "substation",
+      "example": "변전소에서 전압을 낮춰 가정으로 배분한다.",
+      "example_en": "Substations reduce voltage and distribute it to homes.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "송전탑",
+      "english": "transmission tower; power tower",
+      "example": "산을 가로지르는 송전탑이 자연과 충돌한다.",
+      "example_en": "Transmission towers crossing mountains conflict with nature.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "에너지 정책",
+      "english": "energy policy",
+      "example": "정부의 새로운 에너지 정책은 재생 에너지에 집중한다.",
+      "example_en": "The government's new energy policy focuses on renewable energy.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "탐사",
+      "english": "exploration",
+      "example": "기업들이 새로운 석유 탐사 프로젝트를 축소하고 있다.",
+      "example_en": "Companies are scaling back new oil exploration projects.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    },
+    {
+      "korean": "채굴",
+      "english": "extraction; mining",
+      "example": "광산 채굴은 환경에 부정적인 영향을 미친다.",
+      "example_en": "Mining extraction has negative environmental impacts.",
+      "notes": "Energy-related term in 에너지 (Topic: Energy). Collocates and usage available in examples."
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "주제별 단어 — 반려동물 (Topic: Pets & Animals)": [
+    {
+      "korean": "포식자",
+      "english": "predator",
+      "example": "호랑이는 생태계의 최상위 포식자입니다.",
+      "example_en": "Tigers are the apex predators in the ecosystem.",
+      "notes": "Related: 피식자(prey), 먹이사슬(food chain). Collocations: 최상위 포식자(apex predator), 포식자-피식자 관계(predator-prey relationship)."
+    },
+    {
+      "korean": "피식자",
+      "english": "prey",
+      "example": "사슴은 늑대의 주요 피식자 중 하나입니다.",
+      "example_en": "Deer are one of the main prey animals for wolves.",
+      "notes": "Related: 포식자(predator), 천적(natural enemy). Usage: Often appears in ecological food chains; 주요 피식자(main prey), 포식자의 피식자."
+    },
+    {
+      "korean": "무리",
+      "english": "herd, pack, flock",
+      "example": "코끼리는 나이 많은 암컷이 이끄는 무리를 이룹니다.",
+      "example_en": "Elephants form herds led by an older female.",
+      "notes": "Collocations: 동물 무리, 무리 행동(herd behavior), 무리 지어(in groups). Also means group or gang in human context."
+    },
+    {
+      "korean": "번식기",
+      "english": "breeding season",
+      "example": "봄은 대부분의 조류에게 번식기입니다.",
+      "example_en": "Spring is the breeding season for most birds.",
+      "notes": "Related: 짝짓기(mating), 발정기(estrus). Collocations: 번식기에 들어가다(enter breeding season), 번식기 동안(during breeding season)."
+    },
+    {
+      "korean": "동면",
+      "english": "hibernation",
+      "example": "곰은 겨울 내내 동면합니다.",
+      "example_en": "Bears hibernate throughout the winter.",
+      "notes": "Antonym: 활동(activity). Related: 겨울잠(hibernation similar term), 불활동(inactivity). Etymology: 動眠 (movement-sleep)."
+    },
+    {
+      "korean": "사춘기",
+      "english": "puberty, sexual maturity",
+      "example": "이 종의 동물들은 2년에서 3년 사이에 사춘기에 도달합니다.",
+      "example_en": "Animals of this species reach puberty between 2 and 3 years old.",
+      "notes": "Related: 성숙(maturity), 성적 발달(sexual development). Collocations: 사춘기에 도달하다, 사춘기 동물."
+    },
+    {
+      "korean": "털갈이",
+      "english": "shedding, molting",
+      "example": "개는 봄과 가을에 심하게 털갈이를 합니다.",
+      "example_en": "Dogs shed heavily in spring and autumn.",
+      "notes": "Related: 털(hair/fur), 벗겨지다(shed). Collocations: 심한 털갈이(heavy shedding), 봄/가을 털갈이(spring/autumn molting)."
+    },
+    {
+      "korean": "먹이사슬",
+      "english": "food chain",
+      "example": "먹이사슬은 생태계의 기본 구조입니다.",
+      "example_en": "The food chain is the basic structure of an ecosystem.",
+      "notes": "Related: 생태계(ecosystem), 포식-피식 관계(predation). Usage: 먹이사슬의 일부(part of food chain), 먹이사슬 단계(trophic level)."
+    },
+    {
+      "korean": "천연기념물",
+      "english": "natural monument, protected species",
+      "example": "그 동물은 정부의 천연기념물로 지정되어 있습니다.",
+      "example_en": "That animal is designated as a protected species by the government.",
+      "notes": "Related: 보호종(protected species), 멸종위기종(endangered species). Legal/administrative term."
+    },
+    {
+      "korean": "훈련",
+      "english": "training",
+      "example": "개의 기본 훈련은 어린 나이에 시작하는 것이 좋습니다.",
+      "example_en": "It is best to start basic dog training at a young age.",
+      "notes": "Collocations: 개 훈련, 기본 훈련(basic training), 행동 훈련(obedience training). Related: 조건화(conditioning)."
+    },
+    {
+      "korean": "예방접종",
+      "english": "vaccination",
+      "example": "개는 매년 광견병 예방접종을 받아야 합니다.",
+      "example_en": "Dogs should receive rabies vaccination every year.",
+      "notes": "Related: 감염병(infectious disease), 면역(immunity). Collocations: 광견병 예방접종(rabies vaccination), 정기 예방접종(regular vaccination)."
+    },
+    {
+      "korean": "감염병",
+      "english": "infectious disease",
+      "example": "동물 감염병을 예방하기 위해 위생 관리가 매우 중요합니다.",
+      "example_en": "Hygiene management is very important for preventing animal infectious diseases.",
+      "notes": "Related: 병원체(pathogen), 전염(transmission). Usage: 동물 감염병(animal infectious disease), 인수공통감염병(zoonotic disease)."
+    },
+    {
+      "korean": "습성",
+      "english": "habit, instinct, nature",
+      "example": "고양이의 야행성 습성은 타고난 본능입니다.",
+      "example_en": "The nocturnal habits of cats are an innate instinct.",
+      "notes": "Related: 본능(instinct), 행동(behavior). Collocations: 야행성 습성(nocturnal habits), 타고난 습성(innate habits)."
+    },
+    {
+      "korean": "생존",
+      "english": "survival",
+      "example": "생존을 위해 동물들은 환경에 적응해야 합니다.",
+      "example_en": "Animals must adapt to their environment for survival.",
+      "notes": "Related: 적응(adaptation), 환경(environment). Etymology: 生存 (life-existence), Sino-Korean root."
+    },
+    {
+      "korean": "적응",
+      "english": "adaptation",
+      "example": "낙타의 혹은 물 저장을 위한 완벽한 적응입니다.",
+      "example_en": "The camel's hump is a perfect adaptation for water storage.",
+      "notes": "Related: 적응력(adaptability), 진화(evolution). Etymology: 適應 (suitable-respond), Sino-Korean root."
+    },
+    {
+      "korean": "포식",
+      "english": "predation, hunting",
+      "example": "사자의 포식 기술은 매우 효율적이고 조직적입니다.",
+      "example_en": "Lions' hunting techniques are very efficient and organized.",
+      "notes": "Related: 사냥(hunting), 포식자(predator). Collocations: 포식 기술(hunting technique), 포식 행동(predatory behavior)."
+    },
+    {
+      "korean": "울음소리",
+      "english": "call, vocalization, cry",
+      "example": "고래의 울음소리는 수백 킬로미터 떨어진 곳에서도 들릴 수 있습니다.",
+      "example_en": "Whale calls can be heard hundreds of kilometers away.",
+      "notes": "Related: 의사소통(communication), 신호(signal). Usage: 울음소리로 신호를 보내다(communicate via calls)."
+    },
+    {
+      "korean": "이주",
+      "english": "migration",
+      "example": "많은 철새들은 계절에 따라 이주합니다.",
+      "example_en": "Many migratory birds migrate according to the seasons.",
+      "notes": "Related: 철새(migratory bird), 이동(movement). Etymology: 移住 (move-dwell), Sino-Korean root."
+    },
+    {
+      "korean": "짝짓기",
+      "english": "mating, copulation",
+      "example": "짝짓기 시기에 동물들의 행동과 신체가 크게 변합니다.",
+      "example_en": "Animals' behavior and bodies change greatly during mating season.",
+      "notes": "Related: 번식(breeding), 발정기(estrus). Usage: 짝짓기 시즌(mating season), 짝짓기 행동(courtship behavior)."
+    },
+    {
+      "korean": "보존",
+      "english": "conservation, preservation",
+      "example": "멸종 위기 종의 보존은 국제적인 노력이 필요합니다.",
+      "example_en": "Conservation of endangered species requires international effort.",
+      "notes": "Related: 보호(protection), 환경 보전(environmental conservation). Etymology: 保存 (protect-exist), Sino-Korean root."
+    },
+    {
+      "korean": "개체군",
+      "english": "population",
+      "example": "이 지역의 사슴 개체군이 빠르게 증가하고 있습니다.",
+      "example_en": "The deer population in this area is growing rapidly.",
+      "notes": "Related: 인구(population), 개체수(individual count). Etymology: 個體群 (individual-body-group), Sino-Korean root."
+    },
+    {
+      "korean": "잡식성",
+      "english": "omnivorous",
+      "example": "곰은 잡식성이므로 고기와 식물을 모두 먹습니다.",
+      "example_en": "Bears are omnivorous, so they eat both meat and plants.",
+      "notes": "Related: 육식성(carnivorous), 초식성(herbivorous). Usage: 잡식성 동물(omnivorous animal)."
+    },
+    {
+      "korean": "육식성",
+      "english": "carnivorous",
+      "example": "호랑이는 순수 육식성 동물로 고기만 먹습니다.",
+      "example_en": "Tigers are purely carnivorous and eat only meat.",
+      "notes": "Antonym: 초식성(herbivorous), 잡식성(omnivorous). Related: 육식동물(carnivore)."
+    },
+    {
+      "korean": "초식성",
+      "english": "herbivorous",
+      "example": "코끼리는 초식성이므로 식물과 나무 껍질을 먹습니다.",
+      "example_en": "Elephants are herbivorous and eat plants and tree bark.",
+      "notes": "Antonym: 육식성(carnivorous), 잡식성(omnivorous). Related: 초식동물(herbivore)."
+    },
+    {
+      "korean": "멸종위기종",
+      "english": "endangered species",
+      "example": "아마존의 많은 동물들이 현재 멸종위기종입니다.",
+      "example_en": "Many animals in the Amazon are currently endangered species.",
+      "notes": "Related: 보호종(protected species), 멸종(extinction). Etymology: 滅種危機種 (perish-species-danger-kind)."
+    },
+    {
+      "korean": "새끼",
+      "english": "offspring, young animal, cub",
+      "example": "사자의 새끼들은 어머니와 함께 사냥 기술을 배웁니다.",
+      "example_en": "Lion cubs learn hunting skills from their mother.",
+      "notes": "Synonyms: 자식(offspring), 자손(descendant). Collocations: 동물 새끼, 동물 새끼 사육."
+    },
+    {
+      "korean": "암컷",
+      "english": "female",
+      "example": "암컷 사자는 수컷보다 체형이 더 작고 날씬합니다.",
+      "example_en": "Female lions are smaller and more slender than males.",
+      "notes": "Antonym: 수컷(male). Related: 암-수 구분(sex differentiation)."
+    },
+    {
+      "korean": "수컷",
+      "english": "male",
+      "example": "수컷 공작은 짝짓기 시기에 아름다운 깃을 펼칩니다.",
+      "example_en": "Male peacocks display their beautiful plumage during mating season.",
+      "notes": "Antonym: 암컷(female). Related: 수-암 구분(sex differentiation)."
+    },
+    {
+      "korean": "발정기",
+      "english": "estrus, heat",
+      "example": "암컷 개가 발정기에 들어가면 특정한 냄새를 풍깁니다.",
+      "example_en": "When a female dog is in heat, she emits a specific scent.",
+      "notes": "Related: 번식기(breeding season), 짝짓기(mating). Collocations: 발정기에 들어가다(enter heat), 발정기 냄새(heat scent)."
+    },
+    {
+      "korean": "거세",
+      "english": "neutering, castration",
+      "example": "거세는 수컷 동물의 번식을 막는 수술입니다.",
+      "example_en": "Neutering is a surgical procedure that prevents male animals from breeding.",
+      "notes": "Related: 중성화(neutering), 난소제거(spaying). Medical/veterinary term; affects animal behavior."
+    },
+    {
+      "korean": "난소 제거",
+      "english": "spaying, ovariohysterectomy",
+      "example": "난소 제거는 암컷 동물을 중성화시키는 수술입니다.",
+      "example_en": "Spaying is a surgical procedure that sterilizes female animals.",
+      "notes": "Related: 중성화(neutering), 거세(castration). Medical/veterinary term for female animals."
+    },
+    {
+      "korean": "건강검진",
+      "english": "health check-up, veterinary examination",
+      "example": "개는 최소한 1년에 한 번 수의사의 건강검진을 받아야 합니다.",
+      "example_en": "Dogs should have a veterinary health check-up at least once a year.",
+      "notes": "Related: 예방(prevention), 질병 진단(disease diagnosis). Collocations: 정기 건강검진(regular check-up), 수의사 건강검진."
+    },
+    {
+      "korean": "기생충",
+      "english": "parasite",
+      "example": "개는 정기적으로 기생충 검사와 구충을 해야 합니다.",
+      "example_en": "Dogs should have regular parasite checks and deworming.",
+      "notes": "Related: 구충(deworming), 감염(infection). Collocations: 기생충 감염(parasite infection), 구충약(deworming medicine)."
+    },
+    {
+      "korean": "사육",
+      "english": "raising, breeding, farming",
+      "example": "그 농장은 지속 가능한 방식으로 가축을 사육합니다.",
+      "example_en": "That farm raises livestock in a sustainable manner.",
+      "notes": "Related: 양육(raising), 번식(breeding). Etymology: 飼育 (feed-raise), Sino-Korean root."
+    },
+    {
+      "korean": "야생동물",
+      "english": "wildlife",
+      "example": "야생동물 보호소는 부상당한 동물들을 치료하고 재활시킵니다.",
+      "example_en": "Wildlife rehabilitation centers treat and rehabilitate injured animals.",
+      "notes": "Related: 야생(wild), 동물(animal). Collocations: 야생동물 보호(wildlife protection), 야생동물 서식지(wildlife habitat)."
+    },
+    {
+      "korean": "생태계",
+      "english": "ecosystem",
+      "example": "생태계 내의 모든 동물들은 먹이사슬을 통해 서로 연결되어 있습니다.",
+      "example_en": "All animals in an ecosystem are connected through the food chain.",
+      "notes": "Related: 환경(environment), 생물(organisms). Etymology: 生態系 (life-state-system), Sino-Korean root."
+    },
+    {
+      "korean": "야행성",
+      "english": "nocturnal",
+      "example": "야행성 동물들은 밤에 활동하고 낮에는 쉽니다.",
+      "example_en": "Nocturnal animals are active at night and rest during the day.",
+      "notes": "Related: 주행성(diurnal), 야간 활동(night activity). Etymology: 夜行性 (night-travel-nature), Sino-Korean root."
+    },
+    {
+      "korean": "주행성",
+      "english": "diurnal",
+      "example": "주행성 새들은 아침에 가장 활발하게 지저귀고 먹이를 찾습니다.",
+      "example_en": "Diurnal birds are most active in the morning, singing and foraging.",
+      "notes": "Related: 야행성(nocturnal), 주간 활동(daytime activity). Etymology: 晝行性 (day-travel-nature), Sino-Korean root."
+    }
+  ]
+}

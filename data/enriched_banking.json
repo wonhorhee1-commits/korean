@@ -1,0 +1,242 @@
+{
+  "주제별 단어 — 은행 (Topic: Banking)": [
+    {
+      "korean": "계좌",
+      "english": "account",
+      "example": "새로운 은행 계좌를 개설했다.",
+      "example_en": "I opened a new bank account.",
+      "notes": "Sino-Korean 計座; account/account number. Phrase: 계좌 번호 (account number), 계좌를 개설하다 (open an account)."
+    },
+    {
+      "korean": "입금하다",
+      "english": "to deposit",
+      "example": "월급이 계좌에 입금되었어.",
+      "example_en": "My salary was deposited into the account.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "출금하다",
+      "english": "to withdraw",
+      "example": "ATM에서 현금을 출금했다.",
+      "example_en": "I withdrew cash from the ATM.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "송금하다",
+      "english": "to transfer money",
+      "example": "해외로 송금하려면 수수료가 든다.",
+      "example_en": "There's a fee to transfer money overseas.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "이체",
+      "english": "transfer",
+      "example": "같은 은행 계좌로의 이체는 즉시 처리된다.",
+      "example_en": "Transfers to accounts within the same bank are processed immediately.",
+      "notes": "Sino-Korean 移體; transfer between accounts. Phrase: 계좌 이체하다 (transfer between accounts), 무료 이체."
+    },
+    {
+      "korean": "수수료",
+      "english": "fee; charge",
+      "example": "이 계좌는 월 수수료가 없다.",
+      "example_en": "This account has no monthly fee.",
+      "notes": "Sino-Korean 手數料; fee/commission. Phrase: 송금 수수료 (transfer fee), 수수료가 없다 (no fees)."
+    },
+    {
+      "korean": "잔고",
+      "english": "balance",
+      "example": "계좌 잔고를 확인해야 한다.",
+      "example_en": "I need to check my account balance.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "이자율",
+      "english": "interest rate",
+      "example": "저축 상품의 이자율이 올라갔다.",
+      "example_en": "The interest rate on savings products went up.",
+      "notes": "Interest rate."
+    },
+    {
+      "korean": "복리",
+      "english": "compound interest",
+      "example": "복리로 계산하면 더 많은 이익을 얻을 수 있다.",
+      "example_en": "You can earn more profit if calculated with compound interest.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "단리",
+      "english": "simple interest",
+      "example": "단리로만 이자가 계산되는 상품도 있다.",
+      "example_en": "There are also products where interest is calculated as simple interest only.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "정기예금",
+      "english": "fixed deposit; term deposit",
+      "example": "정기예금 만기가 되면 이자가 붙는다.",
+      "example_en": "When a fixed deposit matures, you earn interest on it.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "보통예금",
+      "english": "regular savings; demand deposit",
+      "example": "보통예금은 필요할 때마다 인출할 수 있다.",
+      "example_en": "You can withdraw from regular savings whenever you need it.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "대출금",
+      "english": "loan amount",
+      "example": "대출금의 규모가 점점 커지고 있다.",
+      "example_en": "The size of the loan amount is getting bigger.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "원리금",
+      "english": "principal and interest",
+      "example": "원리금을 5년에 걸쳐 상환할 계획이다.",
+      "example_en": "I plan to repay the principal and interest over 5 years.",
+      "notes": "Sino-Korean 元利金; principal and interest combined."
+    },
+    {
+      "korean": "이체 수수료",
+      "english": "transfer fee",
+      "example": "은행 간 이체 수수료가 생겼어.",
+      "example_en": "A transfer fee appeared for inter-bank transfers.",
+      "notes": "Transfer fee."
+    },
+    {
+      "korean": "부도",
+      "english": "default; bankruptcy",
+      "example": "회사가 부도 위기에 처했다.",
+      "example_en": "The company faced a risk of default.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "신용도",
+      "english": "credit rating; creditworthiness",
+      "example": "신용도가 낮으면 대출받기 어렵다.",
+      "example_en": "It's difficult to get a loan if your credit rating is low.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "담보금",
+      "english": "collateral; security deposit",
+      "example": "대출을 받을 때 담보금을 요구했다.",
+      "example_en": "They asked for a collateral when I took out a loan.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "무담보 대출",
+      "english": "unsecured loan",
+      "example": "무담보 대출의 이자가 더 높다.",
+      "example_en": "The interest on unsecured loans is higher.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "주택담보대출",
+      "english": "home equity loan; mortgage",
+      "example": "주택담보대출 규제가 강해졌다.",
+      "example_en": "Regulations on home equity loans have become stricter.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "신용카드",
+      "english": "credit card",
+      "example": "신용카드로 구매하면 포인트가 쌓인다.",
+      "example_en": "Points accumulate when you purchase with a credit card.",
+      "notes": "Credit card. Phrase: 신용카드로 결제하다 (pay by credit card)."
+    },
+    {
+      "korean": "직불카드",
+      "english": "debit card",
+      "example": "직불카드는 계좌에 있는 돈만 사용할 수 있다.",
+      "example_en": "A debit card can only use the money in your account.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "현금카드",
+      "english": "cash card",
+      "example": "현금카드로 ATM에서 돈을 뽑았다.",
+      "example_en": "I withdrew money from the ATM with my cash card.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "체크카드",
+      "english": "check card",
+      "example": "체크카드 사용액은 소득공제 대상이다.",
+      "example_en": "Check card spending is subject to income deduction.",
+      "notes": "Debit card; 체크 (loanword) + 카드 (loanword)."
+    },
+    {
+      "korean": "인출",
+      "english": "withdrawal",
+      "example": "월 인출 한도를 초과했다.",
+      "example_en": "I exceeded my monthly withdrawal limit.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "한도",
+      "english": "limit",
+      "example": "신용카드 한도를 높였다.",
+      "example_en": "I increased my credit card limit.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "통장 사본",
+      "english": "account statement; bankbook copy",
+      "example": "은행 대출을 신청할 때 통장 사본이 필요하다.",
+      "example_en": "You need a copy of your bankbook when applying for a bank loan.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "거래 명세서",
+      "english": "statement of account; transaction history",
+      "example": "매달 거래 명세서를 받아야 한다.",
+      "example_en": "I need to receive a transaction statement every month.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "체크 수표",
+      "english": "check; cheque",
+      "example": "이전에는 체크 수표로 많이 결제했어.",
+      "example_en": "In the past, we often paid with checks.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "금융상품",
+      "english": "financial product",
+      "example": "다양한 금융상품 중에서 선택할 수 있다.",
+      "example_en": "You can choose from various financial products.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "금융기관",
+      "english": "financial institution",
+      "example": "여러 금융기관에서 대출 조건을 비교했다.",
+      "example_en": "I compared loan terms at several financial institutions.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "자동이체",
+      "english": "automatic transfer",
+      "example": "공과금을 자동이체로 설정했다.",
+      "example_en": "I set up automatic transfer for utility bills.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "선입금",
+      "english": "advance payment; prepayment",
+      "example": "선입금 할인을 받으려면 미리 돈을 입금해야 한다.",
+      "example_en": "You need to deposit money in advance to get a prepayment discount.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    },
+    {
+      "korean": "거래 기록",
+      "english": "transaction record",
+      "example": "모든 거래 기록이 은행에 저장된다.",
+      "example_en": "All transaction records are stored at the bank.",
+      "notes": "Related to 은행 (Topic: Banking)."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "주제별 단어 — 해양 (Topic: Maritime)": [
+    {
+      "korean": "해역",
+      "english": "sea area / territorial waters",
+      "example": "우리나라의 배타적 경제수역은 매우 광대하다.",
+      "example_en": "Our country's exclusive economic zone is very vast.",
+      "notes": "Etymology: 海域; sea area. Collocations: 배타적 경제수역 (exclusive economic zone)."
+    },
+    {
+      "korean": "조수",
+      "english": "tide",
+      "example": "조수가 빠져나가면서 바위가 드러났다.",
+      "example_en": "As the tide went out, the rocks were exposed.",
+      "notes": "Etymology: 潮水; tidal current. Related: 밀물 (flood tide), 썰물 (ebb tide)."
+    },
+    {
+      "korean": "파도",
+      "english": "wave",
+      "example": "태풍이 몰아치면서 파도가 3미터를 넘었다.",
+      "example_en": "The waves exceeded 3 meters as the typhoon raged.",
+      "notes": "Native Korean; wave. Related: 나파 (small waves), 고파 (big waves)."
+    },
+    {
+      "korean": "해류",
+      "english": "ocean current",
+      "example": "난류와 한류가 만나는 곳은 해산이 풍부하다.",
+      "example_en": "Where warm and cold currents meet, fishing grounds are abundant.",
+      "notes": "Sino-Korean: 海流. Ocean current. Collocations: 난류, 한류. Related: 수온."
+    },
+    {
+      "korean": "어족",
+      "english": "fish stock / fish population",
+      "example": "어족 고갈로 인해 어획량이 감소하고 있다.",
+      "example_en": "Fish catch is decreasing due to depleted fish stocks.",
+      "notes": "Sino-Korean: 魚族. Fish stock. Collocations: 어족 고갈, 어족 조사. Related: 소량 어획."
+    },
+    {
+      "korean": "어선",
+      "english": "fishing vessel",
+      "example": "새벽에 어선들이 항구를 떠나간다.",
+      "example_en": "At dawn, fishing vessels leave the port.",
+      "notes": "Etymology: 漁船; fishing boat. Related: 어업 (fishing)."
+    },
+    {
+      "korean": "선원",
+      "english": "sailor / crew member",
+      "example": "경험 많은 선원들이 배를 조종했다.",
+      "example_en": "Experienced sailors maneuvered the ship.",
+      "notes": "Etymology: 船員; sailor/crew member. Related: 해원 (maritime worker)."
+    },
+    {
+      "korean": "어장",
+      "english": "fishing ground",
+      "example": "북태평양 어장에서 많은 어선들이 작업 중이다.",
+      "example_en": "Many fishing vessels are operating in the North Pacific fishing grounds.",
+      "notes": "Sino-Korean: 漁場. Fishing ground or fishing rights. Collocations: 영어장. Related: 어업권, 상한선."
+    },
+    {
+      "korean": "어획량",
+      "english": "catch / amount caught",
+      "example": "올해 어획량이 지난해보다 20% 증가했다.",
+      "example_en": "This year's catch increased 20% compared to last year.",
+      "notes": "Sino-Korean: 漁獲量. Amount of fish caught. Collocations: 어획량 증감. Related: 쿼터, 상한선."
+    },
+    {
+      "korean": "그물",
+      "english": "net",
+      "example": "고기가 그물에 가득 잡혔다.",
+      "example_en": "The net was full of fish.",
+      "notes": "Native Korean; net. Collocations: 그물질, 어망. Related: 통발, 올가미."
+    },
+    {
+      "korean": "낚싯바늘",
+      "english": "fishing hook",
+      "example": "낚싯바늘에 미끼를 꿰었다.",
+      "example_en": "I baited the fishing hook.",
+      "notes": "Native compound: 낚싯 (fishing) + 바늘 (needle). Collocations: 낚싯바늘에 미끼. Related: 낚시, 채비."
+    },
+    {
+      "korean": "미끼",
+      "english": "bait",
+      "example": "작은 생선을 미끼로 사용했다.",
+      "example_en": "We used small fish as bait.",
+      "notes": "Native Korean; bait. Collocations: 미끼를 꿰다, 새우 미끼. Related: 먹이, 유인."
+    },
+    {
+      "korean": "갑판",
+      "english": "deck",
+      "example": "선원들이 갑판에서 로프를 정리했다.",
+      "example_en": "The sailors organized ropes on the deck.",
+      "notes": "Loanword from Dutch/English; deck of a ship."
+    },
+    {
+      "korean": "선창",
+      "english": "cargo hold",
+      "example": "선창에 얼음을 가득 채워 생선을 보관했다.",
+      "example_en": "The cargo hold was filled with ice to preserve the fish.",
+      "notes": "Etymology: 船艙; cargo hold/ship's hold. Related: 창고 (warehouse)."
+    },
+    {
+      "korean": "닻",
+      "english": "anchor",
+      "example": "배가 항구에 닻을 내렸다.",
+      "example_en": "The ship dropped anchor in the harbor.",
+      "notes": "Native Korean; anchor. Collocations: 닻을 내리다, 닻을 올리다. Related: 정박."
+    },
+    {
+      "korean": "등대",
+      "english": "lighthouse",
+      "example": "밤에 등대의 불이 배들을 안내한다.",
+      "example_en": "At night, the lighthouse light guides ships.",
+      "notes": "Native Korean; lighthouse. Collocations: 등대지기 (lighthouse keeper)."
+    },
+    {
+      "korean": "항로",
+      "english": "shipping route",
+      "example": "가장 짧은 항로를 선택해 연료를 절약했다.",
+      "example_en": "We chose the shortest shipping route to save fuel.",
+      "notes": "Sino-Korean: 航路. Shipping route. Collocations: 항로 선정, 주요 항로. Related: 항선."
+    },
+    {
+      "korean": "화물",
+      "english": "cargo",
+      "example": "배는 중국에서 화물을 실어왔다.",
+      "example_en": "The ship transported cargo from China.",
+      "notes": "Sino-Korean: 貨物. Cargo/freight. Collocations: 화물 적재, 화물 증가. Related: 짐, 물품."
+    },
+    {
+      "korean": "하역",
+      "english": "unloading / discharge",
+      "example": "항구에서 화물 하역이 시작되었다.",
+      "example_en": "Cargo unloading began at the port.",
+      "notes": "Sino-Korean: 荷役. Unloading cargo. Collocations: 하역 인부, 하역 비용. Related: 적하, 양하."
+    },
+    {
+      "korean": "쇄빙선",
+      "english": "icebreaker",
+      "example": "쇄빙선이 얼음을 깨면서 길을 만들었다.",
+      "example_en": "The icebreaker broke the ice and created a path.",
+      "notes": "Native compound: 쇄빙 (ice breaking) + 선 (ship). Icebreaker. Collocations: 쇄빙선 작업. Related: 빙해."
+    },
+    {
+      "korean": "해일",
+      "english": "tidal wave / tsunami",
+      "example": "지진으로 인한 해일이 해안을 덮쳤다.",
+      "example_en": "A tidal wave caused by an earthquake swept the coast.",
+      "notes": "Sino-Korean: 海日 (or 海嘯). Tidal wave/tsunami. Collocations: 지진 해일. Related: 파도, 해변."
+    },
+    {
+      "korean": "암초",
+      "english": "reef / rock",
+      "example": "배가 암초에 부딪혀 침몰했다.",
+      "example_en": "The ship struck a reef and sank.",
+      "notes": "Sino-Korean: 岩礁. Reef/rock. Collocations: 암초에 부딪다, 숨은 암초. Related: 선초, 얕은 곳."
+    },
+    {
+      "korean": "어장",
+      "english": "fishing rights",
+      "example": "어장 분쟁이 국제 문제로 발전했다.",
+      "example_en": "Fishing rights disputes became an international issue.",
+      "notes": "Sino-Korean: 漁場. Fishing ground or fishing rights. Collocations: 영어장. Related: 어업권, 상한선."
+    },
+    {
+      "korean": "도미",
+      "english": "sea bream",
+      "example": "생도미는 아주 비싼 고급 생선이다.",
+      "example_en": "Fresh sea bream is a very expensive, premium fish.",
+      "notes": "Native Korean; sea bream. Collocations: 생도미, 도미 구이. Related: 횟감, 고급 생선."
+    },
+    {
+      "korean": "명태",
+      "english": "pollock",
+      "example": "명태는 동해의 주요 어종이다.",
+      "example_en": "Pollock is a major fish species of the East Sea.",
+      "notes": "Native Korean; pollock. Collocations: 명태 어장, 황태. Related: 동해 어업, 특산."
+    },
+    {
+      "korean": "오징어",
+      "english": "squid",
+      "example": "오징어 잡이 배들이 밤에 불을 밝힌다.",
+      "example_en": "Squid fishing boats turn on lights at night.",
+      "notes": "Native Korean; squid. Collocations: 오징어 낚시, 오징어 먹물. Related: 야광 오징어."
+    },
+    {
+      "korean": "새우",
+      "english": "shrimp",
+      "example": "새우 양식장이 해안을 따라 늘어서 있다.",
+      "example_en": "Shrimp farms are lined up along the coast.",
+      "notes": "Native Korean; shrimp. Collocations: 새우 양식, 새우젓. Related: 갑각류."
+    },
+    {
+      "korean": "굴",
+      "english": "oyster",
+      "example": "이곳에서 생산되는 굴은 맛이 좋다.",
+      "example_en": "The oysters produced here taste excellent.",
+      "notes": "Native Korean; oyster. Related: 조개 (shellfish)."
+    },
+    {
+      "korean": "해산물",
+      "english": "seafood",
+      "example": "한국의 해산물은 전 세계적으로 인기가 높다.",
+      "example_en": "Korean seafood is popular worldwide.",
+      "notes": "Etymology: 海産物; seafood. Collocations: 해산물 요리 (seafood dish)."
+    },
+    {
+      "korean": "양식장",
+      "english": "fish farm / aquaculture",
+      "example": "양식장에서 생산된 연어를 수출하고 있다.",
+      "example_en": "We're exporting salmon produced in fish farms.",
+      "notes": "Sino-Korean: 養殖場. Fish farm/aquaculture. Collocations: 연어 양식장, 양식 기술. Related: 수산업."
+    },
+    {
+      "korean": "소금기",
+      "english": "saltiness",
+      "example": "이 물의 소금기가 강하다.",
+      "example_en": "This water has a strong saltiness.",
+      "notes": "Native compound: 소금 (salt) + 기 (quality). Saltiness. Collocations: 소금기 강한 물. Related: 염분, 염도."
+    },
+    {
+      "korean": "물때",
+      "english": "tide timing",
+      "example": "물때에 맞춰 바다에 나갔다.",
+      "example_en": "We went out to sea at the right tide time.",
+      "notes": "Native Korean; tide timing. Collocations: 물때 맞춰, 좋은 물때. Related: 조시."
+    },
+    {
+      "korean": "항구",
+      "english": "harbor / port",
+      "example": "배가 항구에 도착했을 때 일몰이었다.",
+      "example_en": "It was sunset when the ship arrived at the harbor.",
+      "notes": "Native Korean; port/harbor. Collocations: 부산항 (Busan port)."
+    },
+    {
+      "korean": "부두",
+      "english": "dock / wharf",
+      "example": "부두에는 여러 척의 배가 정박해 있었다.",
+      "example_en": "Several ships were moored at the dock.",
+      "notes": "Etymology: 埠頭; wharf/dock. Related: 항구 (port)."
+    },
+    {
+      "korean": "등유",
+      "english": "kerosene / diesel fuel",
+      "example": "배의 등유 소비량이 많아진다.",
+      "example_en": "The ship's fuel consumption increases.",
+      "notes": "Sino-Korean: 燈油. Kerosene/diesel. Collocations: 등유 가격, 등유 소비. Related: 연료."
+    },
+    {
+      "korean": "어청류",
+      "english": "fishing fleet",
+      "example": "어청류가 해양 경제의 중추 역할을 한다.",
+      "example_en": "The fishing fleet plays a key role in the marine economy.",
+      "notes": "Sino-Korean: 漁청류. Fishing fleet. Collocations: 어청류 규모. Related: 선단, 어선단."
+    },
+    {
+      "korean": "해상",
+      "english": "at sea / maritime",
+      "example": "해상에서 일어난 사고를 조사했다.",
+      "example_en": "We investigated the accident that occurred at sea.",
+      "notes": "Etymology: 海上; at sea/maritime. Collocations: 해상교통 (maritime traffic)."
+    },
+    {
+      "korean": "침몰",
+      "english": "sinking",
+      "example": "배의 침몰로 많은 화물이 손실되었다.",
+      "example_en": "Many cargo items were lost in the ship's sinking.",
+      "notes": "Etymology: 沈没; sinking/submersion. Related: 조난 (shipwreck)."
+    },
+    {
+      "korean": "해관",
+      "english": "maritime customs",
+      "example": "해관에서 화물 검사를 진행했다.",
+      "example_en": "Maritime customs conducted cargo inspection.",
+      "notes": "Sino-Korean: 海關. Maritime customs. Collocations: 해관 검사, 해관 규정. Related: 통관."
+    },
+    {
+      "korean": "조난",
+      "english": "shipwreck / maritime disaster",
+      "example": "조난 신호를 받으면 즉시 출동한다.",
+      "example_en": "We dispatch immediately when we receive a distress signal.",
+      "notes": "Etymology: 遭難; shipwreck/maritime disaster. Related: 침몰 (sinking)."
+    }
+  ]
+}

@@ -1,0 +1,2255 @@
+{
+  "주제별 단어 — 법의학 (Topic: Forensics)": [
+    {
+      "korean": "법의학",
+      "english": "forensic pathology; forensic medicine",
+      "example": "법의학은 법정에서 사용될 증거를 과학적으로 분석하는 학문이다.",
+      "example_en": "Forensic pathology is the science of analyzing evidence used in court scientifically.",
+      "notes": "Sino-Korean: 法(법=law) + 醫(의=medicine) + 學(학=study). Collocates: 법의학 감정, 법의학 해부. Related: 검사, 증거."
+    },
+    {
+      "korean": "과학수사",
+      "english": "scientific investigation; forensic investigation",
+      "example": "경찰청은 과학수사 기법을 이용해 범인을 추적했다.",
+      "example_en": "The police used scientific investigation techniques to track down the culprit.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "범죄 현장",
+      "english": "crime scene",
+      "example": "범죄 현장의 증거를 훼손하면 수사에 심각한 영향을 미친다.",
+      "example_en": "Tampering with evidence at a crime scene severely affects the investigation.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "증거 보관 관리",
+      "english": "chain of custody",
+      "example": "증거 보관 관리가 제대로 이루어지지 않으면 법정에서 증거로 인정받지 못할 수 있다.",
+      "example_en": "If chain of custody is not properly maintained, evidence may not be admissible in court.",
+      "notes": "Evidence. Sino-Korean: 證(증=proof) + 據(거=basis). Collocates: 증거 능력, 증거 제출. Related: 증인, 증거물."
+    },
+    {
+      "korean": "DNA 분석",
+      "english": "DNA analysis",
+      "example": "DNA 분석 결과가 용의자와 일치하여 범인임이 증명되었다.",
+      "example_en": "The DNA analysis matched the suspect, proving he was the culprit.",
+      "notes": "DNA (abbreviation). Collocates: DNA 염기서열, DNA 분석."
+    },
+    {
+      "korean": "지문 채취",
+      "english": "fingerprint collection",
+      "example": "경찰이 피의자의 손에서 지문을 채취하여 비교했다.",
+      "example_en": "Police collected fingerprints from the suspect's hands for comparison.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "법의관",
+      "english": "forensic pathologist; medical examiner",
+      "example": "법의관은 시신의 사인을 규명하기 위해 상세한 검사를 실시했다.",
+      "example_en": "The forensic pathologist conducted a detailed examination to determine the cause of death.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "증거 수집",
+      "english": "evidence collection",
+      "example": "범죄 현장의 철저한 증거 수집이 사건 해결의 핵심이었다.",
+      "example_en": "Thorough evidence collection at the crime scene was key to solving the case.",
+      "notes": "Evidence. Sino-Korean: 證(증=proof) + 據(거=basis). Collocates: 증거 능력, 증거 제출. Related: 증인, 증거물."
+    },
+    {
+      "korean": "혈흔",
+      "english": "blood stain; bloodstain",
+      "example": "혈흔 분석을 통해 용의자의 위치를 파악할 수 있었다.",
+      "example_en": "Through bloodstain analysis, the suspect's location could be determined.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "혈액형 검사",
+      "english": "blood type testing",
+      "example": "혈액형 검사는 용의자 선별의 초기 단계에서 중요한 역할을 한다.",
+      "example_en": "Blood type testing plays an important role in the initial stages of suspect screening.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "독성학",
+      "english": "toxicology",
+      "example": "독성학 검사 결과 피해자의 체내에서 독극물이 발견되었다.",
+      "example_en": "Toxicology tests revealed poison in the victim's body.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "독극물",
+      "english": "poison; toxic substance",
+      "example": "범인은 음식에 독극물을 섞어서 피해자를 살해했다.",
+      "example_en": "The perpetrator mixed poison into the food to kill the victim.",
+      "notes": "Lethal poison. Collocates: 독극물 중독, 독극물 검출."
+    },
+    {
+      "korean": "약물 검사",
+      "english": "drug testing",
+      "example": "약물 검사를 통해 피해자가 마약을 투여받았음이 밝혀졌다.",
+      "example_en": "Drug testing revealed that the victim had been administered drugs.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "총기 거리측정",
+      "english": "ballistics",
+      "example": "총기 거리측정 전문가가 총구와의 거리를 추정했다.",
+      "example_en": "A ballistics expert estimated the distance from the gun barrel.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "총알",
+      "english": "bullet",
+      "example": "현장에서 발견된 총알은 등록된 총기의 종류와 일치했다.",
+      "example_en": "The bullet found at the scene matched the type of registered firearm.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "탄도 분석",
+      "english": "ballistic analysis; ballistics examination",
+      "example": "탄도 분석을 통해 총기의 종류를 특정할 수 있었다.",
+      "example_en": "Through ballistic analysis, the type of firearm could be identified.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "디지털 포렌식",
+      "english": "digital forensics",
+      "example": "디지털 포렌식 전문가가 용의자의 컴퓨터를 조사했다.",
+      "example_en": "A digital forensics expert examined the suspect's computer.",
+      "notes": "Digital. Loanword from English. Collocates: 디지털 아카이브, 디지털 자료."
+    },
+    {
+      "korean": "프로파일링",
+      "english": "profiling; criminal profiling",
+      "example": "프로파일러는 범인의 심리적 특성을 분석하여 프로파일을 작성했다.",
+      "example_en": "The profiler analyzed the perpetrator's psychological characteristics and created a profile.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "범죄 프로필",
+      "english": "criminal profile",
+      "example": "범죄 프로필에 따르면 범인은 30대 남성일 가능성이 높다.",
+      "example_en": "According to the criminal profile, the perpetrator is likely a man in his 30s.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "현장 검증",
+      "english": "crime scene examination; on-site investigation",
+      "example": "현장 검증 과정에서 범인의 흔적을 발견했다.",
+      "example_en": "During the crime scene examination, traces of the perpetrator were found.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "흔적",
+      "english": "trace; evidence; clue",
+      "example": "현장에 남겨진 각종 흔적들이 수사의 단서가 되었다.",
+      "example_en": "Various traces left at the scene became clues in the investigation.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "증언",
+      "english": "testimony; statement",
+      "example": "법정에서 증인은 자신이 목격한 내용을 상세히 증언했다.",
+      "example_en": "In court, the witness testified in detail about what he witnessed.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "법의학 감정",
+      "english": "forensic expert examination; forensic evaluation",
+      "example": "법의학 감정 결과가 법정에서 증거로 제출되었다.",
+      "example_en": "The results of the forensic examination were submitted as evidence in court.",
+      "notes": "Specialized forensic analysis. Collocates: 법의학 감정 결과. Related: 부검, 시체 해부."
+    },
+    {
+      "korean": "사인",
+      "english": "cause of death",
+      "example": "부검을 통해 사인을 명확히 파악할 수 있었다.",
+      "example_en": "The cause of death was clearly determined through autopsy.",
+      "notes": "Cause of death. Sino-Korean: 死(사=death) + 因(인=cause). Collocates: 사인 규명, 사인 미상."
+    },
+    {
+      "korean": "외상",
+      "english": "trauma; external injury",
+      "example": "피해자의 신체에서 여러 개의 외상이 발견되었다.",
+      "example_en": "Multiple external injuries were found on the victim's body.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "법의학 해부",
+      "english": "forensic dissection; forensic autopsy",
+      "example": "법의학 해부를 통해 독극물이 발견되었다.",
+      "example_en": "Poison was discovered through forensic autopsy.",
+      "notes": "Autopsy for legal purposes. Collocates: 법의학 해부 소견. Related: 검안, 해부학."
+    },
+    {
+      "korean": "흉기",
+      "english": "murder weapon; lethal weapon",
+      "example": "수사 과정에서 범행에 사용된 흉기가 발견되었다.",
+      "example_en": "The murder weapon used in the crime was found during the investigation.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "감정서",
+      "english": "expert report; forensic report",
+      "example": "법의관이 작성한 감정서는 재판에서 중요한 증거가 되었다.",
+      "example_en": "The expert report written by the forensic pathologist became important evidence at trial.",
+      "notes": "Emotion/sentiment. Sino-Korean: 正(정=correct) + 緖(서=thread). Collocates: 민족 정서."
+    },
+    {
+      "korean": "휴대전화 기록",
+      "english": "cellular phone records; phone records",
+      "example": "용의자의 휴대전화 기록을 통해 범행 시간대를 특정할 수 있었다.",
+      "example_en": "Through the suspect's phone records, the time of the crime could be determined.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "폐쇄회로 텔레비전",
+      "english": "closed-circuit television; CCTV",
+      "example": "편의점의 폐쇄회로 텔레비전에 범인의 모습이 선명하게 담겼다.",
+      "example_en": "The perpetrator was clearly captured on the convenience store's CCTV.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "현장 분석",
+      "english": "crime scene analysis",
+      "example": "현장 분석을 통해 범행 순서와 범인의 행동을 재구성했다.",
+      "example_en": "Through crime scene analysis, the sequence of the crime and the perpetrator's actions were reconstructed.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "법 의료 증거",
+      "english": "legal medical evidence",
+      "example": "법 의료 증거들이 피고인의 유죄를 입증했다.",
+      "example_en": "Legal medical evidence proved the defendant's guilt.",
+      "notes": "Evidence. Sino-Korean: 證(증=proof) + 據(거=basis). Collocates: 증거 능력, 증거 제출. Related: 증인, 증거물."
+    }
+  ],
+  "주제별 단어 — 도자기/공예 (Topic: Ceramics & Crafts)": [
+    {
+      "korean": "물레",
+      "english": "potter's wheel",
+      "example": "도자기 장인은 물레 위에서 흙을 회전시키며 섬세하게 빚는다.",
+      "example_en": "The ceramicist carefully shapes clay on the potter's wheel by rotating it.",
+      "notes": "Pottery wheel. Native Korean. Collocates: 물레질, 도자기 제작."
+    },
+    {
+      "korean": "성형하다",
+      "english": "to shape; to form",
+      "example": "이 항아리는 손으로 성형한 후 가마에서 구워진다.",
+      "example_en": "This jar is hand-formed and then fired in the kiln.",
+      "notes": "Shaping/molding. Sino-Korean: 成(성=form) + 形(형=shape). Collocates: 도자기 성형."
+    },
+    {
+      "korean": "태토",
+      "english": "clay body",
+      "example": "이 그릇의 태토는 매우 치밀하고 세련되었다.",
+      "example_en": "The clay body of this vessel is very dense and refined.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "코일링",
+      "english": "coiling technique",
+      "example": "코일링 기법은 인류 역사상 가장 오래된 도자기 제작 방법 중 하나다.",
+      "example_en": "Coiling is one of the oldest pottery-making methods in human history.",
+      "notes": "Coiling technique. Collocates: 코일링 기법. Related: 도자기 제작."
+    },
+    {
+      "korean": "가마",
+      "english": "kiln",
+      "example": "가마의 온도가 1200도에 도달했을 때 색이 변했다.",
+      "example_en": "The color changed when the kiln temperature reached 1200 degrees.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "등요",
+      "english": "climbing kiln; anagama",
+      "example": "이 도자기는 전통 등요에서 수일에 걸쳐 소성되었다.",
+      "example_en": "This ceramic was fired in a traditional climbing kiln over several days.",
+      "notes": "Kiln. Sino-Korean: 登(등=climb) + 窯(요=kiln). Collocates: 등요 온도, 전통 등요."
+    },
+    {
+      "korean": "소성",
+      "english": "firing",
+      "example": "첫 번째 소성은 900도에서 천천히 진행되어야 한다.",
+      "example_en": "The first firing must proceed slowly at 900 degrees.",
+      "notes": "Firing (ceramics). Sino-Korean: 焙(소=burn) + 成(성=become). Collocates: 고온 소성, 소성온도."
+    },
+    {
+      "korean": "환원 소성",
+      "english": "reduction firing",
+      "example": "청자는 환원 소성으로만 그 독특한 비취색을 얻을 수 있다.",
+      "example_en": "Celadon can only achieve its distinctive jade-green color through reduction firing.",
+      "notes": "Firing (ceramics). Sino-Korean: 焙(소=burn) + 成(성=become). Collocates: 고온 소성, 소성온도."
+    },
+    {
+      "korean": "산화 소성",
+      "english": "oxidation firing",
+      "example": "백자는 산화 소성 환경에서 구워져야 순백색이 나타난다.",
+      "example_en": "White porcelain must be fired in an oxidation environment to achieve pure white.",
+      "notes": "Firing (ceramics). Sino-Korean: 焙(소=burn) + 成(성=become). Collocates: 고온 소성, 소성온도."
+    },
+    {
+      "korean": "유약",
+      "english": "glaze",
+      "example": "이 유약은 장석, 규사, 장석 성분을 특정 비율로 섞어 만들었다.",
+      "example_en": "This glaze is made by mixing feldspar, silica, and clay in specific proportions.",
+      "notes": "Glaze. Sino-Korean: 釉(유=glaze) + 藥(약=substance). Collocates: 유약 칠, 유약층."
+    },
+    {
+      "korean": "유약칠하기",
+      "english": "glazing",
+      "example": "유약칠하기 전에 소지가 적절하게 건조되어야 균등한 코팅이 가능하다.",
+      "example_en": "Proper drying before glazing ensures uniform coating on the clay body.",
+      "notes": "Glaze. Sino-Korean: 釉(유=glaze) + 藥(약=substance). Collocates: 유약 칠, 유약층."
+    },
+    {
+      "korean": "광택",
+      "english": "gloss; luster",
+      "example": "광택이 많은 유약은 햇빛에서 아름다운 반사를 만든다.",
+      "example_en": "Glossy glazes create beautiful reflections in sunlight.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "크래클",
+      "english": "crackle effect",
+      "example": "크래클은 유약과 흙의 수축 속도 차이로 인해 자연스럽게 생긴다.",
+      "example_en": "Crackle forms naturally due to different shrinkage rates between glaze and clay.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "점토",
+      "english": "clay",
+      "example": "순수한 점토는 주로 카올린, 장석, 규사로 이루어진다.",
+      "example_en": "Pure clay mainly consists of kaolin, feldspar, and silica.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "백토",
+      "english": "white clay; kaolin",
+      "example": "백토 함량이 높을수록 최종 도자기의 색이 더 희어진다.",
+      "example_en": "Higher white clay content results in whiter final ceramics.",
+      "notes": "White clay. Sino-Korean: 白(백=white) + 土(토=earth). Collocates: 백토 함량, 고급 백토."
+    },
+    {
+      "korean": "적토",
+      "english": "red clay; earthenware",
+      "example": "적토는 옛날 토기, 벽돌, 기와 제작에 널리 사용되었다.",
+      "example_en": "Red clay was widely used in ancient pottery, brick, and tile-making.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "청자",
+      "english": "celadon; green porcelain",
+      "example": "고려 청자는 세계 도자기 역사에서 가장 뛰어난 예술 작품으로 평가된다.",
+      "example_en": "Goryeo celadon is considered one of the finest artistic achievements in ceramic history.",
+      "notes": "Celadon pottery. Sino-Korean: 青(청=blue-green) + 瓷(자=porcelain). Goryeo dynasty masterpiece. Related: 백자, 도자기."
+    },
+    {
+      "korean": "백자",
+      "english": "white porcelain",
+      "example": "조선 백자의 수려한 형태와 소박한 아름다움은 깊은 감동을 준다.",
+      "example_en": "The elegant form and understated beauty of Joseon white porcelain move the viewer deeply.",
+      "notes": "White porcelain. Sino-Korean: 白(백=white) + 瓷(자=porcelain). Korean specialty, Joseon dynasty. Related: 청자, 도자기."
+    },
+    {
+      "korean": "분청사기",
+      "english": "buncheong; punch'ong ware",
+      "example": "분청사기는 청자의 우아함과 백자의 소박함을 동시에 담고 있다.",
+      "example_en": "Buncheong combines the elegance of celadon with the simplicity of white porcelain.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "삼색기",
+      "english": "tri-color ceramic; sancai ware",
+      "example": "당나라 삼색기는 초록, 갈색, 크림색의 화려한 색감이 특징이다.",
+      "example_en": "Tang dynasty tri-color ceramics feature vibrant green, brown, and cream colors.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "소지",
+      "english": "pottery body; clay surface",
+      "example": "이 항아리의 소지는 매끄럽고 견고하여 문양이 선명하게 드러난다.",
+      "example_en": "The smooth, sturdy clay body of this jar makes the patterns stand out clearly.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "고르다",
+      "english": "to smooth; to even out",
+      "example": "물레에서 벗겨낸 후 표면을 손으로 섬세하게 고르게 다듬었다.",
+      "example_en": "After removing it from the wheel, I smoothed out the surface delicately by hand.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "빚다",
+      "english": "to shape; to mold",
+      "example": "도공은 흙을 물레 위에서 자유롭게 빚어내며 형태를 만들었다.",
+      "example_en": "The potter freely molded the clay on the wheel to create the form.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "건조",
+      "english": "drying",
+      "example": "건조 중에 균열이 생기지 않도록 천천히 말려야 한다.",
+      "example_en": "It must be dried slowly to prevent cracks during the drying process.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "균열",
+      "english": "crack; fissure",
+      "example": "소성 후 급격한 냉각은 균열의 원인이 될 수 있다.",
+      "example_en": "Rapid cooling after firing can cause cracks.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "옻칠",
+      "english": "lacquerware; lacquered ware",
+      "example": "한국의 옻칠 공예는 수천 년의 역사를 가진 전통이다.",
+      "example_en": "Korean lacquerware is a tradition with thousands of years of history.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "나전칠기",
+      "english": "mother-of-pearl lacquerware; inlaid lacquerware",
+      "example": "나전칠기는 검은 옻칠 위에 조개껍질을 정교하게 박아 만든 공예품이다.",
+      "example_en": "Mother-of-pearl lacquerware is made by inlaying shell into black lacquer with precision.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "목공예",
+      "english": "woodcraft; woodworking",
+      "example": "전통 목공예 장인들은 나무의 결을 살려 독특한 가구와 공예품을 만든다.",
+      "example_en": "Traditional woodcraft masters create unique furniture and crafts by highlighting the wood grain.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "금속공예",
+      "english": "metalwork; metal crafts",
+      "example": "금속공예 장인은 금, 은, 동을 정교한 기술로 다루어 아름다운 장식품을 만든다.",
+      "example_en": "Metal craft masters skillfully work with gold, silver, and copper to create beautiful ornaments.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "수놓기",
+      "english": "embroidery",
+      "example": "세밀한 수놓기로 화려하고 복잡한 무늬를 표현하는 것은 매우 어려운 작업이다.",
+      "example_en": "Expressing vibrant, complex patterns through delicate embroidery is an extremely difficult task.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "서예",
+      "english": "calligraphy",
+      "example": "동양 서예는 먹의 농담과 필획의 강약으로 깊은 정취를 표현한다.",
+      "example_en": "Oriental calligraphy expresses deep sentiment through ink gradation and brush stroke variation.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "먹",
+      "english": "ink stick; sumi; Chinese ink",
+      "example": "상등품 먹은 향기로운 연기를 내며 부드럽게 벼루에 간다.",
+      "example_en": "High-quality ink grinds smoothly on the inkstone while producing fragrant smoke.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "벼루",
+      "english": "inkstone; grinding stone",
+      "example": "벼루는 먹을 물과 함께 갈아서 액체 먹을 만드는 전통 도구다.",
+      "example_en": "An inkstone is a traditional tool used to grind ink with water to make liquid ink.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "화선지",
+      "english": "rice paper; xuan paper",
+      "example": "화선지는 먹의 확산 정도를 조절하여 다양한 먹 표현이 가능하다.",
+      "example_en": "Rice paper allows various ink effects by controlling ink diffusion.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "문양",
+      "english": "pattern; design motif; decoration",
+      "example": "청자의 문양은 주로 자연의 식물과 동물을 테마로 한다.",
+      "example_en": "Celadon patterns are typically themed around natural plants and animals.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "소성온도",
+      "english": "firing temperature",
+      "example": "이 도자기를 제대로 만들려면 1250도 이상의 소성온도가 필요하다.",
+      "example_en": "This ceramic requires a firing temperature of at least 1250 degrees to be properly made.",
+      "notes": "Firing (ceramics). Sino-Korean: 焙(소=burn) + 成(성=become). Collocates: 고온 소성, 소성온도."
+    },
+    {
+      "korean": "투명도",
+      "english": "transparency; translucency",
+      "example": "유약의 투명도가 높을수록 흙의 색감이 더 선명하게 드러난다.",
+      "example_en": "Higher glaze transparency makes the clay color more vivid and clear.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    }
+  ],
+  "주제별 단어 — 인구/사회문제 (Topic: Demographics & Social Issues)": [
+    {
+      "korean": "저출산",
+      "english": "low birth rate",
+      "example": "한국의 저출산 현상이 심각해져서 정부에서 다양한 정책을 추진하고 있다.",
+      "example_en": "Korea's low birth rate issue has become serious, so the government is promoting various policies.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "고령화",
+      "english": "aging (of population)",
+      "example": "전 세계적으로 고령화 추세가 가속화되고 있으며, 이는 많은 국가에서 정책 과제가 되고 있다.",
+      "example_en": "The aging trend is accelerating globally, and it has become a policy issue in many countries.",
+      "notes": "Aging (population). Sino-Korean: 高(고=high) + 齡(령=age) + 化(화=become). Related: 노인, 인구 구조."
+    },
+    {
+      "korean": "인구감소",
+      "english": "population decline",
+      "example": "지난 10년간 지방의 인구감소로 인해 폐교가 증가했다.",
+      "example_en": "Due to population decline in rural areas over the past decade, the number of closed schools has increased.",
+      "notes": "Population decline. Sino-Korean: 人(인=person) + 口(구=mouth/count) + 減(감=decrease) + 少(소=few). Related: 출생률, 고령화."
+    },
+    {
+      "korean": "인구증가",
+      "english": "population growth",
+      "example": "개발도상국의 빠른 인구증가는 환경 문제를 야기하고 있다.",
+      "example_en": "Rapid population growth in developing countries is causing environmental problems.",
+      "notes": "Population increase. Sino-Korean: 人(인=person) + 口(구=mouth) + 增(증=increase) + 加(가=add). Related: 출생률, 개발도상국."
+    },
+    {
+      "korean": "인구밀도",
+      "english": "population density",
+      "example": "서울의 인구밀도는 세계 주요 도시 중에서도 가장 높은 수준이다.",
+      "example_en": "Seoul's population density is among the highest among major cities in the world.",
+      "notes": "Population density. Sino-Korean: 人(인=person) + 口(구=mouth) + 密(밀=dense) + 度(도=degree). Collocates: 높다/낮다."
+    },
+    {
+      "korean": "지역소멸",
+      "english": "regional depopulation; regional extinction",
+      "example": "지역소멸을 막기 위해 정부는 지방 일자리 창출에 집중하고 있다.",
+      "example_en": "To prevent regional depopulation, the government is focusing on creating jobs in local areas.",
+      "notes": "Regional/area. Sino-Korean: 地(지=earth) + 域(역=territory). Collocates: 지역 경제, 지방 지역."
+    },
+    {
+      "korean": "시골 공동화",
+      "english": "rural hollowing out",
+      "example": "청년들이 도시로 나가면서 시골은 점점 공동화되고 있다.",
+      "example_en": "As young people move to cities, rural areas are becoming increasingly hollowed out.",
+      "notes": "Assimilation. Sino-Korean: 同(동=same) + 化(화=become). Collocates: 동화 과정, 속도."
+    },
+    {
+      "korean": "이민자",
+      "english": "immigrant",
+      "example": "이민자들이 지역 경제에 어떤 영향을 미치는지 연구하는 것이 중요하다.",
+      "example_en": "It is important to study what impact immigrants have on the local economy.",
+      "notes": "Immigrant. Sino-Korean: 移(이=move) + 民(민=people) + 者(자=person). Collocates: 이민자 통합, 1세대 이민자."
+    },
+    {
+      "korean": "다문화가족",
+      "english": "multicultural family",
+      "example": "다문화가족의 자녀들은 한국 사회에서 여러 어려움을 겪고 있다.",
+      "example_en": "Children of multicultural families face various difficulties in Korean society.",
+      "notes": "Culture. Sino-Korean: 文(문=writing) + 化(화=become). Collocates: 문화 차이, 전통 문화."
+    },
+    {
+      "korean": "부의 양극화",
+      "english": "wealth polarization",
+      "example": "부의 양극화는 중산층의 붕괴로 이어질 수 있다.",
+      "example_en": "Wealth polarization can lead to the collapse of the middle class.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "주택위기",
+      "english": "housing crisis",
+      "example": "젊은 세대는 주택위기로 인해 결혼과 출산을 미루고 있다.",
+      "example_en": "Young people are delaying marriage and childbirth due to the housing crisis.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "전세 사기",
+      "english": "jeonse (key money deposit) fraud",
+      "example": "최근 전세 사기 사건들이 언론에 크게 보도되고 있다.",
+      "example_en": "Recent jeonse fraud cases are being widely reported in the media.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "청년실업",
+      "english": "youth unemployment",
+      "example": "청년실업 문제를 해결하기 위해 정부의 과감한 정책이 필요하다.",
+      "example_en": "Bold government policies are needed to solve the youth unemployment problem.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "비정규직",
+      "english": "non-regular workers; precarious workers",
+      "example": "비정규직 노동자들은 정규직보다 훨씬 불안정한 고용 조건을 갖고 있다.",
+      "example_en": "Non-regular workers have much more unstable employment conditions than regular workers.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "남녀평등",
+      "english": "gender equality",
+      "example": "직장에서의 남녀평등을 실현하기 위한 법적 조치가 강화되고 있다.",
+      "example_en": "Legal measures to realize gender equality in the workplace are being strengthened.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "일과 생활의 균형",
+      "english": "work-life balance",
+      "example": "선진국들은 일과 생활의 균형을 중요시하는 문화를 만들고 있다.",
+      "example_en": "Advanced countries are creating a culture that values work-life balance.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "사회안전망",
+      "english": "social safety net",
+      "example": "강한 사회안전망은 사회 구성원들의 불안감을 덜어준다.",
+      "example_en": "A strong social safety net alleviates the anxiety of society's members.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "빈곤",
+      "english": "poverty",
+      "example": "절대적 빈곤뿐만 아니라 상대적 빈곤도 중요한 사회 문제이다.",
+      "example_en": "Not only absolute poverty but also relative poverty is an important social issue.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "상대적 빈곤",
+      "english": "relative poverty",
+      "example": "상대적 빈곤층은 사회에서 박탈감을 느끼기 쉽다.",
+      "example_en": "Those in relative poverty tend to feel a sense of deprivation in society.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "중산층 붕괴",
+      "english": "collapse of the middle class",
+      "example": "중산층 붕괴로 인해 사회의 양극화가 심화되고 있다.",
+      "example_en": "The collapse of the middle class is intensifying social polarization.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "자살률",
+      "english": "suicide rate",
+      "example": "한국의 자살률은 OECD 국가 중에서도 높은 편이다.",
+      "example_en": "Korea's suicide rate is relatively high among OECD countries.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "사망률",
+      "english": "mortality rate",
+      "example": "코로나19로 인해 일시적으로 사망률이 증가했다.",
+      "example_en": "The mortality rate temporarily increased due to COVID-19.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "기대수명",
+      "english": "life expectancy",
+      "example": "한국의 평균 기대수명은 지난 20년간 크게 증가했다.",
+      "example_en": "Korea's average life expectancy has increased significantly over the past 20 years.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "초고령화",
+      "english": "super-aging",
+      "example": "초고령화 사회에서는 노인 부양 문제가 핵심이다.",
+      "example_en": "In a super-aged society, elderly care is the key issue.",
+      "notes": "Aging (population). Sino-Korean: 高(고=high) + 齡(령=age) + 化(화=become). Related: 노인, 인구 구조."
+    },
+    {
+      "korean": "구조적 실업",
+      "english": "structural unemployment",
+      "example": "산업 변화로 인한 구조적 실업을 해결하기 위해 재교육이 필수적이다.",
+      "example_en": "Retraining is essential to solve structural unemployment caused by industrial change.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "세대 간 갈등",
+      "english": "generational conflict",
+      "example": "MZ 세대와 기성 세대의 가치관 차이로 인한 세대 간 갈등이 심하다.",
+      "example_en": "Generational conflict due to differences in values between Gen MZ and older generations is severe.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "동거",
+      "english": "cohabitation",
+      "example": "혼외 동거는 한국 사회에서 점점 보편화되고 있다.",
+      "example_en": "Cohabitation without marriage is becoming increasingly common in Korean society.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "미혼율",
+      "english": "unmarried rate; rate of remaining single",
+      "example": "급증하는 미혼율은 출생률 저하와 깊은 연관이 있다.",
+      "example_en": "The rapidly increasing unmarried rate is closely related to the decline in birth rate.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "만혼화",
+      "english": "delayed marriage; trend toward marrying later",
+      "example": "만혼화 추세로 인해 평균 결혼 나이가 계속 올라가고 있다.",
+      "example_en": "Due to the trend of delayed marriage, the average age at marriage continues to rise.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "여성경제활동",
+      "english": "female labor force participation",
+      "example": "여성경제활동 참여율을 높이려면 직장 문화 개선이 필요하다.",
+      "example_en": "To increase female labor force participation, workplace culture improvement is needed.",
+      "notes": "Economy. Sino-Korean: 經(경=manage) + 濟(제=benefit). Collocates: 지역 경제."
+    },
+    {
+      "korean": "육아휴직",
+      "english": "parental leave; childcare leave",
+      "example": "남성 육아휴직 사용률이 점점 증가하고 있다.",
+      "example_en": "The rate of male parental leave usage is gradually increasing.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "사회갈등",
+      "english": "social conflict",
+      "example": "빈부격차로 인한 사회갈등이 심화되는 것을 우려하는 전문가들이 많다.",
+      "example_en": "Many experts are concerned about intensifying social conflict due to income inequality.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "노인 부양",
+      "english": "elderly care; support for the elderly",
+      "example": "자녀 세대의 노인 부양 부담이 점점 커지고 있다.",
+      "example_en": "The burden of elderly care on the younger generation is increasing.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    }
+  ],
+  "주제별 단어 — 무용/댄스 (Topic: Dance)": [
+    {
+      "korean": "현대무용",
+      "english": "contemporary dance",
+      "example": "현대무용 공연에서는 전통적인 음악 대신 실험적인 사운드를 사용하기도 한다.",
+      "example_en": "In contemporary dance performances, experimental sounds are sometimes used instead of traditional music.",
+      "notes": "Contemporary dance. Sino-Korean: 現(현=present) + 代(대=generation) + 舞(무=dance) + 用(용=use). Collocates: 현대무용 공연."
+    },
+    {
+      "korean": "전통무용",
+      "english": "traditional dance",
+      "example": "한국의 전통무용은 우리 민족의 정서와 역사를 담고 있다.",
+      "example_en": "Korean traditional dance embodies the emotions and history of our people.",
+      "notes": "Traditional dance. Sino-Korean: 傳(전=transmit) + 統(통=system) + 舞(무=dance) + 用(용=use). Related: 한국 춤, 민속 무용."
+    },
+    {
+      "korean": "부채춤",
+      "english": "fan dance",
+      "example": "부채춤은 우아한 동작과 선명한 라인으로 매력적인 한국 전통무용이다.",
+      "example_en": "Fan dance is a charming Korean traditional dance characterized by graceful movements and sharp lines.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "사물놀이",
+      "english": "nongak (Korean percussion performance)",
+      "example": "사물놀이는 징, 장고, 북, 꽹과리 네 가지 악기로 이루어진 한국 전통 공연 예술이다.",
+      "example_en": "Nongak is a traditional Korean performance art consisting of four instruments: jing, janggu, buk, and kkwaenggwari.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "동작",
+      "english": "movement/motion",
+      "example": "이 안무의 특징은 빠른 동작과 느린 동작이 극명하게 대비되는 것이다.",
+      "example_en": "The characteristic of this choreography is the stark contrast between fast and slow movements.",
+      "notes": "Movement/motion. Sino-Korean: 動(동=move) + 作(작=make). Collocates: 우아한 동작, 기본 동작."
+    },
+    {
+      "korean": "스텝",
+      "english": "step (dancing movement)",
+      "example": "발레의 기본 스텝들을 마스터하는 데 수년이 걸린다.",
+      "example_en": "It takes years to master the basic steps of ballet.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "포즈",
+      "english": "pose",
+      "example": "마지막 포즈를 우아하게 결정하는 것이 무용 공연의 성공을 좌우한다.",
+      "example_en": "Gracefully concluding with a final pose determines the success of a dance performance.",
+      "notes": "Pose. Loanword from English. Collocates: 우아한 포즈, 마지막 포즈."
+    },
+    {
+      "korean": "회전",
+      "english": "spin/rotation",
+      "example": "발레에서 회전 기술은 무용수의 실력을 평가하는 중요한 요소다.",
+      "example_en": "In ballet, spinning technique is an important factor in evaluating a dancer's skill.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "점프",
+      "english": "jump",
+      "example": "높은 점프를 안정적으로 착지하는 것은 발레 기본기 중 하나다.",
+      "example_en": "Landing a high jump stably is one of the fundamentals of ballet.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "착지",
+      "english": "landing",
+      "example": "점프 후 착지할 때 무릎을 부드럽게 굽혀서 충격을 흡수해야 한다.",
+      "example_en": "When landing after a jump, you must bend your knees gently to absorb impact.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "음악",
+      "english": "music",
+      "example": "현대무용에서는 클래식 음악뿐만 아니라 다양한 장르의 음악이 사용된다.",
+      "example_en": "Contemporary dance uses not only classical music but also various music genres.",
+      "notes": "Music. Sino-Korean: 音(음=sound) + 樂(악=pleasure). Collocates: 실험적인 음악, 다양한 장르."
+    },
+    {
+      "korean": "무대장치",
+      "english": "stage set/scenery",
+      "example": "창의적인 무대장치는 무용 공연을 더욱 인상적으로 만든다.",
+      "example_en": "Creative stage sets make dance performances even more impressive.",
+      "notes": "Stage. Sino-Korean: 舞(무=dance) + 臺(대=platform). Collocates: 무대 표현, 무대장치."
+    },
+    {
+      "korean": "유연성",
+      "english": "flexibility",
+      "example": "무용수들은 몸의 유연성을 늘리기 위해 매일 스트레칭을 한다.",
+      "example_en": "Dancers stretch daily to increase their body's flexibility.",
+      "notes": "Flexibility. Sino-Korean: 柔(유=soft) + 軟(연=soft) + 性(성=nature). Related: 스트레칭, 근력."
+    },
+    {
+      "korean": "표현력",
+      "english": "expressiveness",
+      "example": "좋은 무용수는 뛰어난 기술뿐만 아니라 풍부한 표현력을 가져야 한다.",
+      "example_en": "A good dancer must have not only excellent technique but also rich expressiveness.",
+      "notes": "Expressive power. Sino-Korean: 表(표=show) + 現(현=appear) + 力(력=power). Related: 감정 표현."
+    },
+    {
+      "korean": "우아함",
+      "english": "grace/elegance",
+      "example": "발레의 특징은 모든 동작에서 우아함을 유지하는 것이다.",
+      "example_en": "The characteristic of ballet is maintaining grace in all movements.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "자세",
+      "english": "posture",
+      "example": "올바른 자세는 무용 기초 훈련의 첫 번째 단계다.",
+      "example_en": "Correct posture is the first step in basic dance training.",
+      "notes": "Posture/stance. Sino-Korean: 姿(자=posture) + 勢(세=force). Collocates: 올바른 자세, 기초 자세."
+    },
+    {
+      "korean": "기본 동작",
+      "english": "basic movement",
+      "example": "모든 무용 스타일을 배우기 전에 기본 동작부터 완벽하게 익혀야 한다.",
+      "example_en": "Before learning any dance style, you must first master the basic movements perfectly.",
+      "notes": "Basic movement. Collocates: 기본 동작 습득."
+    },
+    {
+      "korean": "발레화",
+      "english": "ballet shoes",
+      "example": "발레화의 발끝은 특별한 처리가 되어 있어 무용수가 발끝으로 설 수 있게 한다.",
+      "example_en": "Ballet shoes have special construction at the toe allowing dancers to stand on their toes.",
+      "notes": "Ballet. Loanword from French. Collocates: 발레 수업, 발레화."
+    },
+    {
+      "korean": "튀튀",
+      "english": "tutu",
+      "example": "튀튀 스커트의 길이는 발레 작품의 종류에 따라 달라진다.",
+      "example_en": "The length of a tutu skirt varies depending on the type of ballet piece.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "무용 치료",
+      "english": "dance therapy",
+      "example": "무용 치료는 신체와 정신 건강을 동시에 개선하는 효과적인 방법이다.",
+      "example_en": "Dance therapy is an effective method for improving both physical and mental health.",
+      "notes": "Dance therapy. Collocates: 무용 치료 효과."
+    },
+    {
+      "korean": "경연대회",
+      "english": "competition/contest",
+      "example": "국제 무용 경연대회에 참가하는 것은 무용수의 경력에 중요한 이정표가 된다.",
+      "example_en": "Participating in international dance competitions is an important milestone in a dancer's career.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "무용단",
+      "english": "dance company/troupe",
+      "example": "그 무용단은 전통무용과 현대무용을 모두 공연하는 것으로 유명하다.",
+      "example_en": "That dance company is known for performing both traditional and contemporary dance.",
+      "notes": "Dance company/troupe. Sino-Korean: 舞(무=dance) + 用(용=use) + 團(단=group)."
+    },
+    {
+      "korean": "움직임",
+      "english": "movement",
+      "example": "무용수의 부드러운 움직임이 관객들을 매료시킨다.",
+      "example_en": "The graceful movements of dancers captivate the audience.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    }
+  ],
+  "주제별 단어 — 생명공학 (Topic: Biotechnology)": [
+    {
+      "korean": "유전자 편집",
+      "english": "gene editing",
+      "example": "CRISPR를 이용한 유전자 편집은 많은 유전질환 치료에 혁신을 일으켰다.",
+      "example_en": "Gene editing using CRISPR has revolutionized the treatment of many genetic diseases.",
+      "notes": "Gene editing. Collocates: 유전자 편집 기술, 윤리적 논쟁."
+    },
+    {
+      "korean": "크리스퍼-카스9",
+      "english": "CRISPR-Cas9",
+      "example": "크리스퍼-카스9 기술은 DNA의 특정 부분을 정교하게 절단할 수 있다.",
+      "example_en": "CRISPR-Cas9 technology can precisely cut specific sections of DNA.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "염기 서열",
+      "english": "base sequence",
+      "example": "인간 게놈의 염기 서열은 약 30억 개의 염기로 구성되어 있다.",
+      "example_en": "The human genome's base sequence consists of approximately 3 billion bases.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "유전자 가위",
+      "english": "genetic scissors",
+      "example": "과학자들은 유전자 가위를 이용하여 질병을 유발하는 유전자를 제거했다.",
+      "example_en": "Scientists used genetic scissors to remove genes that cause disease.",
+      "notes": "Gene. Sino-Korean: 遺(유=inherit) + 傳(전=transmit) + 子(자=element). Collocates: 유전자 편집, 유전자 분석."
+    },
+    {
+      "korean": "복제",
+      "english": "cloning",
+      "example": "동물 복제 기술은 1996년 돌리양의 탄생으로 현실화되었다.",
+      "example_en": "Animal cloning technology became reality with the birth of Dolly the sheep in 1996.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "배아복제",
+      "english": "embryonic cloning",
+      "example": "배아복제는 배아 분할을 통해 동일한 유전자를 가진 개체를 만드는 방식이다.",
+      "example_en": "Embryonic cloning creates identical individuals by dividing embryos.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "조직배양",
+      "english": "tissue culture",
+      "example": "의료진들은 조직배양 기술을 통해 손상된 장기를 재생시키고 있다.",
+      "example_en": "Medical professionals are regenerating damaged organs through tissue culture techniques.",
+      "notes": "Culture (biological). Sino-Korean: 培(배=nurture) + 養(양=raise). Collocates: 배양액, 세포 배양."
+    },
+    {
+      "korean": "줄기세포",
+      "english": "stem cell",
+      "example": "줄기세포는 다양한 세포 유형으로 분화될 수 있는 능력이 있다.",
+      "example_en": "Stem cells have the ability to differentiate into various cell types.",
+      "notes": "Stem cell. Sino-Korean: 줄기(stem) + 細(세=fine) + 胞(포=wrap). Collocates: 줄기세포 연구."
+    },
+    {
+      "korean": "배아줄기세포",
+      "english": "embryonic stem cell",
+      "example": "배아줄기세포의 다분화능은 신경계 질환 치료에 큰 가능성을 보여준다.",
+      "example_en": "The pluripotency of embryonic stem cells shows great potential for treating neurological disorders.",
+      "notes": "Cell. Sino-Korean: 細(세=fine) + 胞(포=wrap). Collocates: 세포 배양, 세포 분열."
+    },
+    {
+      "korean": "역분화",
+      "english": "dedifferentiation",
+      "example": "유도만능줄기세포는 성숙한 세포의 역분화를 통해 만들어진다.",
+      "example_en": "Induced pluripotent stem cells are created through the dedifferentiation of mature cells.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "분화",
+      "english": "differentiation",
+      "example": "배아의 분화 과정은 복잡한 신호 전달 경로에 의해 조절된다.",
+      "example_en": "The differentiation process of embryos is regulated by complex signaling pathways.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "유전자변형생물",
+      "english": "genetically modified organism; GMO",
+      "example": "유전자변형생물의 안전성에 관한 논쟁은 여전히 진행 중이다.",
+      "example_en": "The debate about the safety of genetically modified organisms continues.",
+      "notes": "Gene. Sino-Korean: 遺(유=inherit) + 傳(전=transmit) + 子(자=element). Collocates: 유전자 편집, 유전자 분석."
+    },
+    {
+      "korean": "유전자변형",
+      "english": "genetic modification",
+      "example": "유전자변형을 통해 더 높은 수확량을 가진 작물을 개발할 수 있다.",
+      "example_en": "Higher-yielding crops can be developed through genetic modification.",
+      "notes": "Gene. Sino-Korean: 遺(유=inherit) + 傳(전=transmit) + 子(자=element). Collocates: 유전자 편집, 유전자 분석."
+    },
+    {
+      "korean": "형질전환",
+      "english": "genetic transformation",
+      "example": "박테리아의 형질전환 기술은 현대 생명공학의 핵심이다.",
+      "example_en": "Bacterial genetic transformation is a cornerstone of modern biotechnology.",
+      "notes": "Genetic transformation. Sino-Korean: 形(형=form) + 質(질=quality) + 轉(전=transfer) + 換(환=exchange). Related: 유전자 편집."
+    },
+    {
+      "korean": "외래유전자",
+      "english": "foreign gene; transgene",
+      "example": "외래유전자의 도입은 식물의 특성을 근본적으로 변화시킬 수 있다.",
+      "example_en": "Introduction of foreign genes can fundamentally change plant characteristics.",
+      "notes": "Gene. Sino-Korean: 遺(유=inherit) + 傳(전=transmit) + 子(자=element). Collocates: 유전자 편집, 유전자 분석."
+    },
+    {
+      "korean": "생물정보학",
+      "english": "bioinformatics",
+      "example": "생물정보학은 생물학적 데이터를 컴퓨터를 이용해 분석하는 학문이다.",
+      "example_en": "Bioinformatics is the field of analyzing biological data using computers.",
+      "notes": "Organism/biology. Sino-Korean: 生(생=life) + 物(물=thing). Related: 생물학, 미생물."
+    },
+    {
+      "korean": "게노믹스",
+      "english": "genomics",
+      "example": "게노믹스 연구는 전체 유전체의 기능과 구조를 이해하는 데 도움이 된다.",
+      "example_en": "Genomics research helps us understand the function and structure of the entire genome.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "단백질 공학",
+      "english": "protein engineering",
+      "example": "단백질 공학을 통해 더 효율적인 효소를 만들 수 있다.",
+      "example_en": "More efficient enzymes can be created through protein engineering.",
+      "notes": "Protein. Sino-Korean: 單(단=single) + 白(백=white) + 質(질=quality). Collocates: 단백질 구조, 단백질 합성."
+    },
+    {
+      "korean": "효소 설계",
+      "english": "enzyme design",
+      "example": "효소 설계 기술은 산업적 생산 과정을 크게 개선했다.",
+      "example_en": "Enzyme design technology has greatly improved industrial production processes.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "발효",
+      "english": "fermentation",
+      "example": "요구르트의 발효 과정에서 유산균이 중요한 역할을 한다.",
+      "example_en": "Lactic acid bacteria play a crucial role in the fermentation process of yogurt.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "미생물 발효",
+      "english": "microbial fermentation",
+      "example": "미생물 발효는 항생제와 백신 생산의 핵심 기술이다.",
+      "example_en": "Microbial fermentation is a key technology in antibiotic and vaccine production.",
+      "notes": "Organism/biology. Sino-Korean: 生(생=life) + 物(물=thing). Related: 생물학, 미생물."
+    },
+    {
+      "korean": "생물 연료",
+      "english": "biofuel",
+      "example": "생물 연료는 재생 가능한 에너지 자원으로서 각광받고 있다.",
+      "example_en": "Biofuels are attracting attention as renewable energy resources.",
+      "notes": "Organism/biology. Sino-Korean: 生(생=life) + 物(물=thing). Related: 생물학, 미생물."
+    },
+    {
+      "korean": "바이오에탄올",
+      "english": "bioethanol",
+      "example": "바이오에탄올은 옥수수와 사탕수수에서 추출할 수 있다.",
+      "example_en": "Bioethanol can be extracted from corn and sugarcane.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "생물윤리",
+      "english": "bioethics",
+      "example": "생물윤리는 유전자 편집 기술의 사용을 규제하는 데 중요하다.",
+      "example_en": "Bioethics is important in regulating the use of gene editing technology.",
+      "notes": "Bioethics. Sino-Korean: 生(생=life) + 命(명=life) + 倫(윤=ethics) + 理(리=reason). Related: 생명윤리."
+    },
+    {
+      "korean": "윤리심사",
+      "english": "ethical review",
+      "example": "모든 인간 대상 연구는 윤리심사위원회의 승인을 받아야 한다.",
+      "example_en": "All human subject research must receive approval from an ethics review committee.",
+      "notes": "Ethics review. Sino-Korean: 倫(윤=ethics) + 理(리=reason) + 審(심=examine) + 査(사=investigate)."
+    },
+    {
+      "korean": "임상시험",
+      "english": "clinical trial",
+      "example": "신약 개발을 위한 임상시험은 여러 단계를 거친다.",
+      "example_en": "Clinical trials for new drug development go through several stages.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "상 I 임상시험",
+      "english": "Phase I clinical trial",
+      "example": "상 I 임상시험은 신약의 안전성과 용량을 평가한다.",
+      "example_en": "Phase I clinical trials evaluate the safety and dosage of new drugs.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "백신",
+      "english": "vaccine",
+      "example": "백신은 질병에 대한 면역력을 형성하는 생물학적 제제이다.",
+      "example_en": "A vaccine is a biological preparation that forms immunity against disease.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "mRNA 백신",
+      "english": "mRNA vaccine",
+      "example": "mRNA 백신은 코로나바이러스 팬데믹 대응에 혁신적인 역할을 했다.",
+      "example_en": "mRNA vaccines played an innovative role in responding to the coronavirus pandemic.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "유전자 치료",
+      "english": "gene therapy",
+      "example": "유전자 치료는 결함 있는 유전자를 건강한 유전자로 대체하는 기술이다.",
+      "example_en": "Gene therapy is a technique for replacing defective genes with healthy ones.",
+      "notes": "Gene. Sino-Korean: 遺(유=inherit) + 傳(전=transmit) + 子(자=element). Collocates: 유전자 편집, 유전자 분석."
+    },
+    {
+      "korean": "체세포 유전자 치료",
+      "english": "somatic gene therapy",
+      "example": "체세포 유전자 치료는 환자 개인의 질병만 치료하며 유전되지 않는다.",
+      "example_en": "Somatic gene therapy only treats the individual patient's disease and is not inherited.",
+      "notes": "Gene. Sino-Korean: 遺(유=inherit) + 傳(전=transmit) + 子(자=element). Collocates: 유전자 편집, 유전자 분석."
+    },
+    {
+      "korean": "게놈 서열 결정",
+      "english": "genome sequencing",
+      "example": "게놈 서열 결정 비용이 급격히 감소하면서 개인 맞춤 의료가 가능해졌다.",
+      "example_en": "As genome sequencing costs have plummeted, personalized medicine has become possible.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "온전한 게놈 분석",
+      "english": "whole genome analysis",
+      "example": "온전한 게놈 분석은 희귀 유전질환의 진단에 도움이 된다.",
+      "example_en": "Whole genome analysis helps diagnose rare genetic diseases.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "합성생물학",
+      "english": "synthetic biology",
+      "example": "합성생물학은 자연에 존재하지 않는 생물을 만드는 학문이다.",
+      "example_en": "Synthetic biology is the field of creating organisms that do not exist in nature.",
+      "notes": "Organism/biology. Sino-Korean: 生(생=life) + 物(물=thing). Related: 생물학, 미생물."
+    },
+    {
+      "korean": "생명회로",
+      "english": "biological circuit",
+      "example": "합성생물학자들은 세포 내에서 작동하는 생명회로를 설계했다.",
+      "example_en": "Synthetic biologists have designed biological circuits that operate within cells.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "미생물군집",
+      "english": "microbiome",
+      "example": "인간의 미생물군집은 소화, 면역, 심지어 정신 건강에도 영향을 미친다.",
+      "example_en": "The human microbiome affects digestion, immunity, and even mental health.",
+      "notes": "Organism/biology. Sino-Korean: 生(생=life) + 物(물=thing). Related: 생물학, 미생물."
+    },
+    {
+      "korean": "장내 미생물",
+      "english": "gut microbiota",
+      "example": "장내 미생물의 다양성은 전반적인 건강과 밀접한 관련이 있다.",
+      "example_en": "The diversity of gut microbiota is closely related to overall health.",
+      "notes": "Organism/biology. Sino-Korean: 生(생=life) + 物(물=thing). Related: 생물학, 미생물."
+    },
+    {
+      "korean": "생물치료제",
+      "english": "biotherapeutic; biological drug",
+      "example": "생물치료제는 단백질과 핵산으로 만든 의약품이다.",
+      "example_en": "Biotherapeutics are medicines made from proteins and nucleic acids.",
+      "notes": "Organism/biology. Sino-Korean: 生(생=life) + 物(물=thing). Related: 생물학, 미생물."
+    }
+  ],
+  "주제별 단어 — 도서관 (Topic: Libraries & Books)": [
+    {
+      "korean": "참고문헌",
+      "english": "bibliography; reference materials",
+      "example": "이 논문의 참고문헌을 보면 최근 연구동향을 잘 알 수 있다.",
+      "example_en": "By looking at this paper's bibliography, you can understand recent research trends well.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "목록학",
+      "english": "cataloging; bibliographic science",
+      "example": "도서관의 목록학 시스템이 개편되면서 책 찾기가 훨씬 수월해졌다.",
+      "example_en": "After the library's cataloging system was revised, finding books became much easier.",
+      "notes": "Bibliography. Sino-Korean: 目(목=eye) + 錄(록=record) + 學(학=study). Related: 도서 분류, 카탈로그."
+    },
+    {
+      "korean": "정기간행물",
+      "english": "periodicals; journals and magazines",
+      "example": "도서관에서는 다양한 정기간행물을 구독하고 있으며, 일부는 디지털로도 제공된다.",
+      "example_en": "The library subscribes to various periodicals, and some are also available digitally.",
+      "notes": "Periodical. Sino-Korean: 定(정=regular) + 期(기=period) + 刊(간=publish) + 行(행=distribute) + 物(물=thing). Related: 잡지, 신문."
+    },
+    {
+      "korean": "필사본",
+      "english": "manuscript; handwritten document",
+      "example": "박물관에 보관된 조선시대 필사본들은 역사 연구에 매우 귀중한 자료다.",
+      "example_en": "The Joseon-era manuscripts preserved in the museum are invaluable materials for historical research.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "선집",
+      "english": "anthology; selected works",
+      "example": "19세기 한국 소설 선집은 근대 문학의 발전 과정을 보여준다.",
+      "example_en": "An anthology of 19th-century Korean novels illustrates the development of modern literature.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "문학비평",
+      "english": "literary criticism",
+      "example": "그 교수의 문학비평은 작품을 다양한 각도에서 분석한다.",
+      "example_en": "The professor's literary criticism analyzes works from multiple perspectives.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "식자",
+      "english": "typesetting; composition",
+      "example": "현대에는 컴퓨터 식자 프로그램으로 편집 과정이 대폭 단축되었다.",
+      "example_en": "With modern computer typesetting programs, the editing process has been greatly shortened.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "학위논문",
+      "english": "dissertation; thesis",
+      "example": "그 학위논문은 수년간의 연구 결과를 담고 있다.",
+      "example_en": "The dissertation contains years of research results.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "인용",
+      "english": "citation; quotation",
+      "example": "이 글에서 인용한 문헌들은 모두 학술지에 게재된 논문이다.",
+      "example_en": "The literature cited in this article are all papers published in academic journals.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "초록",
+      "english": "abstract; summary",
+      "example": "논문의 초록을 읽으면 전체 내용을 파악할 수 있다.",
+      "example_en": "Reading the abstract of a paper gives you an understanding of the entire content.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "아카이브",
+      "english": "archive; repository of records",
+      "example": "국립중앙도서관의 디지털 아카이브는 수백만 개의 자료를 보유하고 있다.",
+      "example_en": "The National Library's digital archive holds millions of documents.",
+      "notes": "Archive. Loanword from English. Collocates: 디지털 아카이브, 아카이브 구축."
+    },
+    {
+      "korean": "귀중본",
+      "english": "rare book; precious volume",
+      "example": "이 귀중본은 보존 상태가 매우 좋아서 소장 가치가 높다.",
+      "example_en": "This rare book is in excellent condition and has high collection value.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "전자도서관",
+      "english": "digital library; e-library",
+      "example": "전자도서관을 이용하면 시간과 장소의 제약 없이 자료에 접근할 수 있다.",
+      "example_en": "Digital libraries allow access to materials without time or location restrictions.",
+      "notes": "Digital library. Collocates: 전자도서관 접근."
+    },
+    {
+      "korean": "ISBN",
+      "english": "ISBN; International Standard Book Number",
+      "example": "이 책의 ISBN을 입력하면 도서관 시스템에서 자동으로 검색된다.",
+      "example_en": "When you enter this book's ISBN, the library system automatically searches for it.",
+      "notes": "ISBN (book identifier). Loanword. Collocates: ISBN 검색, ISBN 입력."
+    },
+    {
+      "korean": "서지사항",
+      "english": "bibliographic information; publication details",
+      "example": "책의 뒷면에 인쇄된 서지사항을 확인하면 출판 정보를 알 수 있다.",
+      "example_en": "You can find publication information by checking the bibliographic details printed on the back of the book.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "판권지",
+      "english": "copyright page; title page verso",
+      "example": "판권지에는 출판사, 저자, 출판일, 판수 등의 정보가 기재된다.",
+      "example_en": "The copyright page contains information such as publisher, author, publication date, and edition.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "편집증",
+      "english": "editorial license; editorial discretion",
+      "example": "편집자는 때때로 문맥에 맞게 약간의 편집증을 발휘한다.",
+      "example_en": "Editors sometimes exercise editorial discretion to better fit the context.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "저술",
+      "english": "authorship; written work",
+      "example": "그의 저술 활동은 학계에 큰 영향을 미쳤다.",
+      "example_en": "His authorship and written works had a major impact on academia.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "역본",
+      "english": "translated version; translation",
+      "example": "이 소설의 영어 역본은 세계적으로 큰 인기를 얻었다.",
+      "example_en": "The English translation of this novel gained worldwide popularity.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "미출판",
+      "english": "unpublished; not yet published",
+      "example": "그 작가의 미출판 원고들이 발견되어 학계의 주목을 받고 있다.",
+      "example_en": "The unpublished manuscripts of the author have been discovered and are attracting academic attention.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "서재",
+      "english": "library; personal book collection",
+      "example": "그의 방대한 서재는 그의 학문적 깊이를 보여준다.",
+      "example_en": "His extensive personal library demonstrates his scholarly depth.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "독서회",
+      "english": "book club; reading circle",
+      "example": "이 독서회는 매달 한 권의 책을 선정해서 토론한다.",
+      "example_en": "This book club selects one book each month for discussion.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "서평",
+      "english": "book review",
+      "example": "신문의 서평란에서 신작 소설에 대한 긍정적인 평가를 읽었다.",
+      "example_en": "I read a positive review of a new novel in the newspaper's book review section.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "북마크",
+      "english": "bookmark",
+      "example": "종이 북마크를 책 사이에 끼우고 다니는 것이 습관이다.",
+      "example_en": "I habitually keep a paper bookmark inside the book I'm reading.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "여백",
+      "english": "margin; white space",
+      "example": "원본의 여백에 필사된 주석들이 책의 가치를 더해준다.",
+      "example_en": "Annotations handwritten in the margins of the original add to the book's value.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "장정",
+      "english": "book design; layout and binding",
+      "example": "이 책의 장정은 고급스럽고 세련되어 있다.",
+      "example_en": "This book's design is elegant and refined.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "인쇄본",
+      "english": "printed edition; printed copy",
+      "example": "전자책이 보편화되었지만 종이 인쇄본을 선호하는 독자들도 많다.",
+      "example_en": "Although e-books are common, many readers still prefer printed editions.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "일람표",
+      "english": "list; catalog; table of contents",
+      "example": "도서관의 신간 일람표를 확인하면 최신 도서를 알 수 있다.",
+      "example_en": "By checking the library's new releases list, you can see the latest books.",
+      "notes": "List/catalog. Sino-Korean: 一(일=one) + 覽(람=view) + 表(표=table). Related: 도서 목록."
+    }
+  ],
+  "주제별 단어 — 이민 (Topic: Immigration & Multiculturalism)": [
+    {
+      "korean": "비자",
+      "english": "visa",
+      "example": "호주 유학생 비자를 신청하기 위해 서류를 준비했어요.",
+      "example_en": "I prepared documents to apply for an Australian student visa.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "취업비자",
+      "english": "work visa / employment visa",
+      "example": "싱가포르의 기술 회사가 제 취업비자를 스폰서해주기로 했어요.",
+      "example_en": "A tech company in Singapore agreed to sponsor my work visa.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "거주권",
+      "english": "residency / right of residence",
+      "example": "한국에서 5년 이상 거주하면 거주권을 신청할 수 있습니다.",
+      "example_en": "You can apply for residency after living in Korea for more than 5 years.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "영주권",
+      "english": "permanent residency / permanent resident status",
+      "example": "그녀는 올해 한국 영주권을 취득했어요.",
+      "example_en": "She obtained permanent residency in Korea this year.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "시민권",
+      "english": "citizenship",
+      "example": "미국 시민권을 얻기 위해서는 그린카드를 5년 이상 소유해야 해요.",
+      "example_en": "To obtain U.S. citizenship, you need to hold a green card for at least 5 years.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "귀화",
+      "english": "naturalization",
+      "example": "30년 동안 한국에서 살다가 한국으로 귀화했어요.",
+      "example_en": "After living in Korea for 30 years, he naturalized as a Korean citizen.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "망명",
+      "english": "asylum / political asylum",
+      "example": "정치 박해를 피해 미국에 망명을 신청했어요.",
+      "example_en": "He applied for asylum in the U.S. to escape political persecution.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "강제송환",
+      "english": "deportation / forced repatriation",
+      "example": "불법 체류자는 강제송환될 수 있습니다.",
+      "example_en": "Illegal residents can face deportation.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "체류기간",
+      "english": "length of stay / duration of stay",
+      "example": "관광비자의 체류기간은 보통 3개월입니다.",
+      "example_en": "The typical length of stay on a tourist visa is 3 months.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "비자 갱신",
+      "english": "visa renewal",
+      "example": "비자 갱신 신청은 만료 30일 전에 해야 해요.",
+      "example_en": "You should apply for visa renewal 30 days before expiration.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "밀입국",
+      "english": "illegal entry / smuggling",
+      "example": "국경 관리가 강화되면서 밀입국 사건이 줄어들었어요.",
+      "example_en": "As border control tightened, illegal entry incidents decreased.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "정착",
+      "english": "settlement / to settle",
+      "example": "새로운 나라에 정착하는 것은 쉽지 않아요.",
+      "example_en": "Settling in a new country isn't easy.",
+      "notes": "Settlement. Sino-Korean: 定(정=fix) + 着(착=attach). Collocates: 정착 도움, 정착 과정."
+    },
+    {
+      "korean": "다문화",
+      "english": "multiculturalism / multicultural",
+      "example": "우리 회사는 다문화 환경을 매우 중요하게 여겨요.",
+      "example_en": "Our company values a multicultural environment highly.",
+      "notes": "Culture. Sino-Korean: 文(문=writing) + 化(화=become). Collocates: 문화 차이, 전통 문화."
+    },
+    {
+      "korean": "문화적응",
+      "english": "cultural adaptation / cultural assimilation",
+      "example": "새 학생들은 학교 문화적응 프로그램에 참여해요.",
+      "example_en": "New students participate in the school's cultural adaptation program.",
+      "notes": "Culture. Sino-Korean: 文(문=writing) + 化(화=become). Collocates: 문화 차이, 전통 문화."
+    },
+    {
+      "korean": "동화",
+      "english": "assimilation / to assimilate",
+      "example": "1세대 이민자들의 동화는 2세대보다 느려요.",
+      "example_en": "First-generation immigrants assimilate more slowly than second-generation.",
+      "notes": "Assimilation. Sino-Korean: 同(동=same) + 化(화=become). Collocates: 동화 과정, 속도."
+    },
+    {
+      "korean": "모국",
+      "english": "homeland / country of origin",
+      "example": "많은 이민자들은 명절에 모국을 방문해요.",
+      "example_en": "Many immigrants visit their homeland during holidays.",
+      "notes": "Home country. Sino-Korean: 母(모=mother) + 國(국=country). Collocates: 모국 방문."
+    },
+    {
+      "korean": "해외거주",
+      "english": "overseas residence / living abroad",
+      "example": "해외거주 중인 가족들과 자주 영상통화를 해요.",
+      "example_en": "I often video call with family members living abroad.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "디아스포라",
+      "english": "diaspora",
+      "example": "한인 디아스포라는 여러 세계 문화에 영향을 끼쳤어요.",
+      "example_en": "The Korean diaspora has influenced various world cultures.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "다민족",
+      "english": "multiethnic / multiethnicty",
+      "example": "뉴욕은 정말 다민족 도시예요.",
+      "example_en": "New York is truly a multiethnic city.",
+      "notes": "Nation/people. Sino-Korean: 民(민=people) + 族(족=tribe). Collocates: 민족 문화."
+    },
+    {
+      "korean": "인종차별",
+      "english": "racism / racial discrimination",
+      "example": "학교에서 인종차별 문제를 엄격하게 다루고 있어요.",
+      "example_en": "The school is handling racism issues strictly.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "포용성",
+      "english": "inclusiveness / inclusion",
+      "example": "우리 지역사회는 포용성을 기반으로 운영돼요.",
+      "example_en": "Our community operates on the basis of inclusiveness.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "통합정책",
+      "english": "integration policy",
+      "example": "정부의 새로운 통합정책이 이민자들의 정착을 도와주고 있어요.",
+      "example_en": "The government's new integration policy is helping immigrants settle.",
+      "notes": "Integration policy. Sino-Korean: 統(통=unify) + 合(합=combine) + 政(정=politics) + 策(책=strategy)."
+    },
+    {
+      "korean": "사회통합",
+      "english": "social integration",
+      "example": "언어 교육은 사회통합의 첫 단계예요.",
+      "example_en": "Language education is the first step in social integration.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "이주노동자",
+      "english": "migrant worker / immigrant worker",
+      "example": "한국의 많은 이주노동자들이 매우 힘들게 일해요.",
+      "example_en": "Many migrant workers in Korea work very hard.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "외국인근로자",
+      "english": "foreign worker",
+      "example": "건설 산업에 외국인근로자가 많이 고용되고 있어요.",
+      "example_en": "Many foreign workers are being employed in the construction industry.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "노동착취",
+      "english": "labor exploitation / to exploit labor",
+      "example": "노동착취를 신고하면 보호받을 수 있어요.",
+      "example_en": "If you report labor exploitation, you can receive protection.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "임금체불",
+      "english": "unpaid wages / wage theft",
+      "example": "임금체불은 심각한 노동 위반이에요.",
+      "example_en": "Unpaid wages is a serious labor violation.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "정착지원서비스",
+      "english": "settlement support services",
+      "example": "정부에서 제공하는 정착지원서비스를 받고 있어요.",
+      "example_en": "I'm receiving settlement support services provided by the government.",
+      "notes": "Settlement. Sino-Korean: 定(정=fix) + 着(착=attach). Collocates: 정착 도움, 정착 과정."
+    },
+    {
+      "korean": "다문화가정",
+      "english": "multicultural family / mixed family",
+      "example": "우리 반에는 여러 다문화가정 학생들이 있어요.",
+      "example_en": "There are several multicultural family students in our class.",
+      "notes": "Culture. Sino-Korean: 文(문=writing) + 化(화=become). Collocates: 문화 차이, 전통 문화."
+    },
+    {
+      "korean": "국제결혼",
+      "english": "international marriage / intermarriage",
+      "example": "국제결혼을 하면 복잡한 법적 문제가 생길 수 있어요.",
+      "example_en": "International marriage can create complex legal issues.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "혼혈인",
+      "english": "mixed-race person / person of mixed heritage",
+      "example": "한국 사회에서 혼혈인들이 겪는 도전을 이해해야 해요.",
+      "example_en": "We need to understand the challenges that mixed-race people face in Korean society.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "문화적 다양성",
+      "english": "cultural diversity",
+      "example": "문화적 다양성은 사회를 더 풍요롭게 만들어요.",
+      "example_en": "Cultural diversity makes society richer.",
+      "notes": "Culture. Sino-Korean: 文(문=writing) + 化(화=become). Collocates: 문화 차이, 전통 문화."
+    }
+  ],
+  "주제별 단어 — 전통문화 (Topic: Traditional Korean Culture)": [
+    {
+      "korean": "깃",
+      "english": "collar edge; strip of fabric at a garment's edge",
+      "example": "저고리의 깃을 정성스럽게 감싸는 것이 한복 제작의 핵심이다.",
+      "example_en": "Carefully wrapping the collar edge is essential to hanbok construction.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "동정",
+      "english": "white collar piece worn under jeogori (short jacket)",
+      "example": "어머니는 빨간 저고리 위에 흰 동정을 깔끔하게 얹으셨다.",
+      "example_en": "Mother placed the white collar piece neatly over the red jacket.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "고름",
+      "english": "ribbon ties that fasten the jeogori and chima",
+      "example": "결혼식날 신부의 화려한 고름이 시선을 사로잡았다.",
+      "example_en": "The bride's ornate ribbon ties captured everyone's attention on the wedding day.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "치마",
+      "english": "skirt; chima (Korean traditional skirt)",
+      "example": "전통 치마는 여러 겹의 천을 사용해 부피감 있는 실루엣을 만든다.",
+      "example_en": "Traditional skirts use multiple layers of fabric to create a voluminous silhouette.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "저고리",
+      "english": "jeogori; short fitted jacket worn as the upper part of hanbok",
+      "example": "올해 설날을 위해 새 저고리를 맞춰 입기로 했다.",
+      "example_en": "I decided to have a new jacket tailored for Lunar New Year this year.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "수채",
+      "english": "decorative embroidery or beadwork on hanbok",
+      "example": "웨딩 한복의 수채는 금사와 진주로 화려하게 수놓여 있었다.",
+      "example_en": "The wedding hanbok's embroidery was elaborately stitched with gold thread and pearls.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "가야금",
+      "english": "gayageum; traditional Korean zither-like instrument",
+      "example": "국악 공연에서 가야금의 부드러운 음색이 관객들을 감동시켰다.",
+      "example_en": "The gayageum's soft timbre moved the audience at the traditional music performance.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "장단",
+      "english": "jangdan; rhythmic cycle or beat pattern in Korean traditional music",
+      "example": "경험 많은 음악가는 미묘한 장단의 변화를 감지할 수 있다.",
+      "example_en": "Experienced musicians can detect subtle changes in the rhythmic pattern.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "법고",
+      "english": "large traditional drum used in ritual and court music",
+      "example": "궁궐의 법고 소리는 대신들에게 중요한 신호였다.",
+      "example_en": "The sound of the ritual drum was an important signal to court officials.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "아악",
+      "english": "aak; court music tradition of Korea and East Asia",
+      "example": "아악은 엄격한 규칙에 따라 전승되는 음악 전통이다.",
+      "example_en": "Aak is a musical tradition passed down according to strict rules.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "기와",
+      "english": "roof tile used in traditional Korean architecture",
+      "example": "고풍스러운 한옥의 기와지붕은 비가 오면 독특한 향기를 풍긴다.",
+      "example_en": "The tile roof of a traditional Korean house releases a distinctive scent when it rains.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "처마",
+      "english": "eaves; roof overhang that protects the walls",
+      "example": "넓은 처마 아래에 앉으면 소나기도 피할 수 있다.",
+      "example_en": "Sitting under the broad eaves provides shelter from sudden rain.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "대들보",
+      "english": "main beam; the principal wooden structural beam",
+      "example": "목수가 대들보 위에 정교한 문양을 조각했다.",
+      "example_en": "The carpenter carved intricate patterns on the main beam.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "온돌",
+      "english": "ondol; underfloor heating system beneath traditional Korean floors",
+      "example": "추운 겨울에도 온돌의 따뜻함으로 온 집이 포근했다.",
+      "example_en": "Even in cold winters, the ondol's warmth kept the whole house cozy.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "마루",
+      "english": "wooden floor in a traditional Korean house",
+      "example": "마루를 맨발로 걸으면 소나무의 향이 올라온다.",
+      "example_en": "Walking barefoot on the wooden floor releases the scent of pine.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "함",
+      "english": "ham; ornamental gift box exchanged during Korean wedding",
+      "example": "화려한 함 안에는 신부의 예물들이 정중하게 담겨 있다.",
+      "example_en": "Inside the ornate box are the bride's gifts arranged with great care.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "혼례",
+      "english": "honrye; wedding ceremony in the traditional Korean style",
+      "example": "우리 부모님은 남산 한옥에서 아름다운 혼례를 올리셨다.",
+      "example_en": "Our parents held a beautiful traditional wedding ceremony at a hanok on Namsan.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "상례",
+      "english": "sangrye; funeral rites and mourning practices",
+      "example": "상례의 절차는 복잡하지만 조상에 대한 경의를 담고 있다.",
+      "example_en": "Funeral rites are complex but express reverence for ancestors.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "돌",
+      "english": "dol; first birthday celebration, traditionally an important milestone",
+      "example": "돌 때 아기가 쌓은 책의 높이로 똑똑함을 예측했다.",
+      "example_en": "Traditionally, a baby's intelligence was predicted by how high they stacked books at their first birthday.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "장담그기",
+      "english": "making fermented soy paste and sauce from soybeans",
+      "example": "할머니는 봄마다 장담그기를 하시며 여름 내내 햇빛에 말렸다.",
+      "example_en": "Grandmother made fermented paste every spring and dried it in the sun all summer.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "김장",
+      "english": "kimjang; kimchi-making season, usually in late fall",
+      "example": "온 동네 아주머니들이 함께 모여 김장을 하는 모습은 정겹다.",
+      "example_en": "The sight of all the neighborhood women gathering together for kimchi-making is heartwarming.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "담금",
+      "english": "damgeum; process of pickling or fermenting; soaking",
+      "example": "좋은 품질의 담금 장류는 최소 3년 이상 숙성되어야 한다.",
+      "example_en": "High-quality fermented condiments must be aged for at least three years.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "윷놀이",
+      "english": "yut nori; traditional board game played with four wooden sticks",
+      "example": "명절이면 온 가족이 윷놀이를 하며 밤을 새운다.",
+      "example_en": "During holidays, the whole family plays yut nori and stays up all night.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "널뛰기",
+      "english": "nol twigi; traditional seesaw jumping game for girls",
+      "example": "고전 영화에서 본 여인들의 널뛰기는 우아함과 역동성을 동시에 보여준다.",
+      "example_en": "The seesaw jumping of women seen in classic films shows both elegance and dynamism.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "팽이",
+      "english": "paengi; spinning top; traditional toy spun with a whip",
+      "example": "팽이를 치는 기술은 손목의 정밀한 움직임을 요구한다.",
+      "example_en": "The technique of spinning a top requires precise wrist movements.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "한지",
+      "english": "hanji; Korean mulberry paper, used for art and traditional crafts",
+      "example": "한지의 질감은 부드러우면서도 강인한 특성을 동시에 지니고 있다.",
+      "example_en": "Hanji's texture is simultaneously soft and strong.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "깎아내기",
+      "english": "carving; subtractive sculpting technique",
+      "example": "목각 장인은 나무에 깎아내기로 섬세한 문양을 새긴다.",
+      "example_en": "Master woodcarvers create delicate patterns through subtractive carving.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "태극",
+      "english": "taegeuk; yin-yang symbol representing cosmic balance",
+      "example": "태극의 빨강과 파랑은 한국 국기의 핵심 요소이다.",
+      "example_en": "The red and blue of the yin-yang are core elements of the Korean flag.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "무당",
+      "english": "mudang; shaman; ritual specialist in Korean shamanism",
+      "example": "무당의 굿은 마을 공동체의 정신적 건강을 지키는 역할을 했다.",
+      "example_en": "A shaman's ritual served to protect the spiritual health of the village community.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    }
+  ],
+  "주제별 단어 — 지질/광업 (Topic: Geology & Mining)": [
+    {
+      "korean": "광물",
+      "english": "mineral",
+      "example": "이 암석에 포함된 광물의 성분을 분석해야 한다.",
+      "example_en": "We need to analyze the composition of the minerals contained in this rock.",
+      "notes": "Mineral. Sino-Korean: 鑛(광=mineral) + 物(물=thing). Related: 광산, 광업."
+    },
+    {
+      "korean": "암석",
+      "english": "rock",
+      "example": "지각을 이루는 주요 암석 종류는 세 가지이다.",
+      "example_en": "There are three main types of rocks that make up the Earth's crust.",
+      "notes": "Rock. Sino-Korean: 岩(암=rock) + 石(석=stone). Collocates: 화성암, 퇴적암."
+    },
+    {
+      "korean": "화성암",
+      "english": "igneous rock",
+      "example": "화강암은 대표적인 화성암으로 냉각 속도가 느리다.",
+      "example_en": "Granite is a typical igneous rock that cools slowly.",
+      "notes": "Igneous rock. Sino-Korean: 火(화=fire) + 成(성=become) + 岩(암=rock)."
+    },
+    {
+      "korean": "퇴적암",
+      "english": "sedimentary rock",
+      "example": "퇴적암은 해양 환경에서 형성되는 경우가 많다.",
+      "example_en": "Sedimentary rocks are often formed in marine environments.",
+      "notes": "Sedimentary rock. Sino-Korean: 退(퇴=withdraw) + 積(적=accumulate) + 岩(암=rock)."
+    },
+    {
+      "korean": "변성암",
+      "english": "metamorphic rock",
+      "example": "변성암은 높은 열과 압력에 의해 원래의 암석이 변형된 것이다.",
+      "example_en": "Metamorphic rock is the transformation of original rocks by high heat and pressure.",
+      "notes": "Metamorphic rock. Sino-Korean: 變(변=change) + 成(성=become) + 岩(암=rock)."
+    },
+    {
+      "korean": "석영",
+      "english": "quartz",
+      "example": "석영은 실리콘과 산소로 이루어진 광물로 매우 단단하다.",
+      "example_en": "Quartz is a mineral composed of silicon and oxygen and is very hard.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "장석",
+      "english": "feldspar",
+      "example": "장석은 지구 지각에서 가장 풍부한 광물이다.",
+      "example_en": "Feldspar is the most abundant mineral in the Earth's crust.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "운모",
+      "english": "mica",
+      "example": "운모는 얇은 층상 구조로 벗겨지는 특성이 있다.",
+      "example_en": "Mica has the characteristic property of peeling off in thin layers.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "판구조",
+      "english": "plate tectonics",
+      "example": "판구조 이론은 대륙이동설을 설명하는 현대 지질학의 기초이다.",
+      "example_en": "Plate tectonics theory is the foundation of modern geology explaining continental drift.",
+      "notes": "Plate tectonics. Sino-Korean: 板(판=plate) + 構(구=structure) + 造(조=make). Related: 지구 구조."
+    },
+    {
+      "korean": "마그마",
+      "english": "magma",
+      "example": "마그마가 지표면으로 분출되면 용암이 된다.",
+      "example_en": "When magma erupts to the surface, it becomes lava.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "용암",
+      "english": "lava",
+      "example": "냉각된 용암은 현무암이라는 검은색 암석이 된다.",
+      "example_en": "Cooled lava becomes basalt, a black rock.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "화석",
+      "english": "fossil",
+      "example": "지층에서 발견된 화석은 과거의 생물을 연구하는 중요한 단서이다.",
+      "example_en": "Fossils found in strata are important clues for studying past life.",
+      "notes": "Fossil. Sino-Korean: 化(화=change) + 石(석=stone). Collocates: 화석 발굴."
+    },
+    {
+      "korean": "침식",
+      "english": "erosion",
+      "example": "오랜 세월에 걸친 침식으로 협곡이 형성되었다.",
+      "example_en": "Over long periods of erosion, canyons were formed.",
+      "notes": "Erosion. Sino-Korean: 侵(침=invade) + 蝕(식=erode). Related: 풍화, 침강."
+    },
+    {
+      "korean": "퇴적물",
+      "english": "sediment",
+      "example": "강이 운반하는 퇴적물이 삼각주를 형성한다.",
+      "example_en": "Sediment carried by rivers forms deltas.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "광상",
+      "english": "ore deposit",
+      "example": "이 지역의 철광상은 세계적으로 유명하다.",
+      "example_en": "The iron ore deposits in this area are world-renowned.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "광석",
+      "english": "ore",
+      "example": "이 광석에서 금을 추출하기 위해 복잡한 과정이 필요하다.",
+      "example_en": "A complex process is needed to extract gold from this ore.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "보석",
+      "english": "gemstone; jewel",
+      "example": "다이아몬드는 가장 값비싼 보석 중 하나이다.",
+      "example_en": "Diamond is one of the most expensive gemstones.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "화구",
+      "english": "crater",
+      "example": "화산의 화구에서 황산 가스가 분출되고 있다.",
+      "example_en": "Sulfuric acid gas is erupting from the volcano's crater.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "단층",
+      "english": "fault; fault line",
+      "example": "단층을 따라 지진이 자주 발생하는 경향이 있다.",
+      "example_en": "Earthquakes tend to occur frequently along faults.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "지층",
+      "english": "stratum; geological layer",
+      "example": "이 지층은 약 2억 년 전에 형성된 것으로 추정된다.",
+      "example_en": "This stratum is estimated to have formed about 200 million years ago.",
+      "notes": "Geological layer. Sino-Korean: 地(지=earth) + 層(층=layer). Collocates: 지층 분석."
+    },
+    {
+      "korean": "시추",
+      "english": "drilling; boring",
+      "example": "석유 탐사를 위해 심해에서 시추 작업을 진행 중이다.",
+      "example_en": "Drilling operations are underway in deep sea for oil exploration.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "채석장",
+      "english": "quarry",
+      "example": "채석장에서 화강암을 채취하여 건설 자재로 사용한다.",
+      "example_en": "Granite is extracted from the quarry and used as construction material.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "지각",
+      "english": "crust (Earth's crust)",
+      "example": "지각은 지구 표면의 얇은 암석층이다.",
+      "example_en": "The crust is a thin layer of rock on Earth's surface.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "맨틀",
+      "english": "mantle",
+      "example": "맨틀은 지각 아래에 있는 대부분의 지구 물질로 이루어져 있다.",
+      "example_en": "The mantle is composed of most of Earth's material beneath the crust.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "핵",
+      "english": "core",
+      "example": "지구의 핵은 고온의 철과 니켈로 이루어져 있다.",
+      "example_en": "Earth's core is composed of hot iron and nickel.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "광맥",
+      "english": "vein (ore vein)",
+      "example": "금광맥이 광석을 따라 뻗어 있다.",
+      "example_en": "Gold veins run along the ore.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "풍화",
+      "english": "weathering",
+      "example": "오랜 풍화작용으로 산의 표면이 깎여나갔다.",
+      "example_en": "Due to long weathering, the mountain's surface was eroded.",
+      "notes": "Weathering. Sino-Korean: 風(풍=wind) + 化(화=become). Related: 침식, 변질."
+    },
+    {
+      "korean": "사면",
+      "english": "slope; hillside",
+      "example": "급한 사면에서는 산사태가 발생하기 쉽다.",
+      "example_en": "Landslides are prone to occur on steep slopes.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "자갈",
+      "english": "gravel; pebble",
+      "example": "강바닥에는 자갈이 많이 쌓여 있다.",
+      "example_en": "Lots of gravel accumulate on the riverbed.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "광산",
+      "english": "mine",
+      "example": "그 광산은 지난 20년간 아연을 채굴해왔다.",
+      "example_en": "That mine has been extracting zinc for the past 20 years.",
+      "notes": "Mine. Sino-Korean: 鑛(광=mineral) + 山(산=mountain). Collocates: 광산 개발."
+    },
+    {
+      "korean": "광부",
+      "english": "miner",
+      "example": "광부들은 지하 깊은 곳에서 위험한 작업을 한다.",
+      "example_en": "Miners do dangerous work deep underground.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "매장량",
+      "english": "deposits; reserves",
+      "example": "이 지역의 석유 매장량은 상당한 것으로 평가된다.",
+      "example_en": "The oil reserves in this area are considered substantial.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "광물 자원",
+      "english": "mineral resources",
+      "example": "한반도의 광물 자원 개발이 주요 산업 과제이다.",
+      "example_en": "Mineral resource development in Korea is a major industrial issue.",
+      "notes": "Mineral. Sino-Korean: 鑛(광=mineral) + 物(물=thing). Related: 광산, 광업."
+    },
+    {
+      "korean": "광재",
+      "english": "mine tailings; waste rock",
+      "example": "광재를 처리하는 방법이 환경 문제가 될 수 있다.",
+      "example_en": "The way mining tailings are processed can become an environmental issue.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "지층학",
+      "english": "stratigraphy",
+      "example": "지층학은 지층의 순서와 연대를 연구하는 학문이다.",
+      "example_en": "Stratigraphy is the study of the sequence and age of geological layers.",
+      "notes": "Geological layer. Sino-Korean: 地(지=earth) + 層(층=layer). Collocates: 지층 분석."
+    },
+    {
+      "korean": "탐광",
+      "english": "prospecting; mineral exploration",
+      "example": "광업 회사는 새로운 광상을 찾기 위해 탐광 활동을 벌였다.",
+      "example_en": "The mining company conducted prospecting activities to find new ore deposits.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    }
+  ],
+  "주제별 단어 — 윤리 (Topic: Ethics & Morality)": [
+    {
+      "korean": "미덕",
+      "english": "virtue",
+      "example": "인내심은 인생에서 가장 필요한 미덕 중 하나이다.",
+      "example_en": "Patience is one of the most essential virtues in life.",
+      "notes": "Virtue. Sino-Korean: 美(미=beautiful) + 德(덕=virtue). Collocates: 전통 미덕, 도덕."
+    },
+    {
+      "korean": "악덕",
+      "english": "vice; moral evil",
+      "example": "탐욕은 모든 악덕의 근원이라는 말이 있다.",
+      "example_en": "There is a saying that greed is the root of all vices.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "윤리적 딜레마",
+      "english": "ethical dilemma",
+      "example": "의사들은 종종 환자의 자율성과 건강 사이의 윤리적 딜레마에 직면한다.",
+      "example_en": "Doctors often face ethical dilemmas between patient autonomy and health.",
+      "notes": "Ethical dilemma. Collocates: 환자 자율성 vs 건강."
+    },
+    {
+      "korean": "정의",
+      "english": "justice",
+      "example": "법치국가에서는 정의 실현이 최고의 가치이다.",
+      "example_en": "In a rule of law, the realization of justice is the highest value.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "공정성",
+      "english": "fairness",
+      "example": "공정성 없는 사회는 결국 붕괴할 수밖에 없다.",
+      "example_en": "A society without fairness is bound to collapse eventually.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "부패",
+      "english": "corruption",
+      "example": "정부 부패가 심해지면서 국민의 신뢰도가 급격히 떨어졌다.",
+      "example_en": "As government corruption worsened, public trust declined sharply.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "책임성",
+      "english": "accountability",
+      "example": "공공기관은 국민에 대한 책임성을 엄격히 지켜야 한다.",
+      "example_en": "Public institutions must strictly maintain accountability to the people.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "내부고발",
+      "english": "whistleblowing",
+      "example": "그 직원의 내부고발로 인해 대형 비리가 적발되었다.",
+      "example_en": "Thanks to the employee's whistleblowing, a major scandal was uncovered.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "이해충돌",
+      "english": "conflict of interest",
+      "example": "위원장이 자신의 회사와 관련된 안건에 표를 던지는 것은 이해충돌이다.",
+      "example_en": "The chairperson voting on matters related to their own company is a conflict of interest.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "낙하산 인사",
+      "english": "nepotism; cronyism",
+      "example": "낙하산 인사가 만연하면서 조직의 능력주의 원칙이 훼손되었다.",
+      "example_en": "As nepotism became rampant, the organization's meritocratic principles were undermined.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "도덕 나침반",
+      "english": "moral compass",
+      "example": "리더는 흔들리지 않는 도덕 나침반을 가지고 있어야 한다.",
+      "example_en": "A leader must have an unwavering moral compass.",
+      "notes": "Morality. Sino-Korean: 道(도=way) + 德(덕=virtue). Related: 윤리, 가치관."
+    },
+    {
+      "korean": "이타주의",
+      "english": "altruism",
+      "example": "그의 이타주의적 행동은 많은 사람들에게 영감을 주었다.",
+      "example_en": "His altruistic actions inspired many people.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "생명윤리",
+      "english": "bioethics",
+      "example": "줄기세포 연구는 생명윤리 문제로 오랫동안 논쟁이 되어왔다.",
+      "example_en": "Stem cell research has long been controversial as a bioethics issue.",
+      "notes": "Bioethics. Sino-Korean: 生(생=life) + 命(명=life) + 倫(윤=ethics) + 理(리=reason). Related: 의료 윤리."
+    },
+    {
+      "korean": "환경윤리",
+      "english": "environmental ethics",
+      "example": "환경윤리의 관점에서 보면 인간은 자연의 청지기 역할을 해야 한다.",
+      "example_en": "From an environmental ethics perspective, humans should act as stewards of nature.",
+      "notes": "Environmental ethics. Collocates: 자연 청지기."
+    },
+    {
+      "korean": "도덕성",
+      "english": "morality",
+      "example": "종교가 반드시 높은 도덕성을 보장하지는 않는다.",
+      "example_en": "Religion does not necessarily guarantee high morality.",
+      "notes": "Morality/moral character. Collocates: 높은 도덕성."
+    },
+    {
+      "korean": "원칙",
+      "english": "principle",
+      "example": "원칙을 타협하면 결국 자신의 정체성을 잃게 된다.",
+      "example_en": "If you compromise your principles, you ultimately lose your identity.",
+      "notes": "Principle. Sino-Korean: 原(원=origin) + 則(칙=rule). Collocates: 윤리 원칙."
+    },
+    {
+      "korean": "도덕 상대주의",
+      "english": "moral relativism",
+      "example": "도덕 상대주의의 문제는 모든 행위를 정당화할 수 있다는 점이다.",
+      "example_en": "The problem with moral relativism is that it can justify any action.",
+      "notes": "Morality. Sino-Korean: 道(도=way) + 德(덕=virtue). Related: 윤리, 가치관."
+    },
+    {
+      "korean": "이기주의",
+      "english": "egoism; selfishness",
+      "example": "극단적인 이기주의는 개인의 이익과 사회의 이익을 모두 해친다.",
+      "example_en": "Extreme egoism harms both individual and societal interests.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "공동선",
+      "english": "common good",
+      "example": "공동선을 위해 개인의 이익을 일부 양보하는 것은 합리적이다.",
+      "example_en": "Sacrificing some personal interest for the common good is reasonable.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "개인의 권리",
+      "english": "individual rights",
+      "example": "민주주의는 개인의 권리 보호에 기초한 제도이다.",
+      "example_en": "Democracy is a system based on the protection of individual rights.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "사회적 책임",
+      "english": "social responsibility",
+      "example": "기업의 사회적 책임은 이제 선택이 아닌 필수이다.",
+      "example_en": "Corporate social responsibility is now essential, not optional.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "직업윤리",
+      "english": "professional ethics",
+      "example": "의사의 직업윤리 중 하나는 환자의 개인 정보를 보호하는 것이다.",
+      "example_en": "One aspect of professional ethics for doctors is protecting patient privacy.",
+      "notes": "Professional ethics. Collocates: 의사, 변호사."
+    },
+    {
+      "korean": "의료윤리",
+      "english": "medical ethics",
+      "example": "의료윤리는 인간의 생명과 건강을 다루므로 특히 중요하다.",
+      "example_en": "Medical ethics is especially important because it deals with human life and health.",
+      "notes": "Medical ethics. Collocates: 환자 기밀 보호, 진료 윤리."
+    },
+    {
+      "korean": "과학윤리",
+      "english": "scientific ethics",
+      "example": "과학윤리를 위반한 연구 결과는 학계에서 신뢰를 잃는다.",
+      "example_en": "Research results that violate scientific ethics lose credibility in academia.",
+      "notes": "Scientific ethics. Collocates: 연구 윤리, 논문 표절."
+    },
+    {
+      "korean": "신뢰",
+      "english": "trust",
+      "example": "신뢰는 한 번 깨지면 다시 복구하기 어렵다.",
+      "example_en": "Once trust is broken, it is difficult to restore.",
+      "notes": "Trust. Sino-Korean: 信(신=trust) + 賴(뢰=depend). Collocates: 학계 신뢰."
+    },
+    {
+      "korean": "신뢰 위반",
+      "english": "breach of trust",
+      "example": "리더의 신뢰 위반은 팀 전체의 사기를 무너뜨린다.",
+      "example_en": "A leader's breach of trust destroys the morale of the entire team.",
+      "notes": "Trust. Sino-Korean: 信(신=trust) + 賴(뢰=depend). Collocates: 학계 신뢰."
+    },
+    {
+      "korean": "도의",
+      "english": "morality; righteousness",
+      "example": "도의를 지키기 위해 개인의 손해를 감수해야 할 수도 있다.",
+      "example_en": "One may have to accept personal loss to uphold righteousness.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "도덕적 해이",
+      "english": "moral hazard",
+      "example": "너무 관대한 정책은 도덕적 해이를 초래할 수 있다.",
+      "example_en": "Overly lenient policies can lead to moral hazard.",
+      "notes": "Morality. Sino-Korean: 道(도=way) + 德(덕=virtue). Related: 윤리, 가치관."
+    },
+    {
+      "korean": "진정성",
+      "english": "authenticity; sincerity",
+      "example": "지도자의 진정성은 사람들에게 공감을 주고 신뢰를 쌓는다.",
+      "example_en": "A leader's authenticity generates empathy and builds trust.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "비리",
+      "english": "malpractice; misconduct",
+      "example": "적발된 비리에 대해서는 엄격한 처벌이 필요하다.",
+      "example_en": "Detected misconduct must be punished strictly.",
+      "notes": "Related terms and usage context. Etymology: Sino-Korean compound combining multiple root concepts."
+    },
+    {
+      "korean": "윤리 기준",
+      "english": "ethical standard",
+      "example": "조직의 윤리 기준이 명확해야 직원들이 지킬 수 있다.",
+      "example_en": "Clear ethical standards allow employees to follow them.",
+      "notes": "Ethical standard. Collocates: 윤리 기준 준수."
+    }
+  ]
+}

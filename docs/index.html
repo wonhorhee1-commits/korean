@@ -441,6 +441,101 @@ h1 {
 
 .hidden { display: none; }
 
+/* Sentence production */
+.production-prompt {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 25px;
+  margin: 15px 0;
+}
+
+.production-english {
+  font-size: 1.3em;
+  color: #fff;
+  margin-bottom: 10px;
+  line-height: 1.4;
+}
+
+.production-context {
+  color: var(--dim);
+  font-size: 0.9em;
+}
+
+.model-answer {
+  background: var(--surface);
+  border: 1px solid var(--green);
+  border-radius: 12px;
+  padding: 20px 25px;
+  margin: 10px 0;
+}
+
+.model-answer .label {
+  color: var(--green);
+  font-size: 0.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.model-answer .korean {
+  font-size: 1.2em;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Error correction */
+.error-sentence {
+  background: var(--surface);
+  border: 1px solid var(--red);
+  border-radius: 12px;
+  padding: 25px;
+  margin: 15px 0;
+}
+
+.error-sentence .korean {
+  font-size: 1.3em;
+  color: #fff;
+  line-height: 1.5;
+}
+
+.error-type-badge {
+  display: inline-block;
+  background: rgba(248,113,113,0.15);
+  color: var(--red);
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-bottom: 12px;
+}
+
+.correction-reveal {
+  background: var(--surface);
+  border: 1px solid var(--green);
+  border-radius: 12px;
+  padding: 20px 25px;
+  margin: 10px 0;
+}
+
+.correction-reveal .correct {
+  font-size: 1.15em;
+  color: var(--green);
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.correction-reveal .explanation {
+  color: var(--dim);
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.diff-highlight {
+  background: rgba(74,222,128,0.15);
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
 /* Keyboard shortcuts hint */
 .shortcuts {
   color: var(--dim);
@@ -654,7 +749,7 @@ function updateSyncStatus(cls, text) {
 // ===== APP =====
 const app = document.getElementById('app');
 const srs = new SRSEngine();
-let vocabData = {}, grammarData = {};
+let vocabData = {}, grammarData = {}, errorDrills = [];
 
 function shuffle(arr) {
   const a = [...arr];
@@ -709,15 +804,19 @@ function showMenu() {
       <button onclick="showCategorySelect('vocab')"><span class="num">1</span> Vocabulary Drill</button>
       <button onclick="showCategorySelect('grammar')"><span class="num">2</span> Grammar Practice</button>
       <button onclick="startMixedReview()"><span class="num">3</span> Mixed Review (weakest first)</button>
-      <button onclick="showProgress()"><span class="num">4</span> View Progress</button>
+      <button onclick="startSentenceProduction()"><span class="num">4</span> Sentence Production</button>
+      <button onclick="startErrorCorrection()"><span class="num">5</span> Error Correction</button>
+      <button onclick="showProgress()"><span class="num">6</span> View Progress</button>
     </div>
-    <div class="shortcuts">Keyboard: 1-4 to select</div>`;
+    <div class="shortcuts">Keyboard: 1-6 to select</div>`;
 
   document.onkeydown = e => {
     if (e.key === '1') showCategorySelect('vocab');
     else if (e.key === '2') showCategorySelect('grammar');
     else if (e.key === '3') startMixedReview();
-    else if (e.key === '4') showProgress();
+    else if (e.key === '4') startSentenceProduction();
+    else if (e.key === '5') startErrorCorrection();
+    else if (e.key === '6') showProgress();
   };
 }
 
@@ -941,6 +1040,217 @@ function runSession(cards) {
   showCard();
 }
 
+// ===== SENTENCE PRODUCTION DRILL =====
+function startSentenceProduction() {
+  // Build pool of vocab entries that have both example and example_en
+  const pool = [];
+  for (const [cat, entries] of Object.entries(vocabData)) {
+    for (let i = 0; i < entries.length; i++) {
+      const e = entries[i];
+      if (e.example && e.example_en) {
+        pool.push({id: `prod:${cat}:${i}`, cat, entry: e});
+      }
+    }
+  }
+  if (pool.length === 0) { showMenu(); return; }
+
+  const ids = pool.map(p => p.id);
+  const dueSet = new Set(srs.getDueCards(ids));
+  let session = shuffle(pool.filter(p => dueSet.has(p.id))).slice(0, 12);
+  if (session.length < 12) {
+    const rest = shuffle(pool.filter(p => !dueSet.has(p.id)));
+    session.push(...rest.slice(0, 12 - session.length));
+  }
+
+  let idx = 0, correct = 0, reviewed = 0;
+
+  function showCard() {
+    if (idx >= session.length) { showSummary(reviewed, correct); return; }
+    const {id, cat, entry} = session[idx];
+    const progress = `${idx + 1}/${session.length}`;
+    const pct = ((idx) / session.length * 100).toFixed(0);
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Sentence Production &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="production-prompt">
+        <div class="production-english">${escHtml(entry.example_en)}</div>
+        <div class="production-context">Hint: ${escHtml(entry.english)}</div>
+      </div>
+      <div class="card-prompt">Write this in Korean:</div>
+      <input class="answer-input" placeholder="Type your Korean sentence (Enter to check)" autofocus>`;
+
+    const input = app.querySelector('.answer-input');
+    input.focus();
+    input.onkeydown = e => {
+      if (e.key === 'Enter') revealProduction(id, entry, input.value.trim(), progress, pct);
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  function revealProduction(id, entry, guess, progress, pct) {
+    let extra = '';
+    if (entry.notes) extra += `<div class="reveal-notes" style="margin-top:8px">${escHtml(entry.notes)}</div>`;
+
+    const guessHtml = guess ? `<div class="your-guess">Your sentence: <span>${escHtml(guess)}</span></div>` : '';
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Sentence Production &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${guessHtml}
+      <div class="model-answer">
+        <div class="label">Model Answer</div>
+        <div class="korean">${escHtml(entry.example)}</div>
+      </div>
+      <div class="reveal">
+        <div class="reveal-answer">${escHtml(entry.korean)} — ${escHtml(entry.english)}</div>
+        ${extra}
+      </div>
+      <div class="card-prompt" style="font-size:0.85em;margin-top:10px">How close was your sentence? Rate yourself honestly.</div>
+      ${prodRatingButtons()}`;
+
+    document.querySelectorAll('.rating button').forEach(btn => {
+      btn.onclick = () => {
+        const q = parseInt(btn.dataset.q);
+        srs.recordReview(id, q);
+        reviewed++;
+        if (q >= GOOD) correct++;
+        idx++;
+        showCard();
+      };
+    });
+    document.onkeydown = e => {
+      const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
+      if (map[e.key] !== undefined) {
+        const q = map[e.key];
+        srs.recordReview(id, q);
+        reviewed++;
+        if (q >= GOOD) correct++;
+        idx++;
+        showCard();
+      }
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  function prodRatingButtons() {
+    return `
+      <div class="rating">
+        <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">couldn't produce</div></button>
+        <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">major errors</div></button>
+        <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">close enough</div></button>
+        <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">nailed it</div></button>
+      </div>
+      <div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+  }
+
+  showCard();
+}
+
+// ===== ERROR CORRECTION DRILL =====
+function startErrorCorrection() {
+  if (errorDrills.length === 0) {
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Back</button>
+      <div class="card"><p>Error drill data not loaded. Make sure data/error_drills.json exists.</p></div>`;
+    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    return;
+  }
+
+  const pool = errorDrills.map((d, i) => ({id: `err:${i}`, drill: d}));
+  const ids = pool.map(p => p.id);
+  const dueSet = new Set(srs.getDueCards(ids));
+  let session = shuffle(pool.filter(p => dueSet.has(p.id))).slice(0, 10);
+  if (session.length < 10) {
+    const rest = shuffle(pool.filter(p => !dueSet.has(p.id)));
+    session.push(...rest.slice(0, 10 - session.length));
+  }
+
+  let idx = 0, correct = 0, reviewed = 0;
+
+  function showCard() {
+    if (idx >= session.length) { showSummary(reviewed, correct); return; }
+    const {id, drill} = session[idx];
+    const progress = `${idx + 1}/${session.length}`;
+    const pct = ((idx) / session.length * 100).toFixed(0);
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Error Correction &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="error-sentence">
+        <div class="error-type-badge">${escHtml(drill.error_type)}</div>
+        <div class="korean">${escHtml(drill.incorrect)}</div>
+      </div>
+      <div class="card-prompt">Find and fix the error:</div>
+      <input class="answer-input" placeholder="Type the corrected sentence (Enter to check)" autofocus>`;
+
+    const input = app.querySelector('.answer-input');
+    input.focus();
+    input.onkeydown = e => {
+      if (e.key === 'Enter') revealError(id, drill, input.value.trim(), progress, pct);
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  function revealError(id, drill, guess, progress, pct) {
+    const isCorrect = guess === drill.correct;
+    const guessHtml = guess ? `<div class="your-guess">Your correction: <span>${escHtml(guess)}</span></div>` : '';
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Error Correction &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${guessHtml}
+      <div class="correction-reveal">
+        <div class="correct">${isCorrect ? '✓ ' : ''}${escHtml(drill.correct)}</div>
+        <div class="explanation">${escHtml(drill.explanation)}</div>
+      </div>
+      <div class="reveal" style="border-color:var(--dim)">
+        <div class="reveal-notes" style="color:var(--red)">Original (incorrect): ${escHtml(drill.incorrect)}</div>
+      </div>
+      ${errRatingButtons()}`;
+
+    document.querySelectorAll('.rating button').forEach(btn => {
+      btn.onclick = () => {
+        const q = parseInt(btn.dataset.q);
+        srs.recordReview(id, q);
+        reviewed++;
+        if (q >= GOOD) correct++;
+        idx++;
+        showCard();
+      };
+    });
+    document.onkeydown = e => {
+      const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
+      if (map[e.key] !== undefined) {
+        const q = map[e.key];
+        srs.recordReview(id, q);
+        reviewed++;
+        if (q >= GOOD) correct++;
+        idx++;
+        showCard();
+      }
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  function errRatingButtons() {
+    return `
+      <div class="rating">
+        <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">missed it</div></button>
+        <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">partially right</div></button>
+        <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">found the error</div></button>
+        <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">obvious fix</div></button>
+      </div>
+      <div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+  }
+
+  showCard();
+}
+
 function showSummary(reviewed, correct) {
   const acc = reviewed > 0 ? correct / reviewed : 0;
   let comment, color;
@@ -1005,20 +1315,24 @@ function showProgress() {
 async function init() {
   app.innerHTML = '<h1>한국어 코치</h1><p class="subtitle">Loading...</p>';
   try {
-    const [vResp, gResp] = await Promise.all([
+    const [vResp, gResp, eResp] = await Promise.all([
       fetch('data/vocab.json'),
-      fetch('data/grammar.json')
+      fetch('data/grammar.json'),
+      fetch('data/error_drills.json').catch(() => null)
     ]);
     vocabData = await vResp.json();
     grammarData = await gResp.json();
+    if (eResp && eResp.ok) errorDrills = await eResp.json();
   } catch(e) {
     try {
-      const [vResp, gResp] = await Promise.all([
+      const [vResp, gResp, eResp] = await Promise.all([
         fetch('../data/vocab.json'),
-        fetch('../data/grammar.json')
+        fetch('../data/grammar.json'),
+        fetch('../data/error_drills.json').catch(() => null)
       ]);
       vocabData = await vResp.json();
       grammarData = await gResp.json();
+      if (eResp && eResp.ok) errorDrills = await eResp.json();
     } catch(e2) {
       app.innerHTML = '<h1>Error</h1><p>Could not load data files.</p>';
       return;
