@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 예술 (Topic: Art)": [
+    {
+      "korean": "화풍",
+      "english": "painting style; artistic style",
+      "example": "인상주의 화풍은 빛의 변화를 포착하는 데 집중한다.",
+      "example_en": "The Impressionist painting style focuses on capturing changes in light."
+    },
+    {
+      "korean": "붓놀림",
+      "english": "brushwork; brush strokes",
+      "example": "거친 붓놀림이 오히려 생동감을 준다.",
+      "example_en": "The rough brushwork actually gives it a sense of vitality."
+    },
+    {
+      "korean": "색채",
+      "english": "color; coloring; chromatic quality",
+      "example": "이 작품은 따뜻한 색채가 인상적이다.",
+      "example_en": "The warm coloring of this piece is impressive."
+    },
+    {
+      "korean": "구도",
+      "english": "composition (of a painting/photo)",
+      "example": "대각선 구도가 화면에 긴장감을 더해 준다.",
+      "example_en": "The diagonal composition adds tension to the frame."
+    },
+    {
+      "korean": "조형미",
+      "english": "formative beauty; sculptural beauty",
+      "example": "한옥의 지붕선에서 독특한 조형미를 느낄 수 있다.",
+      "example_en": "You can feel a unique formative beauty in the roofline of a hanok."
+    },
+    {
+      "korean": "수묵화",
+      "english": "ink wash painting",
+      "example": "수묵화는 먹의 농담으로 깊이를 표현한다.",
+      "example_en": "Ink wash painting expresses depth through the shading of ink."
+    },
+    {
+      "korean": "전시회를 열다",
+      "english": "to hold an exhibition",
+      "example": "신진 작가가 첫 개인 전시회를 열었다.",
+      "example_en": "The emerging artist held their first solo exhibition."
+    },
+    {
+      "korean": "소장하다",
+      "english": "to collect; to hold in one's collection",
+      "example": "이 미술관은 인상주의 작품을 다수 소장하고 있다.",
+      "example_en": "This museum holds a large number of Impressionist works in its collection."
+    },
+    {
+      "korean": "추상화",
+      "english": "abstract painting",
+      "example": "추상화는 감상자의 해석에 따라 의미가 달라진다.",
+      "example_en": "The meaning of an abstract painting changes depending on the viewer's interpretation."
+    },
+    {
+      "korean": "도예",
+      "english": "ceramic art; pottery",
+      "example": "도예 수업에서 직접 그릇을 빚어 봤다.",
+      "example_en": "I tried making a bowl myself in a ceramics class."
+    },
+    {
+      "korean": "선율",
+      "english": "melody; tune",
+      "example": "귀에 맴도는 선율이 하루 종일 머릿속에 남았다.",
+      "example_en": "The lingering melody stayed in my head all day."
+    },
+    {
+      "korean": "화성",
+      "english": "harmony (in music)",
+      "example": "화성의 기초를 모르면 작곡이 어렵다.",
+      "example_en": "Composing is difficult without knowing the basics of harmony."
+    },
+    {
+      "korean": "음색",
+      "english": "timbre; tone color",
+      "example": "첼로의 깊은 음색이 마음을 울린다.",
+      "example_en": "The deep timbre of the cello moves the heart."
+    },
+    {
+      "korean": "즉흥 연주",
+      "english": "improvisation; impromptu performance",
+      "example": "재즈의 매력은 즉흥 연주에 있다.",
+      "example_en": "The charm of jazz lies in improvisation."
+    },
+    {
+      "korean": "합주하다",
+      "english": "to play in an ensemble; to perform together",
+      "example": "오케스트라 단원들이 함께 합주하며 호흡을 맞췄다.",
+      "example_en": "The orchestra members rehearsed together and synchronized their playing."
+    },
+    {
+      "korean": "관현악",
+      "english": "orchestral music",
+      "example": "관현악 공연을 보러 예술의전당에 갔다.",
+      "example_en": "I went to the Seoul Arts Center to see an orchestral performance."
+    },
+    {
+      "korean": "작곡가",
+      "english": "composer",
+      "example": "윤이상은 한국이 낳은 세계적 작곡가이다.",
+      "example_en": "Yun Isang is a world-class composer born in Korea."
+    },
+    {
+      "korean": "악보",
+      "english": "musical score; sheet music",
+      "example": "악보를 보지 않고 연주할 수 있을 만큼 연습했다.",
+      "example_en": "I practiced enough to play without looking at the score."
+    },
+    {
+      "korean": "가사",
+      "english": "lyrics (of a song)",
+      "example": "이 노래의 가사가 마음에 와닿았다.",
+      "example_en": "The lyrics of this song resonated with me."
+    },
+    {
+      "korean": "박자",
+      "english": "beat; rhythm; meter",
+      "example": "박자를 놓치면 전체 합주가 흐트러진다.",
+      "example_en": "If you miss the beat, the entire ensemble falls apart."
+    },
+    {
+      "korean": "서사",
+      "english": "narrative; storytelling",
+      "example": "이 소설은 탄탄한 서사로 독자를 끌어당긴다.",
+      "example_en": "This novel draws readers in with its solid narrative."
+    },
+    {
+      "korean": "문체",
+      "english": "writing style; literary style",
+      "example": "그 작가의 문체는 간결하면서도 울림이 있다.",
+      "example_en": "That author's writing style is concise yet resonant."
+    },
+    {
+      "korean": "은유",
+      "english": "metaphor",
+      "example": "'인생은 여행이다'는 대표적인 은유이다.",
+      "example_en": "'Life is a journey' is a classic metaphor."
+    },
+    {
+      "korean": "행간을 읽다",
+      "english": "to read between the lines",
+      "example": "시를 감상하려면 행간을 읽는 능력이 필요하다.",
+      "example_en": "Appreciating poetry requires the ability to read between the lines."
+    },
+    {
+      "korean": "퇴고하다",
+      "english": "to revise (a manuscript); to polish writing",
+      "example": "좋은 글은 여러 번 퇴고를 거쳐 완성된다.",
+      "example_en": "Good writing is completed through multiple rounds of revision."
+    },
+    {
+      "korean": "산문",
+      "english": "prose",
+      "example": "그는 시보다 산문에 더 재능이 있다.",
+      "example_en": "He has more talent for prose than poetry."
+    },
+    {
+      "korean": "서정적",
+      "english": "lyrical; poetic",
+      "example": "가을 풍경을 서정적으로 묘사한 수필이다.",
+      "example_en": "It is an essay that lyrically depicts the autumn landscape."
+    },
+    {
+      "korean": "풍자",
+      "english": "satire",
+      "example": "그 소설은 사회 부조리를 날카롭게 풍자한다.",
+      "example_en": "The novel sharply satirizes social absurdities."
+    },
+    {
+      "korean": "필력",
+      "english": "writing prowess; power of the pen",
+      "example": "필력이 대단해서 짧은 문장에도 깊은 여운이 남는다.",
+      "example_en": "The writing prowess is remarkable — even short sentences leave a deep impression."
+    },
+    {
+      "korean": "원작",
+      "english": "original work (source material)",
+      "example": "영화가 워낙 유명해서 원작 소설을 찾아 읽었다.",
+      "example_en": "The movie was so famous that I sought out and read the original novel."
+    },
+    {
+      "korean": "연출",
+      "english": "direction; staging (film/theater)",
+      "example": "감독의 섬세한 연출이 관객의 몰입도를 높였다.",
+      "example_en": "The director's delicate staging heightened the audience's immersion."
+    },
+    {
+      "korean": "각본",
+      "english": "screenplay; script",
+      "example": "이 영화는 각본이 탄탄해서 몰입감이 뛰어나다.",
+      "example_en": "This film has a solid screenplay, making it highly immersive."
+    },
+    {
+      "korean": "무대 장치",
+      "english": "stage set; stage design",
+      "example": "화려한 무대 장치가 뮤지컬의 완성도를 높였다.",
+      "example_en": "The elaborate stage design elevated the quality of the musical."
+    },
+    {
+      "korean": "독백",
+      "english": "monologue; soliloquy",
+      "example": "주인공의 독백 장면이 가장 인상적이었다.",
+      "example_en": "The protagonist's monologue scene was the most impressive."
+    },
+    {
+      "korean": "관객 호응",
+      "english": "audience response; audience engagement",
+      "example": "관객 호응이 좋아서 공연 기간이 연장되었다.",
+      "example_en": "The audience response was so positive that the show's run was extended."
+    },
+    {
+      "korean": "촬영 기법",
+      "english": "cinematography technique; filming method",
+      "example": "롱테이크 촬영 기법이 긴장감을 극대화했다.",
+      "example_en": "The long-take filming technique maximized the tension."
+    },
+    {
+      "korean": "흥행하다",
+      "english": "to be a box-office hit; to do well commercially",
+      "example": "저예산 영화가 예상을 깨고 크게 흥행했다.",
+      "example_en": "The low-budget film defied expectations and became a huge hit."
+    },
+    {
+      "korean": "배역을 맡다",
+      "english": "to take on a role; to be cast as",
+      "example": "신인 배우가 주인공 배역을 맡아 화제가 됐다.",
+      "example_en": "A rookie actor taking on the lead role became a hot topic."
+    },
+    {
+      "korean": "앙코르",
+      "english": "encore",
+      "example": "관객의 뜨거운 박수에 앙코르 무대가 이어졌다.",
+      "example_en": "The enthusiastic applause from the audience led to an encore performance."
+    },
+    {
+      "korean": "막이 오르다",
+      "english": "for the curtain to rise; for the show to begin",
+      "example": "드디어 막이 오르자 객석이 숨을 죽였다.",
+      "example_en": "When the curtain finally rose, the audience held its breath."
+    }
+  ]
+}

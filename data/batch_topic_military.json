@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 군사 (Topic: Military)": [
+    {
+      "korean": "이병",
+      "english": "private (lowest enlisted rank)",
+      "example": "새로 입대한 이병들이 훈련소에서 기초군사훈련을 받고 있다.",
+      "example_en": "Newly enlisted privates are undergoing basic military training at the training camp."
+    },
+    {
+      "korean": "일병",
+      "english": "private first class",
+      "example": "그는 이병 9개월 만에 일병으로 진급했다.",
+      "example_en": "He was promoted to private first class after 9 months as a private."
+    },
+    {
+      "korean": "상병",
+      "english": "corporal",
+      "example": "상병은 신병들을 감시하고 지도하는 역할을 한다.",
+      "example_en": "A corporal's role is to supervise and train new recruits."
+    },
+    {
+      "korean": "병장",
+      "english": "sergeant (highest enlisted rank)",
+      "example": "병장은 분대를 통솔하고 장병들의 복무 상태를 관리한다.",
+      "example_en": "A sergeant commands a squad and manages the service status of soldiers."
+    },
+    {
+      "korean": "하사",
+      "english": "staff sergeant (lowest NCO rank)",
+      "example": "하사 계급은 여군에도 있으며, 분대장의 역할을 수행한다.",
+      "example_en": "The rank of staff sergeant exists for women soldiers too and serves as a squad leader."
+    },
+    {
+      "korean": "중사",
+      "english": "master sergeant",
+      "example": "중사는 부사관으로서 중요한 행정 업무를 담당한다.",
+      "example_en": "As a non-commissioned officer, a master sergeant handles important administrative duties."
+    },
+    {
+      "korean": "소위",
+      "english": "second lieutenant (lowest officer rank)",
+      "example": "소위는 대학 ROTC를 졸업한 후 임관한다.",
+      "example_en": "A second lieutenant is commissioned after graduating from university ROTC."
+    },
+    {
+      "korean": "중위",
+      "english": "first lieutenant",
+      "example": "그는 소위로 2년간 복무한 후 중위로 진급했다.",
+      "example_en": "After serving two years as a second lieutenant, he was promoted to first lieutenant."
+    },
+    {
+      "korean": "대위",
+      "english": "captain",
+      "example": "대위는 회사급 지휘관으로서 약 150명의 병사를 지휘한다.",
+      "example_en": "A captain, as a company-level commander, leads approximately 150 soldiers."
+    },
+    {
+      "korean": "영관급",
+      "english": "field grade officer (major and above)",
+      "example": "영관급 장교들은 고급 전술과 전략을 담당한다.",
+      "example_en": "Field grade officers are responsible for advanced tactics and strategy."
+    },
+    {
+      "korean": "전술",
+      "english": "tactic",
+      "example": "이 전술은 적의 방어를 뚫고 전투를 승리로 이끈다.",
+      "example_en": "This tactic breaks through the enemy's defense and leads the battle to victory."
+    },
+    {
+      "korean": "전략",
+      "english": "strategy",
+      "example": "군부는 장기적인 전략을 바탕으로 국방력을 강화하고 있다.",
+      "example_en": "The military is strengthening defense capability based on long-term strategy."
+    },
+    {
+      "korean": "포위",
+      "english": "encirclement",
+      "example": "아군은 적군을 포위하여 항복을 강요했다.",
+      "example_en": "Our forces encircled the enemy to force surrender."
+    },
+    {
+      "korean": "퇴각",
+      "english": "retreat",
+      "example": "전황이 악화되자 부대는 전략적 퇴각을 감행했다.",
+      "example_en": "As the battle situation deteriorated, the unit executed a strategic retreat."
+    },
+    {
+      "korean": "진격",
+      "english": "advance/offensive",
+      "example": "정오부터 우리 군대의 진격이 시작된다.",
+      "example_en": "Our army's offensive will begin at noon."
+    },
+    {
+      "korean": "보급선",
+      "english": "supply line",
+      "example": "적군이 우리의 보급선을 끊어버려 물자 부족이 심했다.",
+      "example_en": "The enemy cut off our supply line, causing severe shortages of supplies."
+    },
+    {
+      "korean": "초소",
+      "english": "outpost/sentry post",
+      "example": "국경 근처의 초소들은 24시간 경계근무를 서고 있다.",
+      "example_en": "Outposts near the border are on 24-hour guard duty."
+    },
+    {
+      "korean": "매복",
+      "english": "ambush",
+      "example": "적군의 매복 작전에 걸려 우리 부대가 큰 손실을 입었다.",
+      "example_en": "Our unit suffered heavy losses by falling into the enemy's ambush operation."
+    },
+    {
+      "korean": "정찰",
+      "english": "reconnaissance/scouting",
+      "example": "특수부대가 적 진지의 정찰을 실시했다.",
+      "example_en": "The special forces conducted reconnaissance of the enemy position."
+    },
+    {
+      "korean": "전선",
+      "english": "front line",
+      "example": "전선 상황이 긴장되면서 병력이 증파되었다.",
+      "example_en": "As the front line situation became tense, additional troops were dispatched."
+    },
+    {
+      "korean": "소총",
+      "english": "rifle",
+      "example": "신병들은 소총의 분해와 조립을 반복 훈련한다.",
+      "example_en": "New recruits repeatedly train in disassembling and assembling rifles."
+    },
+    {
+      "korean": "권총",
+      "english": "pistol",
+      "example": "사관들은 권총 사격 자격이 필수다.",
+      "example_en": "Officers must be qualified in pistol marksmanship."
+    },
+    {
+      "korean": "기관총",
+      "english": "machine gun",
+      "example": "기관총의 강력한 화력이 적군의 진격을 막았다.",
+      "example_en": "The machine gun's powerful firepower stopped the enemy's advance."
+    },
+    {
+      "korean": "수류탄",
+      "english": "grenade",
+      "example": "훈련병들이 수류탄 투척 연습을 하고 있다.",
+      "example_en": "Trainees are practicing grenade throwing."
+    },
+    {
+      "korean": "박격포",
+      "english": "mortar",
+      "example": "박격포 소대는 포병 지원 업무를 담당한다.",
+      "example_en": "The mortar platoon handles artillery support."
+    },
+    {
+      "korean": "탱크",
+      "english": "tank",
+      "example": "우리 군의 탱크들은 최신 기술로 무장되어 있다.",
+      "example_en": "Our military's tanks are equipped with the latest technology."
+    },
+    {
+      "korean": "장갑차",
+      "english": "armored vehicle",
+      "example": "장갑차가 경계 근처를 순찰하고 있다.",
+      "example_en": "An armored vehicle is patrolling near the border."
+    },
+    {
+      "korean": "헬리콥터",
+      "english": "helicopter",
+      "example": "군용 헬리콥터가 병력 수송과 의료 후송을 담당한다.",
+      "example_en": "Military helicopters handle troop transport and medical evacuation."
+    },
+    {
+      "korean": "전투기",
+      "english": "fighter jet",
+      "example": "우리 공군의 전투기들이 영공을 방어한다.",
+      "example_en": "Our air force's fighter jets defend the airspace."
+    },
+    {
+      "korean": "군함",
+      "english": "warship/naval vessel",
+      "example": "우리 해군의 군함들이 해상 보안을 담당한다.",
+      "example_en": "Our navy's warships are responsible for maritime security."
+    },
+    {
+      "korean": "미사일",
+      "english": "missile",
+      "example": "국방부가 새로운 미사일 체계를 공개했다.",
+      "example_en": "The Ministry of Defense revealed a new missile system."
+    },
+    {
+      "korean": "병역",
+      "english": "military service",
+      "example": "병역은 한국 남성의 국방 의무다.",
+      "example_en": "Military service is a Korean male's defense obligation."
+    },
+    {
+      "korean": "입대",
+      "english": "enlistment",
+      "example": "그가 다음 달에 입대하기로 했다.",
+      "example_en": "He decided to enlist next month."
+    },
+    {
+      "korean": "제대",
+      "english": "discharge/demobilization",
+      "example": "2년 복무 후 제대할 때 많은 선후배들이 배웅을 왔다.",
+      "example_en": "After 2 years of service, many senior and junior colleagues came to see him off at discharge."
+    },
+    {
+      "korean": "복무",
+      "english": "service/military duty",
+      "example": "열심히 복무하면 조기 전역이 가능한 경우도 있다.",
+      "example_en": "In some cases, diligent service may allow early discharge."
+    },
+    {
+      "korean": "훈련소",
+      "english": "training camp",
+      "example": "모든 신입병은 훈련소에서 5주간의 기초훈련을 받는다.",
+      "example_en": "All new recruits undergo 5 weeks of basic training at training camp."
+    },
+    {
+      "korean": "기초군사훈련",
+      "english": "basic military training",
+      "example": "기초군사훈련은 모든 신병이 필수로 받아야 하는 과정이다.",
+      "example_en": "Basic military training is a mandatory course all new soldiers must complete."
+    },
+    {
+      "korean": "전역",
+      "english": "discharge/end of service",
+      "example": "그는 내년 3월에 전역할 예정이다.",
+      "example_en": "He is scheduled to discharge next March."
+    },
+    {
+      "korean": "예비역",
+      "english": "reserve",
+      "example": "현역 복무를 마친 후 예비역 의무가 남아 있다.",
+      "example_en": "After completing active duty service, there is remaining reserve obligation."
+    },
+    {
+      "korean": "전시근무지정",
+      "english": "wartime service designation",
+      "example": "전역 후 전시근무지정자로 등록되었다.",
+      "example_en": "After discharge, he was registered as a wartime service designee."
+    }
+  ]
+}
