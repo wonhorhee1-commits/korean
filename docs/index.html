@@ -672,14 +672,29 @@ function escHtml(s) {
 }
 
 // ===== SCREENS =====
+function countTotal() {
+  let v = 0, g = 0;
+  for (const entries of Object.values(vocabData)) v += entries.length;
+  for (const entries of Object.values(grammarData)) g += entries.length;
+  return {vocab: v, grammar: g, total: v + g, cats: Object.keys(vocabData).length + Object.keys(grammarData).length};
+}
+
 function showMenu() {
   const stats = srs.getStats();
-  const statsHtml = stats.total > 0 ? `
+  const totals = countTotal();
+  const reviewedPct = totals.total > 0 ? Math.round(stats.total / totals.total * 100) : 0;
+
+  const statsHtml = `
     <div class="stats-bar">
-      Cards: <span>${stats.total}</span> &nbsp;|&nbsp;
+      <span>${totals.vocab.toLocaleString()}</span> vocab &nbsp;|&nbsp;
+      <span>${totals.grammar}</span> grammar &nbsp;|&nbsp;
+      <span>${totals.cats}</span> categories
+    </div>
+    ${stats.total > 0 ? `<div class="stats-bar">
+      Reviewed: <span>${stats.total}/${totals.total}</span> (${reviewedPct}%) &nbsp;|&nbsp;
       Due: <span>${stats.due}</span> &nbsp;|&nbsp;
       Accuracy: <span>${Math.round(stats.accuracy * 100)}%</span>
-    </div>` : '';
+    </div>` : ''}`;
 
   const syncHtml = syncEnabled ? '<div id="sync-status" class="sync-status synced">Synced</div>'
     : FIREBASE_CONFIG.apiKey ? '<div id="sync-status" class="sync-status offline">Connecting...</div>'

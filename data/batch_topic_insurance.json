@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 보험 (Topic: Insurance)": [
+    {
+      "korean": "생명보험",
+      "english": "life insurance",
+      "example": "아버지가 가족을 위해 생명보험에 가입하셨다.",
+      "example_en": "My father took out life insurance for the family."
+    },
+    {
+      "korean": "자동차보험",
+      "english": "auto insurance; car insurance",
+      "example": "차량 등록을 하려면 반드시 자동차보험을 가입해야 한다.",
+      "example_en": "To register a vehicle, you must have auto insurance."
+    },
+    {
+      "korean": "주택보험",
+      "english": "home insurance; homeowner's insurance",
+      "example": "집을 구입할 때 은행에서 주택보험 가입을 요구했다.",
+      "example_en": "The bank required homeowner's insurance when I bought the house."
+    },
+    {
+      "korean": "건강보험",
+      "english": "health insurance",
+      "example": "한국의 건강보험은 국민 대부분에게 의료 서비스를 제공한다.",
+      "example_en": "Korea's health insurance provides medical services to most citizens."
+    },
+    {
+      "korean": "손해보험",
+      "english": "property insurance; casualty insurance",
+      "example": "화재로 인한 손해를 보상받기 위해 손해보험에 가입했다.",
+      "example_en": "I took out property insurance to be compensated for damage from fire."
+    },
+    {
+      "korean": "실손보험",
+      "english": "expense reimbursement insurance; indemnity insurance",
+      "example": "의료비가 생각보다 많이 나와서 실손보험이 정말 유용했다.",
+      "example_en": "Medical expenses were higher than expected, so the expense reimbursement insurance was really useful."
+    },
+    {
+      "korean": "보험료",
+      "english": "insurance premium",
+      "example": "매달 자동차보험료를 내야 하는데 올해는 더 올랐다.",
+      "example_en": "I have to pay car insurance premiums every month, and they've increased this year."
+    },
+    {
+      "korean": "보험금",
+      "english": "insurance payment; insurance claim payout",
+      "example": "사고가 난 후 일주일 만에 보험금이 입금되었다.",
+      "example_en": "The insurance payout was deposited a week after the accident."
+    },
+    {
+      "korean": "보장",
+      "english": "coverage; guarantee",
+      "example": "이 보험은 암 진단부터 치료까지 전체 과정을 보장한다.",
+      "example_en": "This insurance covers the entire process from cancer diagnosis to treatment."
+    },
+    {
+      "korean": "보상",
+      "english": "compensation; reimbursement",
+      "example": "의료 사고로 인한 보상을 받기 위해 소송을 제기했다.",
+      "example_en": "I filed a lawsuit to receive compensation for the medical malpractice."
+    },
+    {
+      "korean": "청구",
+      "english": "claim; billing",
+      "example": "보험금을 청구하려면 필요한 서류를 모두 제출해야 한다.",
+      "example_en": "To claim insurance, you must submit all required documents."
+    },
+    {
+      "korean": "청구절차",
+      "english": "claim procedure; claims process",
+      "example": "자동차 사고 후 청구절차를 진행하는 데 한 달이 걸렸다.",
+      "example_en": "It took a month to complete the claims process after the car accident."
+    },
+    {
+      "korean": "증서",
+      "english": "certificate; policy document",
+      "example": "보험 증서를 안전한 곳에 보관해두어야 필요할 때 찾을 수 있다.",
+      "example_en": "You should keep the insurance policy document in a safe place so you can find it when needed."
+    },
+    {
+      "korean": "보험사",
+      "english": "insurance company",
+      "example": "여러 보험사의 보장 내용을 비교해본 후 가입을 결정했다.",
+      "example_en": "I compared coverage from several insurance companies before deciding to sign up."
+    },
+    {
+      "korean": "가입",
+      "english": "to sign up; to enroll; to take out (insurance)",
+      "example": "직장을 다니면서 회사에서 제공하는 단체 보험에 가입했다.",
+      "example_en": "While working, I enrolled in the group insurance provided by the company."
+    },
+    {
+      "korean": "해지",
+      "english": "cancellation; termination",
+      "example": "보험이 더 이상 필요하지 않아서 해지 신청을 했다.",
+      "example_en": "I requested cancellation since I no longer needed the insurance."
+    },
+    {
+      "korean": "갱신",
+      "english": "renewal",
+      "example": "올해 자동차보험 갱신 시기가 다가왔다.",
+      "example_en": "It's almost time to renew my car insurance for this year."
+    },
+    {
+      "korean": "특약",
+      "english": "rider; supplementary coverage; endorsement",
+      "example": "기본 보장에 암 특약을 추가했다.",
+      "example_en": "I added a cancer rider to the basic coverage."
+    },
+    {
+      "korean": "보험료 인상",
+      "english": "insurance premium increase",
+      "example": "사고 기록이 많으면 보험료 인상이 불가피하다.",
+      "example_en": "If you have many accident records, a premium increase is inevitable."
+    },
+    {
+      "korean": "할인",
+      "english": "discount; deduction",
+      "example": "안전 운전자는 보험료 할인을 받을 수 있다.",
+      "example_en": "Safe drivers can receive a discount on insurance premiums."
+    },
+    {
+      "korean": "면책",
+      "english": "exclusion; exemption",
+      "example": "음주 운전 사고는 보험 면책 사항에 포함된다.",
+      "example_en": "Drunk driving accidents are included in insurance exclusions."
+    },
+    {
+      "korean": "면책금",
+      "english": "deductible; excess",
+      "example": "보험금을 받을 때 면책금 5만 원은 본인이 부담해야 한다.",
+      "example_en": "When receiving insurance payment, you must pay a 50,000 won deductible."
+    },
+    {
+      "korean": "선택약관",
+      "english": "optional clause; optional coverage",
+      "example": "기본 보장 외에 선택약관을 추가할 수 있다.",
+      "example_en": "You can add optional coverage in addition to basic coverage."
+    },
+    {
+      "korean": "약관",
+      "english": "terms and conditions; policy terms",
+      "example": "가입 전에 보험 약관을 꼼꼼히 읽어 봐야 한다.",
+      "example_en": "You should carefully read the insurance policy terms before signing up."
+    },
+    {
+      "korean": "신청서",
+      "english": "application form",
+      "example": "보험 가입 신청서를 작성하는 데 15분이 걸렸다.",
+      "example_en": "It took 15 minutes to fill out the insurance application form."
+    },
+    {
+      "korean": "의료비",
+      "english": "medical expenses; healthcare costs",
+      "example": "갑작스런 수술로 인해 의료비가 많이 발생했다.",
+      "example_en": "Unexpected surgery incurred substantial medical expenses."
+    },
+    {
+      "korean": "수술비",
+      "english": "surgery costs; surgical expenses",
+      "example": "수술비가 비싸서 보험금으로 대부분 커버할 수 있어 다행이었다.",
+      "example_en": "The surgery costs were high, but fortunately the insurance covered most of it."
+    },
+    {
+      "korean": "입원비",
+      "english": "hospitalization costs; hospital charges",
+      "example": "일주일간의 입원비가 건강보험에서 보장되었다.",
+      "example_en": "The one-week hospitalization costs were covered by health insurance."
+    },
+    {
+      "korean": "약값",
+      "english": "medication cost; drug cost",
+      "example": "만성병 약값이 점점 늘어나면서 경제적 부담이 크다.",
+      "example_en": "As medication costs for chronic illness keep increasing, the financial burden is significant."
+    },
+    {
+      "korean": "보험 적용",
+      "english": "insurance coverage; covered by insurance",
+      "example": "특정 질병은 보험 적용이 되지 않는 경우가 있다.",
+      "example_en": "Some illnesses may not be covered by insurance."
+    },
+    {
+      "korean": "보험 심사",
+      "english": "insurance review; claims assessment",
+      "example": "보험금 청구 후 보험 심사 기간이 약 2주가 소요된다.",
+      "example_en": "After filing a claim, the insurance review period takes about 2 weeks."
+    },
+    {
+      "korean": "피해",
+      "english": "damage; loss; harm",
+      "example": "화재로 인한 피해 규모를 파악하기 위해 감정인을 보냈다.",
+      "example_en": "An appraiser was sent to assess the extent of damage from the fire."
+    },
+    {
+      "korean": "감정인",
+      "english": "claims adjuster; appraiser",
+      "example": "보험사의 감정인이 현장에 나와 손상 정도를 확인했다.",
+      "example_en": "The insurance company's claims adjuster came to the scene to assess the damage."
+    },
+    {
+      "korean": "진단서",
+      "english": "medical certificate; diagnosis certificate",
+      "example": "보험금을 받으려면 병원에서 발급한 진단서가 필요하다.",
+      "example_en": "You need a medical certificate issued by the hospital to receive insurance payment."
+    },
+    {
+      "korean": "우선순위",
+      "english": "priority; precedence",
+      "example": "여러 보험이 있을 때 어느 것이 우선순위인지 확인해야 한다.",
+      "example_en": "When you have multiple policies, you need to determine which one takes priority."
+    },
+    {
+      "korean": "만기",
+      "english": "maturity; expiration; policy term end",
+      "example": "보험 만기가 되면 갱신하거나 새로 가입해야 한다.",
+      "example_en": "When the policy matures, you need to renew it or sign up for a new one."
+    },
+    {
+      "korean": "해약환급금",
+      "english": "cancellation return; policy surrender value",
+      "example": "보험을 중간에 해지하면 해약환급금을 받을 수 있다.",
+      "example_en": "If you cancel the insurance in the middle, you can receive a cancellation return."
+    },
+    {
+      "korean": "예비 보장",
+      "english": "backup coverage; supplementary protection",
+      "example": "주 보장 외에 예비 보장을 추가하면 더 안심할 수 있다.",
+      "example_en": "Adding backup coverage in addition to the main coverage provides extra peace of mind."
+    },
+    {
+      "korean": "보험 가입자",
+      "english": "policyholder; insured person",
+      "example": "보험 가입자가 사망하면 수혜자가 보험금을 받게 된다.",
+      "example_en": "When the policyholder dies, the beneficiary receives the insurance payment."
+    },
+    {
+      "korean": "보험 수혜자",
+      "english": "beneficiary; insurance beneficiary",
+      "example": "생명보험의 수혜자를 배우자로 지정했다.",
+      "example_en": "I designated my spouse as the beneficiary of the life insurance."
+    }
+  ]
+}

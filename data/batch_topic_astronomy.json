@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 천문 (Topic: Astronomy)": [
+    {
+      "korean": "별",
+      "english": "star",
+      "example": "밤하늘의 별들이 정말 반짝여.",
+      "example_en": "The stars in the night sky are really twinkling."
+    },
+    {
+      "korean": "행성",
+      "english": "planet",
+      "example": "태양계에는 8개의 행성이 있다.",
+      "example_en": "There are 8 planets in the solar system."
+    },
+    {
+      "korean": "은하",
+      "english": "galaxy",
+      "example": "우리는 은하수라는 은하에 살고 있다.",
+      "example_en": "We live in a galaxy called the Milky Way."
+    },
+    {
+      "korean": "우주",
+      "english": "universe/cosmos",
+      "example": "우주의 나이는 약 138억 년이다.",
+      "example_en": "The universe is approximately 13.8 billion years old."
+    },
+    {
+      "korean": "천체",
+      "english": "celestial body",
+      "example": "별, 행성, 위성은 모두 천체다.",
+      "example_en": "Stars, planets, and satellites are all celestial bodies."
+    },
+    {
+      "korean": "위성",
+      "english": "satellite",
+      "example": "달은 지구의 천연 위성이다.",
+      "example_en": "The moon is Earth's natural satellite."
+    },
+    {
+      "korean": "혜성",
+      "english": "comet",
+      "example": "핼리 혜성은 76년마다 지구 근처를 지난다.",
+      "example_en": "Halley's Comet passes near Earth every 76 years."
+    },
+    {
+      "korean": "유성",
+      "english": "meteor",
+      "example": "유성우 기간에 많은 유성을 볼 수 있다.",
+      "example_en": "During meteor showers, you can see many meteors."
+    },
+    {
+      "korean": "소행성",
+      "english": "asteroid",
+      "example": "소행성대는 화성과 목성 사이에 있다.",
+      "example_en": "The asteroid belt is located between Mars and Jupiter."
+    },
+    {
+      "korean": "블랙홀",
+      "english": "black hole",
+      "example": "블랙홀의 중력은 빛도 탈출할 수 없다.",
+      "example_en": "The gravitational pull of a black hole is so strong that even light cannot escape."
+    },
+    {
+      "korean": "중성자별",
+      "english": "neutron star",
+      "example": "중성자별은 매우 높은 밀도를 가진 별이다.",
+      "example_en": "A neutron star is a star with extremely high density."
+    },
+    {
+      "korean": "광년",
+      "english": "light-year",
+      "example": "프록시마 센타우리는 지구로부터 4.2 광년 떨어져 있다.",
+      "example_en": "Proxima Centauri is 4.2 light-years away from Earth."
+    },
+    {
+      "korean": "적색거인",
+      "english": "red giant",
+      "example": "태양은 약 50억 년 후에 적색거인이 될 것이다.",
+      "example_en": "The Sun will become a red giant in about 5 billion years."
+    },
+    {
+      "korean": "백색왜성",
+      "english": "white dwarf",
+      "example": "백색왜성은 죽어가는 별의 핵이다.",
+      "example_en": "A white dwarf is the core of a dying star."
+    },
+    {
+      "korean": "쌍성",
+      "english": "binary star",
+      "example": "많은 별들이 실제로 쌍성계를 이루고 있다.",
+      "example_en": "Many stars actually form binary star systems."
+    },
+    {
+      "korean": "초신성",
+      "english": "supernova",
+      "example": "초신성은 우주에서 가장 밝은 현상 중 하나다.",
+      "example_en": "A supernova is one of the brightest phenomena in the universe."
+    },
+    {
+      "korean": "펄서",
+      "english": "pulsar",
+      "example": "펄서는 매우 빠르게 회전하는 중성자별이다.",
+      "example_en": "A pulsar is a neutron star that rotates extremely fast."
+    },
+    {
+      "korean": "공전",
+      "english": "orbital motion/revolution",
+      "example": "지구는 태양 주위를 공전한다.",
+      "example_en": "Earth revolves around the Sun."
+    },
+    {
+      "korean": "자전",
+      "english": "rotation",
+      "example": "지구는 하루에 한 번 자전한다.",
+      "example_en": "Earth rotates once a day."
+    },
+    {
+      "korean": "궤도",
+      "english": "orbit",
+      "example": "달의 궤도는 지구를 중심으로 타원형이다.",
+      "example_en": "The Moon's orbit is elliptical around Earth."
+    },
+    {
+      "korean": "중력",
+      "english": "gravity",
+      "example": "중력이 없으면 우주에 있는 모든 것이 떨어질 것이다.",
+      "example_en": "Without gravity, everything in the universe would fall apart."
+    },
+    {
+      "korean": "자기장",
+      "english": "magnetic field",
+      "example": "지구의 자기장은 태양풍으로부터 우리를 보호한다.",
+      "example_en": "Earth's magnetic field protects us from solar wind."
+    },
+    {
+      "korean": "태양계",
+      "english": "solar system",
+      "example": "우리 태양계는 약 46억 살 된 것으로 추정된다.",
+      "example_en": "Our solar system is estimated to be about 4.6 billion years old."
+    },
+    {
+      "korean": "태양",
+      "english": "sun",
+      "example": "태양은 우리 태양계의 중심에 있는 항성이다.",
+      "example_en": "The Sun is the star at the center of our solar system."
+    },
+    {
+      "korean": "목성",
+      "english": "Jupiter",
+      "example": "목성은 태양계에서 가장 큰 행성이다.",
+      "example_en": "Jupiter is the largest planet in the solar system."
+    },
+    {
+      "korean": "토성",
+      "english": "Saturn",
+      "example": "토성의 고리는 아름답고 장관이다.",
+      "example_en": "Saturn's rings are beautiful and spectacular."
+    },
+    {
+      "korean": "천왕성",
+      "english": "Uranus",
+      "example": "천왕성은 옆으로 누워 공전하는 행성이다.",
+      "example_en": "Uranus is a planet that orbits on its side."
+    },
+    {
+      "korean": "해왕성",
+      "english": "Neptune",
+      "example": "해왕성은 태양으로부터 가장 먼 행성이다.",
+      "example_en": "Neptune is the farthest planet from the Sun."
+    },
+    {
+      "korean": "화성",
+      "english": "Mars",
+      "example": "화성은 붉은 색깔 때문에 빨간 행성이라고 불린다.",
+      "example_en": "Mars is called the red planet because of its reddish color."
+    },
+    {
+      "korean": "금성",
+      "english": "Venus",
+      "example": "금성은 태양계에서 가장 뜨거운 행성이다.",
+      "example_en": "Venus is the hottest planet in the solar system."
+    },
+    {
+      "korean": "수성",
+      "english": "Mercury",
+      "example": "수성은 태양에 가장 가까운 행성이다.",
+      "example_en": "Mercury is the planet closest to the Sun."
+    },
+    {
+      "korean": "달",
+      "english": "moon",
+      "example": "달은 지구에서 가장 가까운 천체다.",
+      "example_en": "The moon is the closest celestial body to Earth."
+    },
+    {
+      "korean": "성운",
+      "english": "nebula",
+      "example": "오리온 성운은 많은 천문학자들이 관찰하는 대상이다.",
+      "example_en": "The Orion Nebula is an object of observation for many astronomers."
+    },
+    {
+      "korean": "우주선",
+      "english": "cosmic ray",
+      "example": "우주선은 우주에서 지구로 끊임없이 날아온다.",
+      "example_en": "Cosmic rays constantly arrive at Earth from space."
+    },
+    {
+      "korean": "망원경",
+      "english": "telescope",
+      "example": "망원경을 사용하면 먼 별들을 자세히 볼 수 있다.",
+      "example_en": "With a telescope, you can observe distant stars in detail."
+    },
+    {
+      "korean": "우주망원경",
+      "english": "space telescope",
+      "example": "허블 우주망원경은 많은 놀라운 발견을 했다.",
+      "example_en": "The Hubble Space Telescope has made many amazing discoveries."
+    },
+    {
+      "korean": "관측",
+      "english": "observation",
+      "example": "밤하늘의 관측은 인류 역사에서 오래되었다.",
+      "example_en": "The observation of the night sky has a long history in humanity."
+    },
+    {
+      "korean": "천문단위",
+      "english": "astronomical unit (AU)",
+      "example": "지구는 태양으로부터 약 1 천문단위 떨어져 있다.",
+      "example_en": "Earth is approximately 1 astronomical unit away from the Sun."
+    },
+    {
+      "korean": "광도",
+      "english": "luminosity",
+      "example": "별의 광도는 그 별의 밝기를 결정한다.",
+      "example_en": "A star's luminosity determines its brightness."
+    },
+    {
+      "korean": "질량",
+      "english": "mass",
+      "example": "별의 질량이 클수록 더 빨리 죽는다.",
+      "example_en": "The larger a star's mass, the faster it dies."
+    }
+  ]
+}
