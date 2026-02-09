@@ -22865,5 +22865,3149 @@
       "example": "나이가 들면서 세상 물정을 더 많이 알게 되는 것이 경험의 이점이다.",
       "example_en": "Understanding more about how the world works as you age is an advantage of experience."
     }
+  ],
+  "주제별 단어 — 항공 (Topic: Aviation)": [
+    {
+      "korean": "비행기",
+      "english": "airplane, aircraft",
+      "example": "비행기를 타고 서울에서 부산으로 갔어요.",
+      "example_en": "I took a plane from Seoul to Busan."
+    },
+    {
+      "korean": "공항",
+      "english": "airport",
+      "example": "인천공항에서 출발하는 비행기가 많아요.",
+      "example_en": "There are many planes departing from Incheon Airport."
+    },
+    {
+      "korean": "항공편",
+      "english": "flight",
+      "example": "오후 3시 항공편은 이미 만석입니다.",
+      "example_en": "The 3 PM flight is already fully booked."
+    },
+    {
+      "korean": "탑승",
+      "english": "boarding",
+      "example": "탑승 시간이 되었으니 게이트로 가세요.",
+      "example_en": "Boarding time is here, please go to the gate."
+    },
+    {
+      "korean": "탑승객",
+      "english": "passenger",
+      "example": "모든 탑승객이 안전띠를 착용해야 합니다.",
+      "example_en": "All passengers must wear seatbelts."
+    },
+    {
+      "korean": "조종사",
+      "english": "pilot",
+      "example": "조종사가 기장실에서 비행기를 조종합니다.",
+      "example_en": "The pilot controls the aircraft from the cockpit."
+    },
+    {
+      "korean": "승무원",
+      "english": "flight attendant, cabin crew",
+      "example": "승무원이 음료수를 배달하고 있어요.",
+      "example_en": "The flight attendants are serving beverages."
+    },
+    {
+      "korean": "활주로",
+      "english": "runway",
+      "example": "비행기가 활주로에 착륙했어요.",
+      "example_en": "The aircraft landed on the runway."
+    },
+    {
+      "korean": "이륙",
+      "english": "takeoff",
+      "example": "이륙 후에는 휴대폰 사용이 금지됩니다.",
+      "example_en": "Using phones is prohibited after takeoff."
+    },
+    {
+      "korean": "착륙",
+      "english": "landing",
+      "example": "착륙하기 10분 전에 벨트를 매세요.",
+      "example_en": "Please fasten your seatbelt 10 minutes before landing."
+    },
+    {
+      "korean": "난기류",
+      "english": "turbulence",
+      "example": "이 구간에서 약간의 난기류가 있을 수 있습니다.",
+      "example_en": "There may be some turbulence in this section."
+    },
+    {
+      "korean": "고도",
+      "english": "altitude, height",
+      "example": "현재 고도는 35,000피트입니다.",
+      "example_en": "The current altitude is 35,000 feet."
+    },
+    {
+      "korean": "엔진",
+      "english": "engine",
+      "example": "4개 엔진이 있는 비행기는 매우 안전해요.",
+      "example_en": "Aircraft with 4 engines are very safe."
+    },
+    {
+      "korean": "날개",
+      "english": "wing",
+      "example": "비행기의 날개에 얼음이 얼 수 있어요.",
+      "example_en": "Ice can form on aircraft wings."
+    },
+    {
+      "korean": "기장실",
+      "english": "cockpit",
+      "example": "승객은 기장실에 들어갈 수 없습니다.",
+      "example_en": "Passengers cannot enter the cockpit."
+    },
+    {
+      "korean": "수하물",
+      "english": "baggage, luggage",
+      "example": "수하물을 짐칸에 넣으세요.",
+      "example_en": "Put your baggage in the overhead compartment."
+    },
+    {
+      "korean": "짐칸",
+      "english": "baggage compartment, overhead bin",
+      "example": "큰 짐칸이 가득 찼습니다.",
+      "example_en": "The overhead compartment is full."
+    },
+    {
+      "korean": "여권",
+      "english": "passport",
+      "example": "출국할 때 여권이 필요합니다.",
+      "example_en": "You need a passport when departing the country."
+    },
+    {
+      "korean": "탑승수속",
+      "english": "check-in, boarding procedure",
+      "example": "탑승수속은 출발 2시간 전에 완료해야 해요.",
+      "example_en": "Check-in must be completed 2 hours before departure."
+    },
+    {
+      "korean": "기내식",
+      "english": "in-flight meal",
+      "example": "기내식은 매우 맛있었어요.",
+      "example_en": "The in-flight meal was very delicious."
+    },
+    {
+      "korean": "음료수",
+      "english": "beverage, drink",
+      "example": "승무원이 음료수와 스낵을 제공합니다.",
+      "example_en": "Flight attendants provide beverages and snacks."
+    },
+    {
+      "korean": "안전띠",
+      "english": "seatbelt",
+      "example": "항상 안전띠를 착용하세요.",
+      "example_en": "Always wear your seatbelt."
+    },
+    {
+      "korean": "산소마스크",
+      "english": "oxygen mask",
+      "example": "기압이 떨어지면 산소마스크가 내려옵니다.",
+      "example_en": "If pressure drops, oxygen masks will descend."
+    },
+    {
+      "korean": "비상구",
+      "english": "emergency exit",
+      "example": "비상구 위치를 반드시 확인하세요.",
+      "example_en": "Please make sure to identify the emergency exit location."
+    },
+    {
+      "korean": "비상슬라이드",
+      "english": "emergency slide",
+      "example": "비상 상황에서는 비상슬라이드를 사용합니다.",
+      "example_en": "In an emergency, we use the emergency slide."
+    },
+    {
+      "korean": "기내용품",
+      "english": "in-flight amenities",
+      "example": "비즈니스석 탑승객들은 더 나은 기내용품을 받아요.",
+      "example_en": "Business class passengers receive better amenities."
+    },
+    {
+      "korean": "이코노미석",
+      "english": "economy class",
+      "example": "이코노미석의 좌석이 좁아요.",
+      "example_en": "Economy class seats are narrow."
+    },
+    {
+      "korean": "비즈니스석",
+      "english": "business class",
+      "example": "비즈니스석은 매우 편해요.",
+      "example_en": "Business class is very comfortable."
+    },
+    {
+      "korean": "일등석",
+      "english": "first class",
+      "example": "일등석 탑승객들은 특별한 대우를 받습니다.",
+      "example_en": "First class passengers receive special treatment."
+    },
+    {
+      "korean": "연결편",
+      "english": "connecting flight",
+      "example": "서울에서 연결편을 타고 뉴욕으로 갔어요.",
+      "example_en": "I took a connecting flight from Seoul to New York."
+    },
+    {
+      "korean": "면세점",
+      "english": "duty-free shop",
+      "example": "공항 면세점에서 향수를 샀어요.",
+      "example_en": "I bought perfume at the airport duty-free shop."
+    },
+    {
+      "korean": "라운지",
+      "english": "lounge",
+      "example": "항공사 라운지에서 무료 음료를 마실 수 있어요.",
+      "example_en": "You can enjoy free beverages at the airline lounge."
+    },
+    {
+      "korean": "결항",
+      "english": "cancellation",
+      "example": "폭설로 인해 오늘의 항공편이 결항되었습니다.",
+      "example_en": "Today's flight was cancelled due to heavy snow."
+    },
+    {
+      "korean": "항공사",
+      "english": "airline",
+      "example": "어느 항공사로 가시겠어요?",
+      "example_en": "Which airline will you fly with?"
+    }
+  ],
+  "주제별 단어 — 사진 (Topic: Photography)": [
+    {
+      "korean": "카메라",
+      "english": "camera",
+      "example": "새로운 카메라로 처음 촬영했을 때 굉장히 설렜다.",
+      "example_en": "I was thrilled when I first shot with my new camera."
+    },
+    {
+      "korean": "렌즈",
+      "english": "lens",
+      "example": "광각 렌즈는 풍경 사진에 적합하다.",
+      "example_en": "A wide-angle lens is suitable for landscape photography."
+    },
+    {
+      "korean": "조리개",
+      "english": "aperture",
+      "example": "조리개를 크게 열면 배경이 흐려진다.",
+      "example_en": "When you open the aperture wide, the background blurs."
+    },
+    {
+      "korean": "셔터 스피드",
+      "english": "shutter speed",
+      "example": "빠른 셔터 스피드로 움직이는 피사체를 포착할 수 있다.",
+      "example_en": "You can capture moving subjects with a fast shutter speed."
+    },
+    {
+      "korean": "ISO",
+      "english": "ISO sensitivity",
+      "example": "어두운 환경에서는 ISO를 높여야 한다.",
+      "example_en": "You need to raise the ISO in dark environments."
+    },
+    {
+      "korean": "삼각대",
+      "english": "tripod",
+      "example": "오래 노출 촬영을 할 때는 삼각대가 필수다.",
+      "example_en": "A tripod is essential for long exposure photography."
+    },
+    {
+      "korean": "플래시",
+      "english": "flash",
+      "example": "실내 촬영에서 플래시를 사용하면 밝은 사진을 얻을 수 있다.",
+      "example_en": "Using flash in indoor shots gives you brighter photos."
+    },
+    {
+      "korean": "필터",
+      "english": "filter",
+      "example": "편광 필터는 반사광을 줄이는 데 효과적이다.",
+      "example_en": "A polarizing filter is effective at reducing reflections."
+    },
+    {
+      "korean": "반사판",
+      "english": "reflector",
+      "example": "반사판으로 빛을 반사시켜 그림자를 채웠다.",
+      "example_en": "I used a reflector to bounce light and fill in shadows."
+    },
+    {
+      "korean": "렌즈 캡",
+      "english": "lens cap",
+      "example": "렌즈 캡을 빼먹으면 렌즈가 손상될 수 있다.",
+      "example_en": "Forgetting the lens cap can damage your lens."
+    },
+    {
+      "korean": "조명",
+      "english": "lighting",
+      "example": "좋은 조명이 사진의 성패를 결정한다.",
+      "example_en": "Good lighting makes or breaks a photograph."
+    },
+    {
+      "korean": "역광",
+      "english": "backlighting",
+      "example": "역광으로 촬영하면 피사체가 빛나는 듯한 효과를 낸다.",
+      "example_en": "Backlighting creates a glowing effect on your subject."
+    },
+    {
+      "korean": "자연광",
+      "english": "natural light",
+      "example": "자연광으로만 촬영하는 것이 가장 아름답다고 생각한다.",
+      "example_en": "I think shooting with only natural light is the most beautiful."
+    },
+    {
+      "korean": "골든 아워",
+      "english": "golden hour",
+      "example": "골든 아워에는 피부가 부드럽고 따뜻하게 표현된다.",
+      "example_en": "During golden hour, skin looks soft and warm."
+    },
+    {
+      "korean": "밝기",
+      "english": "brightness",
+      "example": "밝기를 조정하여 이미지의 전체적인 톤을 바꿀 수 있다.",
+      "example_en": "You can adjust brightness to change the overall tone of the image."
+    },
+    {
+      "korean": "그림자",
+      "english": "shadow",
+      "example": "그림자를 잘 활용하면 깊이감 있는 사진을 만들 수 있다.",
+      "example_en": "Using shadows well creates photos with depth."
+    },
+    {
+      "korean": "하이라이트",
+      "english": "highlight",
+      "example": "하이라이트가 살짝 날아간 부분을 회복시킬 수 없다.",
+      "example_en": "You cannot recover blown highlight areas."
+    },
+    {
+      "korean": "색온도",
+      "english": "color temperature",
+      "example": "색온도에 따라 사진의 분위기가 완전히 달라진다.",
+      "example_en": "The color temperature completely changes the mood of the photo."
+    },
+    {
+      "korean": "프레이밍",
+      "english": "framing",
+      "example": "프레이밍을 통해 뷰어의 시선을 피사체로 유도할 수 있다.",
+      "example_en": "Through framing, you can direct the viewer's eye to the subject."
+    },
+    {
+      "korean": "삼분할 법칙",
+      "english": "rule of thirds",
+      "example": "삼분할 법칙을 적용하면 더 역동적인 사진이 된다.",
+      "example_en": "Applying the rule of thirds makes the photo more dynamic."
+    },
+    {
+      "korean": "깊이감",
+      "english": "depth",
+      "example": "렌즈 선택과 조리개 값이 깊이감을 결정한다.",
+      "example_en": "Lens choice and aperture value determine depth."
+    },
+    {
+      "korean": "초점",
+      "english": "focus",
+      "example": "초점을 명확하게 잡아야 피사체가 돋보인다.",
+      "example_en": "You need to focus clearly for the subject to stand out."
+    },
+    {
+      "korean": "배경",
+      "english": "background",
+      "example": "배경을 흐리게 처리하면 피사체에 집중할 수 있다.",
+      "example_en": "Blurring the background helps focus on the subject."
+    },
+    {
+      "korean": "피사체",
+      "english": "subject",
+      "example": "피사체 선택이 사진의 성공을 크게 좌우한다.",
+      "example_en": "Subject choice greatly influences the success of the photo."
+    },
+    {
+      "korean": "원근감",
+      "english": "perspective",
+      "example": "낮은 앵글에서 촬영하면 원근감이 극대화된다.",
+      "example_en": "Shooting from a low angle maximizes perspective."
+    },
+    {
+      "korean": "대칭",
+      "english": "symmetry",
+      "example": "대칭적인 구도는 안정감 있는 사진을 만든다.",
+      "example_en": "Symmetrical composition creates stable-looking photos."
+    },
+    {
+      "korean": "균형",
+      "english": "balance",
+      "example": "사진의 왼쪽과 오른쪽 균형을 맞춰야 한다.",
+      "example_en": "You need to balance the left and right sides of the photo."
+    },
+    {
+      "korean": "보정",
+      "english": "adjustment/correction",
+      "example": "색상 보정으로 사진의 색감을 자연스럽게 만들 수 있다.",
+      "example_en": "Color correction can make the photo's colors look natural."
+    },
+    {
+      "korean": "색상 보정",
+      "english": "color correction",
+      "example": "화이트 밸런스 색상 보정은 필수적인 편집 과정이다.",
+      "example_en": "White balance color correction is an essential editing step."
+    },
+    {
+      "korean": "명도",
+      "english": "brightness/luminosity",
+      "example": "명도를 조정하여 사진의 전체적인 톤을 조절한다.",
+      "example_en": "Adjust luminosity to control the overall tone of the photo."
+    },
+    {
+      "korean": "대비",
+      "english": "contrast",
+      "example": "대비를 높이면 사진이 더 생생해 보인다.",
+      "example_en": "Increasing contrast makes the photo look more vivid."
+    },
+    {
+      "korean": "채도",
+      "english": "saturation",
+      "example": "채도를 조절하여 색감의 강도를 조정할 수 있다.",
+      "example_en": "You can adjust saturation to control color intensity."
+    },
+    {
+      "korean": "톤 커브",
+      "english": "tone curve",
+      "example": "톤 커브는 정교한 노출 조절을 가능하게 한다.",
+      "example_en": "Tone curves allow precise exposure adjustments."
+    },
+    {
+      "korean": "트리밍",
+      "english": "cropping",
+      "example": "트리밍으로 불필요한 부분을 제거하여 구도를 개선했다.",
+      "example_en": "Cropping removed unnecessary parts and improved the composition."
+    },
+    {
+      "korean": "리터칭",
+      "english": "retouching",
+      "example": "초상화 촬영 후 피부 리터칭은 거의 필수다.",
+      "example_en": "Skin retouching is almost essential after portrait shoots."
+    },
+    {
+      "korean": "화이트 밸런스",
+      "english": "white balance",
+      "example": "화이트 밸런스를 올바르게 설정하면 색감이 자연스러워진다.",
+      "example_en": "Setting white balance correctly makes colors look natural."
+    },
+    {
+      "korean": "피사계 심도",
+      "english": "depth of field",
+      "example": "피사계 심도가 얕을수록 배경 흐림이 더 크다.",
+      "example_en": "The shallower the depth of field, the more background blur."
+    }
+  ],
+  "주제별 단어 — 섬유 (Topic: Textiles)": [
+    {
+      "korean": "양모",
+      "english": "wool",
+      "example": "겨울에는 양모 스웨터가 따뜻합니다.",
+      "example_en": "Wool sweaters are warm in winter."
+    },
+    {
+      "korean": "비단",
+      "english": "silk",
+      "example": "비단 스카프는 매우 우아합니다.",
+      "example_en": "Silk scarves are very elegant."
+    },
+    {
+      "korean": "린넨",
+      "english": "linen",
+      "example": "린넨 원단은 여름 옷에 적합합니다.",
+      "example_en": "Linen fabric is suitable for summer clothes."
+    },
+    {
+      "korean": "코듀로이",
+      "english": "corduroy",
+      "example": "코듀로이 바지는 안락합니다.",
+      "example_en": "Corduroy pants are comfortable."
+    },
+    {
+      "korean": "플란넬",
+      "english": "flannel",
+      "example": "플란넬 셔츠는 촉감이 부드럽습니다.",
+      "example_en": "Flannel shirts have a soft feel."
+    },
+    {
+      "korean": "스웨이드",
+      "english": "suede",
+      "example": "스웨이드 구두는 세심한 관리가 필요합니다.",
+      "example_en": "Suede shoes require careful maintenance."
+    },
+    {
+      "korean": "캔버스",
+      "english": "canvas",
+      "example": "캔버스 가방은 튼튼합니다.",
+      "example_en": "Canvas bags are sturdy."
+    },
+    {
+      "korean": "직조",
+      "english": "weaving",
+      "example": "그 아티스트는 손직조로 천을 만듭니다.",
+      "example_en": "The artisan makes fabric by hand weaving."
+    },
+    {
+      "korean": "뜨개질",
+      "english": "knitting",
+      "example": "뜨개질로 만든 스웨터는 따뜻합니다.",
+      "example_en": "Knitted sweaters are warm."
+    },
+    {
+      "korean": "염색",
+      "english": "dyeing",
+      "example": "천의 염색은 매우 중요한 공정입니다.",
+      "example_en": "Dyeing is a very important process in fabric production."
+    },
+    {
+      "korean": "재봉",
+      "english": "sewing",
+      "example": "재봉 기술이 없으면 옷을 만들 수 없습니다.",
+      "example_en": "You cannot make clothes without sewing skills."
+    },
+    {
+      "korean": "바느질",
+      "english": "stitching",
+      "example": "손바느질은 시간이 오래 걸립니다.",
+      "example_en": "Hand stitching takes a long time."
+    },
+    {
+      "korean": "표백",
+      "english": "bleaching",
+      "example": "표백 처리로 천이 밝아집니다.",
+      "example_en": "Bleaching makes the fabric brighter."
+    },
+    {
+      "korean": "솔기",
+      "english": "seam",
+      "example": "셔츠의 솔기가 튼튼하지 않습니다.",
+      "example_en": "The seam of the shirt is not sturdy."
+    },
+    {
+      "korean": "단",
+      "english": "hem",
+      "example": "바지 단을 올려야 합니다.",
+      "example_en": "The hem of the pants needs to be raised."
+    },
+    {
+      "korean": "실",
+      "english": "thread",
+      "example": "실의 색깔이 원단과 잘 어울립니다.",
+      "example_en": "The color of the thread matches the fabric well."
+    },
+    {
+      "korean": "바늘",
+      "english": "needle",
+      "example": "재봉 바늘이 너무 둔합니다.",
+      "example_en": "The sewing needle is too dull."
+    },
+    {
+      "korean": "단추",
+      "english": "button",
+      "example": "이 단추가 떨어져 나갔습니다.",
+      "example_en": "This button has come off."
+    },
+    {
+      "korean": "지퍼",
+      "english": "zipper",
+      "example": "지퍼가 걸려 있습니다.",
+      "example_en": "The zipper is stuck."
+    },
+    {
+      "korean": "안감",
+      "english": "lining",
+      "example": "가방의 안감이 찢어졌습니다.",
+      "example_en": "The lining of the bag is torn."
+    },
+    {
+      "korean": "질감",
+      "english": "texture",
+      "example": "비단의 질감은 부드럽습니다.",
+      "example_en": "The texture of silk is soft."
+    },
+    {
+      "korean": "부드러운",
+      "english": "soft",
+      "example": "이 원단은 매우 부드럽습니다.",
+      "example_en": "This fabric is very soft."
+    },
+    {
+      "korean": "거친",
+      "english": "rough",
+      "example": "린넨은 처음에는 거칠 수 있습니다.",
+      "example_en": "Linen can be rough at first."
+    },
+    {
+      "korean": "신축성",
+      "english": "elasticity/stretch",
+      "example": "스판덱스는 높은 신축성을 가집니다.",
+      "example_en": "Spandex has high elasticity."
+    },
+    {
+      "korean": "통기성",
+      "english": "breathability",
+      "example": "이 소재의 통기성이 좋습니다.",
+      "example_en": "This material has good breathability."
+    },
+    {
+      "korean": "방염",
+      "english": "flame-resistant",
+      "example": "방염 처리된 커튼은 안전합니다.",
+      "example_en": "Flame-resistant curtains are safe."
+    },
+    {
+      "korean": "반짝이는",
+      "english": "shiny/glossy",
+      "example": "이 실크 드레스는 반짝입니다.",
+      "example_en": "This silk dress is shiny."
+    },
+    {
+      "korean": "무광",
+      "english": "matte",
+      "example": "무광 처리로 더 세련되어 보입니다.",
+      "example_en": "The matte finish looks more sophisticated."
+    },
+    {
+      "korean": "두께",
+      "english": "thickness",
+      "example": "원단의 두께를 확인하세요.",
+      "example_en": "Check the thickness of the fabric."
+    },
+    {
+      "korean": "탄성",
+      "english": "elasticity/springiness",
+      "example": "이 천은 탄성이 뛰어납니다.",
+      "example_en": "This fabric has excellent elasticity."
+    },
+    {
+      "korean": "패치",
+      "english": "patch",
+      "example": "바지에 패치를 붙였습니다.",
+      "example_en": "I sewed a patch onto the pants."
+    },
+    {
+      "korean": "혼방",
+      "english": "blend/mixed fabric",
+      "example": "면과 폴리에스터의 혼방이 실용적입니다.",
+      "example_en": "A blend of cotton and polyester is practical."
+    }
+  ],
+  "주제별 단어 — 은행 (Topic: Banking)": [
+    {
+      "korean": "계좌",
+      "english": "account",
+      "example": "새로운 은행 계좌를 개설했다.",
+      "example_en": "I opened a new bank account."
+    },
+    {
+      "korean": "입금하다",
+      "english": "to deposit",
+      "example": "월급이 계좌에 입금되었어.",
+      "example_en": "My salary was deposited into the account."
+    },
+    {
+      "korean": "출금하다",
+      "english": "to withdraw",
+      "example": "ATM에서 현금을 출금했다.",
+      "example_en": "I withdrew cash from the ATM."
+    },
+    {
+      "korean": "송금하다",
+      "english": "to transfer money",
+      "example": "해외로 송금하려면 수수료가 든다.",
+      "example_en": "There's a fee to transfer money overseas."
+    },
+    {
+      "korean": "이체",
+      "english": "transfer",
+      "example": "같은 은행 계좌로의 이체는 즉시 처리된다.",
+      "example_en": "Transfers to accounts within the same bank are processed immediately."
+    },
+    {
+      "korean": "수수료",
+      "english": "fee; charge",
+      "example": "이 계좌는 월 수수료가 없다.",
+      "example_en": "This account has no monthly fee."
+    },
+    {
+      "korean": "잔고",
+      "english": "balance",
+      "example": "계좌 잔고를 확인해야 한다.",
+      "example_en": "I need to check my account balance."
+    },
+    {
+      "korean": "이자율",
+      "english": "interest rate",
+      "example": "저축 상품의 이자율이 올라갔다.",
+      "example_en": "The interest rate on savings products went up."
+    },
+    {
+      "korean": "복리",
+      "english": "compound interest",
+      "example": "복리로 계산하면 더 많은 이익을 얻을 수 있다.",
+      "example_en": "You can earn more profit if calculated with compound interest."
+    },
+    {
+      "korean": "단리",
+      "english": "simple interest",
+      "example": "단리로만 이자가 계산되는 상품도 있다.",
+      "example_en": "There are also products where interest is calculated as simple interest only."
+    },
+    {
+      "korean": "정기예금",
+      "english": "fixed deposit; term deposit",
+      "example": "정기예금 만기가 되면 이자가 붙는다.",
+      "example_en": "When a fixed deposit matures, you earn interest on it."
+    },
+    {
+      "korean": "보통예금",
+      "english": "regular savings; demand deposit",
+      "example": "보통예금은 필요할 때마다 인출할 수 있다.",
+      "example_en": "You can withdraw from regular savings whenever you need it."
+    },
+    {
+      "korean": "대출금",
+      "english": "loan amount",
+      "example": "대출금의 규모가 점점 커지고 있다.",
+      "example_en": "The size of the loan amount is getting bigger."
+    },
+    {
+      "korean": "원리금",
+      "english": "principal and interest",
+      "example": "원리금을 5년에 걸쳐 상환할 계획이다.",
+      "example_en": "I plan to repay the principal and interest over 5 years."
+    },
+    {
+      "korean": "이체 수수료",
+      "english": "transfer fee",
+      "example": "은행 간 이체 수수료가 생겼어.",
+      "example_en": "A transfer fee appeared for inter-bank transfers."
+    },
+    {
+      "korean": "부도",
+      "english": "default; bankruptcy",
+      "example": "회사가 부도 위기에 처했다.",
+      "example_en": "The company faced a risk of default."
+    },
+    {
+      "korean": "신용도",
+      "english": "credit rating; creditworthiness",
+      "example": "신용도가 낮으면 대출받기 어렵다.",
+      "example_en": "It's difficult to get a loan if your credit rating is low."
+    },
+    {
+      "korean": "담보금",
+      "english": "collateral; security deposit",
+      "example": "대출을 받을 때 담보금을 요구했다.",
+      "example_en": "They asked for a collateral when I took out a loan."
+    },
+    {
+      "korean": "무담보 대출",
+      "english": "unsecured loan",
+      "example": "무담보 대출의 이자가 더 높다.",
+      "example_en": "The interest on unsecured loans is higher."
+    },
+    {
+      "korean": "주택담보대출",
+      "english": "home equity loan; mortgage",
+      "example": "주택담보대출 규제가 강해졌다.",
+      "example_en": "Regulations on home equity loans have become stricter."
+    },
+    {
+      "korean": "신용카드",
+      "english": "credit card",
+      "example": "신용카드로 구매하면 포인트가 쌓인다.",
+      "example_en": "Points accumulate when you purchase with a credit card."
+    },
+    {
+      "korean": "직불카드",
+      "english": "debit card",
+      "example": "직불카드는 계좌에 있는 돈만 사용할 수 있다.",
+      "example_en": "A debit card can only use the money in your account."
+    },
+    {
+      "korean": "현금카드",
+      "english": "cash card",
+      "example": "현금카드로 ATM에서 돈을 뽑았다.",
+      "example_en": "I withdrew money from the ATM with my cash card."
+    },
+    {
+      "korean": "체크카드",
+      "english": "check card",
+      "example": "체크카드 사용액은 소득공제 대상이다.",
+      "example_en": "Check card spending is subject to income deduction."
+    },
+    {
+      "korean": "인출",
+      "english": "withdrawal",
+      "example": "월 인출 한도를 초과했다.",
+      "example_en": "I exceeded my monthly withdrawal limit."
+    },
+    {
+      "korean": "한도",
+      "english": "limit",
+      "example": "신용카드 한도를 높였다.",
+      "example_en": "I increased my credit card limit."
+    },
+    {
+      "korean": "통장 사본",
+      "english": "account statement; bankbook copy",
+      "example": "은행 대출을 신청할 때 통장 사본이 필요하다.",
+      "example_en": "You need a copy of your bankbook when applying for a bank loan."
+    },
+    {
+      "korean": "거래 명세서",
+      "english": "statement of account; transaction history",
+      "example": "매달 거래 명세서를 받아야 한다.",
+      "example_en": "I need to receive a transaction statement every month."
+    },
+    {
+      "korean": "체크 수표",
+      "english": "check; cheque",
+      "example": "이전에는 체크 수표로 많이 결제했어.",
+      "example_en": "In the past, we often paid with checks."
+    },
+    {
+      "korean": "금융상품",
+      "english": "financial product",
+      "example": "다양한 금융상품 중에서 선택할 수 있다.",
+      "example_en": "You can choose from various financial products."
+    },
+    {
+      "korean": "금융기관",
+      "english": "financial institution",
+      "example": "여러 금융기관에서 대출 조건을 비교했다.",
+      "example_en": "I compared loan terms at several financial institutions."
+    },
+    {
+      "korean": "자동이체",
+      "english": "automatic transfer",
+      "example": "공과금을 자동이체로 설정했다.",
+      "example_en": "I set up automatic transfer for utility bills."
+    },
+    {
+      "korean": "선입금",
+      "english": "advance payment; prepayment",
+      "example": "선입금 할인을 받으려면 미리 돈을 입금해야 한다.",
+      "example_en": "You need to deposit money in advance to get a prepayment discount."
+    },
+    {
+      "korean": "거래 기록",
+      "english": "transaction record",
+      "example": "모든 거래 기록이 은행에 저장된다.",
+      "example_en": "All transaction records are stored at the bank."
+    }
+  ],
+  "주제별 단어 — 육아 (Topic: Parenting)": [
+    {
+      "korean": "영아",
+      "english": "infant",
+      "example": "영아 시기에는 모유 수유가 중요하다.",
+      "example_en": "Breastfeeding is important during infancy."
+    },
+    {
+      "korean": "유아",
+      "english": "toddler, young child",
+      "example": "유아는 자주 떨어지고 우는 것이 자연스럽다.",
+      "example_en": "Toddlers often fall and cry, which is natural."
+    },
+    {
+      "korean": "자녀",
+      "english": "child (formal)",
+      "example": "부모의 책임은 자녀를 교육하는 것이다.",
+      "example_en": "Parents' responsibility is to educate their children."
+    },
+    {
+      "korean": "아이를 재우다",
+      "english": "to put a child to sleep",
+      "example": "밤 8시에 아이를 재우는 것이 일과다.",
+      "example_en": "Putting the child to sleep at 8 PM is our routine."
+    },
+    {
+      "korean": "기저귀",
+      "english": "diaper",
+      "example": "신생아는 하루에 기저귀를 여러 번 갈아야 한다.",
+      "example_en": "Newborns need diaper changes multiple times a day."
+    },
+    {
+      "korean": "젖을 먹다",
+      "english": "to breastfeed (from child's perspective)",
+      "example": "아기가 계속 젖을 먹으려고 한다.",
+      "example_en": "The baby keeps trying to breastfeed."
+    },
+    {
+      "korean": "이유식",
+      "english": "weaning food, baby food",
+      "example": "생후 6개월부터 이유식을 시작할 수 있다.",
+      "example_en": "You can start introducing weaning food after 6 months."
+    },
+    {
+      "korean": "식사 습관",
+      "english": "eating habits",
+      "example": "아이의 식사 습관을 어릴 때부터 잘 들이는 것이 좋다.",
+      "example_en": "It's good to establish healthy eating habits early in children."
+    },
+    {
+      "korean": "편식하다",
+      "english": "to be picky with food",
+      "example": "우리 아이가 채소를 먹지 않고 편식한다.",
+      "example_en": "Our child is picky and won't eat vegetables."
+    },
+    {
+      "korean": "까다로운",
+      "english": "picky, fussy, particular",
+      "example": "까다로운 아이는 자주 칭찬해주면 더 좋아진다.",
+      "example_en": "Picky children improve when praised frequently."
+    },
+    {
+      "korean": "떼를 쓰다",
+      "english": "to throw a tantrum, to fuss",
+      "example": "아이가 갈 곳이 싫다고 떼를 쓰고 있다.",
+      "example_en": "The child is throwing a tantrum because he doesn't want to go."
+    },
+    {
+      "korean": "훈계하다",
+      "english": "to scold, to reprimand",
+      "example": "아이가 잘못했을 때 차분하게 훈계해야 한다.",
+      "example_en": "You should reprimand calmly when a child misbehaves."
+    },
+    {
+      "korean": "버릇이 들다",
+      "english": "to develop a habit",
+      "example": "좋은 습관이 버릇이 들면 평생 간다.",
+      "example_en": "Good habits that become ingrained last a lifetime."
+    },
+    {
+      "korean": "버릇을 고치다",
+      "english": "to break a habit, to correct a habit",
+      "example": "손가락을 빨리는 나쁜 버릇을 고쳐야 한다.",
+      "example_en": "We need to break the bad habit of thumb sucking."
+    },
+    {
+      "korean": "이지선다",
+      "english": "a choice between two things",
+      "example": "아이에게 이지선다를 제시하면 스스로 선택하는 법을 배운다.",
+      "example_en": "When you give a child two choices, they learn to make decisions."
+    },
+    {
+      "korean": "신체발달",
+      "english": "physical development",
+      "example": "각 단계별 신체발달이 정상인지 확인해야 한다.",
+      "example_en": "You should check if physical development is normal at each stage."
+    },
+    {
+      "korean": "언어발달",
+      "english": "language development",
+      "example": "2살 아이의 언어발달은 개인차가 크다.",
+      "example_en": "Language development in 2-year-olds varies greatly between individuals."
+    },
+    {
+      "korean": "사회성 발달",
+      "english": "social development",
+      "example": "또래와 놀면서 사회성 발달이 자연스럽게 이루어진다.",
+      "example_en": "Social development happens naturally through play with peers."
+    },
+    {
+      "korean": "인지발달",
+      "english": "cognitive development",
+      "example": "인지발달에 맞춘 장난감을 선택해야 한다.",
+      "example_en": "Toys should be chosen according to the child's cognitive development."
+    },
+    {
+      "korean": "감정 조절",
+      "english": "emotional regulation, managing emotions",
+      "example": "어린 아이의 감정 조절 능력은 아직 발달 중이다.",
+      "example_en": "Young children's emotional regulation ability is still developing."
+    },
+    {
+      "korean": "어린이집",
+      "english": "daycare, childcare center",
+      "example": "워킹맘이라면 어린이집에 보내는 것이 일반적이다.",
+      "example_en": "It's common for working mothers to send children to daycare."
+    },
+    {
+      "korean": "유치원",
+      "english": "kindergarten, preschool",
+      "example": "우리 딸이 이번 학기부터 유치원에 간다.",
+      "example_en": "Our daughter is going to kindergarten starting this semester."
+    },
+    {
+      "korean": "취학아동",
+      "english": "school-age child",
+      "example": "취학아동부터는 학교생활 적응이 중요하다.",
+      "example_en": "School adjustment becomes important for school-age children."
+    },
+    {
+      "korean": "학용품",
+      "english": "school supplies",
+      "example": "새 학기를 맞아 학용품을 새로 사줬다.",
+      "example_en": "I bought new school supplies for the new semester."
+    },
+    {
+      "korean": "숙제",
+      "english": "homework",
+      "example": "매일 저녁 아이의 숙제를 봐주어야 한다.",
+      "example_en": "I have to check my child's homework every evening."
+    },
+    {
+      "korean": "복습",
+      "english": "review, to review",
+      "example": "학교에서 배운 것을 집에서 복습하는 것이 중요하다.",
+      "example_en": "It's important to review at home what was learned at school."
+    },
+    {
+      "korean": "예습",
+      "english": "preview, to preview lessons",
+      "example": "미리 예습을 하면 수업을 더 잘 이해할 수 있다.",
+      "example_en": "Previewing lessons in advance helps understand them better."
+    },
+    {
+      "korean": "학습능력",
+      "english": "learning ability",
+      "example": "모든 아이의 학습능력은 다르다.",
+      "example_en": "Every child has different learning abilities."
+    },
+    {
+      "korean": "주의력결핍",
+      "english": "attention deficit",
+      "example": "아이가 주의력결핍이 있으면 전문가의 도움이 필요하다.",
+      "example_en": "If a child has attention deficit, professional help is needed."
+    },
+    {
+      "korean": "또래",
+      "english": "same age, peers",
+      "example": "또래 아이들과 어울리지 못하는 것을 걱정했다.",
+      "example_en": "We were worried that he couldn't get along with children his age."
+    },
+    {
+      "korean": "친구 관계",
+      "english": "friendship, peer relationships",
+      "example": "학교 생활에서 친구 관계가 가장 중요하다.",
+      "example_en": "Friendships are most important in school life."
+    },
+    {
+      "korean": "왕따",
+      "english": "bullying victim, being ostracized",
+      "example": "학교에서 왕따를 당하는 아이가 있으면 큰일이다.",
+      "example_en": "It's serious if a child is being bullied at school."
+    },
+    {
+      "korean": "따돌림",
+      "english": "bullying, exclusion",
+      "example": "따돌림은 심각한 학교 문제이다.",
+      "example_en": "Bullying is a serious school problem."
+    },
+    {
+      "korean": "거짓말을 하다",
+      "english": "to lie",
+      "example": "아이가 거짓말을 하면 엄격하게 다루면 안 된다.",
+      "example_en": "If a child lies, you shouldn't be overly harsh."
+    },
+    {
+      "korean": "도둑질",
+      "english": "stealing, theft",
+      "example": "아이의 도둑질은 호기심에서 비롯되기도 한다.",
+      "example_en": "A child's stealing can sometimes stem from curiosity."
+    },
+    {
+      "korean": "공감 능력",
+      "english": "empathy, ability to empathize",
+      "example": "아이의 공감 능력을 키우는 것이 인성교육의 기초다.",
+      "example_en": "Developing a child's empathy is the foundation of character education."
+    },
+    {
+      "korean": "독립심",
+      "english": "independence, self-reliance",
+      "example": "점차적으로 아이의 독립심을 길러줘야 한다.",
+      "example_en": "You should gradually foster your child's independence."
+    },
+    {
+      "korean": "책임감",
+      "english": "sense of responsibility",
+      "example": "아이에게 책임감을 가르치는 것이 중요하다.",
+      "example_en": "Teaching children a sense of responsibility is important."
+    },
+    {
+      "korean": "칭찬",
+      "english": "praise, compliment",
+      "example": "자주 칭찬해주는 것이 아이의 자존감을 높인다.",
+      "example_en": "Frequent praise boosts a child's self-esteem."
+    }
+  ],
+  "주제별 단어 — 반려동물 (Topic: Pets & Animals)": [
+    {
+      "korean": "포식자",
+      "english": "predator",
+      "example": "호랑이는 생태계의 최상위 포식자입니다.",
+      "example_en": "Tigers are the apex predators in the ecosystem."
+    },
+    {
+      "korean": "피식자",
+      "english": "prey",
+      "example": "사슴은 늑대의 주요 피식자 중 하나입니다.",
+      "example_en": "Deer are one of the main prey animals for wolves."
+    },
+    {
+      "korean": "무리",
+      "english": "herd, pack, flock",
+      "example": "코끼리는 나이 많은 암컷이 이끄는 무리를 이룹니다.",
+      "example_en": "Elephants form herds led by an older female."
+    },
+    {
+      "korean": "번식기",
+      "english": "breeding season",
+      "example": "봄은 대부분의 조류에게 번식기입니다.",
+      "example_en": "Spring is the breeding season for most birds."
+    },
+    {
+      "korean": "동면",
+      "english": "hibernation",
+      "example": "곰은 겨울 내내 동면합니다.",
+      "example_en": "Bears hibernate throughout the winter."
+    },
+    {
+      "korean": "사춘기",
+      "english": "puberty, sexual maturity",
+      "example": "이 종의 동물들은 2년에서 3년 사이에 사춘기에 도달합니다.",
+      "example_en": "Animals of this species reach puberty between 2 and 3 years old."
+    },
+    {
+      "korean": "털갈이",
+      "english": "shedding, molting",
+      "example": "개는 봄과 가을에 심하게 털갈이를 합니다.",
+      "example_en": "Dogs shed heavily in spring and autumn."
+    },
+    {
+      "korean": "먹이사슬",
+      "english": "food chain",
+      "example": "먹이사슬은 생태계의 기본 구조입니다.",
+      "example_en": "The food chain is the basic structure of an ecosystem."
+    },
+    {
+      "korean": "천연기념물",
+      "english": "natural monument, protected species",
+      "example": "그 동물은 정부의 천연기념물로 지정되어 있습니다.",
+      "example_en": "That animal is designated as a protected species by the government."
+    },
+    {
+      "korean": "훈련",
+      "english": "training",
+      "example": "개의 기본 훈련은 어린 나이에 시작하는 것이 좋습니다.",
+      "example_en": "It is best to start basic dog training at a young age."
+    },
+    {
+      "korean": "예방접종",
+      "english": "vaccination",
+      "example": "개는 매년 광견병 예방접종을 받아야 합니다.",
+      "example_en": "Dogs should receive rabies vaccination every year."
+    },
+    {
+      "korean": "감염병",
+      "english": "infectious disease",
+      "example": "동물 감염병을 예방하기 위해 위생 관리가 매우 중요합니다.",
+      "example_en": "Hygiene management is very important for preventing animal infectious diseases."
+    },
+    {
+      "korean": "습성",
+      "english": "habit, instinct, nature",
+      "example": "고양이의 야행성 습성은 타고난 본능입니다.",
+      "example_en": "The nocturnal habits of cats are an innate instinct."
+    },
+    {
+      "korean": "생존",
+      "english": "survival",
+      "example": "생존을 위해 동물들은 환경에 적응해야 합니다.",
+      "example_en": "Animals must adapt to their environment for survival."
+    },
+    {
+      "korean": "적응",
+      "english": "adaptation",
+      "example": "낙타의 혹은 물 저장을 위한 완벽한 적응입니다.",
+      "example_en": "The camel's hump is a perfect adaptation for water storage."
+    },
+    {
+      "korean": "포식",
+      "english": "predation, hunting",
+      "example": "사자의 포식 기술은 매우 효율적이고 조직적입니다.",
+      "example_en": "Lions' hunting techniques are very efficient and organized."
+    },
+    {
+      "korean": "울음소리",
+      "english": "call, vocalization, cry",
+      "example": "고래의 울음소리는 수백 킬로미터 떨어진 곳에서도 들릴 수 있습니다.",
+      "example_en": "Whale calls can be heard hundreds of kilometers away."
+    },
+    {
+      "korean": "이주",
+      "english": "migration",
+      "example": "많은 철새들은 계절에 따라 이주합니다.",
+      "example_en": "Many migratory birds migrate according to the seasons."
+    },
+    {
+      "korean": "짝짓기",
+      "english": "mating, copulation",
+      "example": "짝짓기 시기에 동물들의 행동과 신체가 크게 변합니다.",
+      "example_en": "Animals' behavior and bodies change greatly during mating season."
+    },
+    {
+      "korean": "보존",
+      "english": "conservation, preservation",
+      "example": "멸종 위기 종의 보존은 국제적인 노력이 필요합니다.",
+      "example_en": "Conservation of endangered species requires international effort."
+    },
+    {
+      "korean": "개체군",
+      "english": "population",
+      "example": "이 지역의 사슴 개체군이 빠르게 증가하고 있습니다.",
+      "example_en": "The deer population in this area is growing rapidly."
+    },
+    {
+      "korean": "잡식성",
+      "english": "omnivorous",
+      "example": "곰은 잡식성이므로 고기와 식물을 모두 먹습니다.",
+      "example_en": "Bears are omnivorous, so they eat both meat and plants."
+    },
+    {
+      "korean": "육식성",
+      "english": "carnivorous",
+      "example": "호랑이는 순수 육식성 동물로 고기만 먹습니다.",
+      "example_en": "Tigers are purely carnivorous and eat only meat."
+    },
+    {
+      "korean": "초식성",
+      "english": "herbivorous",
+      "example": "코끼리는 초식성이므로 식물과 나무 껍질을 먹습니다.",
+      "example_en": "Elephants are herbivorous and eat plants and tree bark."
+    },
+    {
+      "korean": "멸종위기종",
+      "english": "endangered species",
+      "example": "아마존의 많은 동물들이 현재 멸종위기종입니다.",
+      "example_en": "Many animals in the Amazon are currently endangered species."
+    },
+    {
+      "korean": "새끼",
+      "english": "offspring, young animal, cub",
+      "example": "사자의 새끼들은 어머니와 함께 사냥 기술을 배웁니다.",
+      "example_en": "Lion cubs learn hunting skills from their mother."
+    },
+    {
+      "korean": "암컷",
+      "english": "female",
+      "example": "암컷 사자는 수컷보다 체형이 더 작고 날씬합니다.",
+      "example_en": "Female lions are smaller and more slender than males."
+    },
+    {
+      "korean": "수컷",
+      "english": "male",
+      "example": "수컷 공작은 짝짓기 시기에 아름다운 깃을 펼칩니다.",
+      "example_en": "Male peacocks display their beautiful plumage during mating season."
+    },
+    {
+      "korean": "발정기",
+      "english": "estrus, heat",
+      "example": "암컷 개가 발정기에 들어가면 특정한 냄새를 풍깁니다.",
+      "example_en": "When a female dog is in heat, she emits a specific scent."
+    },
+    {
+      "korean": "거세",
+      "english": "neutering, castration",
+      "example": "거세는 수컷 동물의 번식을 막는 수술입니다.",
+      "example_en": "Neutering is a surgical procedure that prevents male animals from breeding."
+    },
+    {
+      "korean": "난소 제거",
+      "english": "spaying, ovariohysterectomy",
+      "example": "난소 제거는 암컷 동물을 중성화시키는 수술입니다.",
+      "example_en": "Spaying is a surgical procedure that sterilizes female animals."
+    },
+    {
+      "korean": "건강검진",
+      "english": "health check-up, veterinary examination",
+      "example": "개는 최소한 1년에 한 번 수의사의 건강검진을 받아야 합니다.",
+      "example_en": "Dogs should have a veterinary health check-up at least once a year."
+    },
+    {
+      "korean": "기생충",
+      "english": "parasite",
+      "example": "개는 정기적으로 기생충 검사와 구충을 해야 합니다.",
+      "example_en": "Dogs should have regular parasite checks and deworming."
+    },
+    {
+      "korean": "사육",
+      "english": "raising, breeding, farming",
+      "example": "그 농장은 지속 가능한 방식으로 가축을 사육합니다.",
+      "example_en": "That farm raises livestock in a sustainable manner."
+    },
+    {
+      "korean": "야생동물",
+      "english": "wildlife",
+      "example": "야생동물 보호소는 부상당한 동물들을 치료하고 재활시킵니다.",
+      "example_en": "Wildlife rehabilitation centers treat and rehabilitate injured animals."
+    },
+    {
+      "korean": "생태계",
+      "english": "ecosystem",
+      "example": "생태계 내의 모든 동물들은 먹이사슬을 통해 서로 연결되어 있습니다.",
+      "example_en": "All animals in an ecosystem are connected through the food chain."
+    },
+    {
+      "korean": "야행성",
+      "english": "nocturnal",
+      "example": "야행성 동물들은 밤에 활동하고 낮에는 쉽니다.",
+      "example_en": "Nocturnal animals are active at night and rest during the day."
+    },
+    {
+      "korean": "주행성",
+      "english": "diurnal",
+      "example": "주행성 새들은 아침에 가장 활발하게 지저귀고 먹이를 찾습니다.",
+      "example_en": "Diurnal birds are most active in the morning, singing and foraging."
+    }
+  ],
+  "주제별 단어 — 화장품 (Topic: Cosmetics & Beauty)": [
+    {
+      "korean": "에센스",
+      "english": "essence",
+      "example": "이 에센스는 수분감을 높여주고 피부 톤을 맑게 정돈해줍니다.",
+      "example_en": "This essence improves hydration and evens out the skin tone."
+    },
+    {
+      "korean": "세럼",
+      "english": "serum",
+      "example": "고농축 비타민 세럼을 아침저녁으로 사용하면 주름이 개선돼요.",
+      "example_en": "Using concentrated vitamin serum morning and night improves wrinkles."
+    },
+    {
+      "korean": "앰플",
+      "english": "ampoule",
+      "example": "집중 관리가 필요할 때는 앰플을 매일 사용하는 게 효과적입니다.",
+      "example_en": "When intensive care is needed, using ampoules daily is effective."
+    },
+    {
+      "korean": "클렌징밤",
+      "english": "cleansing balm",
+      "example": "클렌징밤은 진하고 오염된 메이크업을 순하게 녹여줍니다.",
+      "example_en": "Cleansing balm gently dissolves heavy makeup and dirt."
+    },
+    {
+      "korean": "토너",
+      "english": "toner",
+      "example": "토너로 각질을 제거한 후 에센스를 사용하면 흡수력이 좋아요.",
+      "example_en": "Toner removes dead skin, improving absorption of essence afterward."
+    },
+    {
+      "korean": "아이크림",
+      "english": "eye cream",
+      "example": "눈 주변의 미세한 주름을 개선하려면 아이크림이 필수입니다.",
+      "example_en": "Eye cream is essential for improving fine lines around the eyes."
+    },
+    {
+      "korean": "마스크팩",
+      "english": "face mask",
+      "example": "주 2-3회 마스크팩을 하면 피부가 촉촉해지고 탄력이 생겨요.",
+      "example_en": "Doing face masks 2-3 times a week makes skin hydrated and elastic."
+    },
+    {
+      "korean": "에센스마스크",
+      "english": "essence sheet mask",
+      "example": "에센스마스크는 15분 정도만 해도 피부에 영양이 풍부하게 들어가요.",
+      "example_en": "Essence sheet masks deliver nutrients to skin in just 15 minutes."
+    },
+    {
+      "korean": "필링",
+      "english": "peeling",
+      "example": "화학 필링으로 각질을 효과적으로 제거할 수 있고 피부 톤도 밝혀집니다.",
+      "example_en": "Chemical peeling effectively removes dead skin and brightens skin tone."
+    },
+    {
+      "korean": "각질제거",
+      "english": "exfoliation",
+      "example": "민감한 피부는 주 1회 정도의 각질제거가 적당합니다.",
+      "example_en": "Sensitive skin should exfoliate about once a week."
+    },
+    {
+      "korean": "클렌징",
+      "english": "cleansing",
+      "example": "저녁에 클렌징을 꼼꼼히 하지 않으면 피부 트러블이 생깁니다.",
+      "example_en": "Thorough evening cleansing prevents skin trouble."
+    },
+    {
+      "korean": "미백",
+      "english": "brightening/whitening",
+      "example": "미백 성분이 함유된 제품을 지속적으로 사용하면 안색이 한 톤 밝아져요.",
+      "example_en": "Using brightening products consistently lightens skin tone by one shade."
+    },
+    {
+      "korean": "안티에이징",
+      "english": "anti-aging",
+      "example": "30대부터 안티에이징 스킨케어를 시작하면 피부 노화를 예방할 수 있습니다.",
+      "example_en": "Starting anti-aging skincare in your 30s prevents skin aging."
+    },
+    {
+      "korean": "주름개선",
+      "english": "wrinkle improvement",
+      "example": "레티놀은 주름개선에 가장 효과적인 성분 중 하나입니다.",
+      "example_en": "Retinol is one of the most effective ingredients for wrinkle improvement."
+    },
+    {
+      "korean": "보습",
+      "english": "hydration/moisturizing",
+      "example": "겨울철에는 충분한 보습 없이는 피부가 건조해지기 쉬워요.",
+      "example_en": "Without adequate hydration in winter, skin dries out easily."
+    },
+    {
+      "korean": "진정",
+      "english": "soothing/calming",
+      "example": "진정 성분이 많은 에센스는 민감해진 피부를 차분하게 해줍니다.",
+      "example_en": "Soothing essence calms irritated and sensitive skin."
+    },
+    {
+      "korean": "히알루론산",
+      "english": "hyaluronic acid",
+      "example": "히알루론산은 피부의 수분을 가두어 탄력을 유지시켜줍니다.",
+      "example_en": "Hyaluronic acid locks moisture in skin and maintains elasticity."
+    },
+    {
+      "korean": "콜라겐",
+      "english": "collagen",
+      "example": "콜라겐 성분이 풍부한 마스크를 꾸준히 사용하면 피부가 통통해져요.",
+      "example_en": "Using collagen-rich masks regularly plumps the skin."
+    },
+    {
+      "korean": "레티놀",
+      "english": "retinol",
+      "example": "레티놀은 주름 개선에 효과적이지만 처음 사용할 때는 자극이 있을 수 있습니다.",
+      "example_en": "Retinol is effective for wrinkles but can be irritating when first used."
+    },
+    {
+      "korean": "나이아신아마이드",
+      "english": "niacinamide",
+      "example": "나이아신아마이드는 모공을 축소시키고 피부 진정 효과가 뛰어나요.",
+      "example_en": "Niacinamide minimizes pores and has excellent soothing effects."
+    },
+    {
+      "korean": "펩타이드",
+      "english": "peptide",
+      "example": "펩타이드 성분은 피부 탄력을 높여주고 주름을 개선합니다.",
+      "example_en": "Peptides enhance skin elasticity and improve wrinkles."
+    },
+    {
+      "korean": "글리콜산",
+      "english": "glycolic acid",
+      "example": "글리콜산은 표피의 각질을 효과적으로 제거하는 성분입니다.",
+      "example_en": "Glycolic acid effectively removes dead skin from the epidermis."
+    },
+    {
+      "korean": "살리실산",
+      "english": "salicylic acid",
+      "example": "살리실산은 좁쌀 같은 뾰루지와 여드름 치료에 효과적입니다.",
+      "example_en": "Salicylic acid is effective for treating milia and acne."
+    },
+    {
+      "korean": "세라마이드",
+      "english": "ceramide",
+      "example": "세라마이드가 함유된 제품은 피부 장벽을 강화하고 수분 손실을 막아줍니다.",
+      "example_en": "Ceramide products strengthen skin barrier and prevent moisture loss."
+    },
+    {
+      "korean": "케라틴",
+      "english": "keratin",
+      "example": "손상된 머리카락을 복구하려면 케라틴 팩을 정기적으로 해야 합니다.",
+      "example_en": "Regular keratin treatments repair damaged hair."
+    },
+    {
+      "korean": "녹차추출물",
+      "english": "green tea extract",
+      "example": "이 에센스에 함유된 녹차추출물은 항산화 효과가 뛰어나요.",
+      "example_en": "The green tea extract in this essence has excellent antioxidant effects."
+    },
+    {
+      "korean": "알로에베라",
+      "english": "aloe vera",
+      "example": "알로에베라 젤은 자극받은 피부를 진정시키고 수분을 공급합니다.",
+      "example_en": "Aloe vera gel soothes irritated skin and provides hydration."
+    },
+    {
+      "korean": "레이저시술",
+      "english": "laser treatment",
+      "example": "레이저시술로 기미와 주근깨를 제거할 수 있고, 피부 재생도 촉진합니다.",
+      "example_en": "Laser treatment removes age spots and freckles while promoting skin renewal."
+    },
+    {
+      "korean": "초음파",
+      "english": "ultrasound",
+      "example": "초음파 기기를 사용하면 에센스의 피부 흡수율이 훨씬 높아집니다.",
+      "example_en": "Ultrasound devices significantly increase essence absorption into the skin."
+    },
+    {
+      "korean": "보톡스",
+      "english": "botox",
+      "example": "병원에서 보톡스 시술을 받으면 이마의 표정 주름이 부드러워져요.",
+      "example_en": "Botox at a clinic softens expression lines on the forehead."
+    },
+    {
+      "korean": "필러",
+      "english": "filler",
+      "example": "필러를 받으면 꺼진 볼에 볼륨감이 생기고 주름도 개선됩니다.",
+      "example_en": "Filler adds volume to hollow cheeks and improves wrinkles."
+    },
+    {
+      "korean": "스킨부스터",
+      "english": "skin booster",
+      "example": "스킨부스터는 피부에 직접 영양을 주입하는 시술이며 효과가 오래 지속됩니다.",
+      "example_en": "Skin booster injections deliver nutrients directly and have long-lasting effects."
+    },
+    {
+      "korean": "에스테틱",
+      "english": "beauty salon/aesthetics",
+      "example": "유명한 에스테틱에서 전문가의 피부 관리를 받았어요.",
+      "example_en": "I received professional skincare at a renowned beauty salon."
+    },
+    {
+      "korean": "매직스트레이트",
+      "english": "magic straight (hair perm)",
+      "example": "매직스트레이트 시술로 곱슬거리는 머리가 반질반질해졌어요.",
+      "example_en": "The magic straight treatment made my frizzy hair smooth and shiny."
+    },
+    {
+      "korean": "기미",
+      "english": "age spots/melasma",
+      "example": "기미는 자외선 노출과 호르몬 변화로 생기는데, 미백 시술로 개선될 수 있습니다.",
+      "example_en": "Age spots develop from sun exposure and hormonal changes but can improve with brightening treatments."
+    },
+    {
+      "korean": "주근깨",
+      "english": "freckles",
+      "example": "유전적으로 주근깨가 있는 사람은 자외선 차단을 더 철저히 해야 합니다.",
+      "example_en": "People with genetic freckles need stricter sun protection."
+    },
+    {
+      "korean": "여드름",
+      "english": "acne",
+      "example": "여드름을 빨리 없애려면 올바른 스킨케어와 생활 습관이 중요합니다.",
+      "example_en": "Proper skincare and lifestyle habits are important for treating acne quickly."
+    },
+    {
+      "korean": "여드름자국",
+      "english": "acne scars",
+      "example": "여드름자국은 깊이에 따라 다양한 시술 방법으로 치료합니다.",
+      "example_en": "Acne scars are treated with various procedures depending on their depth."
+    },
+    {
+      "korean": "피부장벽",
+      "english": "skin barrier",
+      "example": "피부장벽이 손상되면 민감해지고 수분이 쉽게 증발합니다.",
+      "example_en": "When the skin barrier is damaged, skin becomes sensitive and moisture evaporates easily."
+    },
+    {
+      "korean": "톤업",
+      "english": "tone correction/brightening",
+      "example": "톤업 크림을 사용하면 피부가 한 톤 밝아 보이고 광채가 생겨요.",
+      "example_en": "Tone correction cream makes skin appear one shade brighter with a glow."
+    }
+  ],
+  "주제별 단어 — 부동산 (Topic: Real Estate)": [
+    {
+      "korean": "부동산",
+      "english": "real estate",
+      "example": "이 회사는 부동산 투자로 큰 수익을 올리고 있습니다.",
+      "example_en": "This company is making significant profit through real estate investment."
+    },
+    {
+      "korean": "전세금",
+      "english": "jeonse deposit",
+      "example": "전세금으로 2억 원을 빌려주는 조건의 계약을 찾고 있습니다.",
+      "example_en": "I'm looking for a contract where someone lends 200 million won as a jeonse deposit."
+    },
+    {
+      "korean": "관리비",
+      "english": "management/maintenance fee",
+      "example": "관리비에는 난방비, 수도비, 청소비 등이 포함됩니다.",
+      "example_en": "The management fee includes heating, water, and cleaning costs."
+    },
+    {
+      "korean": "담보대출",
+      "english": "secured loan; mortgage",
+      "example": "담보대출의 이자율은 신용대출보다 훨씬 낮습니다.",
+      "example_en": "The interest rate on a secured loan is much lower than on an unsecured loan."
+    },
+    {
+      "korean": "상환",
+      "english": "repayment",
+      "example": "대출금 상환 일정을 미리 확인하는 것이 중요합니다.",
+      "example_en": "It's important to check the loan repayment schedule in advance."
+    },
+    {
+      "korean": "계약서",
+      "english": "contract",
+      "example": "부동산 거래 시에는 반드시 법적 계약서를 작성해야 합니다.",
+      "example_en": "When conducting a real estate transaction, a proper contract must always be prepared."
+    },
+    {
+      "korean": "중개수수료",
+      "english": "brokerage fee",
+      "example": "중개수수료는 매수자와 매도자가 각각 0.5%씩 부담하는 것이 일반적입니다.",
+      "example_en": "It's common for the buyer and seller to each pay 0.5% of the transaction price as brokerage fee."
+    },
+    {
+      "korean": "공인중개인",
+      "english": "licensed real estate agent",
+      "example": "신뢰할 수 있는 공인중개인을 찾아 거래를 진행하는 것이 좋습니다.",
+      "example_en": "It's wise to find a trustworthy licensed real estate agent to conduct the transaction."
+    },
+    {
+      "korean": "감정가",
+      "english": "appraised value",
+      "example": "은행 대출 심사 시 감정가가 실제 거래가보다 낮으면 문제가 될 수 있습니다.",
+      "example_en": "If the appraised value is lower than the actual transaction price during bank loan review, it can be problematic."
+    },
+    {
+      "korean": "감정평가사",
+      "english": "appraiser",
+      "example": "부동산 거래 전에 공인된 감정평가사의 평가를 받아야 합니다.",
+      "example_en": "Before a real estate transaction, you must get an evaluation from a certified appraiser."
+    },
+    {
+      "korean": "매도",
+      "english": "selling",
+      "example": "집값이 오를 때까지 기다렸다가 나중에 매도하려고 합니다.",
+      "example_en": "I'm planning to wait for the property value to increase before selling it later."
+    },
+    {
+      "korean": "매수",
+      "english": "buying; purchase",
+      "example": "좋은 조건의 아파트를 매수할 기회가 있으면 놓치지 말아야 합니다.",
+      "example_en": "If there's an opportunity to purchase an apartment at good terms, you shouldn't miss it."
+    },
+    {
+      "korean": "거래",
+      "english": "transaction; deal",
+      "example": "부동산 거래는 매우 신중하게 진행해야 하는 중요한 일입니다.",
+      "example_en": "A real estate transaction is an important matter that must be handled very carefully."
+    },
+    {
+      "korean": "등기부등본",
+      "english": "property registry certificate",
+      "example": "매매 계약 전에 등기부등본을 확인해서 소유권과 저당권을 확인합니다.",
+      "example_en": "Before signing a purchase contract, check the property registry to verify ownership and liens."
+    },
+    {
+      "korean": "확정일자",
+      "english": "confirmed date stamp",
+      "example": "전세 계약 후 확정일자를 받으면 대항력이 생깁니다.",
+      "example_en": "After signing a jeonse contract and receiving a confirmed date stamp, you gain priority rights."
+    },
+    {
+      "korean": "건면적",
+      "english": "gross floor area",
+      "example": "이 건물의 건면적은 500평입니다.",
+      "example_en": "The gross floor area of this building is 500 pyeong (approximately 1,650 square meters)."
+    },
+    {
+      "korean": "전용면적",
+      "english": "usable floor area; living space",
+      "example": "전용면적이 80평인 아파트를 찾고 있습니다.",
+      "example_en": "I'm looking for an apartment with a usable floor area of 80 pyeong."
+    },
+    {
+      "korean": "대지",
+      "english": "land; plot",
+      "example": "이 주택의 대지 면적은 150평입니다.",
+      "example_en": "The land area of this house is 150 pyeong."
+    },
+    {
+      "korean": "개축",
+      "english": "reconstruction; rebuilding of a building",
+      "example": "낡은 건물을 개축하기 위해서는 많은 인허가 절차가 필요합니다.",
+      "example_en": "Many permits and procedures are required to reconstruct an old building."
+    },
+    {
+      "korean": "연립주택",
+      "english": "townhouse; row house",
+      "example": "연립주택은 아파트보다 저렴하고 단독주택보다는 관리비가 싼 편입니다.",
+      "example_en": "Townhouses are cheaper than apartments and have lower maintenance fees than detached houses."
+    },
+    {
+      "korean": "아파트",
+      "english": "apartment",
+      "example": "한국에서는 아파트가 가장 인기 있는 주거 형태입니다.",
+      "example_en": "In Korea, apartments are the most popular form of housing."
+    },
+    {
+      "korean": "상가",
+      "english": "commercial space; shop",
+      "example": "1층 상가는 높은 임차료로 인해 임차인이 자주 바뀝니다.",
+      "example_en": "Due to high rents, commercial spaces on the first floor have tenants that change frequently."
+    },
+    {
+      "korean": "재산세",
+      "english": "property tax",
+      "example": "재산세는 부동산 소유자가 매년 내야 하는 의무입니다.",
+      "example_en": "Property tax is an annual obligation that property owners must pay."
+    },
+    {
+      "korean": "등록세",
+      "english": "registration tax",
+      "example": "부동산 거래를 완료하려면 등록세를 내고 등기를 해야 합니다.",
+      "example_en": "To complete a real estate transaction, you must pay the registration tax and register the property."
+    },
+    {
+      "korean": "용도지역",
+      "english": "zoning district; land use zone",
+      "example": "주택 건설을 원한다면 먼저 그 토지의 용도지역을 확인해야 합니다.",
+      "example_en": "If you want to build a house, you must first check the zoning district of the land."
+    }
+  ],
+  "주제별 단어 — 해양생물 (Topic: Marine Biology)": [
+    {
+      "korean": "산호초",
+      "english": "coral reef",
+      "example": "대보초는 호주의 가장 유명한 산호초 지역이다.",
+      "example_en": "The Great Barrier Reef is Australia's most famous coral reef."
+    },
+    {
+      "korean": "산호",
+      "english": "coral",
+      "example": "이 지역의 산호는 지구 온난화로 인해 백화 현상을 겪고 있다.",
+      "example_en": "The corals in this region are experiencing bleaching due to global warming."
+    },
+    {
+      "korean": "갑각류",
+      "english": "crustaceans",
+      "example": "게와 새우는 갑각류에 속하는 대표적인 해양생물이다.",
+      "example_en": "Crabs and shrimp are typical marine crustaceans."
+    },
+    {
+      "korean": "연체동물",
+      "english": "mollusks",
+      "example": "문어와 오징어는 지능이 높은 연체동물이다.",
+      "example_en": "Octopuses and squids are highly intelligent mollusks."
+    },
+    {
+      "korean": "극피동물",
+      "english": "echinoderms",
+      "example": "불가사리와 성게는 극피동물 계통의 대표 종이다.",
+      "example_en": "Starfish and sea urchins are representative echinoderms."
+    },
+    {
+      "korean": "문어",
+      "english": "octopus",
+      "example": "문어는 뛰어난 위장 능력으로 알려져 있다.",
+      "example_en": "Octopuses are known for their exceptional camouflage abilities."
+    },
+    {
+      "korean": "플랑크톤",
+      "english": "plankton",
+      "example": "플랑크톤은 해양 생태계의 기초를 이루는 생물이다.",
+      "example_en": "Plankton form the foundation of marine ecosystems."
+    },
+    {
+      "korean": "식물플랑크톤",
+      "english": "phytoplankton",
+      "example": "식물플랑크톤은 해양 산소 생산의 절반 이상을 담당한다.",
+      "example_en": "Phytoplankton account for more than half of marine oxygen production."
+    },
+    {
+      "korean": "동물플랑크톤",
+      "english": "zooplankton",
+      "example": "고래는 동물플랑크톤을 주식으로 섭취하는 거대한 해양동물이다.",
+      "example_en": "Whales are giant marine animals that feed primarily on zooplankton."
+    },
+    {
+      "korean": "심해",
+      "english": "deep sea",
+      "example": "심해에는 아직도 미지의 생물 종들이 많이 남아 있다.",
+      "example_en": "Many unknown species still remain in the deep sea."
+    },
+    {
+      "korean": "해저",
+      "english": "sea floor",
+      "example": "해저 탐사를 통해 새로운 열수공기 시스템이 발견되었다.",
+      "example_en": "New hydrothermal vent systems were discovered through sea floor exploration."
+    },
+    {
+      "korean": "해구",
+      "english": "trench",
+      "example": "마리아나 해구는 지구에서 가장 깊은 곳이다.",
+      "example_en": "The Mariana Trench is the deepest place on Earth."
+    },
+    {
+      "korean": "조류",
+      "english": "tidal current",
+      "example": "강한 조류는 해양 교통에 영향을 미친다.",
+      "example_en": "Strong tidal currents affect marine navigation."
+    },
+    {
+      "korean": "조석",
+      "english": "tide",
+      "example": "달의 중력은 지구의 조석 현상을 일으킨다.",
+      "example_en": "The moon's gravity causes Earth's tidal phenomena."
+    },
+    {
+      "korean": "밀물",
+      "english": "flood tide",
+      "example": "밀물은 새로운 해양생물들을 해안으로 가져온다.",
+      "example_en": "The flood tide brings new marine organisms to the shore."
+    },
+    {
+      "korean": "썰물",
+      "english": "ebb tide",
+      "example": "썰물 때는 해안의 조간대가 드러난다.",
+      "example_en": "The intertidal zone is exposed during ebb tide."
+    },
+    {
+      "korean": "해파리",
+      "english": "jellyfish",
+      "example": "해파리는 95퍼센트 이상이 물로 이루어진 생명체이다.",
+      "example_en": "Jellyfish are organisms composed of more than 95 percent water."
+    },
+    {
+      "korean": "말미잘",
+      "english": "sea anemone",
+      "example": "흰동가리는 말미잘과 공생 관계를 유지한다.",
+      "example_en": "Clownfish maintain a symbiotic relationship with sea anemones."
+    },
+    {
+      "korean": "불가사리",
+      "english": "starfish",
+      "example": "불가사리는 팔을 잃어도 재생할 수 있다.",
+      "example_en": "Starfish can regenerate their arms even if lost."
+    },
+    {
+      "korean": "성게",
+      "english": "sea urchin",
+      "example": "성게의 가시는 포식자로부터의 방어 무기이다.",
+      "example_en": "Sea urchin spines are defensive weapons against predators."
+    },
+    {
+      "korean": "해삼",
+      "english": "sea cucumber",
+      "example": "해삼은 내장을 내보내 포식자를 혼동시킨다.",
+      "example_en": "Sea cucumbers expel their internal organs to confuse predators."
+    },
+    {
+      "korean": "돌고래",
+      "english": "dolphin",
+      "example": "돌고래는 음파 탐지를 이용하여 먹이를 찾는다.",
+      "example_en": "Dolphins use echolocation to find food."
+    },
+    {
+      "korean": "고래",
+      "english": "whale",
+      "example": "흰수염고래는 남극해에서 대량의 플랑크톤을 섭취한다.",
+      "example_en": "Baleen whales consume massive amounts of plankton in Antarctic waters."
+    },
+    {
+      "korean": "해거북",
+      "english": "sea turtle",
+      "example": "해거북은 태어난 해변으로 돌아와 산란한다.",
+      "example_en": "Sea turtles return to their birth beaches to lay eggs."
+    },
+    {
+      "korean": "공생",
+      "english": "symbiosis",
+      "example": "산호와 동물플랑크톤의 관계는 공생의 좋은 예이다.",
+      "example_en": "The relationship between corals and zooplankton is a good example of symbiosis."
+    },
+    {
+      "korean": "해양오염",
+      "english": "marine pollution",
+      "example": "플라스틱 해양오염은 해양생물에게 심각한 위협이다.",
+      "example_en": "Plastic marine pollution poses a serious threat to marine life."
+    },
+    {
+      "korean": "기름 유출",
+      "english": "oil spill",
+      "example": "기름 유출 사건은 해양 생태계에 치명적인 손상을 입힌다.",
+      "example_en": "Oil spill incidents cause fatal damage to marine ecosystems."
+    },
+    {
+      "korean": "멸종위기",
+      "english": "endangered",
+      "example": "참고래는 현재 멸종위기에 처해 있는 종이다.",
+      "example_en": "The right whale is currently an endangered species."
+    },
+    {
+      "korean": "해양보호구역",
+      "english": "marine protected area",
+      "example": "해양보호구역은 해양 생물의 서식지를 보전한다.",
+      "example_en": "Marine protected areas conserve habitats for marine organisms."
+    },
+    {
+      "korean": "양식",
+      "english": "aquaculture",
+      "example": "양식은 수산 산업의 중요한 부분이 되었다.",
+      "example_en": "Aquaculture has become an important part of the fishing industry."
+    },
+    {
+      "korean": "양어장",
+      "english": "fish farm",
+      "example": "이 양어장에서는 연간 수천 톤의 물고기를 생산한다.",
+      "example_en": "This fish farm produces thousands of tons of fish annually."
+    },
+    {
+      "korean": "생물다양성",
+      "english": "biodiversity",
+      "example": "산호초는 해양 생물다양성의 보고이다.",
+      "example_en": "Coral reefs are treasure troves of marine biodiversity."
+    },
+    {
+      "korean": "해대",
+      "english": "kelp",
+      "example": "해대숲은 다양한 해양생물의 서식지이다.",
+      "example_en": "Kelp forests are habitats for diverse marine organisms."
+    },
+    {
+      "korean": "염분",
+      "english": "salinity",
+      "example": "해양 생물들은 높은 염분 환경에 적응해야 한다.",
+      "example_en": "Marine organisms must adapt to high salinity environments."
+    },
+    {
+      "korean": "산성화",
+      "english": "acidification",
+      "example": "해양 산성화는 산호의 골격 형성을 방해한다.",
+      "example_en": "Ocean acidification impedes coral skeleton formation."
+    }
+  ],
+  "주제별 단어 — 자동화/로봇 (Topic: Automation & Robotics)": [
+    {
+      "korean": "로봇",
+      "english": "robot",
+      "example": "이 로봇은 매일 수천 개의 부품을 처리할 수 있다.",
+      "example_en": "This robot can process thousands of parts every day."
+    },
+    {
+      "korean": "센서",
+      "english": "sensor",
+      "example": "온도 센서가 시스템의 안정성을 유지한다.",
+      "example_en": "Temperature sensors maintain system stability."
+    },
+    {
+      "korean": "구동기",
+      "english": "actuator",
+      "example": "전기 구동기가 로봇 팔의 움직임을 제어한다.",
+      "example_en": "Electric actuators control the robot arm's movement."
+    },
+    {
+      "korean": "제어",
+      "english": "control",
+      "example": "정밀한 제어가 부품의 정확한 배치를 보장한다.",
+      "example_en": "Precise control ensures accurate component placement."
+    },
+    {
+      "korean": "피드백",
+      "english": "feedback",
+      "example": "실시간 피드백을 통해 시스템이 자동으로 조정된다.",
+      "example_en": "The system automatically adjusts through real-time feedback."
+    },
+    {
+      "korean": "정밀도",
+      "english": "precision",
+      "example": "이 로봇의 정밀도는 0.1밀리미터 이내다.",
+      "example_en": "This robot's precision is within 0.1 millimeter."
+    },
+    {
+      "korean": "반복성",
+      "english": "repeatability",
+      "example": "로봇의 높은 반복성으로 일관된 품질을 보장한다.",
+      "example_en": "The robot's high repeatability ensures consistent quality."
+    },
+    {
+      "korean": "머신러닝",
+      "english": "machine learning",
+      "example": "머신러닝을 통해 로봇이 새로운 작업을 자동으로 배운다.",
+      "example_en": "Robots learn new tasks automatically through machine learning."
+    },
+    {
+      "korean": "신경망",
+      "english": "neural network",
+      "example": "인공 신경망은 복잡한 패턴을 인식할 수 있다.",
+      "example_en": "Artificial neural networks can recognize complex patterns."
+    },
+    {
+      "korean": "알고리즘",
+      "english": "algorithm",
+      "example": "이 알고리즘은 가장 효율적인 작업 순서를 찾는다.",
+      "example_en": "This algorithm finds the most efficient order of tasks."
+    },
+    {
+      "korean": "패턴 인식",
+      "english": "pattern recognition",
+      "example": "패턴 인식으로 결함 있는 제품을 자동으로 검출한다.",
+      "example_en": "Pattern recognition automatically detects defective products."
+    },
+    {
+      "korean": "훈련 데이터",
+      "english": "training data",
+      "example": "훈련 데이터의 양과 질이 모델의 성능을 결정한다.",
+      "example_en": "The quantity and quality of training data determines model performance."
+    },
+    {
+      "korean": "산업용 로봇",
+      "english": "industrial robot",
+      "example": "산업용 로봇이 위험한 용접 작업을 대신한다.",
+      "example_en": "Industrial robots perform dangerous welding work instead."
+    },
+    {
+      "korean": "협동 로봇",
+      "english": "collaborative robot",
+      "example": "협동 로봇은 인간과 함께 안전하게 작업할 수 있다.",
+      "example_en": "Collaborative robots can work safely alongside humans."
+    },
+    {
+      "korean": "그리퍼",
+      "english": "gripper",
+      "example": "로봇의 그리퍼가 섬세하게 정밀 부품을 집는다.",
+      "example_en": "The robot's gripper gently grasps precision components."
+    },
+    {
+      "korean": "스마트 팩토리",
+      "english": "smart factory",
+      "example": "스마트 팩토리에서 모든 기계가 네트워크로 연결되어 있다.",
+      "example_en": "In a smart factory, all machines are connected via network."
+    },
+    {
+      "korean": "생산 라인",
+      "english": "production line",
+      "example": "생산 라인의 각 단계가 자동으로 진행된다.",
+      "example_en": "Each stage of the production line proceeds automatically."
+    },
+    {
+      "korean": "작업 셀",
+      "english": "work cell",
+      "example": "각 작업 셀은 특정한 제조 작업에 최적화되어 있다.",
+      "example_en": "Each work cell is optimized for a specific manufacturing task."
+    },
+    {
+      "korean": "팔레타이징",
+      "english": "palletizing",
+      "example": "팔레타이징 로봇이 박스를 효율적으로 쌓는다.",
+      "example_en": "A palletizing robot efficiently stacks boxes."
+    },
+    {
+      "korean": "자동 창고",
+      "english": "automated warehouse",
+      "example": "자동 창고 시스템이 재고를 효율적으로 관리한다.",
+      "example_en": "The automated warehouse system efficiently manages inventory."
+    },
+    {
+      "korean": "컨베이어 벨트",
+      "english": "conveyor belt",
+      "example": "컨베이어 벨트가 부품을 다음 생산 단계로 운반한다.",
+      "example_en": "The conveyor belt transports parts to the next production stage."
+    },
+    {
+      "korean": "공정 최적화",
+      "english": "process optimization",
+      "example": "데이터 분석을 통한 공정 최적화로 비용을 줄인다.",
+      "example_en": "Process optimization through data analysis reduces costs."
+    },
+    {
+      "korean": "품질 관리",
+      "english": "quality control",
+      "example": "품질 관리 시스템이 결함 제품을 사전에 차단한다.",
+      "example_en": "The quality control system prevents defective products in advance."
+    },
+    {
+      "korean": "머신 비전",
+      "english": "machine vision",
+      "example": "머신 비전 카메라가 제품의 미세한 결함을 검출한다.",
+      "example_en": "Machine vision cameras detect minute defects in products."
+    },
+    {
+      "korean": "센서 융합",
+      "english": "sensor fusion",
+      "example": "센서 융합으로 더 정확한 환경 인식이 가능하다.",
+      "example_en": "Sensor fusion enables more accurate environmental awareness."
+    },
+    {
+      "korean": "위치 결정",
+      "english": "positioning",
+      "example": "GPS와 센서를 이용한 정확한 위치 결정이 필수다.",
+      "example_en": "Accurate positioning using GPS and sensors is essential."
+    },
+    {
+      "korean": "드론",
+      "english": "drone",
+      "example": "드론은 넓은 영역의 감시와 매핑에 사용된다.",
+      "example_en": "Drones are used for surveillance and mapping of wide areas."
+    },
+    {
+      "korean": "사물인터넷",
+      "english": "Internet of Things",
+      "example": "사물인터넷 기술으로 모든 기계가 실시간으로 연결된다.",
+      "example_en": "With IoT technology, all machines are connected in real time."
+    },
+    {
+      "korean": "실시간 모니터링",
+      "english": "real-time monitoring",
+      "example": "실시간 모니터링으로 생산 상황을 항상 파악할 수 있다.",
+      "example_en": "Real-time monitoring allows constant awareness of production status."
+    },
+    {
+      "korean": "클라우드 컴퓨팅",
+      "english": "cloud computing",
+      "example": "클라우드 기반 시스템으로 어디서나 데이터에 접근할 수 있다.",
+      "example_en": "Cloud-based systems allow data access from anywhere."
+    },
+    {
+      "korean": "엣지 컴퓨팅",
+      "english": "edge computing",
+      "example": "엣지 컴퓨팅으로 지연 시간을 최소화한다.",
+      "example_en": "Edge computing minimizes latency."
+    },
+    {
+      "korean": "시뮬레이션",
+      "english": "simulation",
+      "example": "실제 작업을 시작하기 전에 시뮬레이션을 실행한다.",
+      "example_en": "Simulation is run before starting the actual task."
+    },
+    {
+      "korean": "예측 유지보수",
+      "english": "predictive maintenance",
+      "example": "예측 유지보수로 로봇의 가동 시간을 최대화한다.",
+      "example_en": "Predictive maintenance maximizes robot uptime."
+    },
+    {
+      "korean": "사이버보안",
+      "english": "cybersecurity",
+      "example": "스마트 팩토리의 사이버보안은 매우 중요한 과제다.",
+      "example_en": "Cybersecurity is a very important challenge for smart factories."
+    }
+  ],
+  "주제별 단어 — 게임 (Topic: Gaming & Esports)": [
+    {
+      "korean": "이스포츠",
+      "english": "esports (electronic sports)",
+      "example": "한국은 이스포츠 산업에서 세계 최고 수준이다.",
+      "example_en": "Korea is world-class in the esports industry."
+    },
+    {
+      "korean": "선수",
+      "english": "player/athlete",
+      "example": "최고의 선수들이 이번 대회에 참가한다.",
+      "example_en": "The best players are participating in this tournament."
+    },
+    {
+      "korean": "우승",
+      "english": "championship victory",
+      "example": "그 팀은 3년 연속 우승을 차지했다.",
+      "example_en": "That team won the championship three years in a row."
+    },
+    {
+      "korean": "스트리밍",
+      "english": "streaming (live broadcast)",
+      "example": "그 게이머는 매일 저녁 스트리밍을 한다.",
+      "example_en": "That gamer streams every evening."
+    },
+    {
+      "korean": "해설자",
+      "english": "caster/commentator",
+      "example": "유명한 해설자가 경기를 중계했다.",
+      "example_en": "A famous caster broadcast the match."
+    },
+    {
+      "korean": "팀",
+      "english": "team",
+      "example": "우리 팀은 8명의 정규 선수로 구성되어 있다.",
+      "example_en": "Our team consists of 8 regular players."
+    },
+    {
+      "korean": "랭킹",
+      "english": "ranking",
+      "example": "국제 랭킹에서 그 선수는 10위이다.",
+      "example_en": "In the international ranking, that player is ranked 10th."
+    },
+    {
+      "korean": "메타",
+      "english": "meta (most effective tactics available)",
+      "example": "현재 메타에서는 이 캐릭터가 가장 강하다.",
+      "example_en": "In the current meta, this character is the strongest."
+    },
+    {
+      "korean": "스킬",
+      "english": "skill/ability",
+      "example": "이 스킬을 마스터하려면 연습이 많이 필요하다.",
+      "example_en": "You need a lot of practice to master this skill."
+    },
+    {
+      "korean": "궁극기",
+      "english": "ultimate ability",
+      "example": "궁극기를 사용하면 적을 한 번에 처치할 수 있다.",
+      "example_en": "If you use your ultimate, you can defeat the enemy in one hit."
+    },
+    {
+      "korean": "쿨타임",
+      "english": "cooldown",
+      "example": "이 스킬의 쿨타임은 30초이다.",
+      "example_en": "This skill's cooldown is 30 seconds."
+    },
+    {
+      "korean": "버프",
+      "english": "buff (enhancement)",
+      "example": "버프를 받은 후에 공격력이 두 배로 증가했다.",
+      "example_en": "After receiving the buff, my attack power doubled."
+    },
+    {
+      "korean": "디버프",
+      "english": "debuff (negative effect)",
+      "example": "상대방이 나에게 슬로우 디버프를 걸었다.",
+      "example_en": "The opponent cast a slow debuff on me."
+    },
+    {
+      "korean": "리스폰",
+      "english": "respawn",
+      "example": "죽으면 5초 후에 리스폰된다.",
+      "example_en": "You respawn 5 seconds after dying."
+    },
+    {
+      "korean": "클리어",
+      "english": "clear/beat (complete a level)",
+      "example": "마지막 보스를 클리어했을 때 정말 뿌듯했다.",
+      "example_en": "When I cleared the final boss, I felt really satisfied."
+    },
+    {
+      "korean": "게임오버",
+      "english": "game over",
+      "example": "체력이 0이 되면 게임오버다.",
+      "example_en": "The game is over when your health reaches zero."
+    },
+    {
+      "korean": "난이도",
+      "english": "difficulty level",
+      "example": "이 게임은 세 가지 난이도를 제공한다.",
+      "example_en": "This game offers three difficulty levels."
+    },
+    {
+      "korean": "아이템",
+      "english": "item/equipment",
+      "example": "좋은 아이템을 획득하면 게임이 훨씬 쉬워진다.",
+      "example_en": "The game becomes much easier when you get good items."
+    },
+    {
+      "korean": "인벤토리",
+      "english": "inventory",
+      "example": "인벤토리가 가득 차서 아이템을 더 담을 수 없다.",
+      "example_en": "My inventory is full so I can't carry more items."
+    },
+    {
+      "korean": "레벨업",
+      "english": "level up",
+      "example": "경험치를 모아서 레벨업하면 스탯이 올라간다.",
+      "example_en": "When you level up by collecting experience, your stats increase."
+    },
+    {
+      "korean": "기록",
+      "english": "record/score",
+      "example": "그 게이머는 새로운 기록을 세웠다.",
+      "example_en": "That gamer set a new record."
+    },
+    {
+      "korean": "클랜",
+      "english": "clan/guild",
+      "example": "우리 클랜은 100명 이상의 멤버를 가지고 있다.",
+      "example_en": "Our clan has over 100 members."
+    },
+    {
+      "korean": "PC방",
+      "english": "PC bang (internet cafe)",
+      "example": "주말이면 PC방은 항상 만석이다.",
+      "example_en": "PC bangs are always full on weekends."
+    },
+    {
+      "korean": "온라인 게임",
+      "english": "online game",
+      "example": "온라인 게임은 세계 어디서나 플레이할 수 있다.",
+      "example_en": "You can play online games from anywhere in the world."
+    },
+    {
+      "korean": "오프라인 전대",
+      "english": "offline tournament",
+      "example": "오프라인 전대에서 우리 팀이 우승했다.",
+      "example_en": "Our team won the offline tournament."
+    },
+    {
+      "korean": "멀티플레이",
+      "english": "multiplayer",
+      "example": "이 게임의 멀티플레이 모드는 최대 4명까지 가능하다.",
+      "example_en": "This game's multiplayer mode supports up to 4 players."
+    },
+    {
+      "korean": "롤플레이",
+      "english": "RPG (role-playing game)",
+      "example": "롤플레이 게임에서는 캐릭터의 스토리가 중요하다.",
+      "example_en": "In RPGs, the character's story is important."
+    },
+    {
+      "korean": "전략 게임",
+      "english": "strategy game",
+      "example": "전략 게임은 깊이 있는 사고력이 필요하다.",
+      "example_en": "Strategy games require deep strategic thinking."
+    },
+    {
+      "korean": "슈팅 게임",
+      "english": "shooter/FPS (first-person shooter)",
+      "example": "인기 있는 슈팅 게임은 보통 경쟁이 치열하다.",
+      "example_en": "Popular shooter games are usually highly competitive."
+    },
+    {
+      "korean": "격투 게임",
+      "english": "fighting game",
+      "example": "격투 게임은 손의 반응 속도가 매우 중요하다.",
+      "example_en": "Hand reaction speed is very important in fighting games."
+    },
+    {
+      "korean": "스포츠 게임",
+      "english": "sports game",
+      "example": "축구 스포츠 게임은 매년 새 버전이 나온다.",
+      "example_en": "Football sports games release new versions every year."
+    },
+    {
+      "korean": "레이싱 게임",
+      "english": "racing game",
+      "example": "레이싱 게임에서 최적의 라인을 찾는 것이 승리의 열쇠다.",
+      "example_en": "Finding the optimal racing line is key to victory in racing games."
+    },
+    {
+      "korean": "어드벤처 게임",
+      "english": "adventure game",
+      "example": "어드벤처 게임은 탐험과 스토리텔링이 핵심이다.",
+      "example_en": "Exploration and storytelling are key in adventure games."
+    },
+    {
+      "korean": "퍼즐 게임",
+      "english": "puzzle game",
+      "example": "퍼즐 게임은 논리적 사고력을 단련한다.",
+      "example_en": "Puzzle games develop logical thinking."
+    },
+    {
+      "korean": "조작감",
+      "english": "controls/feel/gameplay mechanics",
+      "example": "이 게임의 조작감이 정말 부드럽고 반응이 좋다.",
+      "example_en": "This game's controls are really smooth with great responsiveness."
+    },
+    {
+      "korean": "컨트롤러",
+      "english": "controller/gamepad",
+      "example": "게이머들은 보통 고급 컨트롤러를 사용한다.",
+      "example_en": "Gamers usually use high-end controllers."
+    },
+    {
+      "korean": "리더보드",
+      "english": "leaderboard",
+      "example": "리더보드의 1위를 차지하기 위해 열심히 연습한다.",
+      "example_en": "I practice hard to get first place on the leaderboard."
+    },
+    {
+      "korean": "스트리머",
+      "english": "streamer (content creator)",
+      "example": "유명한 스트리머는 하루에 수백만 명의 시청자를 가진다.",
+      "example_en": "Famous streamers have millions of viewers per day."
+    }
+  ],
+  "주제별 단어 — 언어학 (Topic: Linguistics)": [
+    {
+      "korean": "음운론",
+      "english": "phonology",
+      "example": "음운론은 언어의 소리 체계를 연구하는 학문이다.",
+      "example_en": "Phonology is the field of study that examines a language's sound system."
+    },
+    {
+      "korean": "음운",
+      "english": "phoneme",
+      "example": "한국어의 음운은 일반적으로 19개의 자음과 21개의 모음으로 분류된다.",
+      "example_en": "Korean phonemes are typically classified into 19 consonants and 21 vowels."
+    },
+    {
+      "korean": "형태소",
+      "english": "morpheme",
+      "example": "단어 '먹이다'는 '먹-', '-이-', '-다'라는 세 개의 형태소로 구성되어 있다.",
+      "example_en": "The word '먹이다' consists of three morphemes: '먹-', '-이-', and '-다'."
+    },
+    {
+      "korean": "자음",
+      "english": "consonant",
+      "example": "한글의 자음 중 가장 기본이 되는 것은 'ㄱ', 'ㄴ', 'ㅅ', 'ㅁ', 'ㅇ'이다.",
+      "example_en": "The most basic consonants in Hangul are 'ㄱ', 'ㄴ', 'ㅅ', 'ㅁ', and 'ㅇ'."
+    },
+    {
+      "korean": "모음",
+      "english": "vowel",
+      "example": "한국어의 기본 모음은 'ㅏ', 'ㅑ', 'ㅓ', 'ㅕ', 'ㅗ'과 같은 다섯 개이다.",
+      "example_en": "The five basic vowels in Korean are 'ㅏ', 'ㅑ', 'ㅓ', 'ㅕ', and 'ㅗ'."
+    },
+    {
+      "korean": "음절",
+      "english": "syllable",
+      "example": "한국어에서 음절은 보통 한 글자가 한 음절을 이룬다.",
+      "example_en": "In Korean, typically one letter corresponds to one syllable."
+    },
+    {
+      "korean": "문법",
+      "english": "grammar",
+      "example": "한국어 문법은 다른 언어의 문법보다 복잡한 경우가 많다.",
+      "example_en": "Korean grammar is often more complex than the grammar of other languages."
+    },
+    {
+      "korean": "품사",
+      "english": "part of speech",
+      "example": "영어의 품사는 명사, 동사, 형용사, 부사 등으로 분류된다.",
+      "example_en": "Parts of speech in English are classified as nouns, verbs, adjectives, adverbs, and so on."
+    },
+    {
+      "korean": "의미론",
+      "english": "semantics",
+      "example": "의미론은 단어와 문장이 어떤 의미를 가지는지 연구하는 분야이다.",
+      "example_en": "Semantics is the field that studies what meanings words and sentences have."
+    },
+    {
+      "korean": "의미",
+      "english": "meaning",
+      "example": "같은 단어도 맥락에 따라 의미가 달라질 수 있다.",
+      "example_en": "The meaning of the same word can change depending on the context."
+    },
+    {
+      "korean": "동의어",
+      "english": "synonym",
+      "example": "'아름답다'와 '예쁘다'는 비슷한 의미를 가진 동의어이다.",
+      "example_en": "'아름답다' and '예쁘다' are synonyms that have similar meanings."
+    },
+    {
+      "korean": "반의어",
+      "english": "antonym",
+      "example": "'크다'와 '작다'는 서로 대립되는 의미를 가진 반의어이다.",
+      "example_en": "'크다' and '작다' are antonyms that have opposite meanings."
+    },
+    {
+      "korean": "다의어",
+      "english": "polysemy",
+      "example": "'손'이라는 단어는 신체 부위, 사람, 기술 등 다양한 의미를 가진 다의어이다.",
+      "example_en": "The word '손' is a polyseme with multiple meanings: a body part, a person, a skill, etc."
+    },
+    {
+      "korean": "동음이의어",
+      "english": "homonym",
+      "example": "'배'는 과일을 의미할 수도, 탈것을 의미할 수도 있는 동음이의어이다.",
+      "example_en": "'배' is a homonym that can mean a fruit or a ship."
+    },
+    {
+      "korean": "문장",
+      "english": "sentence",
+      "example": "문장은 하나의 완전한 생각을 표현하는 말의 집합이다.",
+      "example_en": "A sentence is a set of words that expresses one complete thought."
+    },
+    {
+      "korean": "절",
+      "english": "clause",
+      "example": "복문은 두 개 이상의 절로 구성되어 있다.",
+      "example_en": "A complex sentence is made up of two or more clauses."
+    },
+    {
+      "korean": "주어",
+      "english": "subject",
+      "example": "문장 '나는 학교에 간다.'에서 주어는 '나'이다.",
+      "example_en": "In the sentence '나는 학교에 간다', the subject is '나'."
+    },
+    {
+      "korean": "술어",
+      "english": "predicate",
+      "example": "술어는 주어의 상태나 동작을 설명하는 문장 성분이다.",
+      "example_en": "A predicate is the part of a sentence that describes the state or action of the subject."
+    },
+    {
+      "korean": "목적어",
+      "english": "object",
+      "example": "문장 '나는 밥을 먹는다.'에서 목적어는 '밥'이다.",
+      "example_en": "In the sentence '나는 밥을 먹는다', the object is '밥'."
+    },
+    {
+      "korean": "접두사",
+      "english": "prefix",
+      "example": "단어 '불가능'에서 '불-'은 접두사로 부정의 의미를 나타낸다.",
+      "example_en": "In the word '불가능', '불-' is a prefix that expresses negation."
+    },
+    {
+      "korean": "접미사",
+      "english": "suffix",
+      "example": "단어 '먹이다'에서 '-이-'는 접미사로 사동의 의미를 나타낸다.",
+      "example_en": "In the word '먹이다', '-이-' is a suffix that expresses the causative meaning."
+    },
+    {
+      "korean": "파생어",
+      "english": "derived word",
+      "example": "'파란색'은 '파랑'이라는 어근에서 파생된 파생어이다.",
+      "example_en": "'파란색' is a derived word from the root '파랑'."
+    },
+    {
+      "korean": "복합어",
+      "english": "compound word",
+      "example": "'손가락'은 '손'과 '가락'이 합쳐진 복합어이다.",
+      "example_en": "'손가락' is a compound word made of '손' and '가락'."
+    },
+    {
+      "korean": "어근",
+      "english": "root; stem",
+      "example": "단어 '달리기'에서 어근은 '달-'이다.",
+      "example_en": "In the word '달리기', the root is '달-'."
+    },
+    {
+      "korean": "화용론",
+      "english": "pragmatics",
+      "example": "화용론은 실제 의사소통 상황에서 언어가 어떻게 사용되는지 연구한다.",
+      "example_en": "Pragmatics studies how language is actually used in communication situations."
+    },
+    {
+      "korean": "발화",
+      "english": "utterance",
+      "example": "화자의 발화는 청자에게 특정한 의도를 전달하기 위해 이루어진다.",
+      "example_en": "A speaker's utterance is made to convey a specific intention to the listener."
+    },
+    {
+      "korean": "방언",
+      "english": "dialect",
+      "example": "한국의 남도 방언은 표준어와 다른 특징을 가지고 있다.",
+      "example_en": "The dialect of the Jeolla region in Korea has characteristics different from standard Korean."
+    },
+    {
+      "korean": "사회언어학",
+      "english": "sociolinguistics",
+      "example": "사회언어학은 언어와 사회의 관계를 연구하는 분야이다.",
+      "example_en": "Sociolinguistics is the field that studies the relationship between language and society."
+    },
+    {
+      "korean": "언어 변화",
+      "english": "language change",
+      "example": "언어 변화는 시간이 지남에 따라 자연스럽게 일어나는 현상이다.",
+      "example_en": "Language change is a phenomenon that occurs naturally over time."
+    },
+    {
+      "korean": "언어 습득",
+      "english": "language acquisition",
+      "example": "유아의 언어 습득 과정은 신경언어학자들에게 큰 관심사이다.",
+      "example_en": "The process of language acquisition in children is of great interest to neurolinguists."
+    },
+    {
+      "korean": "제1언어",
+      "english": "first language; L1",
+      "example": "대부분의 사람들은 어릴 때 자신의 제1언어를 습득한다.",
+      "example_en": "Most people acquire their first language during childhood."
+    },
+    {
+      "korean": "제2언어",
+      "english": "second language; L2",
+      "example": "제2언어 학습은 제1언어 습득과는 다른 과정을 거친다.",
+      "example_en": "Second language learning undergoes a different process than first language acquisition."
+    },
+    {
+      "korean": "이중언어",
+      "english": "bilingualism",
+      "example": "이중언어 사용자는 두 언어를 모두 능숙하게 사용할 수 있다.",
+      "example_en": "A bilingual speaker can use both languages fluently."
+    },
+    {
+      "korean": "번역",
+      "english": "translation",
+      "example": "좋은 번역은 원문의 의미뿐만 아니라 뉘앙스도 전달해야 한다.",
+      "example_en": "Good translation should convey not only the meaning of the original text but also its nuance."
+    },
+    {
+      "korean": "어원",
+      "english": "etymology",
+      "example": "'여우'라는 단어의 어원은 고대 한국어로 거슬러 올라간다.",
+      "example_en": "The etymology of the word '여우' goes back to ancient Korean."
+    },
+    {
+      "korean": "한글",
+      "english": "Hangul",
+      "example": "한글은 1443년에 세종대왕이 만든 한국의 문자 체계이다.",
+      "example_en": "Hangul is the Korean writing system created by King Sejong in 1443."
+    },
+    {
+      "korean": "음운 변화",
+      "english": "sound change; phonetic change",
+      "example": "시간이 지남에 따라 언어에서 음운 변화가 일어난다.",
+      "example_en": "Over time, sound changes occur in a language."
+    },
+    {
+      "korean": "언어학자",
+      "english": "linguist",
+      "example": "저명한 언어학자들은 한국어의 구조에 대해 다양한 이론을 제시했다.",
+      "example_en": "Renowned linguists have proposed various theories about the structure of Korean."
+    },
+    {
+      "korean": "언어 계층화",
+      "english": "language stratification",
+      "example": "사회 계층에 따라 언어 계층화가 나타나는 경우가 많다.",
+      "example_en": "Language stratification often appears depending on social class."
+    },
+    {
+      "korean": "격식체",
+      "english": "formal register",
+      "example": "공식적인 자리에서는 격식체를 사용하는 것이 예의이다.",
+      "example_en": "It is polite to use the formal register in official settings."
+    }
+  ],
+  "주제별 단어 — 개별 스포츠 (Topic: Individual Sports)": [
+    {
+      "korean": "복싱",
+      "english": "boxing",
+      "example": "복싱은 신체 전체를 사용하는 고강도 운동이다.",
+      "example_en": "Boxing is a high-intensity exercise that uses your entire body."
+    },
+    {
+      "korean": "킥복싱",
+      "english": "kickboxing",
+      "example": "킥복싱 트레이닝을 통해 심폐 지구력과 근력을 동시에 기를 수 있다.",
+      "example_en": "Through kickboxing training, you can develop both cardiopulmonary endurance and muscle strength."
+    },
+    {
+      "korean": "검도",
+      "english": "kendo (Japanese sword martial art)",
+      "example": "검도 수련을 통해 정신 수양과 신체 단련을 동시에 달성한다.",
+      "example_en": "Through kendo training, one achieves both spiritual cultivation and physical conditioning."
+    },
+    {
+      "korean": "테니스",
+      "english": "tennis",
+      "example": "테니스는 빠른 발놀림과 정확한 타이밍이 경쟁력의 핵심이다.",
+      "example_en": "In tennis, quick footwork and precise timing are the keys to competitiveness."
+    },
+    {
+      "korean": "배드민턴",
+      "english": "badminton",
+      "example": "배드민턴 래킷의 무게가 가벼워서 초보자도 쉽게 배울 수 있다.",
+      "example_en": "Badminton rackets are light, so beginners can learn easily."
+    },
+    {
+      "korean": "탁구",
+      "english": "table tennis; ping-pong",
+      "example": "탁구는 순간의 반사신경과 발상의 전환이 승패를 좌우한다.",
+      "example_en": "In table tennis, instant reflexes and quick tactical changes determine victory."
+    },
+    {
+      "korean": "스키",
+      "english": "skiing",
+      "example": "알프스 스키 리조트에서 경기를 치르는 선수들의 기량은 정말 뛰어나다.",
+      "example_en": "The skill of athletes competing at Alpine ski resorts is truly extraordinary."
+    },
+    {
+      "korean": "스케이팅",
+      "english": "skating; ice skating",
+      "example": "피겨 스케이팅 선수는 예술성과 기술력을 모두 갖춰야 한다.",
+      "example_en": "Figure skaters must possess both artistry and technical skill."
+    },
+    {
+      "korean": "자전거",
+      "english": "cycling; bicycle",
+      "example": "산악 자전거 경주는 험한 지형에서의 균형감각과 체력을 시험한다.",
+      "example_en": "Mountain biking races test balance and endurance on rough terrain."
+    },
+    {
+      "korean": "수상스키",
+      "english": "water skiing",
+      "example": "수상스키는 빠른 속도와 물 위에서의 균형이 필요한 극한 스포츠다.",
+      "example_en": "Water skiing is an extreme sport requiring high speed and balance on water."
+    },
+    {
+      "korean": "스쿠버다이빙",
+      "english": "scuba diving",
+      "example": "스쿠버다이빙은 엄격한 안전 교육을 받은 후에 시작할 수 있다.",
+      "example_en": "Scuba diving can only be started after receiving strict safety training."
+    },
+    {
+      "korean": "다이빙",
+      "english": "diving",
+      "example": "올림픽 다이빙 경기에서 선수들은 공중에서 여러 회전을 해야 한다.",
+      "example_en": "In Olympic diving competitions, athletes must perform multiple somersaults in mid-air."
+    },
+    {
+      "korean": "볼링",
+      "english": "bowling",
+      "example": "볼링은 비교적 쉬워 보이지만 정확도와 구속감각이 매우 중요한 스포츠다.",
+      "example_en": "Although bowling seems simple, accuracy and ball control are crucial."
+    },
+    {
+      "korean": "골프",
+      "english": "golf",
+      "example": "골프는 정신 집중력과 정밀한 기술을 요구하는 紳士 스포츠다.",
+      "example_en": "Golf is a gentleman's sport that demands mental focus and precise technique."
+    },
+    {
+      "korean": "아이스하키",
+      "english": "ice hockey",
+      "example": "아이스하키는 빙판 위에서의 고속 움직임과 강한 신체 접촉이 특징이다.",
+      "example_en": "Ice hockey is characterized by high-speed movement and intense physical contact on ice."
+    },
+    {
+      "korean": "스노보드",
+      "english": "snowboarding",
+      "example": "스노보드 선수들은 반파이프에서 공중 묘기를 펼치며 관중을 매료시킨다.",
+      "example_en": "Snowboarders captivate audiences with aerial tricks in the halfpipe."
+    },
+    {
+      "korean": "보디빌딩",
+      "english": "bodybuilding",
+      "example": "보디빌딩 대회에서 선수들은 근육의 크기와 대칭성을 겨룬다.",
+      "example_en": "In bodybuilding competitions, athletes compete on muscle size and symmetry."
+    },
+    {
+      "korean": "역도",
+      "english": "weightlifting",
+      "example": "역도 선수는 폭발적인 힘과 완벽한 기술 조화를 이루어야 한다.",
+      "example_en": "Weightlifters must achieve a harmony of explosive power and perfect technique."
+    },
+    {
+      "korean": "리듬체조",
+      "english": "rhythmic gymnastics",
+      "example": "리듬체조는 음악에 맞춰 리본과 공을 자유롭게 다루는 예술이다.",
+      "example_en": "Rhythmic gymnastics is an art of freely manipulating ribbons and balls to music."
+    },
+    {
+      "korean": "기계체조",
+      "english": "apparatus gymnastics",
+      "example": "기계체조는 철봉, 평균대, 뜀틀 등 여러 기구에서 기술을 겨룬다.",
+      "example_en": "Apparatus gymnastics involves demonstrating skills on various equipment like bars and vault."
+    },
+    {
+      "korean": "승마",
+      "english": "equestrian sports; horse riding",
+      "example": "승마는 인간과 말의 완벽한 호흡이 경기력을 좌우한다.",
+      "example_en": "In equestrian sports, perfect harmony between rider and horse determines performance."
+    },
+    {
+      "korean": "번지점프",
+      "english": "bungee jumping",
+      "example": "번지점프는 탄성있는 줄로 하강하는 극단적 스포츠다.",
+      "example_en": "Bungee jumping is an extreme sport involving descent with an elastic cord."
+    },
+    {
+      "korean": "암벽등반",
+      "english": "rock climbing",
+      "example": "암벽등반은 신체의 유연성과 문제 해결 능력을 모두 필요로 한다.",
+      "example_en": "Rock climbing requires both physical flexibility and problem-solving skills."
+    },
+    {
+      "korean": "스포츠 클라이밍",
+      "english": "sport climbing",
+      "example": "스포츠 클라이밍은 높이 정해진 인공 암벽에서 속도를 겨루는 종목이다.",
+      "example_en": "Sport climbing is a competition on artificial walls where athletes race for speed."
+    },
+    {
+      "korean": "롤러스케이트",
+      "english": "roller skating",
+      "example": "롤러스케이트는 빠른 속도 조절과 안정적인 균형감각이 필요하다.",
+      "example_en": "Roller skating requires good speed control and stable balance."
+    },
+    {
+      "korean": "보드스포츠",
+      "english": "board sports",
+      "example": "서핑, 웨이크보드, 스케이트보드 등 보드스포츠는 젊은 세대에게 인기가 높다.",
+      "example_en": "Board sports like surfing, wakeboarding, and skateboarding are popular with younger generations."
+    },
+    {
+      "korean": "마라톤",
+      "english": "marathon",
+      "example": "마라톤은 42.195km를 달리는 장거리 경주로, 강한 정신력을 요구한다.",
+      "example_en": "A marathon is a 42.195km race requiring strong mental power."
+    },
+    {
+      "korean": "핸드볼",
+      "english": "handball",
+      "example": "핸드볼은 축구 경기장 절반 크기의 코트에서 이루어지는 단체 스포츠다.",
+      "example_en": "Handball is a team sport played on a court half the size of a soccer field."
+    },
+    {
+      "korean": "컬링",
+      "english": "curling",
+      "example": "컬링은 빙판 위에서 스톤을 미끄러뜨려 타겟에 가까이 놓는 경기다.",
+      "example_en": "Curling is a game where stones are slid across ice to land near a target."
+    },
+    {
+      "korean": "스키점프",
+      "english": "ski jumping",
+      "example": "스키점프 선수는 가파른 슬로프에서 미끄러져 내려와 공중으로 비약한다.",
+      "example_en": "Ski jumpers slide down a steep slope and take off into the air."
+    },
+    {
+      "korean": "바이애슬론",
+      "english": "biathlon",
+      "example": "바이애슬론은 스키와 사격을 결합한 겨울 스포츠다.",
+      "example_en": "Biathlon is a winter sport combining skiing and shooting."
+    },
+    {
+      "korean": "보디보드",
+      "english": "bodyboarding",
+      "example": "보디보드는 몸만 사용해 파도를 타는 서핑의 간편한 변형이다.",
+      "example_en": "Bodyboarding is a simplified version of surfing using only your body to ride waves."
+    },
+    {
+      "korean": "래프팅",
+      "english": "white water rafting",
+      "example": "래프팅은 급류를 따라 보트를 조종하는 수상 스포츠다.",
+      "example_en": "Rafting is a water sport where you navigate a boat through rapids."
+    },
+    {
+      "korean": "카약",
+      "english": "kayaking",
+      "example": "카약은 단일 패들로 좁은 물을 헤치며 나아가는 수상 스포츠다.",
+      "example_en": "Kayaking is a water sport where you propel a narrow vessel with a single paddle."
+    },
+    {
+      "korean": "핸글라이딩",
+      "english": "hang gliding",
+      "example": "핸글라이딩은 산 위에서 이착륙하며 하늘을 나는 익스트림 스포츠다.",
+      "example_en": "Hang gliding is an extreme sport where you take off and land on mountains while flying."
+    }
+  ],
+  "주제별 단어 — 기상/재해 (Topic: Weather & Natural Disasters)": [
+    {
+      "korean": "천둥",
+      "english": "thunder",
+      "example": "밤새 천둥 소리가 나서 잠을 설쳤어요.",
+      "example_en": "I couldn't sleep all night because of the thunder."
+    },
+    {
+      "korean": "벼락",
+      "english": "lightning",
+      "example": "벼락이 나무에 맞아서 불이 났어요.",
+      "example_en": "Lightning struck a tree and started a fire."
+    },
+    {
+      "korean": "우박",
+      "english": "hail",
+      "example": "우박이 내려서 차의 유리창이 여러 개 깨졌어요.",
+      "example_en": "Hail fell and broke several car windows."
+    },
+    {
+      "korean": "안개",
+      "english": "fog",
+      "example": "아침 안개가 짙어서 운전이 위험했어요.",
+      "example_en": "The morning fog was thick, making driving dangerous."
+    },
+    {
+      "korean": "소나기",
+      "english": "sudden shower/downpour",
+      "example": "갑자기 소나기가 내려서 우산 없이 비를 맞았어요.",
+      "example_en": "A sudden shower came down, and I got caught in the rain without an umbrella."
+    },
+    {
+      "korean": "폭우",
+      "english": "heavy rain/torrential rain",
+      "example": "폭우로 인해 여러 지역에서 산사태가 발생했어요.",
+      "example_en": "Heavy rain caused landslides in several areas."
+    },
+    {
+      "korean": "열파",
+      "english": "heat wave",
+      "example": "열파로 인해 전국의 전력 수요가 급증했어요.",
+      "example_en": "The heat wave caused electricity demand to surge nationwide."
+    },
+    {
+      "korean": "지구 온난화",
+      "english": "global warming",
+      "example": "지구 온난화로 인해 극지방의 빙하가 빠르게 녹고 있어요.",
+      "example_en": "Glaciers in polar regions are rapidly melting due to global warming."
+    },
+    {
+      "korean": "화산",
+      "english": "volcano",
+      "example": "이 지역은 활화산 근처에 있어서 항상 위험해요.",
+      "example_en": "This area is always at risk because it's near an active volcano."
+    },
+    {
+      "korean": "화산재",
+      "english": "volcanic ash",
+      "example": "화산재가 상층 대기에 퍼져서 환경에 큰 영향을 미쳤어요.",
+      "example_en": "Volcanic ash spread in the upper atmosphere, greatly affecting the environment."
+    },
+    {
+      "korean": "기상예보",
+      "english": "weather forecast",
+      "example": "기상예보를 확인하고 나가야겠어요.",
+      "example_en": "I should check the weather forecast before going out."
+    },
+    {
+      "korean": "태풍 경보",
+      "english": "typhoon warning",
+      "example": "기상청이 태풍 경보를 발령하면서 주민들에게 외출을 자제할 것을 권고했어요.",
+      "example_en": "The meteorological administration issued a typhoon warning and advised residents to avoid going out."
+    },
+    {
+      "korean": "기압",
+      "english": "atmospheric pressure/barometric pressure",
+      "example": "기압이 급격히 떨어지면 편두통이 생기는 사람이 많아요.",
+      "example_en": "Many people get migraines when atmospheric pressure drops suddenly."
+    },
+    {
+      "korean": "허리케인",
+      "english": "hurricane",
+      "example": "허리케인 시즌에는 기상 뉴스를 자주 확인해야 해요.",
+      "example_en": "During hurricane season, you need to check weather news frequently."
+    },
+    {
+      "korean": "고기압",
+      "english": "high-pressure system/anticyclone",
+      "example": "고기압이 발달하면서 이번 주는 맑은 날씨가 계속될 것 같아요.",
+      "example_en": "With the development of a high-pressure system, it looks like clear weather will continue this week."
+    },
+    {
+      "korean": "저기압",
+      "english": "low-pressure system/cyclone",
+      "example": "저기압이 접근하고 있어서 모레 비가 올 거예요.",
+      "example_en": "A low-pressure system is approaching, so it will rain the day after tomorrow."
+    },
+    {
+      "korean": "수해",
+      "english": "flood damage/water damage",
+      "example": "해마다 수해로 인한 복구 비용이 어마어마해요.",
+      "example_en": "The annual water damage recovery costs are astronomical."
+    },
+    {
+      "korean": "냉해",
+      "english": "frost damage/cold damage",
+      "example": "지난 봄의 예상 외 냉해로 인해 과수농민들이 큰 손실을 입었어요.",
+      "example_en": "Fruit farmers suffered major losses due to unexpected frost damage last spring."
+    },
+    {
+      "korean": "수온",
+      "english": "water temperature",
+      "example": "바다의 수온이 평년보다 높아져서 해양 생물의 서식지가 변하고 있어요.",
+      "example_en": "The water temperature of the sea is higher than normal, and marine habitats are changing."
+    }
+  ],
+  "주제별 단어 — 재활용 (Topic: Recycling & Waste Management)": [
+    {
+      "korean": "종량제",
+      "english": "pay-as-you-throw system",
+      "example": "우리 아파트는 종량제 봉투에 쓰레기를 담아야 한다.",
+      "example_en": "Our apartment building requires us to put trash in pay-as-you-throw bags."
+    },
+    {
+      "korean": "분리수거",
+      "english": "source separation; sorting recyclables",
+      "example": "분리수거를 제대로 하면 재활용률을 높일 수 있다.",
+      "example_en": "If we do source separation properly, we can increase the recycling rate."
+    },
+    {
+      "korean": "폐기물",
+      "english": "waste; refuse",
+      "example": "산업 폐기물 처리는 엄격한 규제 대상이다.",
+      "example_en": "Industrial waste disposal is subject to strict regulations."
+    },
+    {
+      "korean": "소각",
+      "english": "incineration; burning",
+      "example": "매립지가 가득 차면서 소각 시설의 역할이 중요해졌다.",
+      "example_en": "As landfills fill up, the role of incineration facilities has become important."
+    },
+    {
+      "korean": "퇴비",
+      "english": "compost; manure",
+      "example": "가정용 퇴비화 기계를 이용하면 음식물 쓰레기를 줄일 수 있다.",
+      "example_en": "Using a home composting machine can reduce food waste."
+    },
+    {
+      "korean": "유기물",
+      "english": "organic matter; biodegradable material",
+      "example": "유기물은 자연적으로 분해되는 물질이다.",
+      "example_en": "Organic matter is material that naturally decomposes."
+    },
+    {
+      "korean": "음식물 쓰레기",
+      "english": "food waste; food scraps",
+      "example": "음식물 쓰레기는 따로 수거되어 동물 사료나 퇴비로 만들어진다.",
+      "example_en": "Food waste is collected separately and made into animal feed or compost."
+    },
+    {
+      "korean": "종이팩",
+      "english": "paper carton; tetra pak",
+      "example": "우유 종이팩은 일반 종이류가 아니라 별도로 분리수거해야 한다.",
+      "example_en": "Milk cartons should be separated separately, not with regular paper."
+    },
+    {
+      "korean": "플라스틱 오염",
+      "english": "plastic pollution",
+      "example": "플라스틱 오염은 해양 생물에 큰 피해를 입히고 있다.",
+      "example_en": "Plastic pollution is causing great harm to marine life."
+    },
+    {
+      "korean": "미세플라스틱",
+      "english": "microplastic",
+      "example": "미세플라스틱이 인간의 식품과 음용수에서 발견되고 있다.",
+      "example_en": "Microplastics are being found in human food and drinking water."
+    },
+    {
+      "korean": "일회용품",
+      "english": "single-use item; disposable product",
+      "example": "일회용품 사용을 줄이기 위해 재사용 가능한 가방을 이용하자.",
+      "example_en": "Let's use reusable bags to reduce single-use item consumption."
+    },
+    {
+      "korean": "업사이클",
+      "english": "upcycling; creative reuse",
+      "example": "오래된 옷을 업사이클해서 새로운 가방으로 만들 수 있다.",
+      "example_en": "You can upcycle old clothes into new bags."
+    },
+    {
+      "korean": "순환 경제",
+      "english": "circular economy",
+      "example": "순환 경제는 자원 낭비를 줄이고 환경을 보호하는 경제 모델이다.",
+      "example_en": "Circular economy is an economic model that reduces resource waste and protects the environment."
+    },
+    {
+      "korean": "전자 폐기물",
+      "english": "electronic waste; e-waste",
+      "example": "폐휴대폰과 오래된 컴퓨터는 전자 폐기물로 분류된다.",
+      "example_en": "Discarded mobile phones and old computers are classified as electronic waste."
+    },
+    {
+      "korean": "유해 폐기물",
+      "english": "hazardous waste; toxic waste",
+      "example": "배터리와 형광등은 유해 폐기물로 취급되어야 한다.",
+      "example_en": "Batteries and fluorescent lights should be treated as hazardous waste."
+    },
+    {
+      "korean": "분해성",
+      "english": "biodegradability; decomposability",
+      "example": "자연의 분해성을 고려하여 제품을 설계해야 한다.",
+      "example_en": "Products should be designed considering their natural biodegradability."
+    },
+    {
+      "korean": "폐자원",
+      "english": "waste resources; post-consumer waste",
+      "example": "폐자원을 새로운 자원으로 변환하는 것이 순환 경제의 핵심이다.",
+      "example_en": "Converting waste resources into new resources is the core of circular economy."
+    },
+    {
+      "korean": "환경오염",
+      "english": "environmental pollution",
+      "example": "부적절한 폐기물 처리는 환경오염을 야기한다.",
+      "example_en": "Improper waste disposal causes environmental pollution."
+    },
+    {
+      "korean": "용기 보증금",
+      "english": "container deposit; bottle deposit",
+      "example": "음료수 병을 반환하면 용기 보증금을 돌려받을 수 있다.",
+      "example_en": "You can get a container deposit refund by returning beverage bottles."
+    },
+    {
+      "korean": "재활용 센터",
+      "english": "recycling center",
+      "example": "재활용 센터에서는 분리수거한 물건들을 처리한다.",
+      "example_en": "Recycling centers process sorted recyclable materials."
+    },
+    {
+      "korean": "쓰레기 소각장",
+      "english": "incineration plant; garbage incinerator",
+      "example": "새로운 쓰레기 소각장이 지어지면서 주민들이 반대했다.",
+      "example_en": "Residents opposed the construction of a new garbage incineration plant."
+    },
+    {
+      "korean": "음식물 감량기",
+      "english": "food waste reducer; dehydrator",
+      "example": "음식물 감량기로 쓰레기를 줄이고 퇴비를 만든다.",
+      "example_en": "Food waste reducers decrease waste and create compost."
+    },
+    {
+      "korean": "재활용률",
+      "english": "recycling rate",
+      "example": "한국의 재활용률은 선진국 중에서 가장 높다.",
+      "example_en": "Korea's recycling rate is among the highest in developed countries."
+    },
+    {
+      "korean": "자원 낭비",
+      "english": "resource waste; waste of resources",
+      "example": "과도한 포장은 심각한 자원 낭비이다.",
+      "example_en": "Excessive packaging is serious resource waste."
+    },
+    {
+      "korean": "생분해성",
+      "english": "biodegradable; compostable",
+      "example": "생분해성 플라스틱이 일반 플라스틱을 대체할 수 있을까?",
+      "example_en": "Can biodegradable plastic replace regular plastic?"
+    },
+    {
+      "korean": "소비자 책임",
+      "english": "consumer responsibility; extended producer responsibility",
+      "example": "제품 포장을 줄이는 것은 소비자의 환경 책임이다.",
+      "example_en": "Reducing product packaging is part of consumer environmental responsibility."
+    },
+    {
+      "korean": "매립지 가스",
+      "english": "landfill gas",
+      "example": "매립지 가스는 온실가스로 대기 오염을 악화시킨다.",
+      "example_en": "Landfill gas is a greenhouse gas that worsens air pollution."
+    },
+    {
+      "korean": "침출액",
+      "english": "leachate; seepage",
+      "example": "매립지의 침출액이 지하수를 오염시킬 수 있다.",
+      "example_en": "Leachate from landfills can contaminate groundwater."
+    },
+    {
+      "korean": "재생 원료",
+      "english": "recycled raw material; virgin material replacement",
+      "example": "재생 원료를 사용하면 새로운 자원 채취를 줄일 수 있다.",
+      "example_en": "Using recycled raw materials can reduce new resource extraction."
+    },
+    {
+      "korean": "폐기물 처리비",
+      "english": "waste disposal fee",
+      "example": "늘어나는 폐기물 처리비로 생활비가 증가하고 있다.",
+      "example_en": "Rising waste disposal fees are increasing living costs."
+    },
+    {
+      "korean": "자동 선별 시설",
+      "english": "automated sorting facility",
+      "example": "자동 선별 시설은 AI로 재활용품을 분류한다.",
+      "example_en": "Automated sorting facilities use AI to classify recyclables."
+    },
+    {
+      "korean": "포장재 재활용",
+      "english": "packaging material recycling",
+      "example": "포장재 재활용을 늘리려면 기업의 협력이 필수적이다.",
+      "example_en": "Corporate cooperation is essential to increase packaging material recycling."
+    },
+    {
+      "korean": "생산자 책임 제도",
+      "english": "extended producer responsibility (EPR)",
+      "example": "생산자 책임 제도 아래서 기업들은 포장재 재활용을 지원해야 한다.",
+      "example_en": "Under extended producer responsibility, companies must support packaging recycling."
+    },
+    {
+      "korean": "퇴비화",
+      "english": "composting",
+      "example": "퇴비화를 통해 유기물을 비료로 변환한다.",
+      "example_en": "Through composting, organic matter is converted into fertilizer."
+    },
+    {
+      "korean": "바이오가스",
+      "english": "biogas",
+      "example": "음식물 쓰레기에서 바이오가스를 생성하는 기술이 개발되고 있다.",
+      "example_en": "Technology to generate biogas from food waste is being developed."
+    },
+    {
+      "korean": "환경 표지",
+      "english": "eco-label; environmental certification",
+      "example": "환경 표지가 있는 제품을 선택하면 환경 보호에 동참할 수 있다.",
+      "example_en": "Choosing products with eco-labels allows you to participate in environmental protection."
+    },
+    {
+      "korean": "제로 웨이스트",
+      "english": "zero waste",
+      "example": "제로 웨이스트 라이프스타일을 실천하려면 계획이 필요하다.",
+      "example_en": "Practicing a zero waste lifestyle requires planning."
+    },
+    {
+      "korean": "불태우는 방식",
+      "english": "thermal treatment; combustion method",
+      "example": "불태우는 방식은 폐기물 부피를 획기적으로 줄일 수 있다.",
+      "example_en": "Thermal treatment can dramatically reduce waste volume."
+    },
+    {
+      "korean": "매건 및 밀봉",
+      "english": "bagging and sealing; landfill capping",
+      "example": "매립지는 환경 오염을 막기 위해 최종적으로 매건 및 밀봉된다.",
+      "example_en": "Landfills are finally bagged and sealed to prevent environmental pollution."
+    }
   ]
 }
