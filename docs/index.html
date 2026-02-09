@@ -536,6 +536,114 @@ h1 {
   border-radius: 3px;
 }
 
+/* Grammar in Context */
+.context-passage {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 25px;
+  margin: 15px 0;
+  line-height: 1.8;
+  font-size: 1.1em;
+  color: var(--text);
+}
+
+.context-passage .blank {
+  display: inline-block;
+  min-width: 100px;
+  border-bottom: 2px solid var(--cyan);
+  color: var(--cyan);
+  font-weight: bold;
+  text-align: center;
+  padding: 0 8px;
+}
+
+.option-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 15px 0;
+}
+
+.option-btn {
+  padding: 14px 16px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  font-size: 1.05em;
+  transition: all 0.15s;
+  text-align: center;
+}
+
+.option-btn:hover { background: var(--surface2); border-color: var(--blue); }
+.option-btn.selected { border-color: var(--blue); background: rgba(96,165,250,0.15); }
+.option-btn.correct { border-color: var(--green); background: rgba(74,222,128,0.15); color: var(--green); }
+.option-btn.wrong { border-color: var(--red); background: rgba(248,113,113,0.1); color: var(--red); }
+
+/* Reading comprehension */
+.reading-passage {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 25px;
+  margin: 15px 0;
+  line-height: 1.9;
+  font-size: 1.05em;
+  color: var(--text);
+}
+
+.question-block {
+  margin: 20px 0;
+}
+
+.question-text {
+  color: var(--cyan);
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 1em;
+}
+
+/* Register switching */
+.register-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 25px;
+  margin: 15px 0;
+  text-align: center;
+}
+
+.register-badge {
+  display: inline-block;
+  padding: 4px 14px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.register-badge.banmal { background: rgba(251,146,60,0.15); color: var(--orange); }
+.register-badge.haeyo { background: rgba(96,165,250,0.15); color: var(--blue); }
+.register-badge.gyeoksik { background: rgba(192,132,252,0.15); color: var(--magenta); }
+
+.register-sentence {
+  font-size: 1.25em;
+  color: #fff;
+  line-height: 1.5;
+}
+
+.register-arrow {
+  color: var(--dim);
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+@media (max-width: 600px) {
+  .option-grid { grid-template-columns: 1fr; }
+}
+
 /* Keyboard shortcuts hint */
 .shortcuts {
   color: var(--dim);
@@ -749,7 +857,7 @@ function updateSyncStatus(cls, text) {
 // ===== APP =====
 const app = document.getElementById('app');
 const srs = new SRSEngine();
-let vocabData = {}, grammarData = {}, errorDrills = [];
+let vocabData = {}, grammarData = {}, errorDrills = [], grammarContext = [], readingDrills = [], registerDrills = [];
 
 function shuffle(arr) {
   const a = [...arr];
@@ -806,9 +914,12 @@ function showMenu() {
       <button onclick="startMixedReview()"><span class="num">3</span> Mixed Review (weakest first)</button>
       <button onclick="startSentenceProduction()"><span class="num">4</span> Sentence Production</button>
       <button onclick="startErrorCorrection()"><span class="num">5</span> Error Correction</button>
-      <button onclick="showProgress()"><span class="num">6</span> View Progress</button>
+      <button onclick="startGrammarContext()"><span class="num">6</span> Grammar in Context</button>
+      <button onclick="startReadingComprehension()"><span class="num">7</span> Reading Comprehension</button>
+      <button onclick="startRegisterSwitching()"><span class="num">8</span> Register Switching</button>
+      <button onclick="showProgress()"><span class="num">9</span> View Progress</button>
     </div>
-    <div class="shortcuts">Keyboard: 1-6 to select</div>`;
+    <div class="shortcuts">Keyboard: 1-9 to select</div>`;
 
   document.onkeydown = e => {
     if (e.key === '1') showCategorySelect('vocab');
@@ -816,7 +927,10 @@ function showMenu() {
     else if (e.key === '3') startMixedReview();
     else if (e.key === '4') startSentenceProduction();
     else if (e.key === '5') startErrorCorrection();
-    else if (e.key === '6') showProgress();
+    else if (e.key === '6') startGrammarContext();
+    else if (e.key === '7') startReadingComprehension();
+    else if (e.key === '8') startRegisterSwitching();
+    else if (e.key === '9') showProgress();
   };
 }
 
@@ -1149,6 +1263,311 @@ function startSentenceProduction() {
   showCard();
 }
 
+// ===== GRAMMAR IN CONTEXT DRILL =====
+function startGrammarContext() {
+  if (grammarContext.length === 0) {
+    app.innerHTML = `<button class="back-btn" onclick="showMenu()">← Back</button>
+      <div class="card"><p>Grammar context data not loaded.</p></div>`;
+    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    return;
+  }
+
+  const pool = grammarContext.map((d, i) => ({id: `gctx:${i}`, drill: d}));
+  const ids = pool.map(p => p.id);
+  const dueSet = new Set(srs.getDueCards(ids));
+  let session = shuffle(pool.filter(p => dueSet.has(p.id))).slice(0, 10);
+  if (session.length < 10) {
+    const rest = shuffle(pool.filter(p => !dueSet.has(p.id)));
+    session.push(...rest.slice(0, 10 - session.length));
+  }
+
+  let idx = 0, correct = 0, reviewed = 0;
+
+  function showCard() {
+    if (idx >= session.length) { showSummary(reviewed, correct); return; }
+    const {id, drill} = session[idx];
+    const progress = `${idx + 1}/${session.length}`;
+    const pct = ((idx) / session.length * 100).toFixed(0);
+    const passageHtml = escHtml(drill.passage).replace('_____', '<span class="blank">?</span>');
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Grammar in Context &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="context-passage">${passageHtml}</div>
+      <div class="card-prompt">Choose the correct grammar pattern:</div>
+      <div class="option-grid">
+        ${drill.options.map((opt, i) => `<button class="option-btn" data-idx="${i}">${escHtml(opt)}</button>`).join('')}
+      </div>`;
+
+    document.querySelectorAll('.option-btn').forEach(btn => {
+      btn.onclick = () => revealGrammarContext(id, drill, parseInt(btn.dataset.idx), progress, pct);
+    });
+    document.onkeydown = e => {
+      const num = parseInt(e.key);
+      if (num >= 1 && num <= 4) revealGrammarContext(id, drill, num - 1, progress, pct);
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  function revealGrammarContext(id, drill, chosen, progress, pct) {
+    const isCorrect = chosen === drill.correct;
+    const passageHtml = escHtml(drill.passage).replace('_____',
+      `<span class="blank" style="border-color:var(--green);color:var(--green)">${escHtml(drill.options[drill.correct])}</span>`);
+
+    const optionsHtml = drill.options.map((opt, i) => {
+      let cls = '';
+      if (i === drill.correct) cls = 'correct';
+      else if (i === chosen && !isCorrect) cls = 'wrong';
+      return `<button class="option-btn ${cls}" disabled>${escHtml(opt)}</button>`;
+    }).join('');
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Grammar in Context &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="context-passage">${passageHtml}</div>
+      <div class="option-grid">${optionsHtml}</div>
+      <div class="reveal ${isCorrect ? 'result-correct' : 'result-incorrect'}">
+        <div class="reveal-answer">${escHtml(drill.options[drill.correct])}</div>
+        <div class="reveal-notes">${escHtml(drill.explanation)}</div>
+      </div>
+      ${gcRatingButtons()}`;
+
+    setupGcRating(id);
+  }
+
+  function gcRatingButtons() {
+    return `<div class="rating">
+      <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">wrong</div></button>
+      <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">guessed</div></button>
+      <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">knew it</div></button>
+      <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">obvious</div></button>
+    </div><div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+  }
+
+  function setupGcRating(id) {
+    document.querySelectorAll('.rating button').forEach(btn => {
+      btn.onclick = () => { const q = parseInt(btn.dataset.q); srs.recordReview(id, q); reviewed++; if (q >= GOOD) correct++; idx++; showCard(); };
+    });
+    document.onkeydown = e => {
+      const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
+      if (map[e.key] !== undefined) { const q = map[e.key]; srs.recordReview(id, q); reviewed++; if (q >= GOOD) correct++; idx++; showCard(); }
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  showCard();
+}
+
+// ===== READING COMPREHENSION DRILL =====
+function startReadingComprehension() {
+  if (readingDrills.length === 0) {
+    app.innerHTML = `<button class="back-btn" onclick="showMenu()">← Back</button>
+      <div class="card"><p>Reading comprehension data not loaded.</p></div>`;
+    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    return;
+  }
+
+  const pool = readingDrills.map((d, i) => ({id: `read:${i}`, drill: d}));
+  const ids = pool.map(p => p.id);
+  const dueSet = new Set(srs.getDueCards(ids));
+  let session = shuffle(pool.filter(p => dueSet.has(p.id))).slice(0, 8);
+  if (session.length < 8) {
+    const rest = shuffle(pool.filter(p => !dueSet.has(p.id)));
+    session.push(...rest.slice(0, 8 - session.length));
+  }
+
+  let idx = 0, correct = 0, reviewed = 0;
+
+  function showCard() {
+    if (idx >= session.length) { showSummary(reviewed, correct); return; }
+    const {id, drill} = session[idx];
+    showPassage(id, drill, 0);
+  }
+
+  function showPassage(id, drill, qIdx) {
+    const progress = `${idx + 1}/${session.length}`;
+    const pct = ((idx) / session.length * 100).toFixed(0);
+    const q = drill.questions[qIdx];
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Reading Comprehension &nbsp; ${progress} &nbsp; Q${qIdx + 1}/${drill.questions.length}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="reading-passage">${escHtml(drill.passage)}</div>
+      <div class="question-block">
+        <div class="question-text">${escHtml(q.question)}</div>
+        <div class="option-grid">
+          ${q.options.map((opt, i) => `<button class="option-btn" data-idx="${i}">${escHtml(opt)}</button>`).join('')}
+        </div>
+      </div>`;
+
+    document.querySelectorAll('.option-btn').forEach(btn => {
+      btn.onclick = () => revealReading(id, drill, qIdx, parseInt(btn.dataset.idx));
+    });
+    document.onkeydown = e => {
+      const num = parseInt(e.key);
+      if (num >= 1 && num <= 4) revealReading(id, drill, qIdx, num - 1);
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  function revealReading(id, drill, qIdx, chosen) {
+    const q = drill.questions[qIdx];
+    const isCorrect = chosen === q.correct;
+    const progress = `${idx + 1}/${session.length}`;
+    const pct = ((idx) / session.length * 100).toFixed(0);
+    const isLastQ = qIdx >= drill.questions.length - 1;
+
+    const optionsHtml = q.options.map((opt, i) => {
+      let cls = i === q.correct ? 'correct' : (i === chosen && !isCorrect ? 'wrong' : '');
+      return `<button class="option-btn ${cls}" disabled>${escHtml(opt)}</button>`;
+    }).join('');
+
+    const nextBtnHtml = isLastQ
+      ? `<div class="rating">
+          <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">struggled</div></button>
+          <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">some guessing</div></button>
+          <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">understood</div></button>
+          <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">clear</div></button>
+        </div><div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`
+      : `<button class="btn btn-primary" id="next-q-btn" style="width:100%;margin-top:15px">Next Question →</button>`;
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Reading Comprehension &nbsp; ${progress} &nbsp; Q${qIdx + 1}/${drill.questions.length}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="reading-passage">${escHtml(drill.passage)}</div>
+      <div class="question-block">
+        <div class="question-text">${escHtml(q.question)}</div>
+        <div class="option-grid">${optionsHtml}</div>
+        <div class="reveal ${isCorrect ? 'result-correct' : 'result-incorrect'}" style="margin-top:12px">
+          <div class="reveal-answer">${escHtml(q.options[q.correct])}</div>
+          <div class="reveal-notes">${escHtml(q.explanation)}</div>
+        </div>
+      </div>
+      ${nextBtnHtml}`;
+
+    if (isLastQ) {
+      if (isCorrect) correct++;
+      document.querySelectorAll('.rating button').forEach(btn => {
+        btn.onclick = () => { const qq = parseInt(btn.dataset.q); srs.recordReview(id, qq); reviewed++; idx++; showCard(); };
+      });
+      document.onkeydown = e => {
+        const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
+        if (map[e.key] !== undefined) { const qq = map[e.key]; srs.recordReview(id, qq); reviewed++; idx++; showCard(); }
+        if (e.key === 'Escape') showMenu();
+      };
+    } else {
+      if (isCorrect) correct++;
+      const nextBtn = document.getElementById('next-q-btn');
+      nextBtn.onclick = () => showPassage(id, drill, qIdx + 1);
+      document.onkeydown = e => {
+        if (e.key === 'Enter') showPassage(id, drill, qIdx + 1);
+        if (e.key === 'Escape') showMenu();
+      };
+    }
+  }
+
+  showCard();
+}
+
+// ===== REGISTER SWITCHING DRILL =====
+function startRegisterSwitching() {
+  if (registerDrills.length === 0) {
+    app.innerHTML = `<button class="back-btn" onclick="showMenu()">← Back</button>
+      <div class="card"><p>Register switching data not loaded.</p></div>`;
+    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    return;
+  }
+
+  const pool = registerDrills.map((d, i) => ({id: `reg:${i}`, drill: d}));
+  const ids = pool.map(p => p.id);
+  const dueSet = new Set(srs.getDueCards(ids));
+  let session = shuffle(pool.filter(p => dueSet.has(p.id))).slice(0, 10);
+  if (session.length < 10) {
+    const rest = shuffle(pool.filter(p => !dueSet.has(p.id)));
+    session.push(...rest.slice(0, 10 - session.length));
+  }
+
+  let idx = 0, correct = 0, reviewed = 0;
+
+  function regBadgeClass(reg) {
+    if (reg === '반말') return 'banmal';
+    if (reg === '해요체') return 'haeyo';
+    return 'gyeoksik';
+  }
+
+  function showCard() {
+    if (idx >= session.length) { showSummary(reviewed, correct); return; }
+    const {id, drill} = session[idx];
+    const progress = `${idx + 1}/${session.length}`;
+    const pct = ((idx) / session.length * 100).toFixed(0);
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Register Switching &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="register-card">
+        <div class="register-badge ${regBadgeClass(drill.given_register)}">${escHtml(drill.given_register)}</div>
+        <div class="register-sentence">${escHtml(drill.given)}</div>
+        <div class="register-arrow">↓</div>
+        <div class="register-badge ${regBadgeClass(drill.target_register)}">${escHtml(drill.target_register)}</div>
+      </div>
+      <div class="card-prompt">Rewrite in ${escHtml(drill.target_register)}:</div>
+      <input class="answer-input" placeholder="Type the converted sentence (Enter to check)" autofocus>`;
+
+    const input = app.querySelector('.answer-input');
+    input.focus();
+    input.onkeydown = e => {
+      if (e.key === 'Enter') revealRegister(id, drill, input.value.trim(), progress, pct);
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  function revealRegister(id, drill, guess, progress, pct) {
+    const isCorrect = guess === drill.correct;
+    const guessHtml = guess ? `<div class="your-guess">Your version: <span>${escHtml(guess)}</span></div>` : '';
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Register Switching &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${guessHtml}
+      <div class="model-answer">
+        <div class="label">${escHtml(drill.target_register)} version</div>
+        <div class="korean">${isCorrect ? '✓ ' : ''}${escHtml(drill.correct)}</div>
+      </div>
+      <div class="reveal">
+        <div class="reveal-answer">${escHtml(drill.given_register)}: ${escHtml(drill.given)}</div>
+        <div class="reveal-notes">${escHtml(drill.explanation)}</div>
+      </div>
+      <div class="card-prompt" style="font-size:0.85em;margin-top:10px">Rate how well you converted the register:</div>
+      ${regRatingButtons()}`;
+
+    document.querySelectorAll('.rating button').forEach(btn => {
+      btn.onclick = () => { const q = parseInt(btn.dataset.q); srs.recordReview(id, q); reviewed++; if (q >= GOOD) correct++; idx++; showCard(); };
+    });
+    document.onkeydown = e => {
+      const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
+      if (map[e.key] !== undefined) { const q = map[e.key]; srs.recordReview(id, q); reviewed++; if (q >= GOOD) correct++; idx++; showCard(); }
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  function regRatingButtons() {
+    return `<div class="rating">
+      <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">couldn't convert</div></button>
+      <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">partial</div></button>
+      <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">mostly right</div></button>
+      <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">nailed it</div></button>
+    </div><div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+  }
+
+  showCard();
+}
+
 // ===== ERROR CORRECTION DRILL =====
 function startErrorCorrection() {
   if (errorDrills.length === 0) {
@@ -1315,24 +1734,36 @@ function showProgress() {
 async function init() {
   app.innerHTML = '<h1>한국어 코치</h1><p class="subtitle">Loading...</p>';
   try {
-    const [vResp, gResp, eResp] = await Promise.all([
+    const [vResp, gResp, eResp, gcResp, rdResp, rgResp] = await Promise.all([
       fetch('data/vocab.json'),
       fetch('data/grammar.json'),
-      fetch('data/error_drills.json').catch(() => null)
+      fetch('data/error_drills.json').catch(() => null),
+      fetch('data/grammar_context.json').catch(() => null),
+      fetch('data/reading_drills.json').catch(() => null),
+      fetch('data/register_drills.json').catch(() => null)
     ]);
     vocabData = await vResp.json();
     grammarData = await gResp.json();
     if (eResp && eResp.ok) errorDrills = await eResp.json();
+    if (gcResp && gcResp.ok) grammarContext = await gcResp.json();
+    if (rdResp && rdResp.ok) readingDrills = await rdResp.json();
+    if (rgResp && rgResp.ok) registerDrills = await rgResp.json();
   } catch(e) {
     try {
-      const [vResp, gResp, eResp] = await Promise.all([
+      const [vResp, gResp, eResp, gcResp, rdResp, rgResp] = await Promise.all([
         fetch('../data/vocab.json'),
         fetch('../data/grammar.json'),
-        fetch('../data/error_drills.json').catch(() => null)
+        fetch('../data/error_drills.json').catch(() => null),
+        fetch('../data/grammar_context.json').catch(() => null),
+        fetch('../data/reading_drills.json').catch(() => null),
+        fetch('../data/register_drills.json').catch(() => null)
       ]);
       vocabData = await vResp.json();
       grammarData = await gResp.json();
       if (eResp && eResp.ok) errorDrills = await eResp.json();
+      if (gcResp && gcResp.ok) grammarContext = await gcResp.json();
+      if (rdResp && rdResp.ok) readingDrills = await rdResp.json();
+      if (rgResp && rgResp.ok) registerDrills = await rgResp.json();
     } catch(e2) {
       app.innerHTML = '<h1>Error</h1><p>Could not load data files.</p>';
       return;

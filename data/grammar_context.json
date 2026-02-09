@@ -1,0 +1,429 @@
+[
+  {
+    "passage": "어제 친구와 약속이 있었는데 갑자기 비가 _____ 약속을 취소했어요. 정말 아쉬웠어요.",
+    "options": ["-는 바람에", "-기는커녕", "-더라도", "-는 한"],
+    "correct": 0,
+    "explanation": "-는 바람에 indicates an unexpected event that caused a negative result. The rain suddenly fell and caused the cancellation. -기는커녕 means 'let alone', -더라도 means 'even if', and -는 한 means 'as long as', none of which fit this causal relationship.",
+    "category": "connectors"
+  },
+  {
+    "passage": "그 식당은 맛있_____ 가격도 저렴해서 항상 손님이 많아요. 주말에는 줄을 서야 할 정도예요.",
+    "options": ["-기는커녕", "-을뿐더러", "-더라도", "-는 바람에"],
+    "correct": 1,
+    "explanation": "-을뿐더러 means 'not only... but also' and is used to add positive qualities. The restaurant is tasty AND affordable. -기는커녕 means 'far from/let alone', -더라도 means 'even if', and -는 바람에 indicates unexpected causation.",
+    "category": "connectors"
+  },
+  {
+    "passage": "내가 도와주_____ 이 일은 절대 끝낼 수 없을 거야. 혼자서는 너무 힘들잖아.",
+    "options": ["-지 않는 한", "-는 바람에", "-다가는", "-을뿐더러"],
+    "correct": 0,
+    "explanation": "-지 않는 한 means 'unless' and expresses a necessary condition. Unless I help, the work won't finish. -는 바람에 is for unexpected causation, -다가는 warns of negative consequences, and -을뿐더러 adds information.",
+    "category": "connectors"
+  },
+  {
+    "passage": "운동을 열심히 했는데 살이 빠지_____ 오히려 살이 더 쪘어요. 아마 너무 많이 먹어서 그런 것 같아요.",
+    "options": ["-기는커녕", "-는 바람에", "-더라도", "-을뿐더러"],
+    "correct": 0,
+    "explanation": "-기는커녕 means 'far from/let alone' and indicates that even the basic expectation wasn't met. Far from losing weight, they gained more. -는 바람에 is for causation, -더라도 means 'even if', and -을뿐더러 adds information.",
+    "category": "connectors"
+  },
+  {
+    "passage": "길을 걷_____ 갑자기 옛날 친구를 만났어요. 정말 오랜만이라 너무 반가웠어요.",
+    "options": ["-다가", "-더라도", "-는 바람에", "-을뿐더러"],
+    "correct": 0,
+    "explanation": "-다가 indicates an action was interrupted or changed by another event. While walking, they suddenly ran into a friend. -더라도 means 'even if', -는 바람에 is for causation, and -을뿐더러 adds qualities.",
+    "category": "connectors"
+  },
+  {
+    "passage": "시험이 어렵_____ 최선을 다해야 해요. 포기하면 절대 안 돼요.",
+    "options": ["-더라도", "-는 바람에", "-기는커녕", "-다가"],
+    "correct": 0,
+    "explanation": "-더라도 means 'even if/even though' and expresses concession. Even if the test is hard, you must do your best. -는 바람에 is for causation, -기는커녕 means 'let alone', and -다가 indicates interruption.",
+    "category": "connectors"
+  },
+  {
+    "passage": "이렇게 계속 늦_____ 회사에서 해고될 거예요. 시간 관리를 좀 더 철저히 해야 해요.",
+    "options": ["-다가는", "-더라도", "-지 않는 한", "-는 바람에"],
+    "correct": 0,
+    "explanation": "-다가는 warns of negative consequences if the current action continues. If you keep being late like this, you'll get fired. -더라도 means 'even if', -지 않는 한 means 'unless', and -는 바람에 is for causation.",
+    "category": "connectors"
+  },
+  {
+    "passage": "그 영화는 내용이 재미있_____ 배우들의 연기도 훌륭했어요. 정말 볼 만한 가치가 있어요.",
+    "options": ["-을 뿐만 아니라", "-는 바람에", "-더라도", "-기는커녕"],
+    "correct": 0,
+    "explanation": "-을 뿐만 아니라 means 'not only... but also' and lists positive qualities. The movie had good content AND great acting. -는 바람에 is for causation, -더라도 means 'even if', and -기는커녕 means 'let alone'.",
+    "category": "connectors"
+  },
+  {
+    "passage": "네가 약속을 지키_____ 나는 너를 믿을 수 있어. 약속은 정말 중요해.",
+    "options": ["-는 한", "-는 바람에", "-다가", "-기는커녕"],
+    "correct": 0,
+    "explanation": "-는 한 means 'as long as' and sets a condition for something to continue. As long as you keep your promise, I can trust you. -는 바람에 is for causation, -다가 indicates interruption, and -기는커녕 means 'let alone'.",
+    "category": "connectors"
+  },
+  {
+    "passage": "핸드폰을 보면서 걷_____ 넘어질 뻔했어요. 앞으로는 조심해야겠어요.",
+    "options": ["-다가", "-더라도", "-는 바람에", "-지 않는 한"],
+    "correct": 0,
+    "explanation": "-다가 indicates one action was interrupted by an unexpected event. While walking and looking at phone, they almost fell. -더라도 means 'even if', -는 바람에 suggests the first action caused the second, and -지 않는 한 means 'unless'.",
+    "category": "connectors"
+  },
+  {
+    "passage": "이 식당 음식이 정말 맛있어요. 가격이 좀 비싸_____ 자주 오게 돼요.",
+    "options": ["-거든요", "-더라고요", "-잖아요", "-네요"],
+    "correct": 0,
+    "explanation": "-거든요 provides a reason or explanation for something just mentioned. It's used when giving background information. -더라고요 reports past discovery, -잖아요 reminds of shared knowledge, and -네요 expresses realization.",
+    "category": "endings"
+  },
+  {
+    "passage": "어제 그 카페에 갔는데 분위기가 너무 좋_____ 다음에 또 가고 싶어요.",
+    "options": ["-더라고요", "-거든요", "-잖아요", "-네요"],
+    "correct": 0,
+    "explanation": "-더라고요 is used to report what the speaker discovered or experienced. The speaker went and found out the atmosphere was good. -거든요 gives reasons, -잖아요 refers to shared knowledge, and -네요 expresses immediate realization.",
+    "category": "endings"
+  },
+  {
+    "passage": "오늘은 좀 일찍 가야 해요. 내일 아침 일찍 회의가 있_____ 준비를 해야 해요.",
+    "options": ["-거든요", "-더라고요", "-네요", "-다니까요"],
+    "correct": 0,
+    "explanation": "-거든요 explains the reason for a previous statement. They need to leave early because there's a meeting tomorrow. -더라고요 reports discovery, -네요 expresses realization, and -다니까요 emphasizes repeated information.",
+    "category": "endings"
+  },
+  {
+    "passage": "너 그거 알아? 민수가 회사를 그만뒀_____ 이제 다른 곳으로 갔대.",
+    "options": ["-잖아요", "-거든요", "-더라고요", "-네요"],
+    "correct": 0,
+    "explanation": "-잖아요 reminds the listener of information they should already know or be aware of. 'You know Minsu quit, right?' -거든요 gives reasons, -더라고요 reports discovery, and -네요 expresses new realization.",
+    "category": "endings"
+  },
+  {
+    "passage": "오늘 날씨가 정말 좋_____ 밖에 나가고 싶어요.",
+    "options": ["-네요", "-거든요", "-더라고요", "-잖아요"],
+    "correct": 0,
+    "explanation": "-네요 expresses the speaker's immediate realization or observation. Looking at the current weather, they realize it's nice. -거든요 gives background reasons, -더라고요 reports past discoveries, and -잖아요 refers to shared knowledge.",
+    "category": "endings"
+  },
+  {
+    "passage": "아까 말했_____ 내일은 못 가요. 왜 자꾸 물어봐요?",
+    "options": ["-다니까요", "-거든요", "-더라고요", "-네요"],
+    "correct": 0,
+    "explanation": "-다니까요 emphasizes that something has already been said, showing frustration. 'I told you I can't go!' -거든요 gives reasons, -더라고요 reports discovery, and -네요 expresses realization.",
+    "category": "endings"
+  },
+  {
+    "passage": "그 사람이 누구예요? 저기 서 있는 사람 말이에요. 어디서 본 것 같은데 기억이 안 나_____ ",
+    "options": ["-요", "-거든요", "-더라고요", "-네요"],
+    "correct": 0,
+    "explanation": "Plain -요 is appropriate when stating a simple fact politely without special nuance. They can't remember. -거든요 would give a reason, -더라고요 would report a discovery, and -네요 would express realization.",
+    "category": "endings"
+  },
+  {
+    "passage": "이 문제가 좀 어렵_____ 도와줄 수 있어요?",
+    "options": ["-은데요", "-거든요", "-더라고요", "-잖아요"],
+    "correct": 0,
+    "explanation": "-은데요 softly presents a situation before making a request. The problem is difficult (situation), can you help (request)? -거든요 gives background reasons, -더라고요 reports discovery, and -잖아요 refers to shared knowledge.",
+    "category": "endings"
+  },
+  {
+    "passage": "제가 어제 설명했_____ 이해를 못 하신 것 같네요. 다시 한번 말씀드릴게요.",
+    "options": ["-는데", "-거든요", "-더라고요", "-네요"],
+    "correct": 0,
+    "explanation": "-는데 connects contrasting situations. I explained but you didn't understand. -거든요 provides background reasons, -더라고요 reports discoveries, and -네요 expresses immediate realization.",
+    "category": "endings"
+  },
+  {
+    "passage": "요즘 너무 바빠_____ 주말에 좀 쉬려고요.",
+    "options": ["-서요", "-거든요", "-더라고요", "-잖아요"],
+    "correct": 0,
+    "explanation": "-서요 is a casual way to express cause and effect. Because I'm busy, I'll rest on the weekend. -거든요 gives background explanations, -더라고요 reports discoveries, and -잖아요 refers to shared knowledge.",
+    "category": "endings"
+  },
+  {
+    "passage": "회의_____ 사장님이 직접 참석하셨어요. 정말 중요한 안건이었나 봐요.",
+    "options": ["에", "에서", "으로", "부터"],
+    "correct": 1,
+    "explanation": "에서 marks the location where an action occurs. The meeting is where the CEO attended. 에 marks static location or time, 으로 indicates direction/means, and 부터 means 'from'.",
+    "category": "particles"
+  },
+  {
+    "passage": "저는 커피_____ 차를 더 좋아해요. 커피는 너무 쓰거든요.",
+    "options": ["보다", "에서", "으로", "부터"],
+    "correct": 0,
+    "explanation": "보다 is the comparison particle meaning 'than'. I like tea more than coffee. 에서 marks location of action, 으로 indicates direction/means, and 부터 means 'from'.",
+    "category": "particles"
+  },
+  {
+    "passage": "내일부터 다이어트_____ 시작할 거예요. 이번에는 꼭 성공하고 싶어요.",
+    "options": ["를", "에", "으로", "에서"],
+    "correct": 0,
+    "explanation": "를 is the direct object marker. Starting a diet (diet is the object). 에 marks time/location, 으로 indicates direction/means, and 에서 marks location of action.",
+    "category": "particles"
+  },
+  {
+    "passage": "그 사람_____ 정말 똑똑해요. 항상 모든 문제를 쉽게 풀어요.",
+    "options": ["은", "를", "에", "에서"],
+    "correct": 0,
+    "explanation": "은 is the topic marker used for contrast or emphasis. That person (as for them) is really smart. 를 marks direct object, 에 marks location/time, and 에서 marks location of action.",
+    "category": "particles"
+  },
+  {
+    "passage": "비_____ 오고 있어요. 우산을 가져가세요.",
+    "options": ["가", "를", "은", "에"],
+    "correct": 0,
+    "explanation": "가 is the subject marker used when introducing new information or when the subject performs an action. Rain is falling. 를 marks object, 은 emphasizes topic, and 에 marks location/time.",
+    "category": "particles"
+  },
+  {
+    "passage": "지하철_____ 회사에 가는 게 더 빨라요. 차로 가면 막히거든요.",
+    "options": ["로", "에", "에서", "를"],
+    "correct": 0,
+    "explanation": "로/으로 indicates the means or method. Going by subway is faster. 에 marks destination/time, 에서 marks location of action, and 를 marks object.",
+    "category": "particles"
+  },
+  {
+    "passage": "도서관_____ 학교 뒤편에 있어요. 걸어서 5분 정도 걸려요.",
+    "options": ["은", "를", "에", "로"],
+    "correct": 0,
+    "explanation": "은 is the topic marker. As for the library (topic), it's behind the school. 를 marks object, 에 marks location (but here we're talking about the library itself as topic), and 로 indicates direction/means.",
+    "category": "particles"
+  },
+  {
+    "passage": "저는 서울_____ 부산까지 기차를 타고 갔어요. 약 3시간 걸렸어요.",
+    "options": ["에서", "에", "로", "부터"],
+    "correct": 0,
+    "explanation": "에서 marks the starting point when combined with 까지 (to). From Seoul to Busan. 에 marks static location, 로 indicates direction/means, and 부터 alone means 'from' but doesn't pair naturally with 까지 in this context.",
+    "category": "particles"
+  },
+  {
+    "passage": "제 친구_____ 가수예요. 노래를 정말 잘 불러요.",
+    "options": ["는", "를", "에", "로"],
+    "correct": 0,
+    "explanation": "는 is the topic marker. My friend (as the topic being discussed) is a singer. 를 marks object, 에 marks location/time, and 로 indicates direction/means.",
+    "category": "particles"
+  },
+  {
+    "passage": "회의_____ 3시에 시작해요. 늦지 마세요.",
+    "options": ["는", "를", "에", "에서"],
+    "correct": 0,
+    "explanation": "는 marks the topic. The meeting (as our topic) starts at 3. While 가 could work for simple subject, 는 is more natural when discussing scheduled events as topics. 를 marks object, 에 marks time, and 에서 marks location of action.",
+    "category": "particles"
+  },
+  {
+    "passage": "창문이 열려 _____ 방이 추워요. 창문 좀 닫아 주세요.",
+    "options": ["있어서", "있으니까", "있는데", "있고"],
+    "correct": 0,
+    "explanation": "-아/어 있어서 indicates a state causing a result. The window is open (state), so the room is cold (result). 있으니까 is too formal/strong, 있는데 would be contrastive, and 있고 just lists without clear causation.",
+    "category": "expressions"
+  },
+  {
+    "passage": "요즘 매일 운동을 하고 _____ 전보다 훨씬 건강해졌어요.",
+    "options": ["있어요", "계세요", "있네요", "계시네요"],
+    "correct": 0,
+    "explanation": "-고 있어요 indicates an ongoing action or habit. Currently exercising every day. 계세요 is honorific for people, 있네요 would express realization, and 계시네요 is honorific realization.",
+    "category": "tense/aspect"
+  },
+  {
+    "passage": "벽에 그림이 걸려 _____ 정말 예쁘네요.",
+    "options": ["있는데", "있어서", "있으니까", "있고"],
+    "correct": 0,
+    "explanation": "-아/어 있는데 indicates a state with a slightly contrastive or observational nuance. The picture is hanging (state) and it's pretty (observation). 있어서 is purely causal, 있으니까 is too strong, and 있고 just lists.",
+    "category": "tense/aspect"
+  },
+  {
+    "passage": "아이가 소파에 앉아 _____ TV를 보고 있어요.",
+    "options": ["있으면서", "있어서", "있는데", "있고"],
+    "correct": 0,
+    "explanation": "-아/어 있으면서 indicates doing another action while maintaining a state. Sitting (maintained state) while watching TV (action). 있어서 is causal, 있는데 is contrastive, and 있고 just lists.",
+    "category": "tense/aspect"
+  },
+  {
+    "passage": "매일 세 시간씩 공부하면 시험에 합격하_____ 합격 못 해도 최선을 다한 거니까 괜찮아요.",
+    "options": ["는 셈이에요", "는 법이에요", "는 편이에요", "는 중이에요"],
+    "correct": 0,
+    "explanation": "-는 셈이다 means 'can be considered as' or 'amounts to'. Studying 3 hours daily amounts to passing. -는 법이다 states a general principle, -는 편이다 indicates tendency, and -는 중이다 means 'in the middle of'.",
+    "category": "expressions"
+  },
+  {
+    "passage": "실수는 누구나 하_____ 중요한 건 그 실수에서 배우는 거예요.",
+    "options": ["는 법이에요", "는 셈이에요", "는 편이에요", "는 중이에요"],
+    "correct": 0,
+    "explanation": "-는 법이다 expresses a general principle or natural fact. Everyone makes mistakes (it's the natural way). -는 셈이다 means 'amounts to', -는 편이다 indicates tendency, and -는 중이다 means 'in the middle of'.",
+    "category": "expressions"
+  },
+  {
+    "passage": "요즘 날씨가 추운 _____ 아침에는 꼭 따뜻하게 입고 나가세요.",
+    "options": ["편이니까", "셈이니까", "법이니까", "중이니까"],
+    "correct": 0,
+    "explanation": "-는 편이다 indicates a general tendency or inclination. The weather tends to be cold these days. -는 셈이다 means 'amounts to', -는 법이다 is for principles, and -는 중이다 means 'in the middle of'.",
+    "category": "expressions"
+  },
+  {
+    "passage": "지금 회의 _____ 나중에 다시 전화 주시겠어요?",
+    "options": ["중인데요", "셈인데요", "법인데요", "편인데요"],
+    "correct": 0,
+    "explanation": "-는 중이다 means 'in the middle of' an action. Currently in a meeting. -는 셈이다 means 'amounts to', -는 법이다 is for principles, and -는 편이다 indicates tendency.",
+    "category": "expressions"
+  },
+  {
+    "passage": "이 정도면 잘하_____ 더 노력할 필요는 없어요.",
+    "options": ["는 거예요", "는 셈이에요", "는 법이에요", "는 중이에요"],
+    "correct": 0,
+    "explanation": "-는 거다 is used for explanation or emphasis. This is doing well (explanation). -는 셈이다 means 'amounts to', -는 법이다 states principles, and -는 중이다 means 'in the middle of'.",
+    "category": "expressions"
+  },
+  {
+    "passage": "한국어를 배우려면 매일 조금씩 연습해_____ 실력이 늘지 않아요.",
+    "options": ["야 해요", "도 돼요", "면 돼요", "야겠어요"],
+    "correct": 0,
+    "explanation": "-아/어야 해요 expresses necessity or obligation. Must practice daily. -아/어도 돼요 means permission, -으면 돼요 means sufficient condition, and -아/어야겠어요 expresses strong personal determination.",
+    "category": "expressions"
+  },
+  {
+    "passage": "어제 본 영화가 너무 재미있었어요. 친구_____ 봤는데 친구도 좋아했어요.",
+    "options": ["하고", "한테", "처럼", "마다"],
+    "correct": 0,
+    "explanation": "하고 means 'with' and marks accompaniment. Watched with a friend. 한테 means 'to/from' (for giving/receiving), 처럼 means 'like', and 마다 means 'every'.",
+    "category": "particles"
+  },
+  {
+    "passage": "옷이 더러워졌어요. 이거 좀 빨_____ 될까요?",
+    "options": ["아도", "으면", "아서", "다가"],
+    "correct": 0,
+    "explanation": "-아/어도 되다 asks for permission. Is it okay if I wash this? -으면 is a conditional, -아/어서 is causal, and -다가 indicates interruption.",
+    "category": "expressions"
+  },
+  {
+    "passage": "시험 공부를 열심히 _____ 이제 결과만 기다리면 돼요.",
+    "options": ["했으니까", "해서", "하면", "하니"],
+    "correct": 0,
+    "explanation": "-았/었으니까 indicates completed action as basis for following statement. Since studying is done, just wait for results. -해서 is simple causation, -하면 is conditional, and -하니 is observational causation.",
+    "category": "connectors"
+  },
+  {
+    "passage": "작년에 제주도에 갔었는데 정말 좋_____ 올해도 또 가려고요.",
+    "options": ["-더라고요", "-거든요", "-네요", "-잖아요"],
+    "correct": 0,
+    "explanation": "-더라고요 reports a past experience or discovery. Went and discovered it was good. -거든요 gives background reasons, -네요 expresses immediate realization, and -잖아요 refers to shared knowledge.",
+    "category": "endings"
+  },
+  {
+    "passage": "내일 날씨가 좋_____ 소풍 가기로 했어요. 비가 오면 연기할 거예요.",
+    "options": ["-으면", "-아서", "-으니까", "-는데"],
+    "correct": 0,
+    "explanation": "-으면 expresses a condition. If the weather is good, we'll go. -아서 is causal, -으니까 is reasoning, and -는데 is contrastive or background setting.",
+    "category": "connectors"
+  },
+  {
+    "passage": "이 가방 정말 예쁘_____ 너무 비싸서 못 사겠어요.",
+    "options": ["-은데", "-어서", "-으니까", "-으면"],
+    "correct": 0,
+    "explanation": "-은데 presents contrasting information. The bag is pretty, but it's too expensive. -어서 shows direct causation, -으니까 is reasoning, and -으면 is conditional.",
+    "category": "connectors"
+  },
+  {
+    "passage": "친구_____ 선물을 받았어요. 정말 기뻤어요.",
+    "options": ["한테서", "한테", "하고", "처럼"],
+    "correct": 0,
+    "explanation": "한테서 means 'from' and marks the source when receiving. Received from a friend. 한테 is 'to' for giving, 하고 means 'with', and 처럼 means 'like'.",
+    "category": "particles"
+  },
+  {
+    "passage": "문이 잠겨 _____ 들어갈 수가 없었어요.",
+    "options": ["있어서", "있으니까", "있는데", "있고"],
+    "correct": 0,
+    "explanation": "-아/어 있어서 indicates a state causing a result. The door was locked (state), so couldn't enter (result). 있으니까 is too strong/formal, 있는데 would be contrastive, and 있고 just lists.",
+    "category": "tense/aspect"
+  },
+  {
+    "passage": "아침에 일어나_____ 머리가 아팠어요. 감기에 걸린 것 같아요.",
+    "options": ["-니까", "-서", "-는데", "-면"],
+    "correct": 0,
+    "explanation": "-니까 is used when the speaker discovers the result after the first action. Upon waking (and as a result of checking), discovered a headache. -서 is simple causation, -는데 is background/contrast, and -면 is conditional.",
+    "category": "connectors"
+  },
+  {
+    "passage": "저는 아침_____ 커피를 꼭 마셔요. 안 마시면 잠이 안 깨요.",
+    "options": ["마다", "에", "에서", "부터"],
+    "correct": 0,
+    "explanation": "마다 means 'every' and marks frequency. Every morning drinks coffee. 에 marks specific time, 에서 marks location of action, and 부터 means 'from'.",
+    "category": "particles"
+  },
+  {
+    "passage": "공원에 사람들이 앉아 _____ 쉬고 있어요.",
+    "options": ["있으면서", "있어서", "있는데", "있고"],
+    "correct": 0,
+    "explanation": "-아/어 있으면서 indicates maintaining a state while doing something else. Sitting (maintained state) while resting (simultaneous action). 있어서 is causal, 있는데 is contrastive, and 있고 just lists.",
+    "category": "tense/aspect"
+  },
+  {
+    "passage": "책을 읽_____ 음악을 들어요. 그러면 집중이 더 잘 돼요.",
+    "options": ["-으면서", "-어서", "-으니까", "-는데"],
+    "correct": 0,
+    "explanation": "-으면서 indicates two simultaneous actions. Reading while listening to music. -어서 shows sequence or causation, -으니까 is reasoning, and -는데 is background/contrast.",
+    "category": "connectors"
+  },
+  {
+    "passage": "이 식당은 가격_____ 맛까지 모두 훌륭해요. 정말 좋은 곳을 찾았네요.",
+    "options": ["부터", "에서", "마다", "보다"],
+    "correct": 0,
+    "explanation": "부터 ... 까지 means 'from... to/even'. From the price to even the taste (everything). 에서 marks location, 마다 means 'every', and 보다 means 'than'.",
+    "category": "particles"
+  },
+  {
+    "passage": "저는 요즘 건강을 위해 술을 안 마시_____ 친구들을 만나면 가끔 한 잔 정도는 해요.",
+    "options": ["-는 편이에요", "-는 셈이에요", "-는 법이에요", "-는 중이에요"],
+    "correct": 0,
+    "explanation": "-는 편이다 indicates a general tendency while allowing exceptions. Generally don't drink, but sometimes do. -는 셈이다 means 'amounts to', -는 법이다 is for principles, and -는 중이다 means 'in the middle of'.",
+    "category": "expressions"
+  },
+  {
+    "passage": "책상 위에 책이 놓여 _____ 누가 읽는 중인가 봐요.",
+    "options": ["있네요", "있어요", "있거든요", "있잖아요"],
+    "correct": 0,
+    "explanation": "-아/어 있네요 expresses the speaker's immediate realization of a state. Noticing now that books are placed on the desk. Plain 있어요 is neutral statement, 있거든요 would give a reason, and 있잖아요 would refer to shared knowledge.",
+    "category": "tense/aspect"
+  },
+  {
+    "passage": "어제 시작한 프로젝트를 하_____ 다음 주까지는 끝내야 해요.",
+    "options": ["-고 있는데", "-고 있어서", "-고 있으니까", "-고 있으면서"],
+    "correct": 0,
+    "explanation": "-고 있는데 indicates an ongoing action with contrasting or additional information. Currently doing the project, and (contrast) need to finish by next week. 있어서 is causal, 있으니까 is reasoning, and 있으면서 is simultaneity.",
+    "category": "tense/aspect"
+  },
+  {
+    "passage": "요즘 저는 출근_____ 지하철 대신 자전거를 타요. 운동도 되고 좋아요.",
+    "options": ["할 때", "하면", "해서", "하니까"],
+    "correct": 0,
+    "explanation": "-ㄹ 때 means 'when/while' and marks a specific time. When commuting, rides a bike. -하면 is conditional (if), -해서 is causal/sequential, and -하니까 is reasoning.",
+    "category": "expressions"
+  },
+  {
+    "passage": "내일 시험_____ 오늘 밤에 열심히 공부해야겠어요.",
+    "options": ["이라서", "이니까", "인데", "이면"],
+    "correct": 1,
+    "explanation": "-이니까 provides reasoning for a decision or action. Since the test is tomorrow (reason), I should study hard tonight (decision). -이라서 is simple causation, -인데 is background/contrast, and -이면 is conditional.",
+    "category": "connectors"
+  },
+  {
+    "passage": "한국어_____ 영어는 문법이 많이 달라요. 그래서 배우기가 어려워요.",
+    "options": ["와", "하고", "처럼", "마다"],
+    "correct": 0,
+    "explanation": "와/과 means 'and' connecting two nouns in formal contexts. Korean and English. 하고 is casual 'and/with', 처럼 means 'like', and 마다 means 'every'.",
+    "category": "particles"
+  },
+  {
+    "passage": "친구_____ 영화를 보러 갈 거예요. 7시에 만나기로 했어요.",
+    "options": ["랑", "한테", "처럼", "마다"],
+    "correct": 0,
+    "explanation": "랑/이랑 means 'with' in casual speech. Going with a friend. 한테 means 'to/from', 처럼 means 'like', and 마다 means 'every'.",
+    "category": "particles"
+  },
+  {
+    "passage": "저_____ 그 사람을 잘 몰라요. 한두 번 본 적은 있지만요.",
+    "options": ["는", "가", "를", "도"],
+    "correct": 0,
+    "explanation": "는 marks contrast. As for me (in contrast to others perhaps), I don't know them well. 가 is simple subject, 를 marks object, and 도 means 'also'.",
+    "category": "particles"
+  }
+]
