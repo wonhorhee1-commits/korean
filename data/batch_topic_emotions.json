@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 감정 (Topic: Emotions)": [
+    {
+      "korean": "허탈감",
+      "english": "sense of emptiness; feeling deflated",
+      "example": "시험에 떨어졌다는 소식을 듣고 허탈감에 빠졌다.",
+      "example_en": "After hearing the news that I failed the exam, I sank into a feeling of deflation."
+    },
+    {
+      "korean": "무력감",
+      "english": "sense of helplessness; powerlessness",
+      "example": "아무것도 바꿀 수 없다는 무력감이 밀려왔다.",
+      "example_en": "A sense of helplessness washed over me, feeling that I couldn't change anything."
+    },
+    {
+      "korean": "박탈감",
+      "english": "sense of deprivation; feeling deprived",
+      "example": "승진에서 누락되자 극심한 박탈감을 느꼈다.",
+      "example_en": "Being passed over for promotion, I felt an intense sense of deprivation."
+    },
+    {
+      "korean": "소외감",
+      "english": "sense of alienation; feeling left out",
+      "example": "새 직장에서 아무도 말을 걸지 않아 소외감이 컸다.",
+      "example_en": "Nobody spoke to me at the new workplace, so my sense of alienation was great."
+    },
+    {
+      "korean": "죄책감",
+      "english": "guilt; sense of guilt",
+      "example": "친구에게 거짓말을 한 후 죄책감에 시달렸다.",
+      "example_en": "After lying to my friend, I was tormented by guilt."
+    },
+    {
+      "korean": "모멸감",
+      "english": "sense of humiliation; feeling degraded",
+      "example": "사람들 앞에서 공개적으로 질책당해 모멸감을 느꼈다.",
+      "example_en": "Being publicly reprimanded in front of everyone, I felt humiliated."
+    },
+    {
+      "korean": "수치심",
+      "english": "shame; sense of shame",
+      "example": "실수를 들켜 수치심으로 얼굴을 들 수 없었다.",
+      "example_en": "Caught making a mistake, I couldn't lift my face from the shame."
+    },
+    {
+      "korean": "배신감",
+      "english": "sense of betrayal; feeling betrayed",
+      "example": "가장 믿었던 동료가 뒤에서 험담을 했다니 배신감이 크다.",
+      "example_en": "The colleague I trusted most was badmouthing me behind my back — the sense of betrayal is enormous."
+    },
+    {
+      "korean": "상실감",
+      "english": "sense of loss; feeling of bereavement",
+      "example": "반려동물을 떠나보낸 후 한동안 상실감을 극복하지 못했다.",
+      "example_en": "After losing my pet, I couldn't overcome the sense of loss for a long time."
+    },
+    {
+      "korean": "허무감",
+      "english": "sense of futility; existential emptiness",
+      "example": "오랜 시간 준비한 프로젝트가 취소되자 허무감이 밀려왔다.",
+      "example_en": "When the project I had prepared for so long was canceled, a wave of futility hit me."
+    },
+    {
+      "korean": "방심",
+      "english": "letting one's guard down; carelessness",
+      "example": "잠깐의 방심이 큰 사고로 이어질 수 있다.",
+      "example_en": "A momentary lapse in vigilance can lead to a major accident."
+    },
+    {
+      "korean": "망상",
+      "english": "delusion; delusional thinking",
+      "example": "현실과 동떨어진 망상에 빠져 주변 사람들이 걱정했다.",
+      "example_en": "Everyone around was worried because he was lost in delusions detached from reality."
+    },
+    {
+      "korean": "자의식",
+      "english": "self-consciousness; self-awareness",
+      "example": "자의식이 지나치게 강한 사람은 남의 시선에 예민하다.",
+      "example_en": "People with excessive self-consciousness are sensitive to how others perceive them."
+    },
+    {
+      "korean": "회의감",
+      "english": "sense of doubt; skepticism (about one's path)",
+      "example": "같은 일을 반복하다 보니 이 일에 대한 회의감이 들었다.",
+      "example_en": "Repeating the same work over and over, I started feeling doubt about this career."
+    },
+    {
+      "korean": "긴장감",
+      "english": "tension; nervousness; sense of suspense",
+      "example": "면접실 앞에서 긴장감이 극에 달했다.",
+      "example_en": "The tension peaked as I waited outside the interview room."
+    },
+    {
+      "korean": "해방감",
+      "english": "sense of liberation; feeling freed",
+      "example": "마지막 시험이 끝난 순간 엄청난 해방감을 느꼈다.",
+      "example_en": "The moment the last exam ended, I felt an overwhelming sense of liberation."
+    },
+    {
+      "korean": "절망감",
+      "english": "despair; sense of hopelessness",
+      "example": "몇 번이나 지원했지만 번번이 탈락해 절망감에 빠졌다.",
+      "example_en": "Having applied multiple times and been rejected each time, I fell into despair."
+    },
+    {
+      "korean": "안도감",
+      "english": "sense of relief",
+      "example": "검사 결과가 정상으로 나오자 안도감이 밀려왔다.",
+      "example_en": "When the test results came back normal, a wave of relief washed over me."
+    },
+    {
+      "korean": "무감각",
+      "english": "numbness; emotional apathy",
+      "example": "너무 많은 일을 겪다 보니 무감각해져 버렸다.",
+      "example_en": "Having been through so much, I became emotionally numb."
+    },
+    {
+      "korean": "현실감",
+      "english": "sense of reality; feeling that something is real",
+      "example": "합격 통보를 받았는데도 현실감이 없어서 멍했다.",
+      "example_en": "Even after receiving the acceptance notice, it didn't feel real and I was in a daze."
+    },
+    {
+      "korean": "연민",
+      "english": "compassion; pity",
+      "example": "어려운 환경에서 자란 아이의 이야기를 듣고 연민을 느꼈다.",
+      "example_en": "Hearing the story of a child raised in difficult circumstances, I felt compassion."
+    },
+    {
+      "korean": "경멸",
+      "english": "contempt; disdain; scorn",
+      "example": "약자를 괴롭히는 사람에 대해 경멸을 감출 수 없었다.",
+      "example_en": "I couldn't hide my contempt for the person who bullied the weak."
+    },
+    {
+      "korean": "질투심",
+      "english": "jealousy; feelings of jealousy",
+      "example": "친구의 성공 소식에 축하하면서도 질투심이 고개를 들었다.",
+      "example_en": "While congratulating my friend on the success, jealousy reared its head."
+    },
+    {
+      "korean": "시기심",
+      "english": "envy; envious feelings",
+      "example": "동기가 먼저 승진하자 시기심이 생기는 걸 스스로 인정했다.",
+      "example_en": "When my peer got promoted first, I admitted to myself that I felt envious."
+    },
+    {
+      "korean": "거리감",
+      "english": "emotional distance; sense of detachment",
+      "example": "오랜만에 만난 옛 친구에게서 묘한 거리감이 느껴졌다.",
+      "example_en": "Meeting my old friend after a long time, I sensed a strange emotional distance."
+    },
+    {
+      "korean": "동질감",
+      "english": "sense of kinship; feeling of solidarity",
+      "example": "비슷한 경험을 한 사람들끼리 강한 동질감을 느꼈다.",
+      "example_en": "People who had gone through similar experiences felt a strong sense of kinship."
+    },
+    {
+      "korean": "친밀감",
+      "english": "intimacy; sense of closeness",
+      "example": "함께 고생한 경험이 팀원들 사이에 친밀감을 형성했다.",
+      "example_en": "The shared hardship built a sense of closeness among the team members."
+    },
+    {
+      "korean": "증오",
+      "english": "hatred; loathing; abhorrence",
+      "example": "전쟁은 서로를 향한 증오만 키울 뿐이다.",
+      "example_en": "War only breeds mutual hatred."
+    },
+    {
+      "korean": "원망",
+      "english": "resentment; blame; bitter reproach",
+      "example": "부모님을 원망했던 시절이 있었지만 지금은 이해하게 됐다.",
+      "example_en": "There was a time I resented my parents, but now I've come to understand them."
+    },
+    {
+      "korean": "경계심",
+      "english": "wariness; vigilance; guardedness",
+      "example": "처음 만나는 사람에 대한 경계심이 강한 편이다.",
+      "example_en": "I tend to be quite guarded around people I meet for the first time."
+    },
+    {
+      "korean": "오열",
+      "english": "wailing; sobbing uncontrollably",
+      "example": "장례식장에서 유족들이 오열을 터뜨렸다.",
+      "example_en": "The bereaved family burst into uncontrollable sobbing at the funeral."
+    },
+    {
+      "korean": "전율",
+      "english": "shudder; thrill; trembling (from intense emotion)",
+      "example": "그 피아니스트의 마지막 연주에 온몸에 전율이 흘렀다.",
+      "example_en": "A shudder ran through my entire body during the pianist's final performance."
+    },
+    {
+      "korean": "탄식",
+      "english": "lamentation; sigh of despair",
+      "example": "경기 결과를 본 팬들의 탄식이 경기장을 가득 채웠다.",
+      "example_en": "Sighs of despair from the fans filled the stadium after seeing the match result."
+    },
+    {
+      "korean": "울컥하다",
+      "english": "to feel a sudden surge of emotion; to choke up unexpectedly",
+      "example": "졸업식에서 은사님의 축사를 듣다가 울컥했다.",
+      "example_en": "I choked up listening to my mentor's speech at the graduation ceremony."
+    },
+    {
+      "korean": "서글프다",
+      "english": "to feel mournful; to be sadly touched",
+      "example": "텅 빈 집에 혼자 앉아 있으니 서글픈 마음이 들었다.",
+      "example_en": "Sitting alone in the empty house, a mournful feeling came over me."
+    },
+    {
+      "korean": "먹먹하다",
+      "english": "to feel choked up; to have a lump in one's throat",
+      "example": "고향 사진을 보니 가슴이 먹먹해졌다.",
+      "example_en": "Looking at photos of my hometown, I felt a lump in my throat."
+    },
+    {
+      "korean": "짜릿하다",
+      "english": "to feel a thrill; to be electrifying",
+      "example": "번지점프 직전의 짜릿한 공포를 잊을 수 없다.",
+      "example_en": "I can't forget the electrifying fear right before the bungee jump."
+    },
+    {
+      "korean": "서럽다",
+      "english": "to feel wronged and sad; to be pitifully aggrieved",
+      "example": "아무도 내 편이 아닌 것 같아 서러워서 눈물이 났다.",
+      "example_en": "Feeling like nobody was on my side, I cried from the sense of being wronged."
+    },
+    {
+      "korean": "흐느끼다",
+      "english": "to sob quietly; to weep with muffled cries",
+      "example": "그녀는 편지를 읽으며 조용히 흐느꼈다.",
+      "example_en": "She sobbed quietly as she read the letter."
+    },
+    {
+      "korean": "울먹이다",
+      "english": "to be on the verge of tears; to speak tearfully",
+      "example": "아이가 울먹이며 무슨 일이 있었는지 이야기했다.",
+      "example_en": "The child, on the verge of tears, told what had happened."
+    }
+  ]
+}

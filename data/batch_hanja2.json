@@ -1,0 +1,499 @@
+{
+  "한자어 (Sino-Korean)": [
+    {
+      "korean": "사법",
+      "english": "judiciary; judicial",
+      "hanja": "司法",
+      "breakdown": "사(司) oversee + 법(法) law",
+      "example": "사법부의 독립은 민주주의의 핵심 원칙이다.",
+      "example_en": "The independence of the judiciary is a core principle of democracy.",
+      "notes": "Related: 사회(司會) moderating, 법률(法律) statute/law, 입법(立法) legislation"
+    },
+    {
+      "korean": "행정",
+      "english": "administration; executive (branch)",
+      "hanja": "行政",
+      "breakdown": "행(行) carry out + 정(政) government",
+      "example": "행정 절차가 복잡해서 서류 처리에 시간이 오래 걸렸다.",
+      "example_en": "The administrative procedures were so complicated that processing the paperwork took a long time.",
+      "notes": "Related: 행동(行動) action, 정치(政治) politics, 행위(行爲) conduct"
+    },
+    {
+      "korean": "관할",
+      "english": "jurisdiction",
+      "hanja": "管轄",
+      "breakdown": "관(管) manage + 할(轄) govern",
+      "example": "이 사건은 서울중앙지방법원의 관할에 속한다.",
+      "example_en": "This case falls under the jurisdiction of the Seoul Central District Court.",
+      "notes": "Related: 관리(管理) management, 관장(管掌) supervision, 소관(所管) purview"
+    },
+    {
+      "korean": "기소",
+      "english": "indictment; prosecution",
+      "hanja": "起訴",
+      "breakdown": "기(起) raise/initiate + 소(訴) accuse",
+      "example": "검찰은 증거 불충분으로 불기소 처분을 내렸다.",
+      "example_en": "The prosecution issued a non-indictment decision due to insufficient evidence.",
+      "notes": "Related: 기립(起立) standing up, 소송(訴訟) lawsuit, 기원(起源) origin"
+    },
+    {
+      "korean": "항소",
+      "english": "appeal (legal)",
+      "hanja": "抗訴",
+      "breakdown": "항(抗) resist + 소(訴) accuse/sue",
+      "example": "피고인은 1심 판결에 불복하여 항소했다.",
+      "example_en": "The defendant appealed, objecting to the first-trial verdict.",
+      "notes": "Related: 항의(抗議) protest, 소장(訴狀) complaint/petition, 상고(上告) final appeal"
+    },
+    {
+      "korean": "소송",
+      "english": "lawsuit; litigation",
+      "hanja": "訴訟",
+      "breakdown": "소(訴) accuse + 송(訟) litigate",
+      "example": "이웃 간의 분쟁이 결국 소송으로 이어졌다.",
+      "example_en": "The dispute between neighbors eventually led to a lawsuit.",
+      "notes": "Related: 소원(訴願) petition, 기소(起訴) indictment, 항소(抗訴) appeal"
+    },
+    {
+      "korean": "조례",
+      "english": "ordinance; bylaw",
+      "hanja": "條例",
+      "breakdown": "조(條) article/clause + 례(例) precedent/example",
+      "example": "시의회가 새로운 환경 보호 조례를 제정했다.",
+      "example_en": "The city council enacted a new environmental protection ordinance.",
+      "notes": "Related: 조항(條項) clause, 조건(條件) condition, 사례(事例) case/example"
+    },
+    {
+      "korean": "헌법",
+      "english": "constitution",
+      "hanja": "憲法",
+      "breakdown": "헌(憲) constitution + 법(法) law",
+      "example": "헌법은 모든 국민의 기본권을 보장한다.",
+      "example_en": "The constitution guarantees the fundamental rights of all citizens.",
+      "notes": "Related: 개헌(改憲) constitutional amendment, 법률(法律) statute, 위헌(違憲) unconstitutional"
+    },
+    {
+      "korean": "판결",
+      "english": "verdict; ruling; judgment",
+      "hanja": "判決",
+      "breakdown": "판(判) judge + 결(決) decide",
+      "example": "대법원의 최종 판결이 내일 내려질 예정이다.",
+      "example_en": "The Supreme Court's final verdict is scheduled for tomorrow.",
+      "notes": "Related: 판례(判例) legal precedent, 결정(決定) decision, 판단(判斷) judgment"
+    },
+    {
+      "korean": "구형",
+      "english": "sentencing request (by prosecutor)",
+      "hanja": "求刑",
+      "breakdown": "구(求) seek/request + 형(刑) punishment",
+      "example": "검사는 피고인에게 징역 10년을 구형했다.",
+      "example_en": "The prosecutor requested a 10-year prison sentence for the defendant.",
+      "notes": "Related: 요구(要求) demand, 형벌(刑罰) penalty, 사형(死刑) death penalty"
+    },
+    {
+      "korean": "위헌",
+      "english": "unconstitutional",
+      "hanja": "違憲",
+      "breakdown": "위(違) violate + 헌(憲) constitution",
+      "example": "헌법재판소가 해당 법률에 대해 위헌 결정을 내렸다.",
+      "example_en": "The Constitutional Court ruled the law unconstitutional.",
+      "notes": "Related: 위반(違反) violation, 헌법(憲法) constitution, 위법(違法) illegal"
+    },
+    {
+      "korean": "도덕",
+      "english": "morality; moral principles",
+      "hanja": "道德",
+      "breakdown": "도(道) way/path + 덕(德) virtue",
+      "example": "도덕적 판단은 단순한 규칙 적용이 아니라 깊은 성찰을 요한다.",
+      "example_en": "Moral judgment requires deep reflection, not just simple rule application.",
+      "notes": "Related: 도리(道理) moral principle, 덕목(德目) virtue, 인도(人道) humanity"
+    },
+    {
+      "korean": "윤리",
+      "english": "ethics",
+      "hanja": "倫理",
+      "breakdown": "윤(倫) human relations/ethics + 리(理) reason/principle",
+      "example": "인공지능의 발전은 새로운 윤리적 문제를 제기한다.",
+      "example_en": "The development of AI raises new ethical questions.",
+      "notes": "Related: 인륜(人倫) human ethics, 이론(理論) theory, 합리(合理) rationality"
+    },
+    {
+      "korean": "덕목",
+      "english": "virtue; moral quality",
+      "hanja": "德目",
+      "breakdown": "덕(德) virtue + 목(目) item/category",
+      "example": "정직은 동서양을 막론하고 가장 중요한 덕목으로 여겨진다.",
+      "example_en": "Honesty is considered the most important virtue in both the East and the West.",
+      "notes": "Related: 도덕(道德) morality, 미덕(美德) fine virtue, 과목(科目) subject"
+    },
+    {
+      "korean": "양지",
+      "english": "innate moral knowledge (Confucian concept)",
+      "hanja": "良知",
+      "breakdown": "양(良) good + 지(知) know",
+      "example": "왕양명은 모든 사람에게 양지가 있다고 주장했다.",
+      "example_en": "Wang Yangming argued that everyone possesses innate moral knowledge.",
+      "notes": "Related: 양심(良心) conscience, 지식(知識) knowledge, 양호(良好) favorable"
+    },
+    {
+      "korean": "인의",
+      "english": "benevolence and righteousness",
+      "hanja": "仁義",
+      "breakdown": "인(仁) benevolence + 의(義) righteousness",
+      "example": "유교에서는 인의를 인간관계의 기본으로 삼는다.",
+      "example_en": "In Confucianism, benevolence and righteousness are the foundation of human relations.",
+      "notes": "Related: 인정(仁政) benevolent governance, 의리(義理) loyalty/duty, 인자(仁慈) merciful"
+    },
+    {
+      "korean": "심성",
+      "english": "innate nature; temperament",
+      "hanja": "心性",
+      "breakdown": "심(心) mind/heart + 성(性) nature",
+      "example": "심성이 착한 사람은 어디서든 환영받는다.",
+      "example_en": "A person of good nature is welcomed everywhere.",
+      "notes": "Related: 심리(心理) psychology, 성격(性格) personality, 심정(心情) feelings"
+    },
+    {
+      "korean": "관념",
+      "english": "idea; notion; concept",
+      "hanja": "觀念",
+      "breakdown": "관(觀) observe + 념(念) thought",
+      "example": "고정관념에 사로잡히면 창의적인 사고가 어렵다.",
+      "example_en": "Creative thinking is difficult when trapped by fixed notions.",
+      "notes": "Related: 관점(觀點) viewpoint, 신념(信念) belief, 관찰(觀察) observation"
+    },
+    {
+      "korean": "존재",
+      "english": "existence; being",
+      "hanja": "存在",
+      "breakdown": "존(存) exist + 재(在) be at",
+      "example": "사르트르는 존재가 본질에 앞선다고 주장했다.",
+      "example_en": "Sartre argued that existence precedes essence.",
+      "notes": "Related: 존속(存續) continuance, 현재(現在) present time, 보존(保存) preservation"
+    },
+    {
+      "korean": "당위",
+      "english": "moral imperative; what ought to be",
+      "hanja": "當爲",
+      "breakdown": "당(當) should + 위(爲) do/act",
+      "example": "환경 보호는 선택이 아닌 당위이다.",
+      "example_en": "Environmental protection is not a choice but a moral imperative.",
+      "notes": "Related: 당연(當然) natural/obvious, 행위(行爲) conduct, 당면(當面) facing"
+    },
+    {
+      "korean": "이성",
+      "english": "reason; rationality",
+      "hanja": "理性",
+      "breakdown": "이(理) reason/principle + 성(性) nature",
+      "example": "감정에 휩쓸리지 않고 이성적으로 판단해야 한다.",
+      "example_en": "One must judge rationally without being swept away by emotion.",
+      "notes": "Related: 이론(理論) theory, 합리(合理) rationality, 성격(性格) personality"
+    },
+    {
+      "korean": "명제",
+      "english": "proposition; thesis",
+      "hanja": "命題",
+      "breakdown": "명(命) state/decree + 제(題) topic/subject",
+      "example": "\"모든 인간은 평등하다\"는 보편적 명제로 받아들여진다.",
+      "example_en": "\"All humans are equal\" is accepted as a universal proposition.",
+      "notes": "Related: 운명(運命) fate, 제목(題目) title, 생명(生命) life"
+    },
+    {
+      "korean": "자본",
+      "english": "capital (financial)",
+      "hanja": "資本",
+      "breakdown": "자(資) resources + 본(本) root/basis",
+      "example": "창업에는 충분한 자본 확보가 필수적이다.",
+      "example_en": "Securing sufficient capital is essential for starting a business.",
+      "notes": "Related: 자산(資産) assets, 본질(本質) essence, 투자(投資) investment"
+    },
+    {
+      "korean": "금융",
+      "english": "finance; financial services",
+      "hanja": "金融",
+      "breakdown": "금(金) money/gold + 융(融) circulate/flow",
+      "example": "금융 위기가 전 세계 경제에 큰 타격을 주었다.",
+      "example_en": "The financial crisis dealt a major blow to the global economy.",
+      "notes": "Related: 금리(金利) interest rate, 융합(融合) convergence, 기금(基金) fund"
+    },
+    {
+      "korean": "물가",
+      "english": "commodity prices; cost of living",
+      "hanja": "物價",
+      "breakdown": "물(物) things/goods + 가(價) price",
+      "example": "물가 상승률이 예상보다 높아 서민 생활이 어려워지고 있다.",
+      "example_en": "The inflation rate is higher than expected, making life difficult for ordinary people.",
+      "notes": "Related: 물건(物件) item, 가격(價格) price, 물질(物質) material"
+    },
+    {
+      "korean": "수요",
+      "english": "demand (economic)",
+      "hanja": "需要",
+      "breakdown": "수(需) need + 요(要) require",
+      "example": "반도체에 대한 수요가 급증하면서 가격이 올랐다.",
+      "example_en": "As demand for semiconductors surged, prices rose.",
+      "notes": "Related: 필요(必要) necessity, 요구(要求) request, 수급(需給) supply and demand"
+    },
+    {
+      "korean": "공급",
+      "english": "supply; provision",
+      "hanja": "供給",
+      "breakdown": "공(供) provide + 급(給) give/supply",
+      "example": "전력 공급이 수요를 따라가지 못하고 있다.",
+      "example_en": "The power supply cannot keep up with demand.",
+      "notes": "Related: 제공(提供) provision, 급여(給與) salary, 공술(供述) testimony"
+    },
+    {
+      "korean": "관세",
+      "english": "tariff; customs duty",
+      "hanja": "關稅",
+      "breakdown": "관(關) gate/customs + 세(稅) tax",
+      "example": "수입품에 대한 관세를 인하하여 소비자 부담을 줄였다.",
+      "example_en": "Tariffs on imports were lowered to reduce the burden on consumers.",
+      "notes": "Related: 관련(關聯) relation, 세율(稅率) tax rate, 세관(稅關) customs office"
+    },
+    {
+      "korean": "세율",
+      "english": "tax rate",
+      "hanja": "稅率",
+      "breakdown": "세(稅) tax + 율(率) rate",
+      "example": "정부가 법인세 세율을 인하하는 방안을 검토 중이다.",
+      "example_en": "The government is reviewing a plan to lower the corporate tax rate.",
+      "notes": "Related: 세금(稅金) tax, 비율(比率) ratio, 면세(免稅) tax-free"
+    },
+    {
+      "korean": "배당",
+      "english": "dividend; allocation",
+      "hanja": "配當",
+      "breakdown": "배(配) distribute + 당(當) assign",
+      "example": "올해 주주들에게 지급되는 배당금이 크게 늘었다.",
+      "example_en": "Dividends paid to shareholders increased significantly this year.",
+      "notes": "Related: 배분(配分) distribution, 배치(配置) arrangement, 담당(擔當) responsibility"
+    },
+    {
+      "korean": "환율",
+      "english": "exchange rate",
+      "hanja": "換率",
+      "breakdown": "환(換) exchange + 율(率) rate",
+      "example": "환율 변동이 수출 기업의 실적에 큰 영향을 미친다.",
+      "example_en": "Exchange rate fluctuations significantly affect the performance of export companies.",
+      "notes": "Related: 교환(交換) exchange, 비율(比率) ratio, 전환(轉換) conversion"
+    },
+    {
+      "korean": "조달",
+      "english": "procurement; sourcing",
+      "hanja": "調達",
+      "breakdown": "조(調) arrange + 달(達) reach/achieve",
+      "example": "대규모 프로젝트를 위한 자금 조달이 쉽지 않다.",
+      "example_en": "Procuring funds for a large-scale project is not easy.",
+      "notes": "Related: 조정(調整) adjustment, 달성(達成) achievement, 조사(調査) investigation"
+    },
+    {
+      "korean": "융자",
+      "english": "financing; loan",
+      "hanja": "融資",
+      "breakdown": "융(融) circulate + 자(資) capital",
+      "example": "은행에서 주택 융자를 받아 집을 구매했다.",
+      "example_en": "I purchased a house by getting a housing loan from the bank.",
+      "notes": "Related: 금융(金融) finance, 자본(資本) capital, 융통(融通) financial accommodation"
+    },
+    {
+      "korean": "진료",
+      "english": "medical treatment; consultation",
+      "hanja": "診療",
+      "breakdown": "진(診) examine + 료(療) treat",
+      "example": "오늘 예약한 진료 시간이 오후 3시이다.",
+      "example_en": "My scheduled medical appointment today is at 3 PM.",
+      "notes": "Related: 진단(診斷) diagnosis, 치료(治療) treatment, 진찰(診察) medical examination"
+    },
+    {
+      "korean": "투병",
+      "english": "fighting an illness; battling disease",
+      "hanja": "鬪病",
+      "breakdown": "투(鬪) fight + 병(病) illness",
+      "example": "그는 3년간의 투병 끝에 건강을 되찾았다.",
+      "example_en": "He regained his health after a three-year battle with illness.",
+      "notes": "Related: 투쟁(鬪爭) struggle, 병원(病院) hospital, 전투(戰鬪) combat"
+    },
+    {
+      "korean": "합병증",
+      "english": "complication (medical)",
+      "hanja": "合併症",
+      "breakdown": "합(合) combine + 병(併) merge + 증(症) symptom",
+      "example": "당뇨병의 가장 위험한 점은 다양한 합병증이 생길 수 있다는 것이다.",
+      "example_en": "The most dangerous aspect of diabetes is that various complications can arise.",
+      "notes": "Related: 합의(合意) agreement, 증상(症狀) symptom, 병합(倂合) annexation"
+    },
+    {
+      "korean": "양성",
+      "english": "positive (test result)",
+      "hanja": "陽性",
+      "breakdown": "양(陽) positive/sun + 성(性) nature/property",
+      "example": "검사 결과 양성 반응이 나와 추가 검사가 필요하다.",
+      "example_en": "The test came back positive, so additional tests are needed.",
+      "notes": "Related: 음성(陰性) negative, 성질(性質) property, 양극(陽極) positive pole"
+    },
+    {
+      "korean": "완치",
+      "english": "complete cure; full recovery",
+      "hanja": "完治",
+      "breakdown": "완(完) complete + 치(治) cure",
+      "example": "초기에 발견하면 완치 가능성이 매우 높다.",
+      "example_en": "If caught early, the chance of a complete cure is very high.",
+      "notes": "Related: 완벽(完璧) perfection, 치료(治療) treatment, 완성(完成) completion"
+    },
+    {
+      "korean": "마취",
+      "english": "anesthesia",
+      "hanja": "麻醉",
+      "breakdown": "마(麻) numb + 취(醉) intoxicate",
+      "example": "전신 마취 후 수술이 순조롭게 진행되었다.",
+      "example_en": "After general anesthesia, the surgery proceeded smoothly.",
+      "notes": "Related: 마비(麻痺) paralysis, 취기(醉氣) effect of alcohol, 국소(局所) local (as in 국소마취)"
+    },
+    {
+      "korean": "병리",
+      "english": "pathology",
+      "hanja": "病理",
+      "breakdown": "병(病) disease + 리(理) principle/reason",
+      "example": "병리학적 분석을 통해 정확한 질병의 원인을 밝혔다.",
+      "example_en": "Through pathological analysis, the exact cause of the disease was revealed.",
+      "notes": "Related: 발병(發病) onset of disease, 이론(理論) theory, 병원(病院) hospital"
+    },
+    {
+      "korean": "외과",
+      "english": "surgery department; surgical",
+      "hanja": "外科",
+      "breakdown": "외(外) outer + 과(科) department",
+      "example": "외과 전문의가 응급 수술을 집도했다.",
+      "example_en": "A surgical specialist performed the emergency surgery.",
+      "notes": "Related: 외부(外部) exterior, 내과(內科) internal medicine, 과학(科學) science"
+    },
+    {
+      "korean": "내과",
+      "english": "internal medicine",
+      "hanja": "內科",
+      "breakdown": "내(內) inner + 과(科) department",
+      "example": "소화가 안 될 때는 내과에 가서 진찰을 받아야 한다.",
+      "example_en": "When you have indigestion, you should go to internal medicine for an examination.",
+      "notes": "Related: 내부(內部) interior, 외과(外科) surgery department, 과목(科目) subject"
+    },
+    {
+      "korean": "복용",
+      "english": "taking medicine (orally)",
+      "hanja": "服用",
+      "breakdown": "복(服) take/consume + 용(用) use",
+      "example": "이 약은 식후 30분에 복용해야 효과가 좋다.",
+      "example_en": "This medicine is most effective when taken 30 minutes after meals.",
+      "notes": "Related: 복약(服藥) taking medicine, 사용(使用) usage, 용법(用法) directions for use"
+    },
+    {
+      "korean": "재활",
+      "english": "rehabilitation",
+      "hanja": "再活",
+      "breakdown": "재(再) again + 활(活) live",
+      "example": "무릎 수술 후 꾸준한 재활 운동이 회복에 중요하다.",
+      "example_en": "Consistent rehabilitation exercises are important for recovery after knee surgery.",
+      "notes": "Related: 재생(再生) regeneration, 활동(活動) activity, 재발(再發) relapse"
+    },
+    {
+      "korean": "전략",
+      "english": "strategy",
+      "hanja": "戰略",
+      "breakdown": "전(戰) war/battle + 략(略) plan/scheme",
+      "example": "기업의 장기 전략 없이는 시장에서 살아남기 어렵다.",
+      "example_en": "It is hard to survive in the market without a long-term corporate strategy.",
+      "notes": "Related: 전투(戰鬪) combat, 전술(戰術) tactics, 약략(略略) roughly/briefly"
+    },
+    {
+      "korean": "침략",
+      "english": "invasion; aggression",
+      "hanja": "侵略",
+      "breakdown": "침(侵) invade + 략(略) plunder/scheme",
+      "example": "역사상 수많은 침략 전쟁이 민간인에게 막대한 피해를 입혔다.",
+      "example_en": "Throughout history, countless wars of aggression have inflicted enormous damage on civilians.",
+      "notes": "Related: 침입(侵入) intrusion, 침해(侵害) infringement, 전략(戰略) strategy"
+    },
+    {
+      "korean": "병영",
+      "english": "military barracks",
+      "hanja": "兵營",
+      "breakdown": "병(兵) soldier + 영(營) camp",
+      "example": "군인들은 병영 생활에 적응하는 데 시간이 걸린다.",
+      "example_en": "Soldiers take time to adjust to barracks life.",
+      "notes": "Related: 병사(兵士) soldier, 병력(兵力) military strength, 경영(經營) management"
+    },
+    {
+      "korean": "정복",
+      "english": "conquest; subjugation",
+      "hanja": "征服",
+      "breakdown": "정(征) conquer + 복(服) subdue",
+      "example": "알렉산더 대왕은 동방 정복으로 대제국을 건설했다.",
+      "example_en": "Alexander the Great built a great empire through the conquest of the East.",
+      "notes": "Related: 원정(遠征) expedition, 복종(服從) obedience, 정벌(征伐) subjugation"
+    },
+    {
+      "korean": "항복",
+      "english": "surrender; capitulation",
+      "hanja": "降伏",
+      "breakdown": "항(降) descend/submit + 복(伏) bow/prostrate",
+      "example": "적군은 포위당한 후 무조건 항복을 선언했다.",
+      "example_en": "The enemy declared unconditional surrender after being surrounded.",
+      "notes": "Related: 투항(投降) surrendering, 복종(服從) submission, 하강(下降) descent"
+    },
+    {
+      "korean": "동맹",
+      "english": "alliance",
+      "hanja": "同盟",
+      "breakdown": "동(同) same/together + 맹(盟) oath/pledge",
+      "example": "양국은 군사 동맹을 체결하여 안보를 강화했다.",
+      "example_en": "The two countries strengthened security by forming a military alliance.",
+      "notes": "Related: 동료(同僚) colleague, 맹세(盟誓) oath, 가맹(加盟) joining/affiliation"
+    },
+    {
+      "korean": "징병",
+      "english": "conscription; military draft",
+      "hanja": "徵兵",
+      "breakdown": "징(徵) levy/collect + 병(兵) soldier",
+      "example": "한국은 징병제를 시행하여 성인 남성에게 군 복무 의무를 부과한다.",
+      "example_en": "South Korea implements a conscription system, imposing military service obligations on adult males.",
+      "notes": "Related: 징수(徵收) tax collection, 병역(兵役) military service, 징집(徵集) call-up"
+    },
+    {
+      "korean": "전투",
+      "english": "battle; combat",
+      "hanja": "戰鬪",
+      "breakdown": "전(戰) war + 투(鬪) fight",
+      "example": "격렬한 전투 끝에 아군이 승리를 거두었다.",
+      "example_en": "After fierce combat, our forces achieved victory.",
+      "notes": "Related: 전쟁(戰爭) war, 투쟁(鬪爭) struggle, 전사(戰死) killed in action"
+    },
+    {
+      "korean": "포위",
+      "english": "siege; encirclement",
+      "hanja": "包圍",
+      "breakdown": "포(包) wrap/surround + 위(圍) encircle",
+      "example": "적군의 포위를 뚫고 탈출하는 것은 거의 불가능했다.",
+      "example_en": "Breaking through the enemy's encirclement to escape was nearly impossible.",
+      "notes": "Related: 포함(包含) inclusion, 범위(範圍) scope/range, 포장(包裝) packaging"
+    },
+    {
+      "korean": "휴전",
+      "english": "ceasefire; armistice",
+      "hanja": "休戰",
+      "breakdown": "휴(休) rest + 전(戰) war",
+      "example": "1953년 휴전 협정 이후 남북한은 여전히 기술적으로 전쟁 상태이다.",
+      "example_en": "Since the 1953 armistice agreement, the two Koreas are still technically at war.",
+      "notes": "Related: 휴식(休息) rest, 전쟁(戰爭) war, 휴일(休日) holiday"
+    },
+    {
+      "korean": "반란",
+      "english": "rebellion; revolt",
+      "hanja": "叛亂",
+      "breakdown": "반(叛) rebel + 란(亂) chaos/disorder",
+      "example": "민중의 불만이 극에 달하면 반란으로 이어질 수 있다.",
+      "example_en": "When public discontent reaches its peak, it can lead to rebellion.",
+      "notes": "Related: 반역(叛逆) treason, 혼란(混亂) confusion/chaos, 내란(內亂) civil war"
+    }
+  ]
+}
