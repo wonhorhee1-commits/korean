@@ -1,244 +1,244 @@
 {
   "연어 (Collocations)": [
     {
-      "korean": "논지를 펼치다",
-      "english": "to develop/present an argument",
-      "example": "저자는 서론에서 핵심 논지를 펼치고 있다.",
-      "example_en": "The author develops the core argument in the introduction."
+      "korean": "논거를 보강하다",
+      "english": "to reinforce/bolster one's argument",
+      "example": "추가 데이터를 확보하여 논거를 보강했다.",
+      "example_en": "We obtained additional data to reinforce the argument."
     },
     {
-      "korean": "문헌을 검토하다",
-      "english": "to review the literature",
-      "example": "관련 문헌을 검토한 결과 선행 연구와 일치하는 결과를 얻었다.",
-      "example_en": "After reviewing the relevant literature, we obtained results consistent with prior research."
+      "korean": "개념을 정의하다",
+      "english": "to define a concept",
+      "example": "먼저 핵심 개념을 정의하고 논의를 시작해야 한다.",
+      "example_en": "We must first define the key concepts before starting the discussion."
     },
     {
-      "korean": "통계를 인용하다",
-      "english": "to cite statistics",
-      "example": "보고서에서는 최근 통계를 인용하여 주장을 뒷받침했다.",
-      "example_en": "The report cited recent statistics to support the argument."
+      "korean": "관점을 제시하다",
+      "english": "to present a perspective/viewpoint",
+      "example": "기존과는 다른 관점을 제시하여 학계의 주목을 받았다.",
+      "example_en": "By presenting a different perspective, it drew attention from academia."
     },
     {
-      "korean": "학설을 뒤집다",
-      "english": "to overturn a theory",
-      "example": "이 발견은 기존 학설을 뒤집을 만큼 획기적이다.",
-      "example_en": "This discovery is groundbreaking enough to overturn existing theories."
+      "korean": "방법론을 적용하다",
+      "english": "to apply a methodology",
+      "example": "질적 연구 방법론을 적용하여 심층 면접을 진행했다.",
+      "example_en": "A qualitative research methodology was applied to conduct in-depth interviews."
     },
     {
-      "korean": "시사점을 도출하다",
-      "english": "to derive implications",
-      "example": "연구 결과로부터 정책적 시사점을 도출할 수 있다.",
-      "example_en": "Policy implications can be derived from the research findings."
+      "korean": "오류를 지적하다",
+      "english": "to point out an error/flaw",
+      "example": "심사위원이 통계 처리의 오류를 지적했다.",
+      "example_en": "The reviewer pointed out an error in the statistical analysis."
     },
     {
-      "korean": "맥락을 파악하다",
-      "english": "to grasp the context",
-      "example": "글의 전후 맥락을 파악해야 정확한 해석이 가능하다.",
-      "example_en": "You need to grasp the context before and after to interpret it accurately."
+      "korean": "표본을 추출하다",
+      "english": "to extract/draw a sample",
+      "example": "전국에서 무작위로 표본을 추출하여 설문 조사를 실시했다.",
+      "example_en": "A random sample was drawn from across the country for the survey."
     },
     {
-      "korean": "담론을 형성하다",
-      "english": "to form a discourse",
-      "example": "사회 변화에 대한 새로운 담론을 형성할 필요가 있다.",
-      "example_en": "There is a need to form a new discourse on social change."
+      "korean": "변인을 설정하다",
+      "english": "to set/establish variables",
+      "example": "독립 변인과 종속 변인을 명확히 설정해야 실험 설계가 가능하다.",
+      "example_en": "The independent and dependent variables must be clearly established for the experimental design."
     },
     {
-      "korean": "범위를 한정하다",
-      "english": "to limit the scope",
-      "example": "연구의 범위를 한정하지 않으면 논문이 산만해진다.",
-      "example_en": "If you don't limit the scope of the research, the paper becomes unfocused."
+      "korean": "패러다임이 전환되다",
+      "english": "for a paradigm to shift",
+      "example": "인공지능의 등장으로 산업 전반에 걸쳐 패러다임이 전환되고 있다.",
+      "example_en": "With the emergence of AI, a paradigm shift is occurring across all industries."
     },
     {
-      "korean": "쟁점을 부각하다",
-      "english": "to highlight an issue/point of contention",
-      "example": "토론자는 핵심 쟁점을 부각하며 청중의 관심을 끌었다.",
-      "example_en": "The debater drew the audience's attention by highlighting the key issue."
+      "korean": "비판을 수용하다",
+      "english": "to accept/embrace criticism",
+      "example": "건설적인 비판을 수용하는 자세가 학문 발전의 기초이다.",
+      "example_en": "The attitude of embracing constructive criticism is the foundation of academic progress."
     },
     {
-      "korean": "반론을 제기하다",
-      "english": "to raise a counterargument",
-      "example": "상대측이 강력한 반론을 제기하여 논쟁이 격화되었다.",
-      "example_en": "The opposing side raised a strong counterargument, intensifying the debate."
+      "korean": "인과관계를 규명하다",
+      "english": "to establish/identify causal relationships",
+      "example": "두 현상 사이의 인과관계를 규명하는 것이 이번 연구의 목적이다.",
+      "example_en": "The purpose of this study is to establish the causal relationship between the two phenomena."
     },
     {
-      "korean": "파문이 확산되다",
-      "english": "for controversy/repercussions to spread",
-      "example": "장관의 발언이 알려지면서 파문이 빠르게 확산되었다.",
-      "example_en": "As the minister's remarks became known, the controversy spread rapidly."
+      "korean": "공방이 벌어지다",
+      "english": "for an exchange of attacks/heated debate to break out",
+      "example": "여야 간에 예산안을 둘러싼 공방이 벌어졌다.",
+      "example_en": "A heated debate broke out between the ruling and opposition parties over the budget bill."
     },
     {
-      "korean": "사태가 악화되다",
-      "english": "for the situation to worsen",
-      "example": "정부의 미온적 대응으로 사태가 악화되고 있다.",
-      "example_en": "The situation is worsening due to the government's lukewarm response."
+      "korean": "여파가 미치다",
+      "english": "for the aftermath/repercussions to reach",
+      "example": "금리 인상의 여파가 부동산 시장에까지 미치고 있다.",
+      "example_en": "The repercussions of the interest rate hike are reaching the real estate market."
     },
     {
-      "korean": "수사를 확대하다",
-      "english": "to expand an investigation",
-      "example": "검찰은 비리 의혹에 대한 수사를 확대하기로 했다.",
-      "example_en": "The prosecution decided to expand the investigation into corruption allegations."
+      "korean": "수습에 나서다",
+      "english": "to step in to clean up/resolve a situation",
+      "example": "정부가 사고 수습에 나서며 피해 주민을 지원했다.",
+      "example_en": "The government stepped in to resolve the accident and support affected residents."
     },
     {
-      "korean": "국면이 전환되다",
-      "english": "for the phase/situation to shift",
-      "example": "대통령의 담화 이후 정치 국면이 전환되었다.",
-      "example_en": "The political situation shifted after the president's address."
+      "korean": "진상을 밝히다",
+      "english": "to reveal the truth/uncover the facts",
+      "example": "특별조사위원회가 사건의 진상을 밝히겠다고 선언했다.",
+      "example_en": "The special investigation committee declared it would uncover the truth of the incident."
     },
     {
-      "korean": "보복을 감행하다",
-      "english": "to carry out retaliation",
-      "example": "적국이 군사적 보복을 감행할 가능성이 높다.",
-      "example_en": "There is a high possibility the enemy nation will carry out military retaliation."
+      "korean": "갈등이 고조되다",
+      "english": "for conflict/tension to escalate",
+      "example": "노사 간 갈등이 고조되면서 파업 가능성이 커지고 있다.",
+      "example_en": "As labor-management tensions escalate, the possibility of a strike is growing."
     },
     {
-      "korean": "민심이 이반되다",
-      "english": "for public sentiment to turn away",
-      "example": "잇따른 실정으로 민심이 이반되고 있다.",
-      "example_en": "Public sentiment is turning away due to successive policy failures."
+      "korean": "책임을 묻다",
+      "english": "to hold someone accountable",
+      "example": "시민단체가 관계자에게 책임을 물어야 한다고 주장했다.",
+      "example_en": "Civic groups argued that those responsible should be held accountable."
     },
     {
-      "korean": "정국이 경색되다",
-      "english": "for the political situation to become deadlocked",
-      "example": "여야 간 대립으로 정국이 경색되었다.",
-      "example_en": "The political situation became deadlocked due to the conflict between ruling and opposition parties."
+      "korean": "실마리를 찾다",
+      "english": "to find a clue/lead",
+      "example": "수사진이 결정적인 실마리를 찾아 용의자를 좁혔다.",
+      "example_en": "The investigation team found a crucial lead and narrowed down the suspects."
     },
     {
-      "korean": "비상이 걸리다",
-      "english": "for an emergency to be declared",
-      "example": "집중호우 경보로 전국에 비상이 걸렸다.",
-      "example_en": "An emergency was declared nationwide due to heavy rain warnings."
+      "korean": "후폭풍이 거세다",
+      "english": "for the backlash/fallout to be fierce",
+      "example": "대통령의 발언 이후 후폭풍이 거세게 몰아치고 있다.",
+      "example_en": "The backlash is fierce following the president's remarks."
     },
     {
-      "korean": "구설수에 오르다",
-      "english": "to become the subject of gossip/controversy",
-      "example": "유명 연예인이 사생활 문제로 구설수에 올랐다.",
-      "example_en": "A famous celebrity became the subject of controversy over a personal life issue."
+      "korean": "경종을 울리다",
+      "english": "to sound an alarm/warning bell",
+      "example": "이번 사고가 안전 불감증에 경종을 울렸다.",
+      "example_en": "This accident sounded an alarm about complacency toward safety."
     },
     {
-      "korean": "재발 방지를 촉구하다",
-      "english": "to urge prevention of recurrence",
-      "example": "시민단체가 유사 사고의 재발 방지를 촉구했다.",
-      "example_en": "Civic groups urged the prevention of similar accidents recurring."
+      "korean": "특보를 내다",
+      "english": "to issue a special bulletin/alert",
+      "example": "기상청이 전국에 폭설 특보를 내렸다.",
+      "example_en": "The meteorological agency issued a heavy snow alert nationwide."
     },
     {
-      "korean": "감정이 격해지다",
-      "english": "for emotions to intensify/become heated",
-      "example": "말다툼이 길어지면서 감정이 격해졌다.",
-      "example_en": "As the argument dragged on, emotions became heated."
+      "korean": "환희에 젖다",
+      "english": "to be steeped in joy/elation",
+      "example": "합격 소식에 온 가족이 환희에 젖었다.",
+      "example_en": "The whole family was steeped in joy at the news of passing."
     },
     {
-      "korean": "마음이 동하다",
-      "english": "to be moved/swayed (emotionally)",
-      "example": "그의 진심 어린 사과에 마음이 동했다.",
-      "example_en": "I was moved by his sincere apology."
+      "korean": "원한이 쌓이다",
+      "english": "for grudges/resentment to build up",
+      "example": "오랜 세월 원한이 쌓여 결국 돌이킬 수 없는 사이가 되었다.",
+      "example_en": "Resentment built up over many years, ultimately making the relationship irreparable."
     },
     {
-      "korean": "분노가 폭발하다",
-      "english": "for anger to explode/erupt",
-      "example": "반복되는 불공정에 시민들의 분노가 폭발했다.",
-      "example_en": "Citizens' anger erupted over repeated unfairness."
+      "korean": "향수에 젖다",
+      "english": "to be steeped in nostalgia",
+      "example": "고향의 냄새를 맡으니 향수에 젖었다.",
+      "example_en": "Smelling the scent of my hometown, I was steeped in nostalgia."
     },
     {
-      "korean": "회의감이 들다",
-      "english": "to feel skepticism/doubt",
-      "example": "매번 같은 결과가 반복되니 회의감이 든다.",
-      "example_en": "The same results keep repeating, so I feel skepticism."
+      "korean": "불신이 깊어지다",
+      "english": "for distrust to deepen",
+      "example": "반복되는 거짓말에 불신이 깊어졌다.",
+      "example_en": "Repeated lies deepened the distrust."
     },
     {
-      "korean": "정이 깊어지다",
-      "english": "for affection/attachment to deepen",
-      "example": "함께 지낸 시간이 길어질수록 정이 깊어졌다.",
-      "example_en": "The longer we spent together, the deeper our attachment grew."
+      "korean": "걱정이 태산이다",
+      "english": "to have mountain-high worries",
+      "example": "사업이 잘 안 되니 걱정이 태산이다.",
+      "example_en": "The business isn't going well, so my worries are piling up like a mountain."
     },
     {
-      "korean": "미련이 남다",
-      "english": "to have lingering attachment/regret",
-      "example": "헤어졌지만 아직 미련이 남아 있다.",
-      "example_en": "We broke up, but I still have lingering feelings."
+      "korean": "충격에 빠지다",
+      "english": "to fall into shock",
+      "example": "갑작스러운 부고 소식에 온 마을이 충격에 빠졌다.",
+      "example_en": "The entire village fell into shock at the sudden news of death."
     },
     {
-      "korean": "상처를 받다",
-      "english": "to be hurt (emotionally)",
-      "example": "가장 가까운 사람에게 상처를 받으면 더 아프다.",
-      "example_en": "It hurts more when you're hurt by someone closest to you."
+      "korean": "서러움이 복받치다",
+      "english": "for sorrow to well up uncontrollably",
+      "example": "엄마 목소리를 듣는 순간 서러움이 복받쳤다.",
+      "example_en": "The moment I heard my mother's voice, sorrow welled up uncontrollably."
     },
     {
-      "korean": "체념에 빠지다",
-      "english": "to fall into resignation",
-      "example": "몇 번이나 실패한 끝에 체념에 빠졌다.",
-      "example_en": "After failing several times, I fell into resignation."
+      "korean": "자존심이 상하다",
+      "english": "for one's pride to be hurt",
+      "example": "남들 앞에서 망신을 당해 자존심이 상했다.",
+      "example_en": "I was humiliated in front of others, and my pride was hurt."
     },
     {
-      "korean": "죄의식에 시달리다",
-      "english": "to be tormented by guilt",
-      "example": "그 사건 이후로 줄곧 죄의식에 시달렸다.",
-      "example_en": "I was tormented by guilt ever since that incident."
+      "korean": "감회가 새롭다",
+      "english": "to feel deeply moved/reflective (upon revisiting something)",
+      "example": "20년 만에 모교를 방문하니 감회가 새롭다.",
+      "example_en": "Visiting my alma mater after 20 years, I feel deeply moved."
     },
     {
-      "korean": "애증이 교차하다",
-      "english": "for love and hate to intertwine",
-      "example": "가족이라는 관계 속에서 애증이 교차한다.",
-      "example_en": "Love and hate intertwine within the bonds of family."
+      "korean": "앙심을 품다",
+      "english": "to harbor a grudge/animosity",
+      "example": "해고당한 직원이 앙심을 품고 회사 기밀을 유출했다.",
+      "example_en": "The fired employee harbored a grudge and leaked company secrets."
     },
     {
-      "korean": "주먹을 불끈 쥐다",
-      "english": "to clench one's fist tightly",
-      "example": "결승선을 통과한 순간 주먹을 불끈 쥐었다.",
-      "example_en": "The moment I crossed the finish line, I clenched my fist tightly."
+      "korean": "고개를 떨구다",
+      "english": "to hang/drop one's head (in shame, defeat, sadness)",
+      "example": "경기에 진 선수들이 고개를 떨구고 라커룸으로 돌아갔다.",
+      "example_en": "The players who lost the game hung their heads and returned to the locker room."
     },
     {
-      "korean": "몸을 사리다",
-      "english": "to hold back/protect oneself (physically)",
-      "example": "부상이 걱정되어 몸을 사리며 경기에 임했다.",
-      "example_en": "Worried about injury, I played the match while holding back."
+      "korean": "다리가 풀리다",
+      "english": "for one's legs to go weak/give out",
+      "example": "산꼭대기까지 올라가니 다리가 풀렸다.",
+      "example_en": "My legs gave out after climbing to the mountaintop."
     },
     {
-      "korean": "숨을 헐떡이다",
-      "english": "to pant/gasp for breath",
-      "example": "가파른 산길을 오르느라 숨을 헐떡였다.",
-      "example_en": "I was panting after climbing the steep mountain path."
+      "korean": "등에 식은땀이 흐르다",
+      "english": "for cold sweat to run down one's back",
+      "example": "실수를 깨닫는 순간 등에 식은땀이 흘렀다.",
+      "example_en": "The moment I realized my mistake, cold sweat ran down my back."
     },
     {
-      "korean": "땀을 뻘뻘 흘리다",
-      "english": "to sweat profusely",
-      "example": "한여름 공사 현장에서 땀을 뻘뻘 흘렸다.",
-      "example_en": "I was sweating profusely at the construction site in midsummer."
+      "korean": "목이 잠기다",
+      "english": "for one's voice to become hoarse/choked up",
+      "example": "감동적인 장면에 목이 잠겨 말을 잇지 못했다.",
+      "example_en": "My voice became choked up at the moving scene, and I couldn't continue speaking."
     },
     {
-      "korean": "몸이 굳다",
-      "english": "for one's body to stiffen/freeze up",
-      "example": "무대 위에 올라가자마자 긴장해서 몸이 굳었다.",
-      "example_en": "As soon as I got on stage, I froze up from nerves."
+      "korean": "눈살을 찌푸리다",
+      "english": "to furrow one's brow / to frown",
+      "example": "악취가 나자 행인들이 눈살을 찌푸렸다.",
+      "example_en": "Passersby furrowed their brows at the foul smell."
     },
     {
-      "korean": "눈을 부릅뜨다",
-      "english": "to glare wide-eyed",
-      "example": "아버지가 눈을 부릅뜨고 아이를 꾸짖었다.",
-      "example_en": "The father glared wide-eyed and scolded the child."
+      "korean": "가슴을 펴다",
+      "english": "to puff out one's chest (with confidence or pride)",
+      "example": "최우수상을 받고 당당히 가슴을 폈다.",
+      "example_en": "After receiving the grand prize, I proudly puffed out my chest."
     },
     {
-      "korean": "어깨를 움츠리다",
-      "english": "to shrug/hunch one's shoulders",
-      "example": "찬바람에 어깨를 움츠리며 걸었다.",
-      "example_en": "I walked hunching my shoulders against the cold wind."
+      "korean": "무릎을 꿇다",
+      "english": "to kneel; to surrender/give in",
+      "example": "끝까지 버티다가 결국 현실 앞에 무릎을 꿇었다.",
+      "example_en": "After holding out until the end, I finally surrendered to reality."
     },
     {
-      "korean": "허리를 펴다",
-      "english": "to straighten one's back; to finally relax after hardship",
-      "example": "빚을 다 갚고 나서야 허리를 펼 수 있었다.",
-      "example_en": "Only after paying off all the debt could I finally straighten my back."
+      "korean": "손가락질을 당하다",
+      "english": "to be pointed at / to be shamed publicly",
+      "example": "비리가 드러나 온 동네에서 손가락질을 당했다.",
+      "example_en": "After the corruption was exposed, he was shamed by the entire neighborhood."
     },
     {
-      "korean": "발걸음을 재촉하다",
-      "english": "to quicken one's pace",
-      "example": "약속 시간이 다가오자 발걸음을 재촉했다.",
-      "example_en": "As the appointment time approached, I quickened my pace."
+      "korean": "턱을 괴다",
+      "english": "to rest one's chin on one's hand (in thought or boredom)",
+      "example": "창밖을 바라보며 턱을 괴고 생각에 잠겼다.",
+      "example_en": "I rested my chin on my hand and was lost in thought, gazing out the window."
     },
     {
-      "korean": "이를 악물다",
-      "english": "to grit one's teeth (in determination or endurance)",
-      "example": "고통을 참으며 이를 악물고 달렸다.",
-      "example_en": "I gritted my teeth and ran, enduring the pain."
+      "korean": "어금니를 꽉 물다",
+      "english": "to clench one's molars tightly (endure/resist)",
+      "example": "아무리 힘들어도 어금니를 꽉 물고 버텼다.",
+      "example_en": "No matter how hard it was, I clenched my molars and endured."
     }
   ]
 }

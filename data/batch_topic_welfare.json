@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 복지 (Topic: Welfare)": [
+    {
+      "korean": "사회 복지",
+      "english": "social welfare",
+      "example": "정부는 사회 복지 제도를 지속적으로 개선하고 있습니다.",
+      "example_en": "The government is continuously improving the social welfare system."
+    },
+    {
+      "korean": "국민 연금",
+      "english": "national pension",
+      "example": "국민 연금은 노후 생활을 보장하는 중요한 제도입니다.",
+      "example_en": "The national pension is an important system that guarantees life in old age."
+    },
+    {
+      "korean": "건강 보험",
+      "english": "health insurance",
+      "example": "건강 보험료가 인상되었다는 뉴스가 있었습니다.",
+      "example_en": "There was news that health insurance premiums have increased."
+    },
+    {
+      "korean": "장애인 복지",
+      "english": "disability welfare",
+      "example": "장애인 복지 정책은 사회의 가장 취약한 계층을 지원합니다.",
+      "example_en": "Disability welfare policy supports the most vulnerable members of society."
+    },
+    {
+      "korean": "실업 보험",
+      "english": "unemployment insurance",
+      "example": "실업 보험으로 일정 기간 동안 생활비를 지원받을 수 있습니다.",
+      "example_en": "You can receive living expenses support through unemployment insurance for a certain period."
+    },
+    {
+      "korean": "기초 생활 보장",
+      "english": "basic living guarantee",
+      "example": "기초 생활 보장은 최저 생활 수준을 보장하는 제도입니다.",
+      "example_en": "The basic living guarantee is a system that ensures a minimum standard of living."
+    },
+    {
+      "korean": "공적 연금",
+      "english": "public pension",
+      "example": "공적 연금은 국민 연금, 공무원 연금, 사학 연금으로 나뉩니다.",
+      "example_en": "Public pensions are divided into national pension, civil servants' pension, and private school teachers' pension."
+    },
+    {
+      "korean": "장애 판정",
+      "english": "disability assessment",
+      "example": "장애 판정을 받아야 장애인 복지 혜택을 신청할 수 있습니다.",
+      "example_en": "You must receive a disability assessment to apply for disability welfare benefits."
+    },
+    {
+      "korean": "보험료",
+      "english": "insurance premium",
+      "example": "매월 보험료를 내야 보험의 보장을 받을 수 있습니다.",
+      "example_en": "You must pay the insurance premium monthly to receive insurance coverage."
+    },
+    {
+      "korean": "보장 기간",
+      "english": "coverage period",
+      "example": "이 보험의 보장 기간은 5년입니다.",
+      "example_en": "The coverage period for this insurance is 5 years."
+    },
+    {
+      "korean": "급여",
+      "english": "benefit payment",
+      "example": "실업 상태가 되면 실업 급여를 받을 수 있습니다.",
+      "example_en": "When you become unemployed, you can receive unemployment benefits."
+    },
+    {
+      "korean": "수급자",
+      "english": "benefit recipient",
+      "example": "복지 수급자는 정기적으로 소득을 신고해야 합니다.",
+      "example_en": "Welfare benefit recipients must report their income regularly."
+    },
+    {
+      "korean": "노령 연금",
+      "english": "old-age pension",
+      "example": "65세가 되면 노령 연금을 신청할 수 있습니다.",
+      "example_en": "You can apply for an old-age pension when you turn 65."
+    },
+    {
+      "korean": "장애 등급",
+      "english": "disability grade",
+      "example": "장애 등급에 따라 받는 급여의 액수가 달라집니다.",
+      "example_en": "The amount of benefits you receive varies depending on your disability grade."
+    },
+    {
+      "korean": "유족 급여",
+      "english": "survivor benefits",
+      "example": "피보험자가 사망하면 유족 급여를 신청할 수 있습니다.",
+      "example_en": "If the insured person passes away, survivors can apply for survivor benefits."
+    },
+    {
+      "korean": "장기 요양 보험",
+      "english": "long-term care insurance",
+      "example": "장기 요양 보험은 노인들의 요양 비용을 지원합니다.",
+      "example_en": "Long-term care insurance supports nursing care costs for the elderly."
+    },
+    {
+      "korean": "자녀 수당",
+      "english": "child allowance",
+      "example": "정부에서 출산 가정에 자녀 수당을 지급하고 있습니다.",
+      "example_en": "The government is providing child allowances to families with newborns."
+    },
+    {
+      "korean": "모성 보호",
+      "english": "maternal protection",
+      "example": "모성 보호 제도는 임신, 출산, 육아를 지원합니다.",
+      "example_en": "The maternal protection system supports pregnancy, childbirth, and childcare."
+    },
+    {
+      "korean": "산재 보험",
+      "english": "workers' compensation insurance",
+      "example": "직장에서 사고가 나면 산재 보험으로 치료를 받을 수 있습니다.",
+      "example_en": "If you have an accident at work, you can receive treatment through workers' compensation insurance."
+    },
+    {
+      "korean": "휴직",
+      "english": "leave of absence",
+      "example": "출산 휴직을 사용하여 신생아를 돌볼 수 있습니다.",
+      "example_en": "You can use maternity leave to care for a newborn."
+    },
+    {
+      "korean": "지급액",
+      "english": "payment amount",
+      "example": "월별 지급액은 가입 기간에 따라 결정됩니다.",
+      "example_en": "The monthly payment amount is determined based on the enrollment period."
+    },
+    {
+      "korean": "소득 인정액",
+      "english": "recognized income",
+      "example": "기초 생활 보장을 받으려면 소득 인정액이 기준선 이하여야 합니다.",
+      "example_en": "To receive basic living guarantee, your recognized income must be below the threshold."
+    },
+    {
+      "korean": "의료비 지원",
+      "english": "medical expense support",
+      "example": "저소득층을 위한 의료비 지원 제도가 있습니다.",
+      "example_en": "There is a medical expense support program for low-income groups."
+    },
+    {
+      "korean": "주택 지원",
+      "english": "housing support",
+      "example": "정부에서 저소득 가정에 주택 지원을 제공합니다.",
+      "example_en": "The government provides housing support to low-income families."
+    },
+    {
+      "korean": "교육비 지원",
+      "english": "education expense support",
+      "example": "기초 생활 보장 수급자는 교육비 지원을 받을 수 있습니다.",
+      "example_en": "Basic living guarantee recipients can receive education expense support."
+    },
+    {
+      "korean": "맞춤형 급여",
+      "english": "customized benefits",
+      "example": "새로운 복지 제도는 개인의 필요에 맞춘 맞춤형 급여를 제공합니다.",
+      "example_en": "The new welfare system provides customized benefits tailored to individual needs."
+    },
+    {
+      "korean": "통합 조사",
+      "english": "integrated assessment",
+      "example": "복지 수급 여부는 통합 조사를 통해 결정됩니다.",
+      "example_en": "Whether to receive welfare benefits is determined through an integrated assessment."
+    },
+    {
+      "korean": "부양 의무자",
+      "english": "supporter/dependent supporter",
+      "example": "부양 의무자가 있으면 복지 수급이 제한될 수 있습니다.",
+      "example_en": "If there is a dependent supporter, welfare benefits may be restricted."
+    },
+    {
+      "korean": "기여금",
+      "english": "contribution",
+      "example": "연금 가입자는 정기적으로 기여금을 납부해야 합니다.",
+      "example_en": "Pension subscribers must pay contributions regularly."
+    },
+    {
+      "korean": "급여 수준",
+      "english": "benefit level",
+      "example": "공적 연금의 급여 수준은 가입 기간에 따라 달라집니다.",
+      "example_en": "The benefit level of public pensions varies depending on the enrollment period."
+    },
+    {
+      "korean": "소득 대체율",
+      "english": "income replacement rate",
+      "example": "연금의 소득 대체율은 은퇴 전 소득의 일정 비율입니다.",
+      "example_en": "The income replacement rate of pensions is a certain percentage of pre-retirement income."
+    },
+    {
+      "korean": "수급 요건",
+      "english": "eligibility requirements",
+      "example": "기초 생활 보장의 수급 요건은 소득과 자산 기준입니다.",
+      "example_en": "The eligibility requirements for basic living guarantee are income and asset criteria."
+    },
+    {
+      "korean": "신청 절차",
+      "english": "application procedure",
+      "example": "복지 혜택을 받으려면 정해진 신청 절차를 따라야 합니다.",
+      "example_en": "You must follow the prescribed application procedure to receive welfare benefits."
+    },
+    {
+      "korean": "심사",
+      "english": "review/examination",
+      "example": "복지 신청서는 공식적인 심사 과정을 거칩니다.",
+      "example_en": "Welfare applications undergo an official review process."
+    },
+    {
+      "korean": "확인서",
+      "english": "certificate",
+      "example": "복지 수급자 확인서를 발급받을 수 있습니다.",
+      "example_en": "You can obtain a welfare benefit recipient certificate."
+    },
+    {
+      "korean": "기록 보관",
+      "english": "record keeping",
+      "example": "보험료 납부 기록은 중요하므로 보관해야 합니다.",
+      "example_en": "Insurance premium payment records are important and should be kept."
+    },
+    {
+      "korean": "사례 관리",
+      "english": "case management",
+      "example": "복지 담당자는 수급자에게 맞춤형 사례 관리를 제공합니다.",
+      "example_en": "Welfare officers provide customized case management to benefit recipients."
+    },
+    {
+      "korean": "자활 지원",
+      "english": "self-sufficiency support",
+      "example": "자활 지원 프로그램은 수급자가 경제적으로 독립하도록 돕습니다.",
+      "example_en": "Self-sufficiency support programs help benefit recipients become economically independent."
+    },
+    {
+      "korean": "일자리 창출",
+      "english": "job creation",
+      "example": "정부는 약자들을 위한 일자리 창출 정책을 추진하고 있습니다.",
+      "example_en": "The government is pushing job creation policies for disadvantaged groups."
+    },
+    {
+      "korean": "취업 지원",
+      "english": "employment support",
+      "example": "실직자들을 위한 취업 지원 서비스가 있습니다.",
+      "example_en": "There are employment support services for the unemployed."
+    }
+  ]
+}

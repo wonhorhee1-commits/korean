@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 통신 (Topic: Telecommunications)": [
+    {
+      "korean": "네트워크",
+      "english": "network",
+      "example": "회사의 네트워크가 다운되었다.",
+      "example_en": "The company's network went down."
+    },
+    {
+      "korean": "신호",
+      "english": "signal",
+      "example": "휴대폰 신호가 약하다.",
+      "example_en": "The cell phone signal is weak."
+    },
+    {
+      "korean": "대역폭",
+      "english": "bandwidth",
+      "example": "이 연결은 충분한 대역폭을 제공한다.",
+      "example_en": "This connection provides sufficient bandwidth."
+    },
+    {
+      "korean": "접속",
+      "english": "connection; access",
+      "example": "인터넷 접속이 불안정하다.",
+      "example_en": "Internet access is unstable."
+    },
+    {
+      "korean": "서버",
+      "english": "server",
+      "example": "서버에 문제가 생겨서 사이트가 안 된다.",
+      "example_en": "There's a problem with the server so the site isn't working."
+    },
+    {
+      "korean": "방송",
+      "english": "broadcasting",
+      "example": "라이브 방송을 시청했다.",
+      "example_en": "I watched the live broadcast."
+    },
+    {
+      "korean": "송신",
+      "english": "transmission; broadcast",
+      "example": "신호를 송신하다.",
+      "example_en": "To transmit a signal."
+    },
+    {
+      "korean": "수신",
+      "english": "reception; receive",
+      "example": "약한 신호를 수신했다.",
+      "example_en": "We received a weak signal."
+    },
+    {
+      "korean": "채널",
+      "english": "channel",
+      "example": "TV 채널을 돌리다.",
+      "example_en": "To change the TV channel."
+    },
+    {
+      "korean": "주파수",
+      "english": "frequency",
+      "example": "라디오 주파수를 조정하다.",
+      "example_en": "To adjust the radio frequency."
+    },
+    {
+      "korean": "안테나",
+      "english": "antenna",
+      "example": "지붕에 안테나를 설치했다.",
+      "example_en": "We installed an antenna on the roof."
+    },
+    {
+      "korean": "모뎀",
+      "english": "modem",
+      "example": "모뎀을 재부팅하면 인터넷이 다시 된다.",
+      "example_en": "Rebooting the modem restores the internet."
+    },
+    {
+      "korean": "라우터",
+      "english": "router",
+      "example": "와이파이 라우터의 범위를 확인하다.",
+      "example_en": "To check the range of the WiFi router."
+    },
+    {
+      "korean": "케이블",
+      "english": "cable",
+      "example": "광케이블이 더 빠르다.",
+      "example_en": "Fiber optic cable is faster."
+    },
+    {
+      "korean": "무선",
+      "english": "wireless",
+      "example": "무선 인터넷을 사용하다.",
+      "example_en": "To use wireless internet."
+    },
+    {
+      "korean": "유선",
+      "english": "wired",
+      "example": "유선 연결이 더 안정적이다.",
+      "example_en": "A wired connection is more stable."
+    },
+    {
+      "korean": "와이파이",
+      "english": "WiFi",
+      "example": "카페에서 무료 와이파이를 제공한다.",
+      "example_en": "The cafe provides free WiFi."
+    },
+    {
+      "korean": "블루투스",
+      "english": "Bluetooth",
+      "example": "블루투스 스피커로 음악을 들었다.",
+      "example_en": "I listened to music on a Bluetooth speaker."
+    },
+    {
+      "korean": "통신",
+      "english": "communication; telecommunications",
+      "example": "영상 통신 기술이 발전하고 있다.",
+      "example_en": "Video communication technology is advancing."
+    },
+    {
+      "korean": "패킷",
+      "english": "packet",
+      "example": "데이터 패킷이 손실되었다.",
+      "example_en": "Data packets were lost."
+    },
+    {
+      "korean": "프로토콜",
+      "english": "protocol",
+      "example": "TCP/IP 프로토콜을 사용한다.",
+      "example_en": "We use the TCP/IP protocol."
+    },
+    {
+      "korean": "버퍼링",
+      "english": "buffering",
+      "example": "동영상 버퍼링이 자주 일어난다.",
+      "example_en": "Video buffering happens frequently."
+    },
+    {
+      "korean": "지연",
+      "english": "latency; delay",
+      "example": "게임에서 지연이 크면 안 된다.",
+      "example_en": "High latency is bad for gaming."
+    },
+    {
+      "korean": "대기시간",
+      "english": "waiting time; latency",
+      "example": "네트워크 대기시간이 길다.",
+      "example_en": "The network latency is long."
+    },
+    {
+      "korean": "암호화",
+      "english": "encryption",
+      "example": "메시지를 암호화하여 보낸다.",
+      "example_en": "We send messages with encryption."
+    },
+    {
+      "korean": "보안",
+      "english": "security",
+      "example": "네트워크 보안이 중요하다.",
+      "example_en": "Network security is important."
+    },
+    {
+      "korean": "방화벽",
+      "english": "firewall",
+      "example": "방화벽이 악성 소프트웨어를 차단한다.",
+      "example_en": "The firewall blocks malware."
+    },
+    {
+      "korean": "다운로드",
+      "english": "download",
+      "example": "파일을 다운로드하다.",
+      "example_en": "To download a file."
+    },
+    {
+      "korean": "업로드",
+      "english": "upload",
+      "example": "사진을 클라우드에 업로드했다.",
+      "example_en": "I uploaded the photo to the cloud."
+    },
+    {
+      "korean": "대역",
+      "english": "band; spectrum",
+      "example": "주파수 대역을 할당하다.",
+      "example_en": "To allocate the frequency band."
+    },
+    {
+      "korean": "중계기",
+      "english": "relay; repeater",
+      "example": "신호를 중계기로 전송한다.",
+      "example_en": "The signal is transmitted by a repeater."
+    },
+    {
+      "korean": "송수신",
+      "english": "transmission and reception",
+      "example": "동시에 송수신이 가능하다.",
+      "example_en": "Simultaneous transmission and reception is possible."
+    },
+    {
+      "korean": "교환",
+      "english": "switching; exchange",
+      "example": "전화 교환 시스템이 오래되었다.",
+      "example_en": "The telephone switching system is old."
+    },
+    {
+      "korean": "회선",
+      "english": "line; circuit",
+      "example": "전화 회선이 끊겼다.",
+      "example_en": "The phone line is disconnected."
+    },
+    {
+      "korean": "음성통화",
+      "english": "voice call",
+      "example": "음성통화 품질이 좋다.",
+      "example_en": "The voice call quality is good."
+    },
+    {
+      "korean": "화상통화",
+      "english": "video call",
+      "example": "화상통화로 회의를 했다.",
+      "example_en": "We had a meeting via video call."
+    },
+    {
+      "korean": "핸드셋",
+      "english": "handset; receiver",
+      "example": "핸드셋을 들었다.",
+      "example_en": "I picked up the handset."
+    },
+    {
+      "korean": "기지국",
+      "english": "base station; cell tower",
+      "example": "기지국이 많을수록 신호가 좋다.",
+      "example_en": "The more base stations, the better the signal."
+    },
+    {
+      "korean": "로밍",
+      "english": "roaming",
+      "example": "해외에서 로밍 요금이 비싸다.",
+      "example_en": "Roaming charges are expensive abroad."
+    },
+    {
+      "korean": "대역확장",
+      "english": "bandwidth expansion",
+      "example": "대역확장으로 속도가 빨라졌다.",
+      "example_en": "Bandwidth expansion increased the speed."
+    }
+  ]
+}
