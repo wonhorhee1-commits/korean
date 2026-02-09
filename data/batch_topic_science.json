@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 과학 (Topic: Science)": [
+    {
+      "korean": "중력",
+      "english": "gravity; gravitational force",
+      "example": "달의 중력은 지구의 약 6분의 1에 불과하다.",
+      "example_en": "The Moon's gravity is only about one-sixth of Earth's."
+    },
+    {
+      "korean": "마찰",
+      "english": "friction",
+      "example": "표면 간의 마찰을 줄이면 에너지 효율이 높아진다.",
+      "example_en": "Reducing friction between surfaces increases energy efficiency."
+    },
+    {
+      "korean": "파동",
+      "english": "wave (physics)",
+      "example": "빛은 파동과 입자의 성질을 동시에 지닌다.",
+      "example_en": "Light possesses the properties of both a wave and a particle."
+    },
+    {
+      "korean": "밀도",
+      "english": "density",
+      "example": "해수의 밀도는 온도와 염분에 따라 달라진다.",
+      "example_en": "The density of seawater varies depending on temperature and salinity."
+    },
+    {
+      "korean": "가속도",
+      "english": "acceleration",
+      "example": "자유 낙하하는 물체의 가속도는 약 9.8m/s²이다.",
+      "example_en": "The acceleration of a freely falling object is approximately 9.8 m/s²."
+    },
+    {
+      "korean": "촉매",
+      "english": "catalyst",
+      "example": "효소는 생체 내 화학 반응의 촉매 역할을 한다.",
+      "example_en": "Enzymes act as catalysts for chemical reactions within the body."
+    },
+    {
+      "korean": "용해",
+      "english": "dissolution; dissolving",
+      "example": "소금이 물에 용해되는 속도는 온도가 높을수록 빨라진다.",
+      "example_en": "The rate at which salt dissolves in water increases with higher temperature."
+    },
+    {
+      "korean": "원소",
+      "english": "chemical element",
+      "example": "현재까지 발견된 원소는 총 118종이다.",
+      "example_en": "A total of 118 elements have been discovered to date."
+    },
+    {
+      "korean": "굴절",
+      "english": "refraction",
+      "example": "물속에 있는 빨대가 꺾여 보이는 것은 빛의 굴절 때문이다.",
+      "example_en": "A straw appearing bent in water is due to the refraction of light."
+    },
+    {
+      "korean": "방사능",
+      "english": "radioactivity",
+      "example": "원전 사고 이후 인근 지역의 방사능 수치를 지속적으로 모니터링하고 있다.",
+      "example_en": "Radioactivity levels in the surrounding area have been continuously monitored since the nuclear plant accident."
+    },
+    {
+      "korean": "광합성",
+      "english": "photosynthesis",
+      "example": "식물은 광합성을 통해 이산화탄소를 산소로 변환한다.",
+      "example_en": "Plants convert carbon dioxide into oxygen through photosynthesis."
+    },
+    {
+      "korean": "신진대사",
+      "english": "metabolism",
+      "example": "나이가 들수록 신진대사가 느려져 체중 관리가 어려워진다.",
+      "example_en": "As we age, metabolism slows down, making weight management more difficult."
+    },
+    {
+      "korean": "서식지",
+      "english": "habitat",
+      "example": "도시 확장으로 인해 야생 동물의 서식지가 빠르게 줄어들고 있다.",
+      "example_en": "Urban expansion is rapidly shrinking the habitats of wild animals."
+    },
+    {
+      "korean": "멸종",
+      "english": "extinction",
+      "example": "기후 변화로 전 세계적으로 수많은 종이 멸종 위기에 처해 있다.",
+      "example_en": "Climate change has put countless species worldwide on the brink of extinction."
+    },
+    {
+      "korean": "미생물",
+      "english": "microorganism; microbe",
+      "example": "장내 미생물의 균형이 전반적인 건강에 큰 영향을 미친다.",
+      "example_en": "The balance of gut microorganisms has a significant impact on overall health."
+    },
+    {
+      "korean": "유전자",
+      "english": "gene",
+      "example": "유전자 편집 기술의 윤리적 한계에 대한 논의가 활발하다.",
+      "example_en": "There is active debate about the ethical limits of gene-editing technology."
+    },
+    {
+      "korean": "생물 다양성",
+      "english": "biodiversity",
+      "example": "열대 우림은 지구 생물 다양성의 보고로 알려져 있다.",
+      "example_en": "Tropical rainforests are known as a treasure trove of Earth's biodiversity."
+    },
+    {
+      "korean": "배출량",
+      "english": "emissions (amount discharged)",
+      "example": "각국은 탄소 배출량을 줄이기 위해 다양한 정책을 시행하고 있다.",
+      "example_en": "Countries are implementing various policies to reduce carbon emissions."
+    },
+    {
+      "korean": "생분해",
+      "english": "biodegradation",
+      "example": "생분해가 가능한 포장재가 기존 플라스틱을 빠르게 대체하고 있다.",
+      "example_en": "Biodegradable packaging materials are rapidly replacing conventional plastics."
+    },
+    {
+      "korean": "돌연변이",
+      "english": "mutation",
+      "example": "바이러스의 돌연변이가 잦아지면서 새로운 변이 주가 계속 출현하고 있다.",
+      "example_en": "With frequent viral mutations, new variant strains keep emerging."
+    },
+    {
+      "korean": "인공지능",
+      "english": "artificial intelligence (AI)",
+      "example": "인공지능이 의료 영상 판독에서 전문의 수준의 정확도를 보이고 있다.",
+      "example_en": "Artificial intelligence is showing specialist-level accuracy in medical image interpretation."
+    },
+    {
+      "korean": "반도체",
+      "english": "semiconductor",
+      "example": "한국은 세계 반도체 시장에서 핵심적인 위치를 차지하고 있다.",
+      "example_en": "Korea holds a pivotal position in the global semiconductor market."
+    },
+    {
+      "korean": "자동화",
+      "english": "automation",
+      "example": "공장 자동화로 생산성은 높아졌지만 일자리 감소가 우려된다.",
+      "example_en": "Factory automation has increased productivity, but job losses are a concern."
+    },
+    {
+      "korean": "연산",
+      "english": "computation; arithmetic operation",
+      "example": "양자 컴퓨터는 기존 컴퓨터보다 특정 연산을 수백만 배 빠르게 처리한다.",
+      "example_en": "Quantum computers process certain computations millions of times faster than conventional ones."
+    },
+    {
+      "korean": "복호화",
+      "english": "decryption; decoding",
+      "example": "전송된 데이터를 복호화해야 원래 내용을 확인할 수 있다.",
+      "example_en": "The transmitted data must be decrypted to view the original content."
+    },
+    {
+      "korean": "자율주행",
+      "english": "autonomous driving; self-driving",
+      "example": "자율주행 기술이 상용화되면 교통사고가 크게 줄어들 것으로 전망된다.",
+      "example_en": "Once autonomous driving technology is commercialized, traffic accidents are expected to decrease significantly."
+    },
+    {
+      "korean": "증강현실",
+      "english": "augmented reality (AR)",
+      "example": "증강현실 기술을 활용한 교육 콘텐츠가 학생들의 이해도를 높이고 있다.",
+      "example_en": "Educational content utilizing augmented reality technology is enhancing student comprehension."
+    },
+    {
+      "korean": "초전도체",
+      "english": "superconductor",
+      "example": "상온 초전도체 개발에 성공한다면 에너지 산업에 혁명이 일어날 것이다.",
+      "example_en": "If a room-temperature superconductor is successfully developed, it will revolutionize the energy industry."
+    },
+    {
+      "korean": "양자역학",
+      "english": "quantum mechanics",
+      "example": "양자역학의 원리는 일상적인 직관과 크게 어긋나는 경우가 많다.",
+      "example_en": "The principles of quantum mechanics often greatly defy everyday intuition."
+    },
+    {
+      "korean": "정보보안",
+      "english": "information security; cybersecurity",
+      "example": "기업의 정보보안 투자가 해마다 증가하고 있다.",
+      "example_en": "Corporate investment in information security is increasing every year."
+    },
+    {
+      "korean": "표본",
+      "english": "sample; specimen",
+      "example": "연구진은 전국에서 수집한 5,000개의 표본을 분석했다.",
+      "example_en": "The research team analyzed 5,000 specimens collected from across the country."
+    },
+    {
+      "korean": "대조군",
+      "english": "control group",
+      "example": "실험 결과의 신뢰도를 높이려면 적절한 대조군 설정이 필수적이다.",
+      "example_en": "Setting up an appropriate control group is essential to increase the reliability of experimental results."
+    },
+    {
+      "korean": "재현성",
+      "english": "reproducibility",
+      "example": "재현성이 확보되지 않은 연구 결과는 학계에서 인정받기 어렵다.",
+      "example_en": "Research results without established reproducibility are difficult to gain recognition in academia."
+    },
+    {
+      "korean": "학제간",
+      "english": "interdisciplinary",
+      "example": "기후 위기 대응은 학제간 협력 없이는 해결하기 어렵다.",
+      "example_en": "Addressing the climate crisis is difficult to solve without interdisciplinary collaboration."
+    },
+    {
+      "korean": "정량적",
+      "english": "quantitative",
+      "example": "정량적 분석을 통해 두 변수 간의 상관관계를 수치로 입증했다.",
+      "example_en": "Through quantitative analysis, the correlation between the two variables was numerically demonstrated."
+    },
+    {
+      "korean": "편향",
+      "english": "bias; skew",
+      "example": "연구자의 편향이 실험 설계에 무의식적으로 영향을 줄 수 있다.",
+      "example_en": "A researcher's bias can unconsciously influence the experimental design."
+    },
+    {
+      "korean": "귀납법",
+      "english": "inductive reasoning; induction",
+      "example": "귀납법은 개별 관찰에서 일반적인 법칙을 이끌어내는 추론 방식이다.",
+      "example_en": "Induction is a reasoning method that derives general laws from individual observations."
+    },
+    {
+      "korean": "연역법",
+      "english": "deductive reasoning; deduction",
+      "example": "연역법은 전제가 참이면 결론도 반드시 참이 되는 논리 구조를 따른다.",
+      "example_en": "Deduction follows a logical structure where, if the premises are true, the conclusion must also be true."
+    },
+    {
+      "korean": "표절",
+      "english": "plagiarism",
+      "example": "유명 교수의 논문 표절 사실이 밝혀져 학계가 발칵 뒤집혔다.",
+      "example_en": "The academic world was turned upside down when a prominent professor's plagiarism was revealed."
+    },
+    {
+      "korean": "학술지",
+      "english": "academic journal; scholarly journal",
+      "example": "이 연구는 세계적으로 권위 있는 학술지에 게재되었다.",
+      "example_en": "This research was published in a globally prestigious academic journal."
+    }
+  ]
+}

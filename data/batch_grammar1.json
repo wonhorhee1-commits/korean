@@ -1,0 +1,404 @@
+{
+  "Advanced Connectors II": [
+    {
+      "pattern": "~거든",
+      "meaning": "If (indeed); given that (speaker expects it may be true)",
+      "explanation": "A spoken-register conditional used when the speaker believes the condition is plausible or likely. Unlike the neutral ~(으)면, ~거든 implies the speaker already suspects the condition might hold. The second clause typically contains advice, a request, or an instruction.",
+      "examples": [
+        {
+          "korean": "배가 고프거든 냉장고에 있는 거 먹어.",
+          "english": "If you're hungry, eat what's in the fridge."
+        },
+        {
+          "korean": "시간이 나거든 한번 들러.",
+          "english": "If you have time, stop by sometime."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 심심하___ 이 책이라도 읽어 봐.",
+        "answer": "거든",
+        "full_sentence": "심심하거든 이 책이라도 읽어 봐."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ라치면",
+      "meaning": "Every time one tries to; whenever one is about to",
+      "explanation": "Expresses that every time the speaker attempts or is about to do something, an interruption or obstacle occurs. Conveys frustration at repeated interference. The second clause always describes what goes wrong or gets in the way.",
+      "examples": [
+        {
+          "korean": "공부를 하려고 할라치면 전화가 온다.",
+          "english": "Every time I try to study, I get a phone call."
+        },
+        {
+          "korean": "외출할라치면 비가 온다.",
+          "english": "Whenever I'm about to go out, it rains."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 잠을 자___치면 옆집에서 소리가 난다.",
+        "answer": "ㄹ라",
+        "full_sentence": "잠을 잘라치면 옆집에서 소리가 난다."
+      }
+    },
+    {
+      "pattern": "~지 않고서는",
+      "meaning": "Without doing X; unless one does X",
+      "explanation": "Expresses that without performing a certain action, the desired result is impossible. Emphasizes that X is an absolute prerequisite. The second clause typically contains a negative expression or an expression of impossibility. More emphatic than ~지 않으면.",
+      "examples": [
+        {
+          "korean": "직접 경험하지 않고서는 이해할 수 없다.",
+          "english": "Without experiencing it firsthand, you can't understand."
+        },
+        {
+          "korean": "꾸준히 노력하지 않고서는 실력이 늘지 않는다.",
+          "english": "Unless you put in consistent effort, your skills won't improve."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 포기하지 ___ 이길 수 없는 싸움은 없다.",
+        "answer": "않고서는",
+        "full_sentence": "포기하지 않고서는 이길 수 없는 싸움은 없다."
+      }
+    },
+    {
+      "pattern": "~다가는",
+      "meaning": "If one keeps doing X (warning of bad consequence)",
+      "explanation": "Warns that continuing the current action will lead to a negative outcome. Always implies the speaker is cautioning against the behavior. The result clause describes the inevitable bad consequence. Colloquial and commonly used in everyday speech.",
+      "examples": [
+        {
+          "korean": "이렇게 먹다가는 살이 찔 거야.",
+          "english": "If you keep eating like this, you're going to gain weight."
+        },
+        {
+          "korean": "이렇게 늦게 자다가는 건강을 해칠 거야.",
+          "english": "If you keep staying up this late, you'll ruin your health."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 매일 술을 마시___는 큰일 난다.",
+        "answer": "다가",
+        "full_sentence": "매일 술을 마시다가는 큰일 난다."
+      }
+    },
+    {
+      "pattern": "~(으)려거든",
+      "meaning": "If you're going to (do X), then (do Y)",
+      "explanation": "Combines the intention marker ~(으)려 with the conditional ~거든 to express: 'if you intend to do X, then you should do Y.' Used to give advice or instructions contingent on someone's plans. The second clause contains the recommended action.",
+      "examples": [
+        {
+          "korean": "한국어를 배우려거든 매일 연습해야 한다.",
+          "english": "If you're going to learn Korean, you need to practice every day."
+        },
+        {
+          "korean": "사업을 시작하려거든 먼저 시장 조사를 해라.",
+          "english": "If you're going to start a business, do market research first."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 건강해지___거든 운동을 꾸준히 해라.",
+        "answer": "려",
+        "full_sentence": "건강해지려거든 운동을 꾸준히 해라."
+      }
+    },
+    {
+      "pattern": "~(으)ㄴ들",
+      "meaning": "Even if (rhetorical, implying futility)",
+      "explanation": "A literary and rhetorical concessive meaning 'even if X, it wouldn't matter.' Implies that the condition, even if fulfilled, would not change the outcome. Often appears in rhetorical questions. More emphatic and resigned than ~(으)ㄹ지라도. Carries a tone of futility or inevitability.",
+      "examples": [
+        {
+          "korean": "지금 후회한들 무슨 소용이 있겠는가.",
+          "english": "Even if you regret it now, what good would it do?"
+        },
+        {
+          "korean": "변명한들 결과가 달라지겠어?",
+          "english": "Even if you make excuses, would the result change?"
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 아무리 울___들 돌아오지 않는다.",
+        "answer": "은",
+        "full_sentence": "아무리 운들 돌아오지 않는다."
+      }
+    },
+    {
+      "pattern": "~건만",
+      "meaning": "But; however (literary, with disappointment or frustration)",
+      "explanation": "A literary and somewhat formal contrastive connector expressing disappointment. The first clause states a fact or expectation, and the second clause reveals the disappointing reality. Carries more emotional weight than ~지만, implying the speaker's frustration that things did not turn out as expected.",
+      "examples": [
+        {
+          "korean": "열심히 했건만 결과가 좋지 않았다.",
+          "english": "I worked hard, but the results were not good."
+        },
+        {
+          "korean": "여러 번 부탁했건만 들어주지 않았다.",
+          "english": "I asked multiple times, but they wouldn't listen."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 오랫동안 기다렸___만 연락이 없었다.",
+        "answer": "건",
+        "full_sentence": "오랫동안 기다렸건만 연락이 없었다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ지언정",
+      "meaning": "Would rather X; even if X, certainly not Y",
+      "explanation": "Expresses a strong resolve: the speaker would accept one (possibly bad) outcome but absolutely refuses another. The first clause (before ~ㄹ지언정) states what the speaker is willing to endure, and the second clause states what they refuse to do. Conveys strong principles or stubbornness. More emphatic and formal than ~(으)ㄹ지라도.",
+      "examples": [
+        {
+          "korean": "굶을지언정 남에게 손 벌리지 않겠다.",
+          "english": "I'd rather starve than beg from others."
+        },
+        {
+          "korean": "실패할지언정 비겁하게 도망치지는 않겠다.",
+          "english": "I may fail, but I certainly won't run away like a coward."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 느릴___언정 정확하게 하겠다.",
+        "answer": "지",
+        "full_sentence": "느릴지언정 정확하게 하겠다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ지라도",
+      "meaning": "Even if; even though (hypothetical concession)",
+      "explanation": "A formal concessive pattern granting a hypothetical condition while asserting that the main point remains unchanged. More elevated than ~아/어도 and used in both written and formal spoken Korean. The second clause states what will happen regardless of the condition.",
+      "examples": [
+        {
+          "korean": "아무리 어려울지라도 끝까지 해내겠다.",
+          "english": "Even if it's extremely difficult, I'll see it through to the end."
+        },
+        {
+          "korean": "비가 올지라도 경기는 취소되지 않는다.",
+          "english": "Even if it rains, the game won't be canceled."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 실패할___라도 후회는 없을 것이다.",
+        "answer": "지",
+        "full_sentence": "실패할지라도 후회는 없을 것이다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄴ/는 대신(에)",
+      "meaning": "Instead of; in exchange for; but on the other hand",
+      "explanation": "Has two uses: (1) 'instead of doing X, do Y' as a substitution, and (2) 'X is true, but in exchange Y is also true' as a compensating contrast. In the compensation sense, it implies a trade-off where one advantage balances out a disadvantage.",
+      "examples": [
+        {
+          "korean": "이 식당은 가격이 비싼 대신에 맛이 좋다.",
+          "english": "This restaurant is expensive, but in exchange the food is delicious."
+        },
+        {
+          "korean": "직접 가는 대신에 택배로 보냈다.",
+          "english": "Instead of going in person, I sent it by delivery."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 월급이 적은 ___ 근무 시간이 짧다.",
+        "answer": "대신에",
+        "full_sentence": "월급이 적은 대신에 근무 시간이 짧다."
+      }
+    },
+    {
+      "pattern": "~길래",
+      "meaning": "Because (I discovered/noticed that); so (in response)",
+      "explanation": "Expresses that the speaker observed or discovered something and took action in response. The first clause is the observed cause, the second is the speaker's reaction. Only used for first-person responses to discovered situations. More colloquial than ~기에, which serves the same function in formal contexts.",
+      "examples": [
+        {
+          "korean": "맛있어 보이길래 하나 사 봤다.",
+          "english": "It looked delicious, so I bought one."
+        },
+        {
+          "korean": "할인하길래 두 개나 샀다.",
+          "english": "It was on sale, so I bought two."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 날씨가 좋___래 산책을 나갔다.",
+        "answer": "길",
+        "full_sentence": "날씨가 좋길래 산책을 나갔다."
+      }
+    },
+    {
+      "pattern": "~느라(고)",
+      "meaning": "Because of doing X (couldn't do Y); busy doing X",
+      "explanation": "Expresses that the speaker was occupied with one action, which caused them to be unable to do something else. The first clause is always the speaker's own action, and the result is always negative — something else suffered or didn't get done. Cannot be used with adjectives or passive verbs.",
+      "examples": [
+        {
+          "korean": "이사 준비하느라고 연락을 못 했다.",
+          "english": "I was busy preparing to move, so I couldn't get in touch."
+        },
+        {
+          "korean": "보고서 쓰느라 밥도 못 먹었다.",
+          "english": "I was busy writing a report, so I couldn't even eat."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 시험 준비하___라고 잠을 못 잤어.",
+        "answer": "느",
+        "full_sentence": "시험 준비하느라고 잠을 못 잤어."
+      }
+    },
+    {
+      "pattern": "~(으)ㄴ/는 까닭에",
+      "meaning": "Due to the fact that; because of (literary/formal reason)",
+      "explanation": "A formal and slightly literary way to express a reason or cause. More elevated than ~때문에 and used in writing, formal speech, and news articles. 까닭 means 'reason/cause' and functions similarly to 이유 but carries a more traditional, literary nuance.",
+      "examples": [
+        {
+          "korean": "갑작스러운 폭우가 내린 까닭에 행사가 취소되었다.",
+          "english": "Due to the sudden heavy rain, the event was canceled."
+        },
+        {
+          "korean": "인구가 줄어드는 까닭에 지방 도시들이 위기에 처해 있다.",
+          "english": "Due to the declining population, regional cities are in crisis."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 예산이 부족한 ___ 프로젝트가 중단되었다.",
+        "answer": "까닭에",
+        "full_sentence": "예산이 부족한 까닭에 프로젝트가 중단되었다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ세라",
+      "meaning": "For fear that; lest; worried that",
+      "explanation": "Expresses that the speaker does something out of concern that an undesirable event might occur. The first clause names the feared outcome, and the second clause describes the precautionary action taken. Always implies anxiety or worry driving the action.",
+      "examples": [
+        {
+          "korean": "아이가 다칠세라 뒤를 따라갔다.",
+          "english": "Worried that the child might get hurt, I followed behind."
+        },
+        {
+          "korean": "남들이 알까 봐 들킬세라 조심했다.",
+          "english": "Afraid of being found out by others, I was careful."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 늦을___ 택시를 탔다.",
+        "answer": "세라",
+        "full_sentence": "늦을세라 택시를 탔다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄴ/는 덕분에",
+      "meaning": "Thanks to; owing to (positive cause)",
+      "explanation": "Attributes a positive outcome to a specific cause. The opposite of ~(으)ㄴ/는 탓에 which assigns blame for negative results. Always used when the speaker is grateful for or pleased with the outcome. Can be used with nouns directly as 덕분에 or with verb/adjective modifiers.",
+      "examples": [
+        {
+          "korean": "선생님이 잘 가르쳐 주신 덕분에 시험에 합격했다.",
+          "english": "Thanks to the teacher teaching me well, I passed the exam."
+        },
+        {
+          "korean": "일찍 출발한 덕분에 교통 체증을 피할 수 있었다.",
+          "english": "Thanks to leaving early, I was able to avoid the traffic jam."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 꾸준히 운동한 ___ 건강해졌다.",
+        "answer": "덕분에",
+        "full_sentence": "꾸준히 운동한 덕분에 건강해졌다."
+      }
+    },
+    {
+      "pattern": "~다 못해",
+      "meaning": "Unable to endure any longer; to the point of giving up restraint",
+      "explanation": "Expresses that someone endured or continued doing something for so long that they finally reached a breaking point and took a different action. The second clause describes what happened once patience or endurance ran out. Conveys a buildup of pressure before the breaking point.",
+      "examples": [
+        {
+          "korean": "참다 못해 한마디 했다.",
+          "english": "Unable to hold back any longer, I said something."
+        },
+        {
+          "korean": "기다리다 못해 먼저 출발했다.",
+          "english": "Unable to wait any longer, I left first."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 듣다 ___ 끼어들었다.",
+        "answer": "못해",
+        "full_sentence": "듣다 못해 끼어들었다."
+      }
+    },
+    {
+      "pattern": "~고 말다",
+      "meaning": "End up doing (regrettable or inevitable result)",
+      "explanation": "Indicates that something eventually happened despite efforts to prevent it or despite the outcome being undesirable. Conveys finality and often regret. The action in the first clause is something the speaker did not want to happen or tried to avoid. Used to mark an irreversible endpoint.",
+      "examples": [
+        {
+          "korean": "결국 비밀을 말하고 말았다.",
+          "english": "I ended up telling the secret after all."
+        },
+        {
+          "korean": "참으려고 했는데 울고 말았다.",
+          "english": "I tried to hold it in, but I ended up crying."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 다이어트 중이었는데 케이크를 먹___ 말았다.",
+        "answer": "고",
+        "full_sentence": "다이어트 중이었는데 케이크를 먹고 말았다."
+      }
+    },
+    {
+      "pattern": "~(으)ㄹ 정도(로)",
+      "meaning": "To the extent/degree that",
+      "explanation": "Describes the degree or extent of something by providing a vivid comparison or consequence. The clause before ~(으)ㄹ 정도로 describes an extreme benchmark, and the main clause describes what is being measured. Used to emphasize how extreme a situation is through hyperbole or concrete illustration.",
+      "examples": [
+        {
+          "korean": "눈물이 날 정도로 감동적이었다.",
+          "english": "It was so moving that it brought tears to my eyes."
+        },
+        {
+          "korean": "한 발짝도 못 움직일 정도로 사람이 많았다.",
+          "english": "It was so crowded that I couldn't move a single step."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 귀가 아플 ___ 잔소리를 들었다.",
+        "answer": "정도로",
+        "full_sentence": "귀가 아플 정도로 잔소리를 들었다."
+      }
+    },
+    {
+      "pattern": "~기에 이르다",
+      "meaning": "To reach the point of; to come to the stage where",
+      "explanation": "A formal expression indicating that a situation has progressed or escalated to a significant point. Used to mark the culmination of a process, often in news, academic writing, or formal narratives. Implies a gradual progression that has reached a critical or noteworthy stage.",
+      "examples": [
+        {
+          "korean": "갈등이 심해져 결국 소송을 제기하기에 이르렀다.",
+          "english": "The conflict intensified until it reached the point of filing a lawsuit."
+        },
+        {
+          "korean": "오랜 협상 끝에 합의에 도달하기에 이르렀다.",
+          "english": "After long negotiations, they finally reached an agreement."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 상황이 악화되어 공장을 폐쇄하___ 이르렀다.",
+        "answer": "기에",
+        "full_sentence": "상황이 악화되어 공장을 폐쇄하기에 이르렀다."
+      }
+    },
+    {
+      "pattern": "~게끔",
+      "meaning": "So that; in such a way that; to ensure that",
+      "explanation": "Expresses purpose or result, meaning 'in order to make sure that.' Slightly more emphatic and deliberate than ~도록, emphasizing the speaker's intention to bring about the stated outcome. Used in both spoken and written Korean. The second clause describes the action taken to ensure the result.",
+      "examples": [
+        {
+          "korean": "아이들이 안전하게끔 울타리를 설치했다.",
+          "english": "We installed a fence so that the children would be safe."
+        },
+        {
+          "korean": "모두가 이해할 수 있게끔 쉽게 설명했다.",
+          "english": "I explained it simply so that everyone could understand."
+        }
+      ],
+      "drill": {
+        "prompt": "Complete: 다시는 같은 실수를 하지 않___끔 철저히 준비했다.",
+        "answer": "게",
+        "full_sentence": "다시는 같은 실수를 하지 않게끔 철저히 준비했다."
+      }
+    }
+  ]
+}

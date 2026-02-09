@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 법률 (Topic: Law)": [
+    {
+      "korean": "법정",
+      "english": "courtroom",
+      "example": "피고인은 법정에 출석하여 자신의 입장을 밝혔다.",
+      "example_en": "The defendant appeared in the courtroom and stated their position."
+    },
+    {
+      "korean": "증인",
+      "english": "witness",
+      "example": "검찰 측 증인이 사건 당일의 상황을 상세히 증언했다.",
+      "example_en": "The prosecution's witness testified in detail about the circumstances on the day of the incident."
+    },
+    {
+      "korean": "변호인",
+      "english": "defense attorney; defense counsel",
+      "example": "변호인은 의뢰인의 무죄를 입증하기 위해 새로운 증거를 제출했다.",
+      "example_en": "The defense attorney submitted new evidence to prove their client's innocence."
+    },
+    {
+      "korean": "검사",
+      "english": "prosecutor",
+      "example": "담당 검사는 피고인에게 징역 10년을 구형했다.",
+      "example_en": "The prosecutor requested a 10-year prison sentence for the defendant."
+    },
+    {
+      "korean": "재판",
+      "english": "trial; court proceedings",
+      "example": "이번 재판은 국민적 관심이 집중된 가운데 진행되었다.",
+      "example_en": "This trial proceeded amid intense public attention."
+    },
+    {
+      "korean": "배심원",
+      "english": "juror; member of a jury",
+      "example": "배심원단은 만장일치로 피고인의 유죄를 인정했다.",
+      "example_en": "The jury unanimously found the defendant guilty."
+    },
+    {
+      "korean": "공판",
+      "english": "public trial; court hearing",
+      "example": "첫 공판에서 피고인은 모든 혐의를 부인했다.",
+      "example_en": "At the first court hearing, the defendant denied all charges."
+    },
+    {
+      "korean": "변론",
+      "english": "oral argument; pleading",
+      "example": "양측 변호사가 최종 변론을 마친 후 판사가 판결을 내렸다.",
+      "example_en": "After both attorneys completed their closing arguments, the judge delivered the verdict."
+    },
+    {
+      "korean": "심리",
+      "english": "hearing; judicial deliberation",
+      "example": "헌법재판소는 해당 법률에 대한 심리를 개시했다.",
+      "example_en": "The Constitutional Court commenced deliberation on the law in question."
+    },
+    {
+      "korean": "선고",
+      "english": "sentencing; pronouncement of judgment",
+      "example": "선고 공판은 다음 달 15일로 예정되어 있다.",
+      "example_en": "The sentencing hearing is scheduled for the 15th of next month."
+    },
+    {
+      "korean": "약관",
+      "english": "terms and conditions; standard contract terms",
+      "example": "이용 약관을 꼼꼼히 읽지 않고 동의하면 나중에 불이익을 당할 수 있다.",
+      "example_en": "If you agree without carefully reading the terms and conditions, you may face disadvantages later."
+    },
+    {
+      "korean": "위약금",
+      "english": "penalty; liquidated damages; breach-of-contract fine",
+      "example": "계약을 중도 해지하면 위약금을 물어야 한다.",
+      "example_en": "If you terminate the contract early, you must pay a penalty."
+    },
+    {
+      "korean": "채무",
+      "english": "obligation; debt (legal)",
+      "example": "채무자가 채무를 이행하지 않으면 채권자가 법적 조치를 취할 수 있다.",
+      "example_en": "If the debtor does not fulfill their obligation, the creditor can take legal action."
+    },
+    {
+      "korean": "보증인",
+      "english": "guarantor; surety",
+      "example": "함부로 보증인을 서면 큰 빚을 떠안을 수 있으니 신중해야 한다.",
+      "example_en": "You must be careful because carelessly becoming a guarantor can saddle you with enormous debt."
+    },
+    {
+      "korean": "공증",
+      "english": "notarization; notarial certification",
+      "example": "부동산 매매 계약서는 공증을 받아 두는 것이 안전하다.",
+      "example_en": "It is safer to have a real estate sales contract notarized."
+    },
+    {
+      "korean": "위임장",
+      "english": "power of attorney; letter of delegation",
+      "example": "본인이 직접 출석하지 못할 경우 위임장을 제출해야 한다.",
+      "example_en": "If you cannot appear in person, you must submit a power of attorney."
+    },
+    {
+      "korean": "조항",
+      "english": "clause; provision; article (of a contract or law)",
+      "example": "이 계약서의 제5조 조항에 따르면 양측 모두 30일 전에 통보해야 한다.",
+      "example_en": "According to the clause in Article 5 of this contract, both parties must give 30 days' notice."
+    },
+    {
+      "korean": "갱신",
+      "english": "renewal (of a contract, license, etc.)",
+      "example": "임대차 계약이 만료되기 전에 갱신 여부를 통보해야 한다.",
+      "example_en": "You must notify whether you will renew before the lease agreement expires."
+    },
+    {
+      "korean": "하자",
+      "english": "defect; flaw (legal: in a contract or product)",
+      "example": "시공 하자가 발견되면 시공사에 보수를 요구할 수 있다.",
+      "example_en": "If a construction defect is found, you can demand repairs from the contractor."
+    },
+    {
+      "korean": "명의",
+      "english": "registered name; title (legal ownership name)",
+      "example": "부동산을 타인 명의로 등기하면 법적 분쟁의 소지가 있다.",
+      "example_en": "Registering real estate under someone else's name can lead to legal disputes."
+    },
+    {
+      "korean": "혐의",
+      "english": "suspicion; criminal charges",
+      "example": "경찰은 사기 혐의로 용의자를 긴급 체포했다.",
+      "example_en": "The police arrested the suspect on charges of fraud."
+    },
+    {
+      "korean": "피고인",
+      "english": "defendant; the accused (in criminal proceedings)",
+      "example": "피고인은 최후 진술에서 깊이 반성하고 있다고 밝혔다.",
+      "example_en": "The defendant stated in the final statement that they deeply regret their actions."
+    },
+    {
+      "korean": "무죄",
+      "english": "not guilty; innocence",
+      "example": "결정적 증거가 부족하여 법원은 무죄를 선고했다.",
+      "example_en": "Due to insufficient conclusive evidence, the court pronounced a not-guilty verdict."
+    },
+    {
+      "korean": "유죄",
+      "english": "guilty; conviction",
+      "example": "배심원단이 유죄 평결을 내리자 법정이 술렁였다.",
+      "example_en": "When the jury delivered the guilty verdict, a murmur swept through the courtroom."
+    },
+    {
+      "korean": "형량",
+      "english": "length of sentence; severity of punishment",
+      "example": "범행의 경중에 따라 형량이 크게 달라질 수 있다.",
+      "example_en": "The length of the sentence can vary greatly depending on the severity of the crime."
+    },
+    {
+      "korean": "집행유예",
+      "english": "suspended sentence; probation",
+      "example": "초범인 점을 고려하여 법원은 징역 2년에 집행유예 3년을 선고했다.",
+      "example_en": "Considering that it was a first offense, the court sentenced two years in prison suspended for three years."
+    },
+    {
+      "korean": "벌금",
+      "english": "fine (criminal penalty)",
+      "example": "음주운전 적발 시 면허 취소와 함께 고액의 벌금이 부과된다.",
+      "example_en": "When caught for drunk driving, a hefty fine is imposed along with license revocation."
+    },
+    {
+      "korean": "공소",
+      "english": "prosecution; public action (formal criminal charge)",
+      "example": "검찰이 공소를 제기한 지 6개월 만에 첫 공판이 열렸다.",
+      "example_en": "The first hearing was held six months after the prosecution filed the indictment."
+    },
+    {
+      "korean": "자수",
+      "english": "turning oneself in; voluntary surrender",
+      "example": "도주 중이던 용의자가 양심의 가책을 느끼고 경찰에 자수했다.",
+      "example_en": "The suspect, who had been on the run, turned himself in to the police out of guilt."
+    },
+    {
+      "korean": "공범",
+      "english": "accomplice; co-conspirator",
+      "example": "경찰은 주범뿐 아니라 공범 두 명도 함께 검거했다.",
+      "example_en": "The police apprehended not only the principal offender but also two accomplices."
+    },
+    {
+      "korean": "원고",
+      "english": "plaintiff (in a civil case)",
+      "example": "원고 측은 피고의 과실로 인한 손해배상을 청구했다.",
+      "example_en": "The plaintiff's side filed a claim for damages caused by the defendant's negligence."
+    },
+    {
+      "korean": "피고",
+      "english": "defendant (in a civil case)",
+      "example": "피고는 원고의 주장에 대해 반박 자료를 법원에 제출했다.",
+      "example_en": "The defendant submitted rebuttal materials to the court against the plaintiff's claims."
+    },
+    {
+      "korean": "손해배상",
+      "english": "damages; compensation for loss",
+      "example": "법원은 피고에게 원고에 대한 손해배상 1억 원을 명령했다.",
+      "example_en": "The court ordered the defendant to pay 100 million won in damages to the plaintiff."
+    },
+    {
+      "korean": "가처분",
+      "english": "injunction; provisional disposition",
+      "example": "회사는 전직 임원의 경업 금지를 위해 가처분 신청을 냈다.",
+      "example_en": "The company filed for a provisional injunction to prevent the former executive from competing."
+    },
+    {
+      "korean": "조정",
+      "english": "mediation; conciliation (legal)",
+      "example": "양측이 법원의 조정안을 받아들여 소송이 마무리되었다.",
+      "example_en": "Both sides accepted the court's mediation proposal, and the lawsuit was concluded."
+    },
+    {
+      "korean": "청구",
+      "english": "claim; petition; demand (legal)",
+      "example": "보험사는 과실 비율을 다투며 보험금 청구를 일부 거부했다.",
+      "example_en": "The insurance company disputed the fault ratio and partially rejected the insurance claim."
+    },
+    {
+      "korean": "상고",
+      "english": "appeal to the Supreme Court; final appeal",
+      "example": "피고 측은 항소심 판결에 불복하여 대법원에 상고했다.",
+      "example_en": "The defendant's side appealed to the Supreme Court, contesting the appellate court's ruling."
+    },
+    {
+      "korean": "승소",
+      "english": "winning a lawsuit; prevailing in court",
+      "example": "3년간의 긴 법정 싸움 끝에 원고가 최종 승소했다.",
+      "example_en": "After a three-year-long legal battle, the plaintiff ultimately prevailed."
+    },
+    {
+      "korean": "패소",
+      "english": "losing a lawsuit; defeat in court",
+      "example": "패소한 측은 소송 비용까지 부담해야 하는 상황에 놓였다.",
+      "example_en": "The losing side was placed in a situation where they had to bear the litigation costs as well."
+    },
+    {
+      "korean": "강제집행",
+      "english": "compulsory execution; enforcement (of a court order)",
+      "example": "판결 후에도 배상금을 지급하지 않아 강제집행이 이루어졌다.",
+      "example_en": "Since the damages were not paid even after the ruling, compulsory execution was carried out."
+    }
+  ]
+}

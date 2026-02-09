@@ -7138,6 +7138,246 @@
       "english": "to deliver/share news",
       "example": "고향에 계신 부모님께 합격 소식을 전하니 많이 기뻐하셨다.",
       "example_en": "When I shared the news of my acceptance with my parents back home, they were overjoyed."
+    },
+    {
+      "korean": "논문을 발표하다",
+      "english": "to present/publish a paper",
+      "example": "교수님이 국제 학회에서 논문을 발표하고 큰 주목을 받았다.",
+      "example_en": "The professor presented a paper at an international conference and received a lot of attention."
+    },
+    {
+      "korean": "가설을 세우다",
+      "english": "to formulate a hypothesis",
+      "example": "실험에 앞서 먼저 명확한 가설을 세우는 것이 중요하다.",
+      "example_en": "It's important to formulate a clear hypothesis before conducting the experiment."
+    },
+    {
+      "korean": "자료를 수집하다",
+      "english": "to collect data/materials",
+      "example": "석사 논문을 위해 6개월간 현장에서 자료를 수집했다.",
+      "example_en": "I spent six months collecting data in the field for my master's thesis."
+    },
+    {
+      "korean": "분석을 실시하다",
+      "english": "to conduct an analysis",
+      "example": "설문 결과를 토대로 통계 분석을 실시한 결과 유의미한 차이가 나타났다.",
+      "example_en": "After conducting a statistical analysis based on the survey results, a significant difference was found."
+    },
+    {
+      "korean": "결과를 도출하다",
+      "english": "to derive/draw results",
+      "example": "다양한 변수를 고려하여 신뢰할 수 있는 결과를 도출해야 한다.",
+      "example_en": "We need to derive reliable results by considering various variables."
+    },
+    {
+      "korean": "연구를 수행하다",
+      "english": "to conduct/carry out research",
+      "example": "이 팀은 인공지능의 윤리적 문제에 대해 3년간 연구를 수행해 왔다.",
+      "example_en": "This team has been conducting research on the ethical issues of AI for three years."
+    },
+    {
+      "korean": "이론을 정립하다",
+      "english": "to establish a theory",
+      "example": "수십 년간의 연구 끝에 새로운 학문적 이론을 정립하는 데 성공했다.",
+      "example_en": "After decades of research, they succeeded in establishing a new academic theory."
+    },
+    {
+      "korean": "근거를 제시하다",
+      "english": "to present evidence/grounds",
+      "example": "주장만 하지 말고 구체적인 근거를 제시해 주세요.",
+      "example_en": "Don't just make claims — please present concrete evidence."
+    },
+    {
+      "korean": "학위를 취득하다",
+      "english": "to obtain/earn a degree",
+      "example": "직장을 다니면서 야간 대학원에서 석사 학위를 취득했다.",
+      "example_en": "I earned my master's degree from an evening graduate program while working."
+    },
+    {
+      "korean": "논점을 정리하다",
+      "english": "to organize/summarize the key points of argument",
+      "example": "회의가 길어지니까 한 번 논점을 정리하고 넘어가자.",
+      "example_en": "The meeting is dragging on, so let's organize the key points and move on."
+    },
+    {
+      "korean": "여론을 수렴하다",
+      "english": "to gather/collect public opinion",
+      "example": "정부는 정책을 시행하기 전에 충분히 여론을 수렴해야 한다.",
+      "example_en": "The government should sufficiently gather public opinion before implementing the policy."
+    },
+    {
+      "korean": "법안을 통과시키다",
+      "english": "to pass a bill/legislation",
+      "example": "여야 합의 끝에 해당 법안을 통과시키는 데 성공했다.",
+      "example_en": "After bipartisan agreement, they succeeded in passing the bill."
+    },
+    {
+      "korean": "성명을 발표하다",
+      "english": "to issue/release a statement",
+      "example": "외교부가 긴급 성명을 발표하며 강력히 항의했다.",
+      "example_en": "The Ministry of Foreign Affairs issued an emergency statement and protested strongly."
+    },
+    {
+      "korean": "혐의를 받다",
+      "english": "to be charged with; to be under suspicion of",
+      "example": "그는 횡령 혐의를 받고 현재 검찰 조사를 받고 있다.",
+      "example_en": "He is under suspicion of embezzlement and is currently being investigated by prosecutors."
+    },
+    {
+      "korean": "논란을 일으키다",
+      "english": "to stir up/cause controversy",
+      "example": "장관의 발언이 큰 논란을 일으키면서 사퇴 요구가 빗발쳤다.",
+      "example_en": "The minister's remarks stirred up major controversy, prompting a flood of calls for resignation."
+    },
+    {
+      "korean": "합의를 이루다",
+      "english": "to reach an agreement/consensus",
+      "example": "양측이 밤새 협상한 끝에 드디어 합의를 이루었다.",
+      "example_en": "After negotiating through the night, both sides finally reached an agreement."
+    },
+    {
+      "korean": "제재를 가하다",
+      "english": "to impose sanctions/penalties",
+      "example": "국제 사회가 핵 개발에 대해 강력한 제재를 가하기로 결정했다.",
+      "example_en": "The international community decided to impose strong sanctions on nuclear development."
+    },
+    {
+      "korean": "수사에 착수하다",
+      "english": "to launch/commence an investigation",
+      "example": "경찰이 내부 제보를 받고 즉시 수사에 착수했다.",
+      "example_en": "The police received an internal tip and immediately launched an investigation."
+    },
+    {
+      "korean": "피해를 입다",
+      "english": "to suffer damage/harm",
+      "example": "태풍으로 해안 지역 주민들이 큰 피해를 입었다.",
+      "example_en": "Residents of coastal areas suffered significant damage from the typhoon."
+    },
+    {
+      "korean": "입장을 밝히다",
+      "english": "to state/clarify one's position",
+      "example": "회사 측은 기자회견에서 이번 사건에 대한 공식 입장을 밝혔다.",
+      "example_en": "The company stated its official position on the incident at the press conference."
+    },
+    {
+      "korean": "잠을 설치다",
+      "english": "to have a restless night; to sleep fitfully",
+      "example": "내일 면접 생각에 밤새 잠을 설쳤다.",
+      "example_en": "I had a restless night thinking about tomorrow's interview."
+    },
+    {
+      "korean": "살림을 꾸리다",
+      "english": "to set up/manage a household",
+      "example": "결혼하고 처음으로 둘이서 살림을 꾸리는 게 쉽지 않았다.",
+      "example_en": "Setting up a household together for the first time after getting married wasn't easy."
+    },
+    {
+      "korean": "눈치를 보다",
+      "english": "to read the room; to gauge someone's mood",
+      "example": "상사 눈치를 보느라 하고 싶은 말도 못 했다.",
+      "example_en": "I was so busy reading my boss's mood that I couldn't say what I wanted to."
+    },
+    {
+      "korean": "잔소리를 하다",
+      "english": "to nag; to lecture someone repeatedly",
+      "example": "엄마가 매일 방 정리하라고 잔소리를 하셔서 귀가 아프다.",
+      "example_en": "My mom nags me every day to clean my room — my ears are ringing."
+    },
+    {
+      "korean": "바람을 쐬다",
+      "english": "to get some fresh air; to step outside for air",
+      "example": "머리가 복잡할 때는 밖에 나가서 바람을 쐬는 게 최고다.",
+      "example_en": "When my head is full of thoughts, the best thing to do is go outside and get some fresh air."
+    },
+    {
+      "korean": "한턱을 내다",
+      "english": "to treat someone to a meal/drinks",
+      "example": "승진 축하한다! 오늘 한턱 내는 거지?",
+      "example_en": "Congratulations on the promotion! You're treating us today, right?"
+    },
+    {
+      "korean": "짐을 꾸리다",
+      "english": "to pack one's belongings/bags",
+      "example": "출장 전날 밤에 허겁지겁 짐을 꾸렸다.",
+      "example_en": "I hurriedly packed my bags the night before the business trip."
+    },
+    {
+      "korean": "시간을 때우다",
+      "english": "to kill time; to while away the time",
+      "example": "비행기 시간까지 두 시간 남아서 카페에서 시간을 때웠다.",
+      "example_en": "I had two hours until my flight, so I killed time at a cafe."
+    },
+    {
+      "korean": "입맛이 돌다",
+      "english": "to get one's appetite back; to feel hungry again",
+      "example": "며칠째 아팠는데 오늘은 좀 나아져서 입맛이 돈다.",
+      "example_en": "I was sick for days, but today I feel a bit better and my appetite is coming back."
+    },
+    {
+      "korean": "빚을 갚다",
+      "english": "to pay off a debt",
+      "example": "학자금 대출 빚을 갚는 데만 5년이 걸렸다.",
+      "example_en": "It took five years just to pay off my student loan debt."
+    },
+    {
+      "korean": "의미를 부여하다",
+      "english": "to assign/attach meaning to",
+      "example": "사소한 일상에도 의미를 부여하면 삶이 더 풍요로워진다.",
+      "example_en": "If you attach meaning even to trivial everyday moments, life becomes richer."
+    },
+    {
+      "korean": "한계를 드러내다",
+      "english": "to reveal/expose one's limits",
+      "example": "기존 시스템이 급격한 수요 증가에 한계를 드러냈다.",
+      "example_en": "The existing system revealed its limits in the face of a rapid surge in demand."
+    },
+    {
+      "korean": "균형을 유지하다",
+      "english": "to maintain balance",
+      "example": "일과 삶의 균형을 유지하는 것이 요즘 직장인의 최대 과제다.",
+      "example_en": "Maintaining a work-life balance is the biggest challenge for today's office workers."
+    },
+    {
+      "korean": "본질을 파악하다",
+      "english": "to grasp/understand the essence",
+      "example": "겉모습에 속지 말고 문제의 본질을 파악하는 것이 중요하다.",
+      "example_en": "Don't be fooled by appearances — it's important to grasp the essence of the problem."
+    },
+    {
+      "korean": "영향을 미치다",
+      "english": "to have an influence/impact on",
+      "example": "어린 시절의 경험이 성인이 된 후에도 큰 영향을 미친다.",
+      "example_en": "Childhood experiences have a significant influence even into adulthood."
+    },
+    {
+      "korean": "변화를 꾀하다",
+      "english": "to seek/attempt change",
+      "example": "매출이 계속 떨어지자 경영진이 구조적인 변화를 꾀했다.",
+      "example_en": "As sales kept declining, the management sought structural changes."
+    },
+    {
+      "korean": "기대에 부응하다",
+      "english": "to live up to expectations",
+      "example": "국민의 기대에 부응하는 정책을 만들어야 한다.",
+      "example_en": "We must create policies that live up to the people's expectations."
+    },
+    {
+      "korean": "갈등을 빚다",
+      "english": "to cause/create conflict",
+      "example": "세대 간 가치관 차이가 가정 내에서 갈등을 빚는 경우가 많다.",
+      "example_en": "Differences in values between generations often cause conflict within families."
+    },
+    {
+      "korean": "소신을 지키다",
+      "english": "to stick to one's convictions/principles",
+      "example": "주변 압력에도 불구하고 끝까지 소신을 지킨 그녀가 대단하다.",
+      "example_en": "It's impressive that she stuck to her convictions to the end despite the pressure around her."
+    },
+    {
+      "korean": "가치를 인정하다",
+      "english": "to acknowledge/recognize the value of",
+      "example": "그동안 과소평가되었던 전통 공예의 가치를 인정하는 움직임이 커지고 있다.",
+      "example_en": "There is a growing movement to recognize the value of traditional crafts that have long been undervalued."
     }
   ],
   "구어체 (Colloquial)": [
@@ -7380,6 +7620,246 @@
       "english": "'But wait' or 'hold on though.' Used to interject with a new thought, mild objection, or shift in direction.",
       "example": "아니 근데, 그 사람이 왜 거기 있었어? 출장 간다고 하지 않았어?",
       "example_en": "But wait, why was he there? Didn't he say he was going on a business trip?"
+    },
+    {
+      "korean": "내 말이",
+      "english": "'That's what I'm saying.' Emphatic agreement, confirming that someone just expressed exactly what you think.",
+      "example": "\"요즘 물가가 너무 올랐어.\" \"내 말이. 장 보러 갈 때마다 깜짝 놀라.\"",
+      "example_en": "\"Prices have gone up so much lately.\" \"That's what I'm saying. I'm shocked every time I go grocery shopping.\""
+    },
+    {
+      "korean": "당연하지",
+      "english": "'Of course' or 'obviously.' Emphatic affirmation that something goes without saying.",
+      "example": "\"이번에 도와줄 수 있어?\" \"당연하지, 말만 해.\"",
+      "example_en": "\"Can you help me with this?\" \"Of course — just say the word.\""
+    },
+    {
+      "korean": "누가 아니래",
+      "english": "'Tell me about it' or 'who would disagree.' Strong agreement implying the point is so obvious nobody could argue.",
+      "example": "\"이 날씨에 일하러 가기 싫다.\" \"누가 아니래, 나도 집에서 쉬고 싶어.\"",
+      "example_en": "\"I don't want to go to work in this weather.\" \"Tell me about it — I want to stay home and rest too.\""
+    },
+    {
+      "korean": "인정",
+      "english": "'Fair point' or 'acknowledged.' Casual one-word concession validating someone's argument. Popular among younger speakers.",
+      "example": "\"이 드라마 연출이 진짜 좋지 않아?\" \"인정. 특히 마지막 장면은 소름 돋았어.\"",
+      "example_en": "\"Isn't the directing in this drama really good?\" \"Fair point. The last scene especially gave me chills.\""
+    },
+    {
+      "korean": "완전 공감",
+      "english": "'I totally relate.' Expresses deep agreement or shared feeling about a situation or opinion.",
+      "example": "\"나이 들수록 시간이 빨리 간다는 말, 진짜 맞는 것 같아.\" \"완전 공감. 올해도 벌써 반이 지났잖아.\"",
+      "example_en": "\"The saying that time flies faster as you age seems really true.\" \"I totally relate. Half of this year is already gone.\""
+    },
+    {
+      "korean": "그치",
+      "english": "'Right?' Casual contraction of 그렇지, used to seek or express quick agreement in conversation.",
+      "example": "\"여기 분위기 진짜 좋다, 그치?\" \"응, 다음에 또 오자.\"",
+      "example_en": "\"The atmosphere here is really great, right?\" \"Yeah, let's come again next time.\""
+    },
+    {
+      "korean": "설마",
+      "english": "'Surely not' or 'no way.' Expresses disbelief or reluctance to accept that something could possibly be true.",
+      "example": "설마 걔가 진짜로 회사를 옮긴 거야? 농담인 줄 알았는데.",
+      "example_en": "You're not telling me he actually switched companies? I thought it was a joke."
+    },
+    {
+      "korean": "별로인데",
+      "english": "'Not really' or 'I'm not into it.' Mild, casual way to express that something doesn't appeal to you.",
+      "example": "\"이 식당 어때?\" \"음, 별로인데. 지난번에 왔을 때 맛이 좀 그랬어.\"",
+      "example_en": "\"How about this restaurant?\" \"Hmm, not really. The taste was a bit off last time I came.\""
+    },
+    {
+      "korean": "좀 아닌 것 같은데",
+      "english": "'I don't think that's right' or 'that seems off.' Softened disagreement used to gently push back on an idea.",
+      "example": "\"그냥 이대로 제출하면 안 될까?\" \"그건 좀 아닌 것 같은데, 한 번 더 검토하자.\"",
+      "example_en": "\"Can't we just submit it as is?\" \"I don't think that's a good idea — let's review it one more time.\""
+    },
+    {
+      "korean": "무슨 소리야",
+      "english": "'What are you talking about?' Dismissive response when someone's statement seems nonsensical or off-base.",
+      "example": "\"네가 잘못한 거 아니야?\" \"무슨 소리야, 나는 아무 관련 없어.\"",
+      "example_en": "\"Wasn't it your fault?\" \"What are you talking about? I had nothing to do with it.\""
+    },
+    {
+      "korean": "짜증 나",
+      "english": "'I'm so annoyed' or 'this is irritating.' Direct expression of annoyance at a situation or person.",
+      "example": "인터넷이 또 끊겼어. 진짜 짜증 나, 이번 달에만 벌써 세 번째야.",
+      "example_en": "The internet went out again. I'm so annoyed — this is already the third time this month."
+    },
+    {
+      "korean": "또야?",
+      "english": "'Again?' or 'Not this again.' Exasperated reaction when an unwanted situation keeps repeating.",
+      "example": "\"내일도 야근이래.\" \"또야? 이번 주만 벌써 네 번째잖아.\"",
+      "example_en": "\"They said it's overtime again tomorrow.\" \"Again? That's already the fourth time just this week.\""
+    },
+    {
+      "korean": "환장하겠다",
+      "english": "'I'm going to lose my mind.' Expresses extreme frustration or the feeling of being pushed past one's limit.",
+      "example": "서류를 세 번이나 다시 쓰라고 해. 환장하겠다, 진짜.",
+      "example_en": "They're making me rewrite the documents for the third time. I'm going to lose my mind, seriously."
+    },
+    {
+      "korean": "진이 빠지다",
+      "english": "'I'm completely drained.' Describes being physically or mentally exhausted from a tedious or taxing ordeal.",
+      "example": "이사 짐 다 옮기고 나니까 진이 다 빠졌어. 손가락 하나 까딱 못 하겠어.",
+      "example_en": "After moving all the boxes, I'm completely drained. I can't lift a finger."
+    },
+    {
+      "korean": "그만 좀 해",
+      "english": "'Stop it already' or 'cut it out.' Tells someone to stop doing something repetitive or annoying.",
+      "example": "자꾸 같은 얘기 반복하지 마. 그만 좀 해, 나도 알고 있다고.",
+      "example_en": "Stop repeating the same thing. Cut it out already — I know."
+    },
+    {
+      "korean": "한숨밖에 안 나온다",
+      "english": "'All I can do is sigh.' Resigned frustration when a situation is so bad there is nothing left to say.",
+      "example": "다음 달 카드값 보고 한숨밖에 안 나왔어. 어디서부터 줄여야 할지 모르겠어.",
+      "example_en": "When I saw next month's credit card bill, all I could do was sigh. I don't know where to start cutting back."
+    },
+    {
+      "korean": "끝이 안 보인다",
+      "english": "'There's no end in sight.' Expresses frustration with a task or situation that seems to go on forever.",
+      "example": "이 보고서 작성 끝이 안 보인다. 쓰면 쓸수록 추가 자료가 필요해.",
+      "example_en": "There's no end in sight with this report. The more I write, the more additional materials I need."
+    },
+    {
+      "korean": "골치 아프다",
+      "english": "'It's a headache' or 'what a pain.' Describes something troublesome and difficult to resolve.",
+      "example": "윗집 소음 문제 때문에 골치 아파. 말해도 안 듣거든.",
+      "example_en": "The noise from the upstairs neighbor is such a headache. They don't listen even when I talk to them."
+    },
+    {
+      "korean": "될 대로 되라",
+      "english": "'Whatever happens, happens.' Resigned expression of giving up trying to control a frustrating situation.",
+      "example": "더 이상 손 쓸 게 없어. 될 대로 되라, 나는 최선을 다했어.",
+      "example_en": "There's nothing more I can do. Whatever happens, happens — I did my best."
+    },
+    {
+      "korean": "어휴",
+      "english": "Exasperated sigh expressing weariness, annoyance, or mild disgust. Heavier and more drawn-out than a simple 'ah.'",
+      "example": "어휴, 이 더위에 에어컨도 고장이야? 참 되는 일이 하나도 없다.",
+      "example_en": "Ugh, the AC is broken in this heat? Nothing is going right."
+    },
+    {
+      "korean": "역시 너밖에 없다",
+      "english": "'No one else but you could do this.' Strong compliment expressing that someone is uniquely skilled or reliable.",
+      "example": "이렇게 빨리 해결해 줄 줄은 몰랐어. 역시 너밖에 없다.",
+      "example_en": "I didn't expect you to solve it this fast. No one else could've done it but you."
+    },
+    {
+      "korean": "쩐다",
+      "english": "'That's insane' or 'that's incredible.' Slang expressing strong admiration for something impressive.",
+      "example": "혼자서 이 프로젝트 다 한 거야? 야, 진짜 쩐다.",
+      "example_en": "You did this whole project by yourself? Dude, that's incredible."
+    },
+    {
+      "korean": "너답다",
+      "english": "'That's so you.' Compliment acknowledging that someone's action perfectly reflects their best qualities.",
+      "example": "바쁜데도 남 도와주는 거 보니까 역시 너답다.",
+      "example_en": "Seeing you help others even when you're busy — that's so you."
+    },
+    {
+      "korean": "센스 있다",
+      "english": "'You've got great sense.' Praises someone's perceptiveness, good taste, or situational awareness.",
+      "example": "선물 고르는 거 진짜 센스 있다. 내가 딱 갖고 싶었던 건데.",
+      "example_en": "You've got such great taste in picking gifts. This is exactly what I wanted."
+    },
+    {
+      "korean": "별걸 다 잘하네",
+      "english": "'You're good at everything.' Admiring exclamation when someone shows unexpected talent in yet another area.",
+      "example": "그림도 이렇게 잘 그려? 별걸 다 잘하네, 진짜.",
+      "example_en": "You draw this well too? You're seriously good at everything."
+    },
+    {
+      "korean": "해낼 줄 알았어",
+      "english": "'I knew you'd pull it off.' Expression of confidence in someone, said after they succeed at something.",
+      "example": "합격한 거 축하해! 네가 해낼 줄 알았어, 한 번도 의심 안 했어.",
+      "example_en": "Congratulations on passing! I knew you'd pull it off — I never doubted you."
+    },
+    {
+      "korean": "좀 치는데",
+      "english": "'You're pretty good at this.' Understated, playful compliment implying someone is actually very skilled.",
+      "example": "당구 처음이라며? 좀 치는데? 완전 거짓말이지.",
+      "example_en": "You said this was your first time playing billiards? You're pretty good — you're totally lying."
+    },
+    {
+      "korean": "니가 하면 다르다",
+      "english": "'It's different when you do it.' Compliment that someone brings a special quality or skill that elevates the result.",
+      "example": "같은 레시피인데 니가 하면 다르다. 훨씬 맛있어.",
+      "example_en": "It's the same recipe, but it's different when you make it. It's way more delicious."
+    },
+    {
+      "korean": "포기하기엔 아깝다",
+      "english": "'It'd be a waste to give up now.' Encouragement urging someone to keep going because they have already invested so much.",
+      "example": "여기서 그만두려고? 이만큼 했는데 포기하기엔 아깝다. 조금만 더 힘내 봐.",
+      "example_en": "You're going to quit here? After coming this far, it'd be a waste to give up. Push through just a bit more."
+    },
+    {
+      "korean": "어떻게 그런 생각을 했어",
+      "english": "'How did you even come up with that?' Expresses admiration for someone's unexpected creativity or cleverness.",
+      "example": "이 아이디어 진짜 기발하다. 어떻게 그런 생각을 했어?",
+      "example_en": "This idea is really brilliant. How did you even come up with that?"
+    },
+    {
+      "korean": "그래서 말인데",
+      "english": "'So, about that...' Transition phrase used to segue from casual talk to the real point or a favor you want to ask.",
+      "example": "그래서 말인데, 혹시 이번 주 토요일에 차 좀 빌려줄 수 있어?",
+      "example_en": "So about that... could you maybe lend me your car this Saturday?"
+    },
+    {
+      "korean": "말 나온 김에",
+      "english": "'Since we're on the topic' or 'while we're at it.' Brings up something related to the current subject.",
+      "example": "말 나온 김에 하나만 더 얘기할게. 다음 달 회비 인상 건도 논의해야 해.",
+      "example_en": "Since we're on the topic, let me bring up one more thing. We need to discuss the fee increase next month."
+    },
+    {
+      "korean": "근데 진짜",
+      "english": "'But seriously though.' Shifts to a more earnest or important point within a casual conversation.",
+      "example": "근데 진짜, 너 요즘 살 많이 빠진 것 같아. 무슨 비결이야?",
+      "example_en": "But seriously, you look like you've lost a lot of weight lately. What's your secret?"
+    },
+    {
+      "korean": "그건 둘째 치고",
+      "english": "'Setting that aside' or 'that's secondary.' Dismisses one point to redirect attention to something more urgent.",
+      "example": "돈은 그건 둘째 치고, 시간이 부족한 게 더 큰 문제야.",
+      "example_en": "Money aside, the bigger problem is that we don't have enough time."
+    },
+    {
+      "korean": "어쨌든",
+      "english": "'Anyway' or 'in any case.' Wraps up a tangent or debate and refocuses the conversation on the main point.",
+      "example": "이유야 어쨌든, 결과적으로 잘 됐으니 됐지 뭐.",
+      "example_en": "Whatever the reason, it worked out in the end, so it's fine."
+    },
+    {
+      "korean": "뭐냐면",
+      "english": "'The thing is' or 'what I mean is.' Clarifying preface before explaining a point more precisely.",
+      "example": "내가 하고 싶은 말이 뭐냐면, 이번 기회를 놓치면 안 된다는 거야.",
+      "example_en": "What I'm trying to say is that we can't afford to miss this opportunity."
+    },
+    {
+      "korean": "아무튼",
+      "english": "'At any rate' or 'anyway.' Quick conversational wrap-up or pivot, slightly more casual than 어쨌든.",
+      "example": "아무튼 결론은 내일까지 끝내야 한다는 거지? 알겠어, 해 볼게.",
+      "example_en": "At any rate, the bottom line is it needs to be done by tomorrow, right? Got it, I'll try."
+    },
+    {
+      "korean": "다름이 아니라",
+      "english": "'The reason I'm bringing this up is...' Polite preface before stating the real purpose of a conversation or call.",
+      "example": "전화한 건 다름이 아니라, 주말에 도움이 좀 필요해서.",
+      "example_en": "The reason I'm calling is that I need some help this weekend."
+    },
+    {
+      "korean": "딴 얘기지만",
+      "english": "'This is off-topic, but...' Signals a pivot to a completely unrelated subject mid-conversation.",
+      "example": "딴 얘기지만, 너 아까 말한 그 책 제목이 뭐였어? 갑자기 생각났어.",
+      "example_en": "This is off-topic, but what was the title of that book you mentioned earlier? It just popped into my head."
+    },
+    {
+      "korean": "그게 말이야",
+      "english": "'So here's the thing.' Introduces a point you have been building up to or hesitating to say.",
+      "example": "그게 말이야, 사실 나 다음 달에 이직하려고.",
+      "example_en": "So here's the thing — actually, I'm planning to change jobs next month."
     }
   ],
   "고급 동사 (Advanced Verbs)": [
@@ -7622,6 +8102,246 @@
       "english": "to keep in check; to restrain; to counterbalance",
       "example": "삼권분립은 권력 기관이 서로를 견제하도록 설계된 제도이다.",
       "example_en": "The separation of powers is a system designed so that branches of government keep each other in check."
+    },
+    {
+      "korean": "통치하다",
+      "english": "to govern; to rule; to reign over a territory or people",
+      "example": "고대 왕조는 수백 년간 광대한 영토를 통치하며 독자적인 문화를 꽃피웠다.",
+      "example_en": "The ancient dynasty governed a vast territory for centuries, cultivating its own unique culture."
+    },
+    {
+      "korean": "군림하다",
+      "english": "to reign supreme; to lord over; to dominate unchallenged",
+      "example": "그 기업은 20년 넘게 국내 시장에서 독보적으로 군림해 왔다.",
+      "example_en": "That company has reigned supreme in the domestic market for over 20 years."
+    },
+    {
+      "korean": "집행하다",
+      "english": "to execute; to enforce; to carry out (a law, order, or sentence)",
+      "example": "법원의 판결이 내려졌지만 실제로 집행하기까지는 상당한 시간이 걸렸다.",
+      "example_en": "The court's ruling was handed down, but it took considerable time to actually execute it."
+    },
+    {
+      "korean": "위임하다",
+      "english": "to delegate; to entrust authority or responsibility to another",
+      "example": "대표는 해외 출장 기간 동안 주요 업무를 부대표에게 위임했다.",
+      "example_en": "The CEO delegated key responsibilities to the vice president during the overseas business trip."
+    },
+    {
+      "korean": "탄핵하다",
+      "english": "to impeach; to formally charge a public official with misconduct",
+      "example": "국회는 헌법 위반을 근거로 대통령을 탄핵하기로 의결했다.",
+      "example_en": "The National Assembly voted to impeach the president on the grounds of constitutional violations."
+    },
+    {
+      "korean": "비준하다",
+      "english": "to ratify; to formally approve a treaty or agreement",
+      "example": "양국 정상은 무역 협정에 서명했으나 의회의 비준이 아직 남아 있다.",
+      "example_en": "The leaders of both countries signed the trade agreement, but parliamentary ratification is still pending."
+    },
+    {
+      "korean": "선포하다",
+      "english": "to proclaim; to declare officially and publicly",
+      "example": "정부는 국가 비상사태를 선포하고 군 병력을 긴급 투입했다.",
+      "example_en": "The government proclaimed a national state of emergency and urgently deployed military forces."
+    },
+    {
+      "korean": "징집하다",
+      "english": "to conscript; to draft into military service",
+      "example": "전시에는 평소 면제 대상이던 시민까지 징집하는 경우가 있었다.",
+      "example_en": "During wartime, even citizens who were normally exempt were sometimes conscripted."
+    },
+    {
+      "korean": "관할하다",
+      "english": "to have jurisdiction over; to administer; to be in charge of an area or matter",
+      "example": "해당 사건은 서울중앙지방법원이 관할하는 것으로 결정되었다.",
+      "example_en": "It was decided that the Seoul Central District Court would have jurisdiction over the case."
+    },
+    {
+      "korean": "통솔하다",
+      "english": "to command; to lead and direct (troops, an organization)",
+      "example": "장군은 수만 명의 병력을 통솔하며 전쟁을 승리로 이끌었다.",
+      "example_en": "The general commanded tens of thousands of troops and led the war to victory."
+    },
+    {
+      "korean": "구상하다",
+      "english": "to conceive; to envision; to plan out creatively",
+      "example": "건축가는 도시의 역사적 맥락을 살린 새로운 문화 공간을 구상했다.",
+      "example_en": "The architect conceived a new cultural space that preserved the city's historical context."
+    },
+    {
+      "korean": "빚어내다",
+      "english": "to mold; to create; to give shape to (literally or figuratively)",
+      "example": "도예가가 흙 한 덩이로 섬세한 찻잔을 빚어내는 과정은 그 자체로 예술이었다.",
+      "example_en": "The process of the potter molding a delicate teacup from a lump of clay was art in itself."
+    },
+    {
+      "korean": "조율하다",
+      "english": "to tune; to harmonize; to coordinate and adjust for balance",
+      "example": "지휘자는 각 파트의 소리를 섬세하게 조율하여 완벽한 앙상블을 만들어 냈다.",
+      "example_en": "The conductor delicately harmonized the sound of each section to create a perfect ensemble."
+    },
+    {
+      "korean": "묘사하다",
+      "english": "to depict; to describe vividly; to portray in detail",
+      "example": "그 소설은 전쟁의 참상을 적나라하게 묘사하여 독자들에게 깊은 충격을 주었다.",
+      "example_en": "The novel vividly depicted the horrors of war, deeply shocking its readers."
+    },
+    {
+      "korean": "윤색하다",
+      "english": "to embellish; to polish; to touch up writing or speech for refinement",
+      "example": "작가는 초고를 여러 차례 윤색하여 문장의 결을 한층 다듬었다.",
+      "example_en": "The writer embellished the draft multiple times, further refining the texture of the sentences."
+    },
+    {
+      "korean": "각색하다",
+      "english": "to adapt (a story for a different medium); to dramatize",
+      "example": "원작 소설을 영화로 각색하는 과정에서 일부 줄거리가 크게 변경되었다.",
+      "example_en": "In the process of adapting the original novel into a film, some plot points were significantly changed."
+    },
+    {
+      "korean": "조각하다",
+      "english": "to sculpt; to carve; to engrave a form from raw material",
+      "example": "그는 대리석 원석에서 인체의 곡선을 정밀하게 조각해 냈다.",
+      "example_en": "He precisely sculpted the curves of the human body from a raw block of marble."
+    },
+    {
+      "korean": "주조하다",
+      "english": "to cast (metal); to mint; to forge into a mold",
+      "example": "고려 시대에는 청동으로 대형 범종을 주조하는 기술이 매우 발달했다.",
+      "example_en": "During the Goryeo Dynasty, the technique of casting large bronze temple bells was highly advanced."
+    },
+    {
+      "korean": "연출하다",
+      "english": "to direct; to stage; to orchestrate (a performance or scene)",
+      "example": "감독은 배우들의 미세한 표정 변화까지 세심하게 연출했다.",
+      "example_en": "The director meticulously staged even the subtle changes in the actors' facial expressions."
+    },
+    {
+      "korean": "채색하다",
+      "english": "to color in; to paint; to apply color to a surface or drawing",
+      "example": "복원 전문가가 퇴색된 벽화를 원래의 색감으로 채색하는 작업을 시작했다.",
+      "example_en": "The restoration specialist began the work of painting the faded mural back to its original colors."
+    },
+    {
+      "korean": "항거하다",
+      "english": "to resist; to rise up against; to defy authority",
+      "example": "시민들은 부당한 법령에 항거하여 대규모 시위를 벌였다.",
+      "example_en": "Citizens staged massive protests in defiance of the unjust decree."
+    },
+    {
+      "korean": "격퇴하다",
+      "english": "to repulse; to repel; to drive back (an enemy or attack)",
+      "example": "수비대는 열세에도 불구하고 적군의 공격을 성공적으로 격퇴했다.",
+      "example_en": "Despite being outnumbered, the garrison successfully repulsed the enemy's attack."
+    },
+    {
+      "korean": "교전하다",
+      "english": "to engage in battle; to exchange fire; to fight in combat",
+      "example": "국경 지대에서 양측 군대가 수 시간에 걸쳐 교전한 것으로 알려졌다.",
+      "example_en": "It was reported that troops from both sides engaged in battle for several hours in the border area."
+    },
+    {
+      "korean": "선동하다",
+      "english": "to agitate; to incite; to stir up a crowd toward action",
+      "example": "극단주의 지도자가 대중을 선동하여 폭력 사태를 야기했다.",
+      "example_en": "The extremist leader incited the public, causing a violent incident."
+    },
+    {
+      "korean": "압도하다",
+      "english": "to overwhelm; to overpower; to dominate completely",
+      "example": "신인 선수가 경험 많은 상대를 압도하며 결승에 진출했다.",
+      "example_en": "The rookie overwhelmed the experienced opponent and advanced to the finals."
+    },
+    {
+      "korean": "교란하다",
+      "english": "to disrupt; to throw into confusion; to disturb the order of",
+      "example": "적군은 전파 교란 작전으로 아군의 통신망을 교란하려 했다.",
+      "example_en": "The enemy tried to disrupt our communication network through a signal-jamming operation."
+    },
+    {
+      "korean": "반박하다",
+      "english": "to refute; to rebut; to counter an argument with evidence",
+      "example": "피고 측 변호사가 검찰의 주장을 조목조목 반박하여 재판의 흐름이 바뀌었다.",
+      "example_en": "The defense attorney rebutted the prosecution's claims point by point, shifting the course of the trial."
+    },
+    {
+      "korean": "농단하다",
+      "english": "to monopolize and manipulate (power); to abuse authority behind the scenes",
+      "example": "측근들이 국정을 농단한 사실이 밝혀지면서 정권이 흔들렸다.",
+      "example_en": "When it was revealed that close aides had manipulated state affairs, the regime was shaken."
+    },
+    {
+      "korean": "도발하다",
+      "english": "to provoke; to make a deliberate provocation",
+      "example": "상대 팀이 노골적으로 도발했지만 그는 냉정하게 경기에 집중했다.",
+      "example_en": "Although the opposing team openly provoked him, he stayed calm and focused on the game."
+    },
+    {
+      "korean": "제압하다",
+      "english": "to subdue; to suppress; to bring under control by force",
+      "example": "경찰 특공대가 인질범을 신속하게 제압하여 인질 전원을 구출했다.",
+      "example_en": "The police special forces swiftly subdued the hostage-taker and rescued all the hostages."
+    },
+    {
+      "korean": "쇄신하다",
+      "english": "to reform; to overhaul; to renovate a system or organization",
+      "example": "새 경영진은 낡은 조직 문화를 쇄신하겠다고 취임 일성을 밝혔다.",
+      "example_en": "The new management declared overhauling the outdated organizational culture as their first order of business."
+    },
+    {
+      "korean": "변모하다",
+      "english": "to transform; to undergo a metamorphosis; to change in form or character",
+      "example": "한때 황폐했던 항구 도시가 관광 명소로 완전히 변모했다.",
+      "example_en": "The once-desolate port city completely transformed into a tourist attraction."
+    },
+    {
+      "korean": "퇴화하다",
+      "english": "to degenerate; to devolve; to atrophy from disuse",
+      "example": "동굴 속에서 오래 살아온 어류는 시력이 퇴화하여 눈이 거의 없다.",
+      "example_en": "Fish that have lived in caves for a long time have degenerated eyesight, with almost no visible eyes."
+    },
+    {
+      "korean": "숙성하다",
+      "english": "to mature; to ripen; to age or ferment over time",
+      "example": "된장은 최소 일 년 이상 숙성해야 깊은 맛이 난다.",
+      "example_en": "Doenjang needs to be aged for at least a year to develop a deep flavor."
+    },
+    {
+      "korean": "증폭하다",
+      "english": "to amplify; to intensify; to magnify in scale or degree",
+      "example": "소셜 미디어가 작은 논란을 순식간에 증폭하여 사회적 이슈로 만들었다.",
+      "example_en": "Social media amplified a minor controversy into a social issue in an instant."
+    },
+    {
+      "korean": "정제하다",
+      "english": "to refine; to purify; to remove impurities from",
+      "example": "원유를 정제하는 과정에서 다양한 석유 화학 제품이 생산된다.",
+      "example_en": "Various petrochemical products are produced in the process of refining crude oil."
+    },
+    {
+      "korean": "침식하다",
+      "english": "to erode; to eat away at gradually",
+      "example": "거짓 정보의 범람이 민주주의의 토대를 서서히 침식하고 있다.",
+      "example_en": "The flood of false information is gradually eroding the foundations of democracy."
+    },
+    {
+      "korean": "응축하다",
+      "english": "to condense; to concentrate; to compress into a dense essence",
+      "example": "시인은 복잡한 감정을 짧은 한 행에 응축하는 데 천재적이었다.",
+      "example_en": "The poet was a genius at condensing complex emotions into a single short line."
+    },
+    {
+      "korean": "발효하다",
+      "english": "to ferment; to take effect (of a law or agreement coming into force)",
+      "example": "김치는 적정 온도에서 천천히 발효해야 제맛이 나고, 조약도 양국이 비준해야 발효한다.",
+      "example_en": "Kimchi must ferment slowly at the right temperature for proper flavor, and a treaty takes effect only when both countries ratify it."
+    },
+    {
+      "korean": "소멸하다",
+      "english": "to be extinguished; to vanish; to expire or cease to exist",
+      "example": "공소시효가 소멸하면 아무리 명백한 증거가 있어도 기소할 수 없다.",
+      "example_en": "Once the statute of limitations expires, prosecution is impossible no matter how clear the evidence."
     }
   ],
   "고급 형용사 (Advanced Adjectives)": [
@@ -7864,6 +8584,246 @@
       "english": "ambiguous, vague; unclear in meaning or boundaries, open to multiple interpretations",
       "example": "정부의 모호한 입장 때문에 국민들의 혼란이 가중되었다.",
       "example_en": "The government's ambiguous stance deepened public confusion."
+    },
+    {
+      "korean": "꿉꿉하다",
+      "english": "musty, damp and stuffy; having a stale, humid quality that feels unpleasant",
+      "example": "장마철이라 빨래가 마르지 않고 꿉꿉한 냄새가 난다.",
+      "example_en": "The laundry won't dry during the rainy season and gives off a musty smell."
+    },
+    {
+      "korean": "텁텁하다",
+      "english": "thick and stale; a heavy, unpleasant sensation in the mouth or air",
+      "example": "라면을 먹고 나면 입안이 텁텁해서 물을 많이 마시게 된다.",
+      "example_en": "After eating ramyeon, my mouth feels thick and stale, so I end up drinking a lot of water."
+    },
+    {
+      "korean": "칼칼하다",
+      "english": "sharp and pungent; a biting spiciness or dryness that hits the throat",
+      "example": "김치찌개가 칼칼해서 속이 다 풀리는 기분이다.",
+      "example_en": "The kimchi stew is so sharply spicy that it feels like it clears everything up inside."
+    },
+    {
+      "korean": "까끌까끌하다",
+      "english": "rough, scratchy; having a coarse texture that irritates when touched",
+      "example": "새로 산 수건이 까끌까끌해서 피부에 자극이 심하다.",
+      "example_en": "The newly bought towel is so scratchy that it really irritates the skin."
+    },
+    {
+      "korean": "얼얼하다",
+      "english": "tingling, numb; a buzzing sensation from spice, cold, or impact",
+      "example": "마라탕을 먹었더니 입이 얼얼해서 한동안 맛을 못 느꼈다.",
+      "example_en": "After eating mala hotpot, my mouth was so numb that I couldn't taste anything for a while."
+    },
+    {
+      "korean": "비릿하다",
+      "english": "having a raw, fishy smell; the metallic scent of blood or raw seafood",
+      "example": "시장 골목에 들어서니 생선 비릿한 냄새가 코를 찔렀다.",
+      "example_en": "As I entered the market alley, the raw fishy smell hit my nose."
+    },
+    {
+      "korean": "퀴퀴하다",
+      "english": "musty, stale; having a stuffy old smell from being closed up too long",
+      "example": "오래된 창고 문을 여니 퀴퀴한 냄새가 확 풍겼다.",
+      "example_en": "When I opened the old warehouse door, a musty smell instantly wafted out."
+    },
+    {
+      "korean": "느끼하다",
+      "english": "greasy, cloying; unpleasantly oily or rich, also used for cheesy or sleazy behavior",
+      "example": "크림파스타가 너무 느끼해서 반밖에 못 먹었다.",
+      "example_en": "The cream pasta was so greasy that I could only eat half."
+    },
+    {
+      "korean": "텁수룩하다",
+      "english": "bushy, shaggy; thick and unkempt, typically describing facial hair or overgrown hair",
+      "example": "수염이 텁수룩하게 자라서 면도를 해야겠다.",
+      "example_en": "My beard has grown bushy and shaggy, so I should shave."
+    },
+    {
+      "korean": "찌릿하다",
+      "english": "sharp tingling; a sudden, electric-like piercing sensation",
+      "example": "팔꿈치를 부딪히자 팔 전체가 찌릿하게 저려 왔다.",
+      "example_en": "When I bumped my elbow, a sharp tingling sensation ran through my whole arm."
+    },
+    {
+      "korean": "강직하다",
+      "english": "upright, principled; rigidly honest and refusing to bend to pressure",
+      "example": "강직한 성격 탓에 상사에게도 잘못된 건 잘못됐다고 말한다.",
+      "example_en": "Because of his upright character, he tells even his superiors when something is wrong."
+    },
+    {
+      "korean": "비겁하다",
+      "english": "cowardly, underhanded; lacking courage or resorting to dishonorable means",
+      "example": "책임을 남에게 떠넘기는 건 비겁한 행동이다.",
+      "example_en": "Shifting responsibility onto others is a cowardly act."
+    },
+    {
+      "korean": "염치없다",
+      "english": "shameless, lacking decency; having no sense of propriety or embarrassment",
+      "example": "이렇게 자주 부탁드리기 염치없지만 한 번만 더 도와주세요.",
+      "example_en": "I know it's shameless to ask so often, but please help me just one more time."
+    },
+    {
+      "korean": "고결하다",
+      "english": "noble, lofty; morally pure and elevated in character",
+      "example": "그의 고결한 인격은 주변 사람들에게 깊은 감화를 주었다.",
+      "example_en": "His noble character deeply inspired those around him."
+    },
+    {
+      "korean": "비열하다",
+      "english": "despicable, vile; morally low and contemptible in behavior",
+      "example": "약자를 이용하는 비열한 수법에 분노가 치밀었다.",
+      "example_en": "Anger surged at the despicable tactics of exploiting the weak."
+    },
+    {
+      "korean": "결백하다",
+      "english": "innocent, guiltless; free from wrongdoing or crime",
+      "example": "그는 끝까지 자신의 결백함을 주장하며 재심을 요청했다.",
+      "example_en": "He maintained his innocence to the end and requested a retrial."
+    },
+    {
+      "korean": "올곧다",
+      "english": "upright, morally straight; adhering firmly to principles without wavering",
+      "example": "올곧은 신념을 가진 사람은 어떤 유혹에도 흔들리지 않는다.",
+      "example_en": "A person with upright convictions is not swayed by any temptation."
+    },
+    {
+      "korean": "간사하다",
+      "english": "treacherous, two-faced; outwardly friendly but harboring deceitful intentions",
+      "example": "겉으로는 웃으면서 뒤에서 험담하는 간사한 사람을 조심해야 한다.",
+      "example_en": "You have to watch out for treacherous people who smile to your face but gossip behind your back."
+    },
+    {
+      "korean": "후덕하다",
+      "english": "virtuous and generous; warm-hearted with a broad generosity of spirit",
+      "example": "후덕한 인상 덕분에 처음 만난 사람도 금방 마음을 연다.",
+      "example_en": "Thanks to her virtuous and generous demeanor, even people meeting her for the first time quickly open up."
+    },
+    {
+      "korean": "뻔뻔하다",
+      "english": "brazen, shameless; showing no embarrassment despite wrongdoing",
+      "example": "잘못을 하고도 사과 한마디 없이 뻔뻔하게 구는 게 이해가 안 된다.",
+      "example_en": "I can't understand how someone can act so brazenly without even a word of apology after doing something wrong."
+    },
+    {
+      "korean": "까다롭다",
+      "english": "exacting, picky; difficult to satisfy or requiring meticulous attention to detail",
+      "example": "이 교수님은 과제 기준이 까다로워서 학생들이 긴장한다.",
+      "example_en": "Students are nervous because this professor's assignment criteria are exacting."
+    },
+    {
+      "korean": "난해하다",
+      "english": "abstruse, incomprehensible; so complex and deep that it is extremely hard to understand",
+      "example": "그 소설은 구조가 난해해서 두 번을 읽고서야 이해했다.",
+      "example_en": "The novel's structure was so abstruse that I understood it only after reading it twice."
+    },
+    {
+      "korean": "복잡다단하다",
+      "english": "complex and multifaceted; involving many intertwined layers of difficulty",
+      "example": "한반도의 정세는 복잡다단해서 한마디로 설명할 수 없다.",
+      "example_en": "The situation on the Korean Peninsula is complex and multifaceted, impossible to explain in a single sentence."
+    },
+    {
+      "korean": "수월하다",
+      "english": "easy, smooth; proceeding without much difficulty or effort",
+      "example": "경험이 있으니 이번에는 한결 수월하게 진행할 수 있었다.",
+      "example_en": "Since I had experience, I was able to proceed much more smoothly this time."
+    },
+    {
+      "korean": "만만하다",
+      "english": "easy-looking, not to be underestimated; appears simple but is deceptively challenging",
+      "example": "상대를 만만하게 봤다가 크게 당한 적이 있다.",
+      "example_en": "I once underestimated my opponent and paid dearly for it."
+    },
+    {
+      "korean": "정교하다",
+      "english": "elaborate, exquisite; crafted with meticulous precision and fine detail",
+      "example": "장인의 손에서 탄생한 정교한 도자기에 감탄이 절로 나왔다.",
+      "example_en": "The elaborate ceramics born from the artisan's hands drew spontaneous admiration."
+    },
+    {
+      "korean": "자질구레하다",
+      "english": "trivial, petty; consisting of many small, unimportant details piled up",
+      "example": "자질구레한 업무에 시간을 빼앗기다 보니 정작 중요한 일을 못 했다.",
+      "example_en": "I spent so much time on trivial tasks that I couldn't get to the actually important work."
+    },
+    {
+      "korean": "허술하다",
+      "english": "sloppy, full of holes; lacking thoroughness and easy to find fault with",
+      "example": "보안이 허술해서 개인정보가 대량으로 유출되었다.",
+      "example_en": "Security was so sloppy that personal information was leaked on a massive scale."
+    },
+    {
+      "korean": "촘촘하다",
+      "english": "tightly woven, dense; with very small gaps, leaving no room for error or escape",
+      "example": "법망이 촘촘해야 범죄를 사전에 예방할 수 있다.",
+      "example_en": "The legal net must be tightly woven to prevent crime in advance."
+    },
+    {
+      "korean": "번거롭다",
+      "english": "cumbersome, troublesome; involving tedious and complicated procedures",
+      "example": "서류 절차가 너무 번거로워서 온라인 신청으로 바꿨으면 좋겠다.",
+      "example_en": "The paperwork process is so cumbersome that I wish they'd switch to online applications."
+    },
+    {
+      "korean": "서먹서먹하다",
+      "english": "awkward, stiff; the uncomfortable distance between people who are not yet close",
+      "example": "오랜만에 만난 친구 사이가 서먹서먹해서 어색한 침묵이 흘렀다.",
+      "example_en": "Meeting after a long time, things were awkward between us and an uneasy silence filled the air."
+    },
+    {
+      "korean": "소원하다",
+      "english": "estranged, distant; having grown apart in a relationship that was once close",
+      "example": "한때 절친이었지만 연락을 안 하다 보니 사이가 소원해졌다.",
+      "example_en": "We were once best friends, but not keeping in touch made us grow distant."
+    },
+    {
+      "korean": "각별하다",
+      "english": "special, extraordinarily close; a bond that stands out from ordinary relationships",
+      "example": "할머니와 각별한 사이였기에 그 상실감이 더 컸다.",
+      "example_en": "Because I had an extraordinarily close bond with my grandmother, the sense of loss was even greater."
+    },
+    {
+      "korean": "돈독하다",
+      "english": "close, solid; describing a strong, reliable relationship built on trust",
+      "example": "어려운 시기를 함께 겪으면서 두 사람의 우정은 더욱 돈독해졌다.",
+      "example_en": "Going through tough times together made their friendship even stronger and more solid."
+    },
+    {
+      "korean": "원만하다",
+      "english": "amicable, smooth; harmonious without friction or conflict",
+      "example": "부부 사이가 원만하려면 서로의 공간을 존중해야 한다.",
+      "example_en": "For a marriage to be amicable, both sides need to respect each other's space."
+    },
+    {
+      "korean": "냉담하다",
+      "english": "cold, indifferent; showing a lack of interest or emotional warmth toward others",
+      "example": "인사를 건넸는데 냉담한 반응이 돌아와서 당황스러웠다.",
+      "example_en": "I greeted them, but the cold, indifferent response left me flustered."
+    },
+    {
+      "korean": "야박하다",
+      "english": "heartless, stingy; lacking generosity or kindness in interpersonal dealings",
+      "example": "오래 일한 직원에게 아무런 보상도 없이 내보내다니 너무 야박하다.",
+      "example_en": "It's so heartless to let go of a long-serving employee without any compensation."
+    },
+    {
+      "korean": "다정다감하다",
+      "english": "tender and sensitive; naturally affectionate and easily moved emotionally",
+      "example": "다정다감한 성격이라 남의 사정에도 쉽게 눈물을 흘린다.",
+      "example_en": "Being naturally tender and sensitive, she easily sheds tears at others' circumstances."
+    },
+    {
+      "korean": "살갑다",
+      "english": "warm, affectionate; showing personal warmth and closeness in a touching way",
+      "example": "오랫만에 만난 이모가 살갑게 안아주셔서 마음이 따뜻해졌다.",
+      "example_en": "My aunt, whom I hadn't seen in a long time, hugged me warmly, and it warmed my heart."
+    },
+    {
+      "korean": "무뚝뚝하다",
+      "english": "blunt, curt; not very expressive and seemingly unfriendly in manner",
+      "example": "아버지는 무뚝뚝하지만 행동으로 사랑을 표현하시는 분이다.",
+      "example_en": "My father is blunt and curt, but he's someone who expresses love through actions."
     }
   ],
   "고급 부사 (Advanced Adverbs)": [
@@ -8106,6 +9066,246 @@
       "english": "almost, nearly; narrowly avoiding a negative outcome (always implies relief)",
       "example": "하마터면 기차를 놓칠 뻔했다.",
       "example_en": "I almost missed the train."
+    },
+    {
+      "korean": "주룩주룩",
+      "english": "streaming down, pouring; the sound and sight of rain falling heavily in sheets",
+      "example": "하늘이 갑자기 어두워지더니 비가 주룩주룩 쏟아지기 시작했다.",
+      "example_en": "The sky suddenly darkened and rain began pouring down in sheets."
+    },
+    {
+      "korean": "살금살금",
+      "english": "stealthily, on tiptoe; moving quietly so as not to be noticed",
+      "example": "아이가 살금살금 부엌에 들어가서 과자를 꺼내 먹었다.",
+      "example_en": "The child tiptoed into the kitchen and snuck some cookies."
+    },
+    {
+      "korean": "울컥",
+      "english": "with a sudden surge of emotion; choking up unexpectedly",
+      "example": "졸업식에서 은사님 얼굴을 보자마자 울컥 눈물이 쏟아졌다.",
+      "example_en": "The moment I saw my mentor's face at graduation, tears suddenly welled up."
+    },
+    {
+      "korean": "허둥지둥",
+      "english": "in a fluster, frantically; rushing around in a panicked, disorderly way",
+      "example": "알람을 못 듣고 늦잠을 자서 허둥지둥 준비하고 나갔다.",
+      "example_en": "I overslept because I didn't hear the alarm and rushed out in a fluster."
+    },
+    {
+      "korean": "쿨쿨",
+      "english": "sound asleep, snoring away; the sound of someone sleeping deeply",
+      "example": "옆자리 동료가 회의 중에 쿨쿨 잠들어 있었다.",
+      "example_en": "The colleague sitting next to me was snoring away during the meeting."
+    },
+    {
+      "korean": "두리번두리번",
+      "english": "looking around searchingly; turning one's head repeatedly to find something or someone",
+      "example": "처음 온 식당에서 두리번두리번 자리를 찾았다.",
+      "example_en": "At the restaurant I was visiting for the first time, I looked around searchingly for a seat."
+    },
+    {
+      "korean": "오들오들",
+      "english": "trembling, shivering; shaking from cold, fear, or nervousness",
+      "example": "영하 20도의 날씨에 얇은 옷을 입고 오들오들 떨었다.",
+      "example_en": "I shivered in thin clothes in minus-20-degree weather."
+    },
+    {
+      "korean": "찔끔찔끔",
+      "english": "in tiny trickles, little by little; giving, crying, or leaking in small reluctant amounts",
+      "example": "아이가 주사 맞기 싫다며 찔끔찔끔 눈물을 흘렸다.",
+      "example_en": "The child shed tiny tears, saying they didn't want to get the shot."
+    },
+    {
+      "korean": "시끌벅적",
+      "english": "boisterously, noisily; a loud, lively commotion of many people",
+      "example": "명절에 친척들이 모이면 집 안이 시끌벅적 활기가 넘친다.",
+      "example_en": "When relatives gather during the holidays, the house overflows with boisterous energy."
+    },
+    {
+      "korean": "성큼성큼",
+      "english": "with big strides, striding briskly; walking with large, confident steps",
+      "example": "면접에 합격했다는 소식을 듣고 성큼성큼 걸어 나왔다.",
+      "example_en": "After hearing the news that I passed the interview, I walked out with big, confident strides."
+    },
+    {
+      "korean": "급속히",
+      "english": "rapidly, at a swift pace; changing or progressing very quickly",
+      "example": "스마트폰 보급 이후 소통 방식이 급속히 변화했다.",
+      "example_en": "Communication methods changed rapidly after the spread of smartphones."
+    },
+    {
+      "korean": "맹렬히",
+      "english": "fiercely, furiously; with intense force or aggression",
+      "example": "야당은 정부의 정책에 맹렬히 반대하고 나섰다.",
+      "example_en": "The opposition party fiercely came out against the government's policy."
+    },
+    {
+      "korean": "한껏",
+      "english": "to the fullest, to the maximum; putting in all one's effort or enjoying something fully",
+      "example": "오늘은 쉬는 날이니까 한껏 여유를 즐기자.",
+      "example_en": "It's a day off today, so let's enjoy our leisure to the fullest."
+    },
+    {
+      "korean": "단숨에",
+      "english": "in one go, in a single breath; completing something swiftly without pause",
+      "example": "재미있는 소설이라 단숨에 끝까지 읽어 버렸다.",
+      "example_en": "It was such an interesting novel that I read it to the end in one go."
+    },
+    {
+      "korean": "죽어라",
+      "english": "like crazy, desperately; working or trying extremely hard as if one's life depended on it",
+      "example": "시험 전날 죽어라 공부했는데도 결과가 안 좋았다.",
+      "example_en": "I studied like crazy the night before the exam, but the results still weren't good."
+    },
+    {
+      "korean": "급기야",
+      "english": "finally, in the end; reaching an extreme point after a series of escalations",
+      "example": "갈등이 계속되더니 급기야 두 사람은 절교를 선언했다.",
+      "example_en": "The conflict continued until finally the two declared an end to their friendship."
+    },
+    {
+      "korean": "다짜고짜",
+      "english": "without preamble, without any explanation; acting abruptly before the other party can react",
+      "example": "그는 다짜고짜 화부터 내서 상황 파악이 안 됐다.",
+      "example_en": "He got angry without any preamble, so I couldn't figure out what was going on."
+    },
+    {
+      "korean": "대뜸",
+      "english": "abruptly, right off the bat; doing or saying something suddenly without any lead-up",
+      "example": "인사도 없이 대뜸 '돈 빌려줘'라고 해서 당황했다.",
+      "example_en": "I was taken aback when, without even a greeting, they abruptly said 'Lend me money.'"
+    },
+    {
+      "korean": "후다닥",
+      "english": "in a flash, hurriedly; scrambling to do something very quickly",
+      "example": "비가 갑자기 내려서 후다닥 빨래를 걷어 들였다.",
+      "example_en": "It suddenly started raining, so I scrambled to bring in the laundry."
+    },
+    {
+      "korean": "불쑥",
+      "english": "suddenly, out of nowhere; appearing or speaking up unexpectedly",
+      "example": "오랜만에 친구가 불쑥 집에 찾아와서 깜짝 놀랐다.",
+      "example_en": "I was startled when a friend I hadn't seen in ages showed up at my house out of nowhere."
+    },
+    {
+      "korean": "십중팔구",
+      "english": "nine times out of ten, most likely; expressing very high probability",
+      "example": "이 시간에 전화를 안 받으면 십중팔구 자고 있는 거야.",
+      "example_en": "If he's not answering the phone at this hour, nine times out of ten he's asleep."
+    },
+    {
+      "korean": "필시",
+      "english": "surely, certainly; expressing strong conviction with a slightly literary tone",
+      "example": "이렇게 준비를 철저히 했으니 필시 좋은 결과가 있을 것이다.",
+      "example_en": "Since we prepared this thoroughly, there will surely be good results."
+    },
+    {
+      "korean": "좀처럼",
+      "english": "hardly, seldom; something that rarely happens or is very difficult to achieve (used with negatives)",
+      "example": "그는 좀처럼 화를 내지 않는 사람인데 오늘은 얼굴이 붉어졌다.",
+      "example_en": "He's a person who hardly ever gets angry, but today his face turned red."
+    },
+    {
+      "korean": "영락없이",
+      "english": "unmistakably, to a T; looking or being exactly like something with no room for doubt",
+      "example": "아들이 자라면서 영락없이 아버지를 닮아 가고 있다.",
+      "example_en": "As the son grows, he's coming to resemble his father to a T."
+    },
+    {
+      "korean": "틀림없이",
+      "english": "without a doubt, for certain; expressing firm conviction about a fact",
+      "example": "이 글씨체는 틀림없이 그 사람이 쓴 것이다.",
+      "example_en": "This handwriting was without a doubt written by that person."
+    },
+    {
+      "korean": "웬만하면",
+      "english": "if at all possible, under normal circumstances; unless something unusual happens",
+      "example": "웬만하면 주말에는 외출을 삼가고 집에서 쉬려고 한다.",
+      "example_en": "If at all possible, I try to avoid going out on weekends and rest at home."
+    },
+    {
+      "korean": "만에 하나",
+      "english": "on the off chance, one in ten thousand; expressing very low but not impossible probability",
+      "example": "만에 하나 사고가 나더라도 보험이 있으니 걱정하지 마세요.",
+      "example_en": "Even on the off chance that an accident occurs, there's insurance, so don't worry."
+    },
+    {
+      "korean": "혹여",
+      "english": "by any chance, in case; worrying about an unlikely but possible event (formal/literary)",
+      "example": "혹여 실수라도 할까 봐 서류를 세 번이나 확인했다.",
+      "example_en": "I checked the documents three times, in case I might have made a mistake."
+    },
+    {
+      "korean": "과연",
+      "english": "indeed, as expected; confirming what was anticipated or wondered about",
+      "example": "소문대로 과연 그 식당 음식이 맛있었다.",
+      "example_en": "Indeed, as rumored, the food at that restaurant was delicious."
+    },
+    {
+      "korean": "여지없이",
+      "english": "without exception, without fail; leaving no room for deviation",
+      "example": "약속 시간에 늦으면 여지없이 잔소리를 듣는다.",
+      "example_en": "If I'm late for an appointment, I get a scolding without fail."
+    },
+    {
+      "korean": "터무니없이",
+      "english": "absurdly, outrageously; to a degree that defies all reason",
+      "example": "그 가게는 터무니없이 비싼 가격을 매겨 놓고 명품이라고 주장한다.",
+      "example_en": "That store charges absurdly high prices and claims the items are luxury goods."
+    },
+    {
+      "korean": "마땅히",
+      "english": "rightfully, as one ought to; something that is naturally expected or deserved",
+      "example": "잘못을 저질렀으면 마땅히 사과해야 한다.",
+      "example_en": "If you've done something wrong, you ought to apologize."
+    },
+    {
+      "korean": "고작",
+      "english": "merely, at most; expressing disappointment that the amount or degree is less than expected",
+      "example": "한 달을 꼬박 일했는데 받은 돈이 고작 이 정도야?",
+      "example_en": "I worked a whole month, and the pay is merely this much?"
+    },
+    {
+      "korean": "가뜩이나",
+      "english": "as if things weren't bad enough already; the situation was already problematic before worsening further",
+      "example": "가뜩이나 바쁜데 갑자기 추가 업무까지 들어왔다.",
+      "example_en": "I was already busy enough, and then additional work suddenly came in on top of that."
+    },
+    {
+      "korean": "무턱대고",
+      "english": "recklessly, without thinking; acting impulsively without proper consideration",
+      "example": "무턱대고 사업을 시작했다가 큰 손해를 봤다.",
+      "example_en": "He recklessly started a business without thinking and ended up taking a big loss."
+    },
+    {
+      "korean": "기막히게",
+      "english": "amazingly, incredibly; to a breathtaking degree (can express admiration or exasperation)",
+      "example": "그 두 사람의 노래 호흡이 기막히게 잘 맞았다.",
+      "example_en": "The two singers' harmony was amazingly in sync."
+    },
+    {
+      "korean": "쓸데없이",
+      "english": "pointlessly, for no good reason; doing something that serves no useful purpose",
+      "example": "쓸데없이 남의 일에 관심을 가지면 피곤해진다.",
+      "example_en": "If you take a pointless interest in other people's business, you'll just tire yourself out."
+    },
+    {
+      "korean": "부질없이",
+      "english": "in vain, futilely; doing something that will yield no meaningful result",
+      "example": "이미 지나간 일을 부질없이 후회해 봤자 달라지는 건 없다.",
+      "example_en": "Futilely regretting what's already past won't change anything."
+    },
+    {
+      "korean": "한결같이",
+      "english": "consistently, steadfastly; remaining unchanged in attitude or behavior over time",
+      "example": "그녀는 20년째 한결같이 같은 자리에서 봉사 활동을 하고 있다.",
+      "example_en": "She has been steadfastly volunteering in the same place for 20 years."
+    },
+    {
+      "korean": "덮어놓고",
+      "english": "blindly, without consideration; accepting or doing something without examining it first",
+      "example": "남들이 좋다고 하니까 덮어놓고 따라 하면 안 된다.",
+      "example_en": "You shouldn't blindly follow along just because others say it's good."
     }
   ],
   "주제별 단어 — 의학 (Topic: Medicine)": [
@@ -8348,6 +9548,3152 @@
       "english": "to receive a prescription",
       "example": "진료를 마치고 약국에 제출할 처방전을 받았다.",
       "example_en": "After the appointment, I received a prescription to submit to the pharmacy."
+    }
+  ],
+  "주제별 단어 — 법률 (Topic: Law)": [
+    {
+      "korean": "법정",
+      "english": "courtroom",
+      "example": "피고인은 법정에 출석하여 자신의 입장을 밝혔다.",
+      "example_en": "The defendant appeared in the courtroom and stated their position."
+    },
+    {
+      "korean": "증인",
+      "english": "witness",
+      "example": "검찰 측 증인이 사건 당일의 상황을 상세히 증언했다.",
+      "example_en": "The prosecution's witness testified in detail about the circumstances on the day of the incident."
+    },
+    {
+      "korean": "변호인",
+      "english": "defense attorney; defense counsel",
+      "example": "변호인은 의뢰인의 무죄를 입증하기 위해 새로운 증거를 제출했다.",
+      "example_en": "The defense attorney submitted new evidence to prove their client's innocence."
+    },
+    {
+      "korean": "검사",
+      "english": "prosecutor",
+      "example": "담당 검사는 피고인에게 징역 10년을 구형했다.",
+      "example_en": "The prosecutor requested a 10-year prison sentence for the defendant."
+    },
+    {
+      "korean": "재판",
+      "english": "trial; court proceedings",
+      "example": "이번 재판은 국민적 관심이 집중된 가운데 진행되었다.",
+      "example_en": "This trial proceeded amid intense public attention."
+    },
+    {
+      "korean": "배심원",
+      "english": "juror; member of a jury",
+      "example": "배심원단은 만장일치로 피고인의 유죄를 인정했다.",
+      "example_en": "The jury unanimously found the defendant guilty."
+    },
+    {
+      "korean": "공판",
+      "english": "public trial; court hearing",
+      "example": "첫 공판에서 피고인은 모든 혐의를 부인했다.",
+      "example_en": "At the first court hearing, the defendant denied all charges."
+    },
+    {
+      "korean": "변론",
+      "english": "oral argument; pleading",
+      "example": "양측 변호사가 최종 변론을 마친 후 판사가 판결을 내렸다.",
+      "example_en": "After both attorneys completed their closing arguments, the judge delivered the verdict."
+    },
+    {
+      "korean": "심리",
+      "english": "hearing; judicial deliberation",
+      "example": "헌법재판소는 해당 법률에 대한 심리를 개시했다.",
+      "example_en": "The Constitutional Court commenced deliberation on the law in question."
+    },
+    {
+      "korean": "선고",
+      "english": "sentencing; pronouncement of judgment",
+      "example": "선고 공판은 다음 달 15일로 예정되어 있다.",
+      "example_en": "The sentencing hearing is scheduled for the 15th of next month."
+    },
+    {
+      "korean": "약관",
+      "english": "terms and conditions; standard contract terms",
+      "example": "이용 약관을 꼼꼼히 읽지 않고 동의하면 나중에 불이익을 당할 수 있다.",
+      "example_en": "If you agree without carefully reading the terms and conditions, you may face disadvantages later."
+    },
+    {
+      "korean": "위약금",
+      "english": "penalty; liquidated damages; breach-of-contract fine",
+      "example": "계약을 중도 해지하면 위약금을 물어야 한다.",
+      "example_en": "If you terminate the contract early, you must pay a penalty."
+    },
+    {
+      "korean": "채무",
+      "english": "obligation; debt (legal)",
+      "example": "채무자가 채무를 이행하지 않으면 채권자가 법적 조치를 취할 수 있다.",
+      "example_en": "If the debtor does not fulfill their obligation, the creditor can take legal action."
+    },
+    {
+      "korean": "보증인",
+      "english": "guarantor; surety",
+      "example": "함부로 보증인을 서면 큰 빚을 떠안을 수 있으니 신중해야 한다.",
+      "example_en": "You must be careful because carelessly becoming a guarantor can saddle you with enormous debt."
+    },
+    {
+      "korean": "공증",
+      "english": "notarization; notarial certification",
+      "example": "부동산 매매 계약서는 공증을 받아 두는 것이 안전하다.",
+      "example_en": "It is safer to have a real estate sales contract notarized."
+    },
+    {
+      "korean": "위임장",
+      "english": "power of attorney; letter of delegation",
+      "example": "본인이 직접 출석하지 못할 경우 위임장을 제출해야 한다.",
+      "example_en": "If you cannot appear in person, you must submit a power of attorney."
+    },
+    {
+      "korean": "조항",
+      "english": "clause; provision; article (of a contract or law)",
+      "example": "이 계약서의 제5조 조항에 따르면 양측 모두 30일 전에 통보해야 한다.",
+      "example_en": "According to the clause in Article 5 of this contract, both parties must give 30 days' notice."
+    },
+    {
+      "korean": "갱신",
+      "english": "renewal (of a contract, license, etc.)",
+      "example": "임대차 계약이 만료되기 전에 갱신 여부를 통보해야 한다.",
+      "example_en": "You must notify whether you will renew before the lease agreement expires."
+    },
+    {
+      "korean": "하자",
+      "english": "defect; flaw (legal: in a contract or product)",
+      "example": "시공 하자가 발견되면 시공사에 보수를 요구할 수 있다.",
+      "example_en": "If a construction defect is found, you can demand repairs from the contractor."
+    },
+    {
+      "korean": "명의",
+      "english": "registered name; title (legal ownership name)",
+      "example": "부동산을 타인 명의로 등기하면 법적 분쟁의 소지가 있다.",
+      "example_en": "Registering real estate under someone else's name can lead to legal disputes."
+    },
+    {
+      "korean": "혐의",
+      "english": "suspicion; criminal charges",
+      "example": "경찰은 사기 혐의로 용의자를 긴급 체포했다.",
+      "example_en": "The police arrested the suspect on charges of fraud."
+    },
+    {
+      "korean": "피고인",
+      "english": "defendant; the accused (in criminal proceedings)",
+      "example": "피고인은 최후 진술에서 깊이 반성하고 있다고 밝혔다.",
+      "example_en": "The defendant stated in the final statement that they deeply regret their actions."
+    },
+    {
+      "korean": "무죄",
+      "english": "not guilty; innocence",
+      "example": "결정적 증거가 부족하여 법원은 무죄를 선고했다.",
+      "example_en": "Due to insufficient conclusive evidence, the court pronounced a not-guilty verdict."
+    },
+    {
+      "korean": "유죄",
+      "english": "guilty; conviction",
+      "example": "배심원단이 유죄 평결을 내리자 법정이 술렁였다.",
+      "example_en": "When the jury delivered the guilty verdict, a murmur swept through the courtroom."
+    },
+    {
+      "korean": "형량",
+      "english": "length of sentence; severity of punishment",
+      "example": "범행의 경중에 따라 형량이 크게 달라질 수 있다.",
+      "example_en": "The length of the sentence can vary greatly depending on the severity of the crime."
+    },
+    {
+      "korean": "집행유예",
+      "english": "suspended sentence; probation",
+      "example": "초범인 점을 고려하여 법원은 징역 2년에 집행유예 3년을 선고했다.",
+      "example_en": "Considering that it was a first offense, the court sentenced two years in prison suspended for three years."
+    },
+    {
+      "korean": "벌금",
+      "english": "fine (criminal penalty)",
+      "example": "음주운전 적발 시 면허 취소와 함께 고액의 벌금이 부과된다.",
+      "example_en": "When caught for drunk driving, a hefty fine is imposed along with license revocation."
+    },
+    {
+      "korean": "공소",
+      "english": "prosecution; public action (formal criminal charge)",
+      "example": "검찰이 공소를 제기한 지 6개월 만에 첫 공판이 열렸다.",
+      "example_en": "The first hearing was held six months after the prosecution filed the indictment."
+    },
+    {
+      "korean": "자수",
+      "english": "turning oneself in; voluntary surrender",
+      "example": "도주 중이던 용의자가 양심의 가책을 느끼고 경찰에 자수했다.",
+      "example_en": "The suspect, who had been on the run, turned himself in to the police out of guilt."
+    },
+    {
+      "korean": "공범",
+      "english": "accomplice; co-conspirator",
+      "example": "경찰은 주범뿐 아니라 공범 두 명도 함께 검거했다.",
+      "example_en": "The police apprehended not only the principal offender but also two accomplices."
+    },
+    {
+      "korean": "원고",
+      "english": "plaintiff (in a civil case)",
+      "example": "원고 측은 피고의 과실로 인한 손해배상을 청구했다.",
+      "example_en": "The plaintiff's side filed a claim for damages caused by the defendant's negligence."
+    },
+    {
+      "korean": "피고",
+      "english": "defendant (in a civil case)",
+      "example": "피고는 원고의 주장에 대해 반박 자료를 법원에 제출했다.",
+      "example_en": "The defendant submitted rebuttal materials to the court against the plaintiff's claims."
+    },
+    {
+      "korean": "손해배상",
+      "english": "damages; compensation for loss",
+      "example": "법원은 피고에게 원고에 대한 손해배상 1억 원을 명령했다.",
+      "example_en": "The court ordered the defendant to pay 100 million won in damages to the plaintiff."
+    },
+    {
+      "korean": "가처분",
+      "english": "injunction; provisional disposition",
+      "example": "회사는 전직 임원의 경업 금지를 위해 가처분 신청을 냈다.",
+      "example_en": "The company filed for a provisional injunction to prevent the former executive from competing."
+    },
+    {
+      "korean": "조정",
+      "english": "mediation; conciliation (legal)",
+      "example": "양측이 법원의 조정안을 받아들여 소송이 마무리되었다.",
+      "example_en": "Both sides accepted the court's mediation proposal, and the lawsuit was concluded."
+    },
+    {
+      "korean": "청구",
+      "english": "claim; petition; demand (legal)",
+      "example": "보험사는 과실 비율을 다투며 보험금 청구를 일부 거부했다.",
+      "example_en": "The insurance company disputed the fault ratio and partially rejected the insurance claim."
+    },
+    {
+      "korean": "상고",
+      "english": "appeal to the Supreme Court; final appeal",
+      "example": "피고 측은 항소심 판결에 불복하여 대법원에 상고했다.",
+      "example_en": "The defendant's side appealed to the Supreme Court, contesting the appellate court's ruling."
+    },
+    {
+      "korean": "승소",
+      "english": "winning a lawsuit; prevailing in court",
+      "example": "3년간의 긴 법정 싸움 끝에 원고가 최종 승소했다.",
+      "example_en": "After a three-year-long legal battle, the plaintiff ultimately prevailed."
+    },
+    {
+      "korean": "패소",
+      "english": "losing a lawsuit; defeat in court",
+      "example": "패소한 측은 소송 비용까지 부담해야 하는 상황에 놓였다.",
+      "example_en": "The losing side was placed in a situation where they had to bear the litigation costs as well."
+    },
+    {
+      "korean": "강제집행",
+      "english": "compulsory execution; enforcement (of a court order)",
+      "example": "판결 후에도 배상금을 지급하지 않아 강제집행이 이루어졌다.",
+      "example_en": "Since the damages were not paid even after the ruling, compulsory execution was carried out."
+    }
+  ],
+  "주제별 단어 — 비즈니스 (Topic: Business)": [
+    {
+      "korean": "의제",
+      "english": "agenda item; topic for discussion",
+      "example": "오늘 회의의 주요 의제는 내년도 사업 계획입니다.",
+      "example_en": "The main agenda item for today's meeting is next year's business plan."
+    },
+    {
+      "korean": "기조연설",
+      "english": "keynote speech; keynote address",
+      "example": "대표이사가 연례 컨퍼런스에서 기조연설을 맡았습니다.",
+      "example_en": "The CEO delivered the keynote speech at the annual conference."
+    },
+    {
+      "korean": "발언권",
+      "english": "right to speak; the floor",
+      "example": "의장이 참석자들에게 순서대로 발언권을 부여했다.",
+      "example_en": "The chairperson granted the floor to the attendees in order."
+    },
+    {
+      "korean": "질의응답",
+      "english": "question-and-answer session; Q&A",
+      "example": "발표가 끝난 후 질의응답 시간을 가지겠습니다.",
+      "example_en": "We will have a Q&A session after the presentation ends."
+    },
+    {
+      "korean": "사회를 보다",
+      "english": "to moderate; to host; to emcee",
+      "example": "이번 워크숍은 기획팀 김 과장이 사회를 봅니다.",
+      "example_en": "Manager Kim from the planning team will moderate this workshop."
+    },
+    {
+      "korean": "회람하다",
+      "english": "to circulate (a document); to pass around",
+      "example": "수정된 계약서를 전 부서에 회람해 주세요.",
+      "example_en": "Please circulate the revised contract to all departments."
+    },
+    {
+      "korean": "현안",
+      "english": "current issue; pressing matter; pending issue",
+      "example": "경영진이 모여 회사의 주요 현안을 논의했다.",
+      "example_en": "The management gathered to discuss the company's key pressing issues."
+    },
+    {
+      "korean": "회부하다",
+      "english": "to refer (a matter) to; to submit for review",
+      "example": "이 안건은 법무팀에 회부하여 검토를 받겠습니다.",
+      "example_en": "This matter will be referred to the legal team for review."
+    },
+    {
+      "korean": "배석하다",
+      "english": "to sit in on; to attend as an observer or support",
+      "example": "신입 사원이 중요한 거래 협상에 배석하여 경험을 쌓았다.",
+      "example_en": "The new employee sat in on an important deal negotiation to gain experience."
+    },
+    {
+      "korean": "속개하다",
+      "english": "to resume (a meeting or session)",
+      "example": "점심 식사 후 오후 1시에 회의를 속개하겠습니다.",
+      "example_en": "We will resume the meeting at 1 PM after lunch."
+    },
+    {
+      "korean": "결산",
+      "english": "settlement of accounts; closing the books; financial closing",
+      "example": "회계팀이 연말 결산을 마무리하느라 야근하고 있다.",
+      "example_en": "The accounting team is working overtime to finalize the year-end closing."
+    },
+    {
+      "korean": "감사",
+      "english": "audit; inspection (financial)",
+      "example": "외부 감사에서 회계 처리에 문제가 없는 것으로 확인되었다.",
+      "example_en": "The external audit confirmed that there were no issues with the accounting."
+    },
+    {
+      "korean": "감가상각",
+      "english": "depreciation (of assets)",
+      "example": "이 설비는 감가상각이 완료되어 장부상 가치가 0원입니다.",
+      "example_en": "This equipment has been fully depreciated, so its book value is zero won."
+    },
+    {
+      "korean": "원가",
+      "english": "cost price; production cost",
+      "example": "원자재 가격이 올라서 원가가 15% 이상 증가했습니다.",
+      "example_en": "Raw material prices have risen, increasing the production cost by over 15%."
+    },
+    {
+      "korean": "전표",
+      "english": "accounting slip; voucher; chit",
+      "example": "경비를 청구하려면 지출 전표를 먼저 작성해야 합니다.",
+      "example_en": "To claim expenses, you need to fill out an expenditure voucher first."
+    },
+    {
+      "korean": "정산하다",
+      "english": "to settle accounts; to square up; to reconcile",
+      "example": "출장비는 귀국 후 일주일 이내에 정산해야 합니다.",
+      "example_en": "Business trip expenses must be settled within one week of returning."
+    },
+    {
+      "korean": "미수금",
+      "english": "accounts receivable; outstanding payment owed",
+      "example": "미수금이 누적되면서 회사의 현금 흐름에 문제가 생겼다.",
+      "example_en": "As outstanding receivables piled up, the company's cash flow ran into trouble."
+    },
+    {
+      "korean": "미지급금",
+      "english": "accounts payable; amount owed but not yet paid",
+      "example": "분기 말까지 모든 미지급금을 처리해 주시기 바랍니다.",
+      "example_en": "Please process all outstanding payables by the end of the quarter."
+    },
+    {
+      "korean": "세무",
+      "english": "tax affairs; taxation matters",
+      "example": "세무 조사를 앞두고 관련 서류를 꼼꼼히 점검했다.",
+      "example_en": "We thoroughly reviewed the relevant documents ahead of the tax audit."
+    },
+    {
+      "korean": "분기 실적",
+      "english": "quarterly earnings; quarterly results",
+      "example": "3분기 실적이 시장 예상치를 크게 웃돌았다.",
+      "example_en": "Third-quarter earnings significantly exceeded market expectations."
+    },
+    {
+      "korean": "복리후생",
+      "english": "employee benefits; fringe benefits; welfare",
+      "example": "이 회사는 연봉은 낮지만 복리후생이 탄탄하기로 유명하다.",
+      "example_en": "This company is known for having strong benefits despite lower salaries."
+    },
+    {
+      "korean": "연봉",
+      "english": "annual salary",
+      "example": "이직 제안을 받았는데 연봉이 30% 인상된 조건이었다.",
+      "example_en": "I received a job offer with a 30% increase in annual salary."
+    },
+    {
+      "korean": "인사이동",
+      "english": "personnel reshuffle; staff transfer; reassignment",
+      "example": "대규모 인사이동이 발표되면서 사내 분위기가 긴장됐다.",
+      "example_en": "A large-scale personnel reshuffle was announced, creating tension in the office."
+    },
+    {
+      "korean": "승진하다",
+      "english": "to be promoted; to advance in rank",
+      "example": "5년 만에 과장에서 부장으로 승진했습니다.",
+      "example_en": "After five years, I was promoted from section chief to department head."
+    },
+    {
+      "korean": "출퇴근",
+      "english": "commuting to and from work",
+      "example": "출퇴근 시간이 왕복 두 시간이라 재택근무가 절실하다.",
+      "example_en": "My round-trip commute is two hours, so I desperately need remote work."
+    },
+    {
+      "korean": "연차",
+      "english": "annual leave; paid time off",
+      "example": "남은 연차가 3일밖에 없어서 아껴 써야 한다.",
+      "example_en": "I only have 3 days of annual leave left, so I need to use them wisely."
+    },
+    {
+      "korean": "수습 기간",
+      "english": "probation period; trial period",
+      "example": "수습 기간 3개월 동안 업무 적응도를 평가합니다.",
+      "example_en": "Work adaptability is assessed during the three-month probation period."
+    },
+    {
+      "korean": "퇴직금",
+      "english": "severance pay; retirement allowance",
+      "example": "1년 이상 근무한 직원에게는 퇴직금이 지급됩니다.",
+      "example_en": "Severance pay is provided to employees who have worked for over one year."
+    },
+    {
+      "korean": "인사 고과",
+      "english": "performance review; performance evaluation",
+      "example": "인사 고과 결과에 따라 연봉 인상률이 결정됩니다.",
+      "example_en": "The salary raise percentage is determined based on the performance review results."
+    },
+    {
+      "korean": "직무",
+      "english": "job duties; role; position responsibilities",
+      "example": "지원하기 전에 직무 기술서를 꼼꼼히 읽어 보세요.",
+      "example_en": "Read the job description carefully before applying."
+    },
+    {
+      "korean": "거래처",
+      "english": "business client; trading partner; account",
+      "example": "주요 거래처와의 계약이 곧 만료되어 재협상이 필요하다.",
+      "example_en": "The contract with our major client is expiring soon and needs renegotiation."
+    },
+    {
+      "korean": "견적서",
+      "english": "quotation; cost estimate; price quote",
+      "example": "세 곳에서 견적서를 받아 비교한 후 업체를 선정했다.",
+      "example_en": "We selected a vendor after receiving and comparing quotes from three companies."
+    },
+    {
+      "korean": "납품하다",
+      "english": "to deliver goods; to supply; to fulfill an order",
+      "example": "약속한 날짜까지 물량을 납품하지 못하면 위약금이 발생합니다.",
+      "example_en": "If we fail to deliver the quantity by the promised date, there will be a penalty."
+    },
+    {
+      "korean": "단가",
+      "english": "unit price; unit cost",
+      "example": "대량 주문하면 단가를 10% 낮춰 드릴 수 있습니다.",
+      "example_en": "If you place a bulk order, we can lower the unit price by 10%."
+    },
+    {
+      "korean": "홍보",
+      "english": "public relations; publicity; promotion",
+      "example": "신제품 출시에 맞춰 대대적인 홍보 캠페인을 벌였다.",
+      "example_en": "A large-scale PR campaign was launched to coincide with the new product release."
+    },
+    {
+      "korean": "입찰하다",
+      "english": "to bid; to submit a tender",
+      "example": "이번 공공사업에 다섯 개 업체가 입찰했다.",
+      "example_en": "Five companies submitted bids for this public project."
+    },
+    {
+      "korean": "판촉",
+      "english": "sales promotion; promotional activity",
+      "example": "연말 판촉 행사 덕분에 매출이 전월 대비 40% 올랐다.",
+      "example_en": "Thanks to the year-end sales promotion, revenue rose 40% month-over-month."
+    },
+    {
+      "korean": "시장 점유율",
+      "english": "market share",
+      "example": "올해 목표는 시장 점유율을 5%포인트 높이는 것입니다.",
+      "example_en": "This year's goal is to increase our market share by 5 percentage points."
+    },
+    {
+      "korean": "경쟁사",
+      "english": "competitor; rival company",
+      "example": "경쟁사가 파격적인 가격으로 시장에 진입해서 긴장하고 있다.",
+      "example_en": "We are on edge because a competitor entered the market with aggressive pricing."
+    },
+    {
+      "korean": "매입하다",
+      "english": "to purchase; to procure; to buy in",
+      "example": "원자재를 저가에 대량으로 매입하여 원가를 절감했다.",
+      "example_en": "We reduced costs by purchasing raw materials in bulk at a low price."
+    }
+  ],
+  "주제별 단어 — 과학 (Topic: Science)": [
+    {
+      "korean": "중력",
+      "english": "gravity; gravitational force",
+      "example": "달의 중력은 지구의 약 6분의 1에 불과하다.",
+      "example_en": "The Moon's gravity is only about one-sixth of Earth's."
+    },
+    {
+      "korean": "마찰",
+      "english": "friction",
+      "example": "표면 간의 마찰을 줄이면 에너지 효율이 높아진다.",
+      "example_en": "Reducing friction between surfaces increases energy efficiency."
+    },
+    {
+      "korean": "파동",
+      "english": "wave (physics)",
+      "example": "빛은 파동과 입자의 성질을 동시에 지닌다.",
+      "example_en": "Light possesses the properties of both a wave and a particle."
+    },
+    {
+      "korean": "밀도",
+      "english": "density",
+      "example": "해수의 밀도는 온도와 염분에 따라 달라진다.",
+      "example_en": "The density of seawater varies depending on temperature and salinity."
+    },
+    {
+      "korean": "가속도",
+      "english": "acceleration",
+      "example": "자유 낙하하는 물체의 가속도는 약 9.8m/s²이다.",
+      "example_en": "The acceleration of a freely falling object is approximately 9.8 m/s²."
+    },
+    {
+      "korean": "촉매",
+      "english": "catalyst",
+      "example": "효소는 생체 내 화학 반응의 촉매 역할을 한다.",
+      "example_en": "Enzymes act as catalysts for chemical reactions within the body."
+    },
+    {
+      "korean": "용해",
+      "english": "dissolution; dissolving",
+      "example": "소금이 물에 용해되는 속도는 온도가 높을수록 빨라진다.",
+      "example_en": "The rate at which salt dissolves in water increases with higher temperature."
+    },
+    {
+      "korean": "원소",
+      "english": "chemical element",
+      "example": "현재까지 발견된 원소는 총 118종이다.",
+      "example_en": "A total of 118 elements have been discovered to date."
+    },
+    {
+      "korean": "굴절",
+      "english": "refraction",
+      "example": "물속에 있는 빨대가 꺾여 보이는 것은 빛의 굴절 때문이다.",
+      "example_en": "A straw appearing bent in water is due to the refraction of light."
+    },
+    {
+      "korean": "방사능",
+      "english": "radioactivity",
+      "example": "원전 사고 이후 인근 지역의 방사능 수치를 지속적으로 모니터링하고 있다.",
+      "example_en": "Radioactivity levels in the surrounding area have been continuously monitored since the nuclear plant accident."
+    },
+    {
+      "korean": "광합성",
+      "english": "photosynthesis",
+      "example": "식물은 광합성을 통해 이산화탄소를 산소로 변환한다.",
+      "example_en": "Plants convert carbon dioxide into oxygen through photosynthesis."
+    },
+    {
+      "korean": "신진대사",
+      "english": "metabolism",
+      "example": "나이가 들수록 신진대사가 느려져 체중 관리가 어려워진다.",
+      "example_en": "As we age, metabolism slows down, making weight management more difficult."
+    },
+    {
+      "korean": "서식지",
+      "english": "habitat",
+      "example": "도시 확장으로 인해 야생 동물의 서식지가 빠르게 줄어들고 있다.",
+      "example_en": "Urban expansion is rapidly shrinking the habitats of wild animals."
+    },
+    {
+      "korean": "멸종",
+      "english": "extinction",
+      "example": "기후 변화로 전 세계적으로 수많은 종이 멸종 위기에 처해 있다.",
+      "example_en": "Climate change has put countless species worldwide on the brink of extinction."
+    },
+    {
+      "korean": "미생물",
+      "english": "microorganism; microbe",
+      "example": "장내 미생물의 균형이 전반적인 건강에 큰 영향을 미친다.",
+      "example_en": "The balance of gut microorganisms has a significant impact on overall health."
+    },
+    {
+      "korean": "유전자",
+      "english": "gene",
+      "example": "유전자 편집 기술의 윤리적 한계에 대한 논의가 활발하다.",
+      "example_en": "There is active debate about the ethical limits of gene-editing technology."
+    },
+    {
+      "korean": "생물 다양성",
+      "english": "biodiversity",
+      "example": "열대 우림은 지구 생물 다양성의 보고로 알려져 있다.",
+      "example_en": "Tropical rainforests are known as a treasure trove of Earth's biodiversity."
+    },
+    {
+      "korean": "배출량",
+      "english": "emissions (amount discharged)",
+      "example": "각국은 탄소 배출량을 줄이기 위해 다양한 정책을 시행하고 있다.",
+      "example_en": "Countries are implementing various policies to reduce carbon emissions."
+    },
+    {
+      "korean": "생분해",
+      "english": "biodegradation",
+      "example": "생분해가 가능한 포장재가 기존 플라스틱을 빠르게 대체하고 있다.",
+      "example_en": "Biodegradable packaging materials are rapidly replacing conventional plastics."
+    },
+    {
+      "korean": "돌연변이",
+      "english": "mutation",
+      "example": "바이러스의 돌연변이가 잦아지면서 새로운 변이 주가 계속 출현하고 있다.",
+      "example_en": "With frequent viral mutations, new variant strains keep emerging."
+    },
+    {
+      "korean": "인공지능",
+      "english": "artificial intelligence (AI)",
+      "example": "인공지능이 의료 영상 판독에서 전문의 수준의 정확도를 보이고 있다.",
+      "example_en": "Artificial intelligence is showing specialist-level accuracy in medical image interpretation."
+    },
+    {
+      "korean": "반도체",
+      "english": "semiconductor",
+      "example": "한국은 세계 반도체 시장에서 핵심적인 위치를 차지하고 있다.",
+      "example_en": "Korea holds a pivotal position in the global semiconductor market."
+    },
+    {
+      "korean": "자동화",
+      "english": "automation",
+      "example": "공장 자동화로 생산성은 높아졌지만 일자리 감소가 우려된다.",
+      "example_en": "Factory automation has increased productivity, but job losses are a concern."
+    },
+    {
+      "korean": "연산",
+      "english": "computation; arithmetic operation",
+      "example": "양자 컴퓨터는 기존 컴퓨터보다 특정 연산을 수백만 배 빠르게 처리한다.",
+      "example_en": "Quantum computers process certain computations millions of times faster than conventional ones."
+    },
+    {
+      "korean": "복호화",
+      "english": "decryption; decoding",
+      "example": "전송된 데이터를 복호화해야 원래 내용을 확인할 수 있다.",
+      "example_en": "The transmitted data must be decrypted to view the original content."
+    },
+    {
+      "korean": "자율주행",
+      "english": "autonomous driving; self-driving",
+      "example": "자율주행 기술이 상용화되면 교통사고가 크게 줄어들 것으로 전망된다.",
+      "example_en": "Once autonomous driving technology is commercialized, traffic accidents are expected to decrease significantly."
+    },
+    {
+      "korean": "증강현실",
+      "english": "augmented reality (AR)",
+      "example": "증강현실 기술을 활용한 교육 콘텐츠가 학생들의 이해도를 높이고 있다.",
+      "example_en": "Educational content utilizing augmented reality technology is enhancing student comprehension."
+    },
+    {
+      "korean": "초전도체",
+      "english": "superconductor",
+      "example": "상온 초전도체 개발에 성공한다면 에너지 산업에 혁명이 일어날 것이다.",
+      "example_en": "If a room-temperature superconductor is successfully developed, it will revolutionize the energy industry."
+    },
+    {
+      "korean": "양자역학",
+      "english": "quantum mechanics",
+      "example": "양자역학의 원리는 일상적인 직관과 크게 어긋나는 경우가 많다.",
+      "example_en": "The principles of quantum mechanics often greatly defy everyday intuition."
+    },
+    {
+      "korean": "정보보안",
+      "english": "information security; cybersecurity",
+      "example": "기업의 정보보안 투자가 해마다 증가하고 있다.",
+      "example_en": "Corporate investment in information security is increasing every year."
+    },
+    {
+      "korean": "표본",
+      "english": "sample; specimen",
+      "example": "연구진은 전국에서 수집한 5,000개의 표본을 분석했다.",
+      "example_en": "The research team analyzed 5,000 specimens collected from across the country."
+    },
+    {
+      "korean": "대조군",
+      "english": "control group",
+      "example": "실험 결과의 신뢰도를 높이려면 적절한 대조군 설정이 필수적이다.",
+      "example_en": "Setting up an appropriate control group is essential to increase the reliability of experimental results."
+    },
+    {
+      "korean": "재현성",
+      "english": "reproducibility",
+      "example": "재현성이 확보되지 않은 연구 결과는 학계에서 인정받기 어렵다.",
+      "example_en": "Research results without established reproducibility are difficult to gain recognition in academia."
+    },
+    {
+      "korean": "학제간",
+      "english": "interdisciplinary",
+      "example": "기후 위기 대응은 학제간 협력 없이는 해결하기 어렵다.",
+      "example_en": "Addressing the climate crisis is difficult to solve without interdisciplinary collaboration."
+    },
+    {
+      "korean": "정량적",
+      "english": "quantitative",
+      "example": "정량적 분석을 통해 두 변수 간의 상관관계를 수치로 입증했다.",
+      "example_en": "Through quantitative analysis, the correlation between the two variables was numerically demonstrated."
+    },
+    {
+      "korean": "편향",
+      "english": "bias; skew",
+      "example": "연구자의 편향이 실험 설계에 무의식적으로 영향을 줄 수 있다.",
+      "example_en": "A researcher's bias can unconsciously influence the experimental design."
+    },
+    {
+      "korean": "귀납법",
+      "english": "inductive reasoning; induction",
+      "example": "귀납법은 개별 관찰에서 일반적인 법칙을 이끌어내는 추론 방식이다.",
+      "example_en": "Induction is a reasoning method that derives general laws from individual observations."
+    },
+    {
+      "korean": "연역법",
+      "english": "deductive reasoning; deduction",
+      "example": "연역법은 전제가 참이면 결론도 반드시 참이 되는 논리 구조를 따른다.",
+      "example_en": "Deduction follows a logical structure where, if the premises are true, the conclusion must also be true."
+    },
+    {
+      "korean": "표절",
+      "english": "plagiarism",
+      "example": "유명 교수의 논문 표절 사실이 밝혀져 학계가 발칵 뒤집혔다.",
+      "example_en": "The academic world was turned upside down when a prominent professor's plagiarism was revealed."
+    },
+    {
+      "korean": "학술지",
+      "english": "academic journal; scholarly journal",
+      "example": "이 연구는 세계적으로 권위 있는 학술지에 게재되었다.",
+      "example_en": "This research was published in a globally prestigious academic journal."
+    }
+  ],
+  "주제별 단어 — 정치 (Topic: Politics)": [
+    {
+      "korean": "투표",
+      "english": "voting; casting a ballot",
+      "example": "이번 대선에서 투표율이 역대 최고를 기록했다.",
+      "example_en": "The voter turnout in this presidential election set an all-time record."
+    },
+    {
+      "korean": "후보",
+      "english": "candidate",
+      "example": "세 명의 후보가 당 대표 자리를 놓고 경쟁하고 있다.",
+      "example_en": "Three candidates are competing for the party leadership position."
+    },
+    {
+      "korean": "당선",
+      "english": "winning an election; being elected",
+      "example": "그녀는 압도적인 표 차이로 시장에 당선되었다.",
+      "example_en": "She was elected mayor by an overwhelming margin."
+    },
+    {
+      "korean": "낙선",
+      "english": "losing an election; failing to be elected",
+      "example": "낙선한 후보는 결과에 승복하겠다는 입장을 밝혔다.",
+      "example_en": "The defeated candidate announced that he would accept the results."
+    },
+    {
+      "korean": "출마",
+      "english": "running for office; candidacy",
+      "example": "현직 의원이 차기 대선 출마를 공식 선언했다.",
+      "example_en": "The incumbent lawmaker officially declared his candidacy for the next presidential election."
+    },
+    {
+      "korean": "유권자",
+      "english": "voter; eligible voter",
+      "example": "유권자들의 관심사는 경제 문제에 집중되어 있다.",
+      "example_en": "Voters' concerns are focused on economic issues."
+    },
+    {
+      "korean": "개표",
+      "english": "vote counting; ballot counting",
+      "example": "개표가 진행될수록 두 후보의 격차가 좁혀졌다.",
+      "example_en": "As the vote count progressed, the gap between the two candidates narrowed."
+    },
+    {
+      "korean": "선거구",
+      "english": "electoral district; constituency",
+      "example": "이번 선거구 획정에 대해 논란이 일고 있다.",
+      "example_en": "There is controversy over the redistricting of electoral districts."
+    },
+    {
+      "korean": "재선",
+      "english": "re-election",
+      "example": "대통령이 재선에 성공하려면 경제 실적이 뒷받침되어야 한다.",
+      "example_en": "For the president to win re-election, economic performance must back it up."
+    },
+    {
+      "korean": "사전투표",
+      "english": "early voting; advance voting",
+      "example": "사전투표 제도 덕분에 투표 접근성이 크게 향상되었다.",
+      "example_en": "Thanks to the early voting system, access to voting has greatly improved."
+    },
+    {
+      "korean": "국무총리",
+      "english": "prime minister",
+      "example": "국무총리가 국회에 출석하여 현안에 대해 답변했다.",
+      "example_en": "The prime minister attended the National Assembly and responded to pending issues."
+    },
+    {
+      "korean": "내각",
+      "english": "cabinet (of a government)",
+      "example": "새 대통령은 취임 직후 내각을 대폭 개편했다.",
+      "example_en": "The new president reshuffled the cabinet significantly right after inauguration."
+    },
+    {
+      "korean": "장관",
+      "english": "minister (government)",
+      "example": "외교부 장관이 긴급 기자회견을 열었다.",
+      "example_en": "The Minister of Foreign Affairs held an emergency press conference."
+    },
+    {
+      "korean": "지방자치",
+      "english": "local autonomy; local self-governance",
+      "example": "지방자치 시대가 열리면서 지역 주민의 목소리가 커졌다.",
+      "example_en": "As the era of local autonomy began, the voices of local residents grew louder."
+    },
+    {
+      "korean": "국정감사",
+      "english": "parliamentary audit; government inspection",
+      "example": "국정감사에서 여야 의원들이 장관을 상대로 날카로운 질의를 했다.",
+      "example_en": "During the parliamentary audit, lawmakers from both parties posed sharp questions to the minister."
+    },
+    {
+      "korean": "본회의",
+      "english": "plenary session (of parliament)",
+      "example": "법안이 본회의에서 가결되어 시행을 앞두고 있다.",
+      "example_en": "The bill passed the plenary session and is set to be implemented."
+    },
+    {
+      "korean": "상임위원회",
+      "english": "standing committee (of parliament)",
+      "example": "해당 법안은 먼저 소관 상임위원회의 심사를 거쳐야 한다.",
+      "example_en": "The bill must first undergo review by the relevant standing committee."
+    },
+    {
+      "korean": "삼권분립",
+      "english": "separation of powers (legislative, executive, judicial)",
+      "example": "삼권분립은 민주주의의 핵심 원칙 중 하나이다.",
+      "example_en": "The separation of powers is one of the core principles of democracy."
+    },
+    {
+      "korean": "관료",
+      "english": "bureaucrat; government official",
+      "example": "고위 관료들의 부정부패가 사회적 불신을 키웠다.",
+      "example_en": "Corruption among high-ranking bureaucrats has fueled public distrust."
+    },
+    {
+      "korean": "정권",
+      "english": "regime; administration; political power",
+      "example": "정권이 교체될 때마다 주요 정책의 방향이 바뀌곤 한다.",
+      "example_en": "Major policy directions tend to shift every time the administration changes."
+    },
+    {
+      "korean": "수교",
+      "english": "establishment of diplomatic relations",
+      "example": "두 나라가 수교를 맺은 지 올해로 30주년이 된다.",
+      "example_en": "This year marks the 30th anniversary of the two countries establishing diplomatic relations."
+    },
+    {
+      "korean": "조약",
+      "english": "treaty",
+      "example": "양국은 핵 비확산 조약에 서명했다.",
+      "example_en": "Both countries signed the nuclear non-proliferation treaty."
+    },
+    {
+      "korean": "정상회담",
+      "english": "summit meeting; summit talks",
+      "example": "한미 정상회담에서 안보 협력 방안이 논의되었다.",
+      "example_en": "Security cooperation measures were discussed at the Korea-U.S. summit."
+    },
+    {
+      "korean": "대사관",
+      "english": "embassy",
+      "example": "해외에서 긴급 상황이 발생하면 가까운 대사관에 연락해야 한다.",
+      "example_en": "In an emergency abroad, you should contact the nearest embassy."
+    },
+    {
+      "korean": "영사관",
+      "english": "consulate",
+      "example": "비자 발급은 영사관에서 처리할 수 있다.",
+      "example_en": "Visa issuance can be handled at the consulate."
+    },
+    {
+      "korean": "국교",
+      "english": "diplomatic relations (between countries)",
+      "example": "분쟁이 격화되면서 양국은 국교를 단절했다.",
+      "example_en": "As the conflict intensified, the two countries severed diplomatic relations."
+    },
+    {
+      "korean": "비준",
+      "english": "ratification (of a treaty or agreement)",
+      "example": "국회의 비준 동의 없이 조약은 효력을 발휘할 수 없다.",
+      "example_en": "A treaty cannot take effect without ratification by the National Assembly."
+    },
+    {
+      "korean": "협정",
+      "english": "accord; agreement; pact",
+      "example": "양국은 자유무역협정을 체결하여 관세를 대폭 낮추었다.",
+      "example_en": "The two countries signed a free trade agreement and significantly lowered tariffs."
+    },
+    {
+      "korean": "다자외교",
+      "english": "multilateral diplomacy",
+      "example": "한국은 다자외교를 통해 국제 사회에서의 입지를 강화하고 있다.",
+      "example_en": "Korea is strengthening its standing in the international community through multilateral diplomacy."
+    },
+    {
+      "korean": "국익",
+      "english": "national interest",
+      "example": "외교 정책은 국익을 최우선으로 고려해야 한다.",
+      "example_en": "Foreign policy must prioritize national interests above all."
+    },
+    {
+      "korean": "시위",
+      "english": "demonstration; protest",
+      "example": "시민들이 광장에 모여 대규모 시위를 벌였다.",
+      "example_en": "Citizens gathered in the plaza and held a large-scale demonstration."
+    },
+    {
+      "korean": "청원",
+      "english": "petition",
+      "example": "국민 청원 게시판에 20만 명 이상이 동의한 글이 올라왔다.",
+      "example_en": "A post on the national petition board received over 200,000 signatures of agreement."
+    },
+    {
+      "korean": "집회",
+      "english": "rally; assembly; gathering",
+      "example": "헌법은 집회의 자유를 기본권으로 보장하고 있다.",
+      "example_en": "The constitution guarantees the freedom of assembly as a fundamental right."
+    },
+    {
+      "korean": "국민투표",
+      "english": "referendum; national vote",
+      "example": "헌법 개정안은 국민투표를 통해 최종 확정된다.",
+      "example_en": "Constitutional amendments are finalized through a national referendum."
+    },
+    {
+      "korean": "공청회",
+      "english": "public hearing",
+      "example": "정부는 새 정책에 대한 의견을 수렴하기 위해 공청회를 개최했다.",
+      "example_en": "The government held a public hearing to gather opinions on the new policy."
+    },
+    {
+      "korean": "시민단체",
+      "english": "civic organization; NGO",
+      "example": "여러 시민단체가 환경 보호를 위한 공동 성명을 발표했다.",
+      "example_en": "Several civic organizations issued a joint statement for environmental protection."
+    },
+    {
+      "korean": "주민소환",
+      "english": "recall (of an elected official by residents)",
+      "example": "주민소환 투표가 성립하려면 일정 비율 이상의 투표율이 필요하다.",
+      "example_en": "A recall vote requires a turnout above a certain threshold to be valid."
+    },
+    {
+      "korean": "참정권",
+      "english": "suffrage; right to participate in politics",
+      "example": "만 18세 이상 국민에게 참정권이 부여된다.",
+      "example_en": "The right to political participation is granted to citizens aged 18 and older."
+    },
+    {
+      "korean": "서명운동",
+      "english": "signature campaign; petition drive",
+      "example": "시민들이 법 개정을 요구하며 서명운동을 펼치고 있다.",
+      "example_en": "Citizens are conducting a signature campaign demanding a revision of the law."
+    },
+    {
+      "korean": "인권",
+      "english": "human rights",
+      "example": "국제 사회는 북한의 인권 상황에 대해 지속적으로 우려를 표명하고 있다.",
+      "example_en": "The international community continues to express concern over the human rights situation in North Korea."
+    }
+  ],
+  "주제별 단어 — 감정 (Topic: Emotions)": [
+    {
+      "korean": "허탈감",
+      "english": "sense of emptiness; feeling deflated",
+      "example": "시험에 떨어졌다는 소식을 듣고 허탈감에 빠졌다.",
+      "example_en": "After hearing the news that I failed the exam, I sank into a feeling of deflation."
+    },
+    {
+      "korean": "무력감",
+      "english": "sense of helplessness; powerlessness",
+      "example": "아무것도 바꿀 수 없다는 무력감이 밀려왔다.",
+      "example_en": "A sense of helplessness washed over me, feeling that I couldn't change anything."
+    },
+    {
+      "korean": "박탈감",
+      "english": "sense of deprivation; feeling deprived",
+      "example": "승진에서 누락되자 극심한 박탈감을 느꼈다.",
+      "example_en": "Being passed over for promotion, I felt an intense sense of deprivation."
+    },
+    {
+      "korean": "소외감",
+      "english": "sense of alienation; feeling left out",
+      "example": "새 직장에서 아무도 말을 걸지 않아 소외감이 컸다.",
+      "example_en": "Nobody spoke to me at the new workplace, so my sense of alienation was great."
+    },
+    {
+      "korean": "죄책감",
+      "english": "guilt; sense of guilt",
+      "example": "친구에게 거짓말을 한 후 죄책감에 시달렸다.",
+      "example_en": "After lying to my friend, I was tormented by guilt."
+    },
+    {
+      "korean": "모멸감",
+      "english": "sense of humiliation; feeling degraded",
+      "example": "사람들 앞에서 공개적으로 질책당해 모멸감을 느꼈다.",
+      "example_en": "Being publicly reprimanded in front of everyone, I felt humiliated."
+    },
+    {
+      "korean": "수치심",
+      "english": "shame; sense of shame",
+      "example": "실수를 들켜 수치심으로 얼굴을 들 수 없었다.",
+      "example_en": "Caught making a mistake, I couldn't lift my face from the shame."
+    },
+    {
+      "korean": "배신감",
+      "english": "sense of betrayal; feeling betrayed",
+      "example": "가장 믿었던 동료가 뒤에서 험담을 했다니 배신감이 크다.",
+      "example_en": "The colleague I trusted most was badmouthing me behind my back — the sense of betrayal is enormous."
+    },
+    {
+      "korean": "상실감",
+      "english": "sense of loss; feeling of bereavement",
+      "example": "반려동물을 떠나보낸 후 한동안 상실감을 극복하지 못했다.",
+      "example_en": "After losing my pet, I couldn't overcome the sense of loss for a long time."
+    },
+    {
+      "korean": "허무감",
+      "english": "sense of futility; existential emptiness",
+      "example": "오랜 시간 준비한 프로젝트가 취소되자 허무감이 밀려왔다.",
+      "example_en": "When the project I had prepared for so long was canceled, a wave of futility hit me."
+    },
+    {
+      "korean": "방심",
+      "english": "letting one's guard down; carelessness",
+      "example": "잠깐의 방심이 큰 사고로 이어질 수 있다.",
+      "example_en": "A momentary lapse in vigilance can lead to a major accident."
+    },
+    {
+      "korean": "망상",
+      "english": "delusion; delusional thinking",
+      "example": "현실과 동떨어진 망상에 빠져 주변 사람들이 걱정했다.",
+      "example_en": "Everyone around was worried because he was lost in delusions detached from reality."
+    },
+    {
+      "korean": "자의식",
+      "english": "self-consciousness; self-awareness",
+      "example": "자의식이 지나치게 강한 사람은 남의 시선에 예민하다.",
+      "example_en": "People with excessive self-consciousness are sensitive to how others perceive them."
+    },
+    {
+      "korean": "회의감",
+      "english": "sense of doubt; skepticism (about one's path)",
+      "example": "같은 일을 반복하다 보니 이 일에 대한 회의감이 들었다.",
+      "example_en": "Repeating the same work over and over, I started feeling doubt about this career."
+    },
+    {
+      "korean": "긴장감",
+      "english": "tension; nervousness; sense of suspense",
+      "example": "면접실 앞에서 긴장감이 극에 달했다.",
+      "example_en": "The tension peaked as I waited outside the interview room."
+    },
+    {
+      "korean": "해방감",
+      "english": "sense of liberation; feeling freed",
+      "example": "마지막 시험이 끝난 순간 엄청난 해방감을 느꼈다.",
+      "example_en": "The moment the last exam ended, I felt an overwhelming sense of liberation."
+    },
+    {
+      "korean": "절망감",
+      "english": "despair; sense of hopelessness",
+      "example": "몇 번이나 지원했지만 번번이 탈락해 절망감에 빠졌다.",
+      "example_en": "Having applied multiple times and been rejected each time, I fell into despair."
+    },
+    {
+      "korean": "안도감",
+      "english": "sense of relief",
+      "example": "검사 결과가 정상으로 나오자 안도감이 밀려왔다.",
+      "example_en": "When the test results came back normal, a wave of relief washed over me."
+    },
+    {
+      "korean": "무감각",
+      "english": "numbness; emotional apathy",
+      "example": "너무 많은 일을 겪다 보니 무감각해져 버렸다.",
+      "example_en": "Having been through so much, I became emotionally numb."
+    },
+    {
+      "korean": "현실감",
+      "english": "sense of reality; feeling that something is real",
+      "example": "합격 통보를 받았는데도 현실감이 없어서 멍했다.",
+      "example_en": "Even after receiving the acceptance notice, it didn't feel real and I was in a daze."
+    },
+    {
+      "korean": "연민",
+      "english": "compassion; pity",
+      "example": "어려운 환경에서 자란 아이의 이야기를 듣고 연민을 느꼈다.",
+      "example_en": "Hearing the story of a child raised in difficult circumstances, I felt compassion."
+    },
+    {
+      "korean": "경멸",
+      "english": "contempt; disdain; scorn",
+      "example": "약자를 괴롭히는 사람에 대해 경멸을 감출 수 없었다.",
+      "example_en": "I couldn't hide my contempt for the person who bullied the weak."
+    },
+    {
+      "korean": "질투심",
+      "english": "jealousy; feelings of jealousy",
+      "example": "친구의 성공 소식에 축하하면서도 질투심이 고개를 들었다.",
+      "example_en": "While congratulating my friend on the success, jealousy reared its head."
+    },
+    {
+      "korean": "시기심",
+      "english": "envy; envious feelings",
+      "example": "동기가 먼저 승진하자 시기심이 생기는 걸 스스로 인정했다.",
+      "example_en": "When my peer got promoted first, I admitted to myself that I felt envious."
+    },
+    {
+      "korean": "거리감",
+      "english": "emotional distance; sense of detachment",
+      "example": "오랜만에 만난 옛 친구에게서 묘한 거리감이 느껴졌다.",
+      "example_en": "Meeting my old friend after a long time, I sensed a strange emotional distance."
+    },
+    {
+      "korean": "동질감",
+      "english": "sense of kinship; feeling of solidarity",
+      "example": "비슷한 경험을 한 사람들끼리 강한 동질감을 느꼈다.",
+      "example_en": "People who had gone through similar experiences felt a strong sense of kinship."
+    },
+    {
+      "korean": "친밀감",
+      "english": "intimacy; sense of closeness",
+      "example": "함께 고생한 경험이 팀원들 사이에 친밀감을 형성했다.",
+      "example_en": "The shared hardship built a sense of closeness among the team members."
+    },
+    {
+      "korean": "증오",
+      "english": "hatred; loathing; abhorrence",
+      "example": "전쟁은 서로를 향한 증오만 키울 뿐이다.",
+      "example_en": "War only breeds mutual hatred."
+    },
+    {
+      "korean": "원망",
+      "english": "resentment; blame; bitter reproach",
+      "example": "부모님을 원망했던 시절이 있었지만 지금은 이해하게 됐다.",
+      "example_en": "There was a time I resented my parents, but now I've come to understand them."
+    },
+    {
+      "korean": "경계심",
+      "english": "wariness; vigilance; guardedness",
+      "example": "처음 만나는 사람에 대한 경계심이 강한 편이다.",
+      "example_en": "I tend to be quite guarded around people I meet for the first time."
+    },
+    {
+      "korean": "오열",
+      "english": "wailing; sobbing uncontrollably",
+      "example": "장례식장에서 유족들이 오열을 터뜨렸다.",
+      "example_en": "The bereaved family burst into uncontrollable sobbing at the funeral."
+    },
+    {
+      "korean": "전율",
+      "english": "shudder; thrill; trembling (from intense emotion)",
+      "example": "그 피아니스트의 마지막 연주에 온몸에 전율이 흘렀다.",
+      "example_en": "A shudder ran through my entire body during the pianist's final performance."
+    },
+    {
+      "korean": "탄식",
+      "english": "lamentation; sigh of despair",
+      "example": "경기 결과를 본 팬들의 탄식이 경기장을 가득 채웠다.",
+      "example_en": "Sighs of despair from the fans filled the stadium after seeing the match result."
+    },
+    {
+      "korean": "울컥하다",
+      "english": "to feel a sudden surge of emotion; to choke up unexpectedly",
+      "example": "졸업식에서 은사님의 축사를 듣다가 울컥했다.",
+      "example_en": "I choked up listening to my mentor's speech at the graduation ceremony."
+    },
+    {
+      "korean": "서글프다",
+      "english": "to feel mournful; to be sadly touched",
+      "example": "텅 빈 집에 혼자 앉아 있으니 서글픈 마음이 들었다.",
+      "example_en": "Sitting alone in the empty house, a mournful feeling came over me."
+    },
+    {
+      "korean": "먹먹하다",
+      "english": "to feel choked up; to have a lump in one's throat",
+      "example": "고향 사진을 보니 가슴이 먹먹해졌다.",
+      "example_en": "Looking at photos of my hometown, I felt a lump in my throat."
+    },
+    {
+      "korean": "짜릿하다",
+      "english": "to feel a thrill; to be electrifying",
+      "example": "번지점프 직전의 짜릿한 공포를 잊을 수 없다.",
+      "example_en": "I can't forget the electrifying fear right before the bungee jump."
+    },
+    {
+      "korean": "서럽다",
+      "english": "to feel wronged and sad; to be pitifully aggrieved",
+      "example": "아무도 내 편이 아닌 것 같아 서러워서 눈물이 났다.",
+      "example_en": "Feeling like nobody was on my side, I cried from the sense of being wronged."
+    },
+    {
+      "korean": "흐느끼다",
+      "english": "to sob quietly; to weep with muffled cries",
+      "example": "그녀는 편지를 읽으며 조용히 흐느꼈다.",
+      "example_en": "She sobbed quietly as she read the letter."
+    },
+    {
+      "korean": "울먹이다",
+      "english": "to be on the verge of tears; to speak tearfully",
+      "example": "아이가 울먹이며 무슨 일이 있었는지 이야기했다.",
+      "example_en": "The child, on the verge of tears, told what had happened."
+    }
+  ],
+  "주제별 단어 — 문화 (Topic: Culture)": [
+    {
+      "korean": "제사",
+      "english": "ancestral memorial rite; ceremony honoring deceased family members",
+      "example": "명절 때마다 온 가족이 모여 제사를 지내는 것이 우리 집안의 전통이다.",
+      "example_en": "It's our family tradition for everyone to gather and hold ancestral rites on every holiday."
+    },
+    {
+      "korean": "차례",
+      "english": "holiday ancestral rite (performed on Chuseok and Seollal, simpler than 제사)",
+      "example": "설날 아침에 차례를 지낸 뒤에야 비로소 떡국을 먹을 수 있었다.",
+      "example_en": "We could only eat tteokguk after performing the ancestral rite on the morning of Seollal."
+    },
+    {
+      "korean": "세배",
+      "english": "New Year's deep bow to elders, accompanied by well-wishes",
+      "example": "아이들이 할머니께 세배를 드리고 세뱃돈을 받아서 좋아했다.",
+      "example_en": "The children were happy to bow to grandmother and receive New Year's money."
+    },
+    {
+      "korean": "돌잔치",
+      "english": "first birthday celebration (traditional milestone party for a baby turning one)",
+      "example": "요즘 돌잔치를 호텔에서 성대하게 하는 집이 많아졌다.",
+      "example_en": "Lately, many families hold elaborate first birthday parties at hotels."
+    },
+    {
+      "korean": "상견례",
+      "english": "formal meeting between the families of a bride and groom before marriage",
+      "example": "상견례 자리에서 양가 부모님이 처음 만나 인사를 나눴다.",
+      "example_en": "At the formal family meeting, the parents of both families met and exchanged greetings for the first time."
+    },
+    {
+      "korean": "폐백",
+      "english": "traditional post-wedding ceremony where the bride bows to the groom's family",
+      "example": "폐백 때 시어머니가 며느리에게 대추와 밤을 던져 주셨다.",
+      "example_en": "During the pyebaek ceremony, the mother-in-law tossed dates and chestnuts to the bride."
+    },
+    {
+      "korean": "덕담",
+      "english": "words of blessing; well-wishes exchanged especially during the New Year",
+      "example": "어른들이 새해 덕담을 건네시며 한 해의 건강과 행복을 빌어 주셨다.",
+      "example_en": "The elders offered New Year blessings, wishing health and happiness for the year."
+    },
+    {
+      "korean": "풍속",
+      "english": "customs; folk traditions; cultural practices handed down through generations",
+      "example": "한국에는 동지에 팥죽을 먹는 풍속이 예로부터 전해져 왔다.",
+      "example_en": "In Korea, the custom of eating red bean porridge on the winter solstice has been passed down since ancient times."
+    },
+    {
+      "korean": "한옥",
+      "english": "traditional Korean house (wooden frame, ondol heated floors, tiled or thatched roof)",
+      "example": "전주 한옥마을에 가면 잘 보존된 한옥을 직접 구경할 수 있다.",
+      "example_en": "If you visit Jeonju Hanok Village, you can see well-preserved traditional Korean houses in person."
+    },
+    {
+      "korean": "굿",
+      "english": "shamanistic ritual; exorcism ceremony performed by a shaman (무당)",
+      "example": "과거에는 마을에 재앙이 닥치면 무당을 불러 굿을 했다.",
+      "example_en": "In the past, when disaster struck a village, they would call a shaman to perform a ritual."
+    },
+    {
+      "korean": "시청률",
+      "english": "viewership rating; TV audience share",
+      "example": "그 드라마는 마지막 회에서 시청률 40%를 돌파하며 국민 드라마가 되었다.",
+      "example_en": "That drama surpassed a 40% viewership rating in the final episode and became a national hit."
+    },
+    {
+      "korean": "음원",
+      "english": "digital music track/release; sound source",
+      "example": "신곡이 공개되자마자 주요 음원 차트 1위를 휩쓸었다.",
+      "example_en": "As soon as the new song was released, it swept the top of all major music charts."
+    },
+    {
+      "korean": "역주행",
+      "english": "reverse chart climbing; belated viral popularity of a song or content",
+      "example": "2년 전에 나온 곡인데 최근 역주행하면서 다시 차트에 올랐다.",
+      "example_en": "The song came out two years ago, but it recently went viral and climbed back up the charts."
+    },
+    {
+      "korean": "편성",
+      "english": "broadcast scheduling; programming arrangement of TV shows or radio",
+      "example": "방송사 측에서 갑자기 편성을 변경해서 시청자들이 혼란스러워했다.",
+      "example_en": "The broadcasting company suddenly changed the schedule, confusing the viewers."
+    },
+    {
+      "korean": "결방",
+      "english": "broadcast cancellation; preemption of a scheduled TV episode",
+      "example": "선거 특집 방송 때문에 이번 주 드라마가 결방되었다.",
+      "example_en": "This week's drama was preempted because of the special election broadcast."
+    },
+    {
+      "korean": "흥행",
+      "english": "box office success; commercial hit (film, performance, etc.)",
+      "example": "그 영화는 개봉 첫 주에 관객 500만 명을 돌파하며 대흥행했다.",
+      "example_en": "The film surpassed 5 million viewers in its opening week, becoming a massive box office hit."
+    },
+    {
+      "korean": "대본",
+      "english": "script; screenplay; written text for a performance or broadcast",
+      "example": "배우가 촬영 전날까지 대본을 수십 번 읽으며 연기를 준비했다.",
+      "example_en": "The actor prepared by reading the script dozens of times until the day before shooting."
+    },
+    {
+      "korean": "회차",
+      "english": "episode number; installment of a series (drama, webtoon, etc.)",
+      "example": "그 웹툰은 회차가 200회를 넘겼는데도 인기가 식지 않고 있다.",
+      "example_en": "That webtoon has surpassed 200 episodes and its popularity still hasn't faded."
+    },
+    {
+      "korean": "출연료",
+      "english": "appearance fee; talent fee paid to actors, performers, or guests",
+      "example": "톱스타의 출연료가 회당 수억 원에 달한다는 소문이 돌았다.",
+      "example_en": "Rumors circulated that the top star's appearance fee reached hundreds of millions of won per episode."
+    },
+    {
+      "korean": "제작진",
+      "english": "production crew; production team (of a film, drama, or show)",
+      "example": "제작진이 현지 로케이션 촬영을 위해 한 달간 해외에 머물렀다.",
+      "example_en": "The production crew stayed overseas for a month for on-location filming."
+    },
+    {
+      "korean": "손맛",
+      "english": "the personal touch in homemade cooking; 'taste from one's hands'",
+      "example": "어머니의 손맛을 따라갈 수 있는 식당은 어디에도 없다.",
+      "example_en": "No restaurant anywhere can match the homemade touch of my mother's cooking."
+    },
+    {
+      "korean": "밑반찬",
+      "english": "everyday side dishes prepared in bulk and stored in the fridge",
+      "example": "주말마다 밑반찬을 여러 가지 만들어 놓으면 평일이 훨씬 수월하다.",
+      "example_en": "If you prepare a variety of side dishes on the weekend, weekdays become much easier."
+    },
+    {
+      "korean": "숙성",
+      "english": "aging; fermentation; maturation (of food such as kimchi, meat, or cheese)",
+      "example": "숙성시킨 김치로 찌개를 끓이면 맛이 훨씬 깊어진다.",
+      "example_en": "If you make stew with well-aged kimchi, the flavor becomes much deeper."
+    },
+    {
+      "korean": "담그다",
+      "english": "to make/prepare fermented food (especially kimchi, doenjang, ganjang)",
+      "example": "김장철이 되면 온 동네가 모여서 김치를 담그곤 했다.",
+      "example_en": "When kimjang season arrived, the whole neighborhood would gather to make kimchi together."
+    },
+    {
+      "korean": "곁들이다",
+      "english": "to serve alongside; to accompany a main dish with a side or drink",
+      "example": "삼겹살에 소주를 곁들이는 것이 한국의 대표적인 식문화 중 하나다.",
+      "example_en": "Pairing soju with samgyeopsal is one of the most iconic aspects of Korean food culture."
+    },
+    {
+      "korean": "회식",
+      "english": "company dinner; work group gathering over food and drinks after hours",
+      "example": "요즘 젊은 직장인들은 잦은 회식을 부담스러워하는 경우가 많다.",
+      "example_en": "Nowadays, many young office workers find frequent company dinners burdensome."
+    },
+    {
+      "korean": "맛집",
+      "english": "popular restaurant known for great food; must-visit eatery",
+      "example": "그 골목에 숨겨진 맛집이 있다는 소문을 듣고 일부러 찾아갔다.",
+      "example_en": "I heard a rumor about a hidden gem of a restaurant in that alley and went out of my way to find it."
+    },
+    {
+      "korean": "해장",
+      "english": "hangover cure, especially by eating specific foods like soup the morning after drinking",
+      "example": "술을 많이 마신 다음 날에는 뜨끈한 해장국 한 그릇이 최고다.",
+      "example_en": "After a night of heavy drinking, nothing beats a bowl of hot hangover soup."
+    },
+    {
+      "korean": "푸짐하다",
+      "english": "to be generous in portion; plentiful and abundant (of food servings)",
+      "example": "시골 밥집은 반찬도 푸짐하고 인심도 넉넉해서 자꾸 찾게 된다.",
+      "example_en": "Countryside restaurants have generous portions and warm hospitality, so you keep going back."
+    },
+    {
+      "korean": "입맛",
+      "english": "appetite; personal taste preference in food",
+      "example": "해외에 오래 살다 보면 한국 음식이 그리워서 입맛이 없어질 때가 있다.",
+      "example_en": "After living abroad for a long time, there are times when you lose your appetite because you miss Korean food."
+    },
+    {
+      "korean": "갑질",
+      "english": "abuse of power; bullying by someone in a position of authority",
+      "example": "갑질 논란이 불거지면서 해당 기업의 이미지에 큰 타격을 입었다.",
+      "example_en": "As the power abuse controversy erupted, the company's image took a severe hit."
+    },
+    {
+      "korean": "금수저",
+      "english": "born into wealth; 'gold spoon' (metaphor for privileged upbringing)",
+      "example": "금수저 논란은 한국 사회의 계층 고착화 문제를 여실히 반영한다.",
+      "example_en": "The 'gold spoon' debate vividly reflects the problem of class rigidity in Korean society."
+    },
+    {
+      "korean": "혼밥",
+      "english": "eating alone (a growing social trend, especially among young adults)",
+      "example": "혼밥 문화가 확산되면서 1인용 좌석을 마련한 식당이 늘어나고 있다.",
+      "example_en": "As the solo dining trend spreads, more restaurants are setting up single-person seating."
+    },
+    {
+      "korean": "혼술",
+      "english": "drinking alone (a growing social trend reflecting changing lifestyles)",
+      "example": "퇴근 후 편의점에서 혼술하는 직장인들을 흔히 볼 수 있다.",
+      "example_en": "It's common to see office workers drinking alone at convenience stores after work."
+    },
+    {
+      "korean": "소확행",
+      "english": "small but certain happiness (coined term for valuing modest everyday pleasures)",
+      "example": "소확행을 추구하는 사람들이 늘면서 취미 생활에 투자하는 비율도 높아졌다.",
+      "example_en": "As more people pursue small but certain happiness, the proportion investing in hobbies has also increased."
+    },
+    {
+      "korean": "칼퇴",
+      "english": "leaving work right on time (sharp departure at quitting time; contrast with overtime culture)",
+      "example": "최근 칼퇴 문화가 자리 잡으면서 야근을 강요하는 분위기가 많이 줄었다.",
+      "example_en": "Recently, as the on-time departure culture has taken root, the pressure to work overtime has greatly decreased."
+    },
+    {
+      "korean": "꼰대",
+      "english": "condescending elder; out-of-touch authority figure who lectures and imposes old values",
+      "example": "부하 직원에게 일방적으로 훈계만 하면 꼰대라는 소리를 듣기 쉽다.",
+      "example_en": "If you only lecture subordinates one-sidedly, you'll easily be called a kkondae."
+    },
+    {
+      "korean": "갑을관계",
+      "english": "unequal power dynamic ('Party A vs Party B' relationship); hierarchical imbalance",
+      "example": "하도급 업체들은 원청과의 갑을관계 때문에 불합리한 요구도 거절하기 어렵다.",
+      "example_en": "Subcontractors find it hard to refuse unreasonable demands due to the power imbalance with the main contractor."
+    },
+    {
+      "korean": "한",
+      "english": "deep-seated resentment, sorrow, and longing (a uniquely Korean emotional concept)",
+      "example": "판소리에는 한국인 특유의 한이 깊이 서려 있어 듣는 이의 마음을 울린다.",
+      "example_en": "Pansori is deeply infused with the uniquely Korean sentiment of han, moving the hearts of listeners."
+    },
+    {
+      "korean": "빨리빨리",
+      "english": "hurry-hurry (cultural trait emphasizing speed and urgency in Korean society)",
+      "example": "한국의 빨리빨리 문화 덕분에 인터넷 속도와 배달 서비스가 세계적 수준이 되었다.",
+      "example_en": "Thanks to Korea's hurry-hurry culture, internet speed and delivery services have reached world-class levels."
+    }
+  ],
+  "주제별 단어 — 교육 (Topic: Education)": [
+    {
+      "korean": "입학",
+      "english": "enrollment; admission (to a school)",
+      "example": "올해 초등학교에 입학하는 아이들 수가 급격히 줄었다.",
+      "example_en": "The number of children enrolling in elementary school this year has dropped sharply."
+    },
+    {
+      "korean": "졸업",
+      "english": "graduation",
+      "example": "대학교 졸업까지 남은 학점을 확인해 봤더니 생각보다 많았다.",
+      "example_en": "When I checked how many credits I had left until university graduation, there were more than I thought."
+    },
+    {
+      "korean": "담임",
+      "english": "homeroom teacher; class teacher",
+      "example": "새 학기에 담임 선생님이 바뀌어서 학생들이 긴장하고 있었다.",
+      "example_en": "The students were nervous because the homeroom teacher changed at the start of the new semester."
+    },
+    {
+      "korean": "교과서",
+      "english": "textbook",
+      "example": "교과서 개정 작업에 수년이 걸리는 경우가 많다.",
+      "example_en": "Revising textbooks often takes several years."
+    },
+    {
+      "korean": "학년",
+      "english": "school year; grade level",
+      "example": "한국에서는 3월에 새 학년이 시작된다.",
+      "example_en": "In Korea, the new school year starts in March."
+    },
+    {
+      "korean": "학급",
+      "english": "class (group of students); homeroom class",
+      "example": "한 학급당 학생 수를 줄이는 것이 교육의 질을 높이는 데 효과적이다.",
+      "example_en": "Reducing the number of students per class is effective in improving the quality of education."
+    },
+    {
+      "korean": "학부모",
+      "english": "parents of students; school parents",
+      "example": "학부모 상담 기간에 교사와 학부모가 직접 만나 이야기를 나눈다.",
+      "example_en": "During the parent consultation period, teachers and parents meet in person to talk."
+    },
+    {
+      "korean": "등교",
+      "english": "going to school; attending school",
+      "example": "폭설로 인해 등교 시간이 한 시간 늦춰졌다.",
+      "example_en": "Due to heavy snowfall, the school start time was pushed back by one hour."
+    },
+    {
+      "korean": "하교",
+      "english": "leaving school; getting out of school",
+      "example": "하교 후에 학원에 가는 학생들이 대부분이다.",
+      "example_en": "Most students go to hagwon after getting out of school."
+    },
+    {
+      "korean": "교칙",
+      "english": "school rules; school regulations",
+      "example": "교칙 위반으로 징계를 받은 학생이 반발하고 있다.",
+      "example_en": "The student who was disciplined for violating school rules is pushing back."
+    },
+    {
+      "korean": "학과",
+      "english": "department; academic major (at university)",
+      "example": "인기 학과에 지원자가 몰리면서 경쟁률이 치솟았다.",
+      "example_en": "Competition rates soared as applicants flocked to popular departments."
+    },
+    {
+      "korean": "학점",
+      "english": "credits; GPA",
+      "example": "취업 준비를 위해 학점 관리에 신경을 많이 썼다.",
+      "example_en": "I put a lot of effort into managing my GPA in preparation for job hunting."
+    },
+    {
+      "korean": "등록금",
+      "english": "tuition fees",
+      "example": "등록금 인상에 반대하는 학생들이 시위를 벌였다.",
+      "example_en": "Students protesting against tuition fee increases held a demonstration."
+    },
+    {
+      "korean": "장학금",
+      "english": "scholarship",
+      "example": "성적 우수 장학금을 받아서 등록금 부담을 크게 줄일 수 있었다.",
+      "example_en": "I was able to greatly reduce the tuition burden by receiving a merit-based scholarship."
+    },
+    {
+      "korean": "전공",
+      "english": "major; field of specialization",
+      "example": "전공을 바꾸려면 학과 사무실에 서류를 제출해야 한다.",
+      "example_en": "To change your major, you need to submit paperwork to the department office."
+    },
+    {
+      "korean": "복수전공",
+      "english": "double major",
+      "example": "복수전공을 하면 취업 시 경쟁력이 높아진다고 생각하는 학생들이 많다.",
+      "example_en": "Many students think that having a double major increases their competitiveness when job hunting."
+    },
+    {
+      "korean": "휴학",
+      "english": "leave of absence (from university)",
+      "example": "군 복무를 위해 2년간 휴학을 했다.",
+      "example_en": "I took a two-year leave of absence for military service."
+    },
+    {
+      "korean": "대학원",
+      "english": "graduate school",
+      "example": "대학원에 진학하려면 학부 성적과 연구 경험이 중요하다.",
+      "example_en": "To get into graduate school, undergraduate grades and research experience are important."
+    },
+    {
+      "korean": "논문",
+      "english": "thesis; academic paper",
+      "example": "졸업 논문 주제를 정하느라 몇 달을 고민했다.",
+      "example_en": "I agonized for months trying to decide on a thesis topic."
+    },
+    {
+      "korean": "학술",
+      "english": "academic; scholarly",
+      "example": "국제 학술 대회에서 연구 결과를 발표할 기회를 얻었다.",
+      "example_en": "I got the opportunity to present my research at an international academic conference."
+    },
+    {
+      "korean": "수능",
+      "english": "CSAT (College Scholastic Ability Test); Korean SAT",
+      "example": "수능 성적에 따라 지원할 수 있는 대학이 결정된다.",
+      "example_en": "The universities you can apply to are determined by your CSAT scores."
+    },
+    {
+      "korean": "내신",
+      "english": "school record; GPA from high school transcript",
+      "example": "수시 전형에서는 내신 성적이 매우 중요한 비중을 차지한다.",
+      "example_en": "In the rolling admission process, your school record carries a very significant weight."
+    },
+    {
+      "korean": "모의고사",
+      "english": "practice exam; mock test",
+      "example": "매달 치르는 모의고사 성적 변화를 그래프로 만들어 관리했다.",
+      "example_en": "I tracked the changes in my monthly mock test scores by making a graph."
+    },
+    {
+      "korean": "벼락치기",
+      "english": "cramming (studying at the last minute)",
+      "example": "벼락치기로 공부해서 시험은 통과했지만 금방 다 잊어버렸다.",
+      "example_en": "I crammed and passed the exam, but I forgot everything quickly."
+    },
+    {
+      "korean": "재수",
+      "english": "retaking the college entrance exam (after a gap year)",
+      "example": "원하는 대학에 떨어져서 재수를 결심했다.",
+      "example_en": "I didn't get into the university I wanted, so I decided to retake the exam after a year."
+    },
+    {
+      "korean": "족보",
+      "english": "old exam papers (slang); past exam archive",
+      "example": "선배한테 시험 족보를 구해서 출제 경향을 분석했다.",
+      "example_en": "I got old exam papers from a senior and analyzed the question trends."
+    },
+    {
+      "korean": "과제",
+      "english": "assignment; homework; task",
+      "example": "기말 과제 제출 기한이 내일까지인데 아직 시작도 못 했다.",
+      "example_en": "The final assignment is due tomorrow and I haven't even started yet."
+    },
+    {
+      "korean": "중간고사",
+      "english": "midterm exam",
+      "example": "중간고사 기간에는 도서관 자리 잡기가 하늘의 별 따기다.",
+      "example_en": "During midterm season, getting a seat in the library is nearly impossible."
+    },
+    {
+      "korean": "기말고사",
+      "english": "final exam",
+      "example": "기말고사가 끝나자마자 여행 계획을 세우기 시작했다.",
+      "example_en": "As soon as finals were over, I started making travel plans."
+    },
+    {
+      "korean": "커트라인",
+      "english": "cutoff score; minimum passing score",
+      "example": "이번 시험 커트라인이 작년보다 높아져서 불합격자가 많이 나왔다.",
+      "example_en": "The cutoff score for this exam went up from last year, so there were many who didn't pass."
+    },
+    {
+      "korean": "강의",
+      "english": "lecture; class session",
+      "example": "그 교수님 강의는 내용이 알차서 매번 수강 신청 경쟁이 치열하다.",
+      "example_en": "That professor's lectures are so rich in content that course registration is fiercely competitive every time."
+    },
+    {
+      "korean": "수강 신청",
+      "english": "course registration",
+      "example": "수강 신청 첫날 서버가 다운되는 바람에 원하는 강의를 못 들었다.",
+      "example_en": "The server crashed on the first day of course registration, so I couldn't get the class I wanted."
+    },
+    {
+      "korean": "교수법",
+      "english": "teaching method; pedagogy",
+      "example": "학생 참여를 유도하는 교수법이 강의식보다 효과적이라는 연구 결과가 많다.",
+      "example_en": "Many studies show that teaching methods that encourage student participation are more effective than lecture-style ones."
+    },
+    {
+      "korean": "과외",
+      "english": "private tutoring",
+      "example": "대학생 때 과외 아르바이트로 생활비를 벌었다.",
+      "example_en": "In college, I earned my living expenses through private tutoring side jobs."
+    },
+    {
+      "korean": "학원",
+      "english": "hagwon; private academy; cram school",
+      "example": "한국 학생들은 학교가 끝나면 학원을 여러 개 다니는 경우가 흔하다.",
+      "example_en": "It's common for Korean students to attend multiple hagwons after school ends."
+    },
+    {
+      "korean": "사교육",
+      "english": "private education (tutoring, hagwons, etc.)",
+      "example": "사교육비 부담이 커지면서 저출산 문제의 원인 중 하나로 지목되고 있다.",
+      "example_en": "The growing burden of private education costs is being pointed to as one of the causes of the low birthrate problem."
+    },
+    {
+      "korean": "공교육",
+      "english": "public education",
+      "example": "공교육의 질을 높여야 사교육 의존도를 낮출 수 있다.",
+      "example_en": "Dependence on private education can only be reduced by improving the quality of public education."
+    },
+    {
+      "korean": "학습",
+      "english": "learning; study (the process of acquiring knowledge)",
+      "example": "효과적인 학습을 위해서는 복습이 필수적이다.",
+      "example_en": "Review is essential for effective learning."
+    },
+    {
+      "korean": "교양",
+      "english": "general education (courses); liberal arts; culture/refinement",
+      "example": "전공 수업 외에도 교양 과목을 다양하게 들어야 졸업할 수 있다.",
+      "example_en": "In addition to major courses, you need to take a variety of general education courses to graduate."
+    },
+    {
+      "korean": "유학",
+      "english": "studying abroad",
+      "example": "영어 실력을 키우기 위해 미국으로 유학을 떠났다.",
+      "example_en": "I went abroad to study in the United States to improve my English skills."
+    }
+  ],
+  "주제별 단어 — 경제 (Topic: Economy)": [
+    {
+      "korean": "시세",
+      "english": "market price; going rate; current price",
+      "example": "오늘 금 시세가 사상 최고치를 기록했다.",
+      "example_en": "Today's gold market price hit an all-time high."
+    },
+    {
+      "korean": "상장하다",
+      "english": "to go public; to be listed on the stock exchange",
+      "example": "그 스타트업이 창업 5년 만에 코스닥에 상장했다.",
+      "example_en": "That startup went public on KOSDAQ just five years after its founding."
+    },
+    {
+      "korean": "시가 총액",
+      "english": "market capitalization; market cap",
+      "example": "삼성전자의 시가 총액은 한국 증시 전체의 상당 부분을 차지한다.",
+      "example_en": "Samsung Electronics' market cap accounts for a significant portion of the entire Korean stock market."
+    },
+    {
+      "korean": "선물 거래",
+      "english": "futures trading; futures transaction",
+      "example": "원유 선물 거래에서 큰 손실을 본 투자자들이 많았다.",
+      "example_en": "Many investors suffered major losses in crude oil futures trading."
+    },
+    {
+      "korean": "공매도",
+      "english": "short selling",
+      "example": "정부가 주식 시장 안정을 위해 공매도를 한시적으로 금지했다.",
+      "example_en": "The government temporarily banned short selling to stabilize the stock market."
+    },
+    {
+      "korean": "호황",
+      "english": "economic boom; prosperity; bull market conditions",
+      "example": "반도체 호황 덕분에 관련 기업들의 실적이 크게 개선됐다.",
+      "example_en": "Thanks to the semiconductor boom, related companies' earnings improved significantly."
+    },
+    {
+      "korean": "불황",
+      "english": "recession; economic downturn; slump",
+      "example": "장기 불황으로 자영업자들의 폐업률이 급증하고 있다.",
+      "example_en": "Due to the prolonged recession, the closure rate among self-employed businesses is surging."
+    },
+    {
+      "korean": "내수",
+      "english": "domestic demand; domestic consumption",
+      "example": "수출에 비해 내수가 부진하여 경제 성장이 둔화되고 있다.",
+      "example_en": "Economic growth is slowing because domestic demand is sluggish compared to exports."
+    },
+    {
+      "korean": "무역 수지",
+      "english": "trade balance; balance of trade",
+      "example": "3개월 연속 무역 수지가 적자를 기록하면서 우려가 커지고 있다.",
+      "example_en": "Concerns are growing as the trade balance has recorded a deficit for three consecutive months."
+    },
+    {
+      "korean": "교역",
+      "english": "trade; commerce; bilateral trade",
+      "example": "한중 교역량이 전년 대비 12% 증가한 것으로 집계됐다.",
+      "example_en": "South Korea-China trade volume was tallied as having increased 12% year-over-year."
+    },
+    {
+      "korean": "금리",
+      "english": "interest rate",
+      "example": "한국은행이 기준 금리를 0.25%포인트 인상하기로 결정했다.",
+      "example_en": "The Bank of Korea decided to raise the benchmark interest rate by 0.25 percentage points."
+    },
+    {
+      "korean": "예금",
+      "english": "deposit; savings (bank account)",
+      "example": "정기 예금 금리가 연 4%를 넘어서면서 가입자가 급증했다.",
+      "example_en": "As fixed deposit interest rates exceeded 4% annually, the number of subscribers surged."
+    },
+    {
+      "korean": "대출",
+      "english": "loan; lending; credit",
+      "example": "주택 담보 대출 규제가 강화되면서 신규 대출이 급감했다.",
+      "example_en": "New lending plummeted as mortgage loan regulations were tightened."
+    },
+    {
+      "korean": "원금",
+      "english": "principal; original amount invested or lent",
+      "example": "원금 손실 위험이 있는 상품에 투자할 때는 신중해야 한다.",
+      "example_en": "One must be cautious when investing in products that carry the risk of losing principal."
+    },
+    {
+      "korean": "이자",
+      "english": "interest (payment); interest charges",
+      "example": "매달 이자만 50만 원씩 내고 있어서 부담이 크다.",
+      "example_en": "I'm paying 500,000 won in interest alone each month, so the burden is heavy."
+    },
+    {
+      "korean": "담보",
+      "english": "collateral; security; guarantee",
+      "example": "부동산을 담보로 잡고 은행에서 자금을 빌렸다.",
+      "example_en": "I borrowed funds from the bank using real estate as collateral."
+    },
+    {
+      "korean": "상환하다",
+      "english": "to repay; to pay back; to redeem",
+      "example": "5년 만에 학자금 대출을 전액 상환했다.",
+      "example_en": "I fully repaid my student loan after five years."
+    },
+    {
+      "korean": "유동성",
+      "english": "liquidity; cash flow availability",
+      "example": "중앙은행이 시장에 유동성을 공급하여 금융 위기를 막았다.",
+      "example_en": "The central bank injected liquidity into the market to avert a financial crisis."
+    },
+    {
+      "korean": "주가",
+      "english": "stock price; share price",
+      "example": "실적 발표 후 주가가 하루 만에 15% 폭락했다.",
+      "example_en": "After the earnings report, the stock price plummeted 15% in a single day."
+    },
+    {
+      "korean": "증시",
+      "english": "stock market; securities market",
+      "example": "미국 증시가 급락하면서 글로벌 투자 심리가 얼어붙었다.",
+      "example_en": "As the U.S. stock market plunged, global investor sentiment froze."
+    },
+    {
+      "korean": "매물",
+      "english": "property for sale; listing (real estate)",
+      "example": "이 지역은 매물이 부족해서 집값이 계속 오르고 있다.",
+      "example_en": "Prices keep rising in this area because there are not enough listings."
+    },
+    {
+      "korean": "분양",
+      "english": "pre-sale of apartments; new housing unit sales",
+      "example": "신도시 아파트 분양에 수만 명이 청약을 넣었다.",
+      "example_en": "Tens of thousands applied for the pre-sale of apartments in the new city."
+    },
+    {
+      "korean": "전세",
+      "english": "jeonse; lump-sum deposit lease (Korean system)",
+      "example": "전세 사기 피해가 사회 문제로 대두되면서 제도 개선 요구가 커졌다.",
+      "example_en": "As jeonse fraud became a social issue, calls for systemic reform grew louder."
+    },
+    {
+      "korean": "월세",
+      "english": "monthly rent; rental fee",
+      "example": "서울 원룸 월세가 평균 60만 원을 넘어섰다.",
+      "example_en": "The average monthly rent for a studio apartment in Seoul has surpassed 600,000 won."
+    },
+    {
+      "korean": "임대",
+      "english": "lease; rental; letting out property",
+      "example": "건물주가 임대료를 20% 올리겠다고 통보해서 세입자들이 반발했다.",
+      "example_en": "Tenants protested after the building owner notified them of a 20% rent increase."
+    },
+    {
+      "korean": "청약",
+      "english": "housing subscription; apartment purchase lottery",
+      "example": "청약 통장 가입 기간이 길수록 당첨 확률이 높아진다.",
+      "example_en": "The longer you have held a housing subscription account, the higher your chances of winning."
+    },
+    {
+      "korean": "재건축",
+      "english": "reconstruction; redevelopment of old buildings",
+      "example": "재건축 허가가 나면서 주변 아파트 가격이 급등했다.",
+      "example_en": "Surrounding apartment prices soared after reconstruction approval was granted."
+    },
+    {
+      "korean": "공시 가격",
+      "english": "officially assessed value; declared property price",
+      "example": "공시 가격이 실거래가의 70% 수준으로 상향 조정되었다.",
+      "example_en": "The officially assessed price was adjusted upward to 70% of the actual transaction price."
+    },
+    {
+      "korean": "투기",
+      "english": "speculation; speculative investment",
+      "example": "정부가 부동산 투기를 근절하기 위해 강력한 대책을 내놓았다.",
+      "example_en": "The government unveiled strong measures to root out real estate speculation."
+    },
+    {
+      "korean": "임차인",
+      "english": "tenant; lessee",
+      "example": "임차인의 권리를 보호하기 위한 새로운 법안이 국회를 통과했다.",
+      "example_en": "A new bill to protect tenants' rights passed through the National Assembly."
+    },
+    {
+      "korean": "통화",
+      "english": "currency; money supply; monetary",
+      "example": "중앙은행의 통화 정책이 물가 안정에 핵심적인 역할을 한다.",
+      "example_en": "The central bank's monetary policy plays a key role in price stability."
+    },
+    {
+      "korean": "경기",
+      "english": "economic conditions; business cycle; the economy",
+      "example": "경기가 회복되면서 소비자 신뢰 지수도 함께 상승했다.",
+      "example_en": "As the economy recovered, the consumer confidence index also rose."
+    },
+    {
+      "korean": "국채",
+      "english": "government bonds; treasury bonds",
+      "example": "안전 자산 선호 심리로 국채 수요가 크게 늘었다.",
+      "example_en": "Demand for government bonds increased significantly due to a preference for safe assets."
+    },
+    {
+      "korean": "조세",
+      "english": "taxation; taxes (formal/legal term)",
+      "example": "조세 부담률이 GDP 대비 26%로 OECD 평균에 근접했다.",
+      "example_en": "The tax burden rate approached the OECD average at 26% of GDP."
+    },
+    {
+      "korean": "흑자",
+      "english": "surplus; being in the black",
+      "example": "올해 경상 수지가 300억 달러 흑자를 기록할 전망이다.",
+      "example_en": "This year's current account balance is projected to record a $30 billion surplus."
+    },
+    {
+      "korean": "양극화",
+      "english": "polarization; widening gap (economic/social)",
+      "example": "소득 양극화가 심화되면서 중산층이 점점 줄어들고 있다.",
+      "example_en": "As income polarization deepens, the middle class is steadily shrinking."
+    },
+    {
+      "korean": "규제",
+      "english": "regulation; regulatory control",
+      "example": "과도한 규제가 신산업 성장의 걸림돌이 되고 있다는 비판이 나온다.",
+      "example_en": "Criticism is mounting that excessive regulation is hindering the growth of new industries."
+    },
+    {
+      "korean": "민영화",
+      "english": "privatization",
+      "example": "공기업 민영화를 둘러싼 찬반 논쟁이 뜨겁게 이어지고 있다.",
+      "example_en": "Heated debate for and against the privatization of state-owned enterprises continues."
+    },
+    {
+      "korean": "기축통화",
+      "english": "reserve currency; key currency",
+      "example": "달러의 기축통화 지위가 흔들릴 수 있다는 전망이 나오고 있다.",
+      "example_en": "Forecasts are emerging that the dollar's status as the reserve currency could be shaken."
+    },
+    {
+      "korean": "세수",
+      "english": "tax revenue; tax income",
+      "example": "경기 둔화로 세수가 예상보다 크게 줄어 재정 적자가 우려된다.",
+      "example_en": "Tax revenue has fallen far more than expected due to the economic slowdown, raising concerns about a fiscal deficit."
+    }
+  ],
+  "주제별 단어 — 환경 (Topic: Environment)": [
+    {
+      "korean": "기후변화",
+      "english": "climate change",
+      "example": "기후변화로 인해 전 세계적으로 해수면이 상승하고 있다.",
+      "example_en": "Sea levels are rising globally due to climate change."
+    },
+    {
+      "korean": "폭염",
+      "english": "heatwave; extreme heat",
+      "example": "올여름 폭염이 기승을 부려 온열 질환자가 급증했다.",
+      "example_en": "The heatwave raged this summer, causing a surge in heat-related illnesses."
+    },
+    {
+      "korean": "한파",
+      "english": "cold wave; cold snap",
+      "example": "갑작스러운 한파에 수도관이 얼어붙는 피해가 속출했다.",
+      "example_en": "The sudden cold wave caused widespread damage from frozen water pipes."
+    },
+    {
+      "korean": "가뭄",
+      "english": "drought",
+      "example": "장기간 가뭄이 이어지면서 농작물 피해가 심각해졌다.",
+      "example_en": "Prolonged drought has caused severe damage to crops."
+    },
+    {
+      "korean": "홍수",
+      "english": "flood",
+      "example": "집중호우로 하천이 범람하여 대규모 홍수가 발생했다.",
+      "example_en": "Heavy rainfall caused rivers to overflow, resulting in a large-scale flood."
+    },
+    {
+      "korean": "장마",
+      "english": "monsoon season; rainy season",
+      "example": "올해 장마가 예년보다 열흘이나 길어져 일상생활에 불편이 컸다.",
+      "example_en": "This year's rainy season lasted ten days longer than usual, causing major inconvenience."
+    },
+    {
+      "korean": "태풍",
+      "english": "typhoon",
+      "example": "초강력 태풍이 북상 중이라 해안 지역에 대피 명령이 내려졌다.",
+      "example_en": "A super typhoon is heading north, and an evacuation order has been issued for coastal areas."
+    },
+    {
+      "korean": "이상기후",
+      "english": "abnormal weather; climate anomaly",
+      "example": "최근 이상기후가 잦아지면서 기상 예측이 점점 어려워지고 있다.",
+      "example_en": "With abnormal weather becoming more frequent, weather prediction is getting increasingly difficult."
+    },
+    {
+      "korean": "강수량",
+      "english": "precipitation; rainfall amount",
+      "example": "이번 달 강수량이 평년 대비 두 배를 넘었다.",
+      "example_en": "This month's precipitation exceeded twice the annual average."
+    },
+    {
+      "korean": "온난화",
+      "english": "global warming",
+      "example": "지구 온난화를 막기 위해 국제 사회가 공동으로 대응해야 한다.",
+      "example_en": "The international community must respond collectively to prevent global warming."
+    },
+    {
+      "korean": "미세먼지",
+      "english": "fine dust; particulate matter (PM)",
+      "example": "미세먼지 농도가 '매우 나쁨' 수준이라 외출을 자제해야 한다.",
+      "example_en": "The fine dust concentration is at a 'very bad' level, so you should refrain from going outside."
+    },
+    {
+      "korean": "대기오염",
+      "english": "air pollution",
+      "example": "공장 밀집 지역의 대기오염이 주민 건강을 심각하게 위협하고 있다.",
+      "example_en": "Air pollution in industrial areas is seriously threatening residents' health."
+    },
+    {
+      "korean": "수질오염",
+      "english": "water pollution",
+      "example": "불법 폐수 방류로 인한 수질오염이 심각한 사회 문제로 대두되었다.",
+      "example_en": "Water pollution from illegal wastewater discharge has emerged as a serious social issue."
+    },
+    {
+      "korean": "폐수",
+      "english": "wastewater; sewage",
+      "example": "정화 처리를 거치지 않은 폐수가 하천에 그대로 유입되었다.",
+      "example_en": "Untreated wastewater flowed directly into the river."
+    },
+    {
+      "korean": "매립지",
+      "english": "landfill",
+      "example": "수도권 매립지가 곧 포화 상태에 이를 것으로 예상된다.",
+      "example_en": "The metropolitan area landfill is expected to reach capacity soon."
+    },
+    {
+      "korean": "자연보호",
+      "english": "nature conservation; environmental protection",
+      "example": "자연보호는 미래 세대를 위한 우리 모두의 책임이다.",
+      "example_en": "Nature conservation is the responsibility of all of us for future generations."
+    },
+    {
+      "korean": "보호종",
+      "english": "protected species; endangered species",
+      "example": "반달가슴곰은 한국에서 천연기념물로 지정된 보호종이다.",
+      "example_en": "The Asiatic black bear is a protected species designated as a natural monument in Korea."
+    },
+    {
+      "korean": "남획",
+      "english": "overfishing; overharvesting",
+      "example": "무분별한 남획으로 근해 어족 자원이 급격히 줄어들었다.",
+      "example_en": "Indiscriminate overfishing has drastically reduced coastal fish stocks."
+    },
+    {
+      "korean": "산성비",
+      "english": "acid rain",
+      "example": "산성비는 토양의 산도를 높여 삼림을 황폐화시킨다.",
+      "example_en": "Acid rain increases soil acidity and devastates forests."
+    },
+    {
+      "korean": "유해물질",
+      "english": "hazardous substance; toxic material",
+      "example": "공장에서 유해물질이 유출되어 인근 주민들이 긴급 대피했다.",
+      "example_en": "Hazardous substances leaked from the factory, forcing nearby residents to evacuate."
+    },
+    {
+      "korean": "습지",
+      "english": "wetland",
+      "example": "습지는 다양한 생물이 서식하는 생태적으로 매우 중요한 공간이다.",
+      "example_en": "Wetlands are ecologically vital spaces where a wide variety of organisms live."
+    },
+    {
+      "korean": "빙하",
+      "english": "glacier",
+      "example": "극지방의 빙하가 빠르게 녹으면서 해수면 상승이 가속화되고 있다.",
+      "example_en": "Glaciers in polar regions are melting rapidly, accelerating sea level rise."
+    },
+    {
+      "korean": "해류",
+      "english": "ocean current",
+      "example": "해류의 변화는 전 세계 기후 패턴에 큰 영향을 미친다.",
+      "example_en": "Changes in ocean currents have a major impact on global climate patterns."
+    },
+    {
+      "korean": "산맥",
+      "english": "mountain range",
+      "example": "태백산맥은 한반도의 동쪽을 남북으로 관통하는 주요 산맥이다.",
+      "example_en": "The Taebaek Mountains are a major mountain range running north-south through the eastern Korean Peninsula."
+    },
+    {
+      "korean": "고원",
+      "english": "plateau; highland",
+      "example": "개마고원은 한반도에서 가장 넓고 높은 고원 지대이다.",
+      "example_en": "The Gaema Plateau is the largest and highest plateau on the Korean Peninsula."
+    },
+    {
+      "korean": "열대우림",
+      "english": "tropical rainforest",
+      "example": "열대우림은 '지구의 허파'라 불릴 만큼 산소 생산에 중요한 역할을 한다.",
+      "example_en": "Tropical rainforests play such a crucial role in oxygen production that they are called the 'lungs of the Earth.'"
+    },
+    {
+      "korean": "사막화",
+      "english": "desertification",
+      "example": "과도한 방목과 벌목이 사막화를 가속시키는 주된 원인이다.",
+      "example_en": "Excessive grazing and logging are the main causes accelerating desertification."
+    },
+    {
+      "korean": "삼림",
+      "english": "forest; woodland",
+      "example": "전 세계적으로 삼림 면적이 해마다 줄어들고 있어 우려가 크다.",
+      "example_en": "There is growing concern as forest area is shrinking year after year worldwide."
+    },
+    {
+      "korean": "하천",
+      "english": "river; stream; waterway",
+      "example": "하천 정비 사업으로 수질이 개선되고 주변 생태계가 회복되었다.",
+      "example_en": "The river restoration project improved water quality and helped the surrounding ecosystem recover."
+    },
+    {
+      "korean": "해안",
+      "english": "coast; shoreline",
+      "example": "해안 침식이 심해져서 방파제를 추가로 설치해야 할 상황이다.",
+      "example_en": "Coastal erosion has worsened to the point where additional breakwaters need to be installed."
+    },
+    {
+      "korean": "신재생에너지",
+      "english": "renewable energy",
+      "example": "정부는 신재생에너지 비중을 2030년까지 30%로 높이겠다고 발표했다.",
+      "example_en": "The government announced it will raise the share of renewable energy to 30% by 2030."
+    },
+    {
+      "korean": "탄소중립",
+      "english": "carbon neutrality; net zero",
+      "example": "한국은 2050년까지 탄소중립을 달성하겠다는 목표를 세웠다.",
+      "example_en": "Korea has set a goal to achieve carbon neutrality by 2050."
+    },
+    {
+      "korean": "지속가능성",
+      "english": "sustainability",
+      "example": "기업들이 수익보다 지속가능성을 우선시하는 경영 방식으로 전환하고 있다.",
+      "example_en": "Companies are shifting to management approaches that prioritize sustainability over profits."
+    },
+    {
+      "korean": "친환경",
+      "english": "eco-friendly; environmentally friendly",
+      "example": "소비자들의 친환경 제품에 대한 수요가 꾸준히 증가하고 있다.",
+      "example_en": "Consumer demand for eco-friendly products is steadily increasing."
+    },
+    {
+      "korean": "온실가스",
+      "english": "greenhouse gas",
+      "example": "온실가스 감축을 위해 각국이 다양한 정책을 시행하고 있다.",
+      "example_en": "Countries are implementing various policies to reduce greenhouse gas emissions."
+    },
+    {
+      "korean": "순환경제",
+      "english": "circular economy",
+      "example": "순환경제 모델은 폐기물을 자원으로 재활용하는 것을 핵심으로 한다.",
+      "example_en": "The circular economy model is centered on recycling waste into resources."
+    },
+    {
+      "korean": "생태발자국",
+      "english": "ecological footprint",
+      "example": "한 사람의 생태발자국을 줄이려면 에너지 소비를 의식적으로 줄여야 한다.",
+      "example_en": "To reduce one's ecological footprint, one must consciously cut energy consumption."
+    },
+    {
+      "korean": "자원 고갈",
+      "english": "resource depletion",
+      "example": "화석 연료의 자원 고갈 문제가 대체 에너지 개발을 촉진하고 있다.",
+      "example_en": "The issue of fossil fuel resource depletion is driving the development of alternative energy."
+    },
+    {
+      "korean": "녹색성장",
+      "english": "green growth",
+      "example": "녹색성장은 환경 보전과 경제 발전을 동시에 추구하는 전략이다.",
+      "example_en": "Green growth is a strategy that pursues environmental conservation and economic development simultaneously."
+    },
+    {
+      "korean": "재활용",
+      "english": "recycling",
+      "example": "분리수거를 철저히 하면 재활용률을 크게 높일 수 있다.",
+      "example_en": "Thorough waste separation can significantly increase the recycling rate."
+    }
+  ],
+  "주제별 단어 — 미디어 (Topic: Media)": [
+    {
+      "korean": "취재",
+      "english": "news coverage; reporting; gathering material for a story",
+      "example": "기자가 현장에 나가서 직접 취재한 내용을 바탕으로 기사를 작성했다.",
+      "example_en": "The reporter wrote the article based on material gathered firsthand at the scene."
+    },
+    {
+      "korean": "특종",
+      "english": "exclusive story; scoop",
+      "example": "그 신문사는 정치인의 비리를 특종으로 보도해 큰 반향을 일으켰다.",
+      "example_en": "The newspaper caused a huge stir by breaking an exclusive story about the politician's corruption."
+    },
+    {
+      "korean": "오보",
+      "english": "misreport; false report; incorrect news",
+      "example": "속보 경쟁이 치열해지면서 오보가 늘어나는 추세이다.",
+      "example_en": "As competition for breaking news intensifies, misreports have been on the rise."
+    },
+    {
+      "korean": "속보",
+      "english": "breaking news; flash report",
+      "example": "방송 중에 속보가 들어와 갑자기 프로그램이 중단되었다.",
+      "example_en": "Breaking news came in during the broadcast, and the program was suddenly interrupted."
+    },
+    {
+      "korean": "사설",
+      "english": "editorial (newspaper opinion piece)",
+      "example": "오늘자 사설은 정부의 부동산 정책을 강하게 비판하고 있다.",
+      "example_en": "Today's editorial strongly criticizes the government's real estate policy."
+    },
+    {
+      "korean": "기자회견",
+      "english": "press conference",
+      "example": "대통령이 긴급 기자회견을 열어 국민에게 직접 입장을 밝혔다.",
+      "example_en": "The president held an emergency press conference to personally explain their position to the public."
+    },
+    {
+      "korean": "제보",
+      "english": "tip-off; anonymous report to the media",
+      "example": "시민의 제보 덕분에 불법 폐기물 투기 사실이 세상에 알려졌다.",
+      "example_en": "Thanks to a citizen's tip-off, the illegal dumping of waste was brought to light."
+    },
+    {
+      "korean": "탐사보도",
+      "english": "investigative reporting; investigative journalism",
+      "example": "수개월간의 탐사보도 끝에 대기업의 조직적 탈세가 드러났다.",
+      "example_en": "After months of investigative reporting, the conglomerate's systematic tax evasion was uncovered."
+    },
+    {
+      "korean": "논조",
+      "english": "editorial tone; stance of a media outlet",
+      "example": "그 방송사의 논조가 갑자기 바뀌어 시청자들 사이에서 의혹이 일었다.",
+      "example_en": "The broadcaster's editorial tone suddenly changed, raising suspicions among viewers."
+    },
+    {
+      "korean": "출입기자",
+      "english": "beat reporter; press corps reporter assigned to an institution",
+      "example": "국회 출입기자들이 법안 처리 과정을 실시간으로 전하고 있다.",
+      "example_en": "Beat reporters at the National Assembly are delivering real-time updates on the legislation process."
+    },
+    {
+      "korean": "생방송",
+      "english": "live broadcast; live airing",
+      "example": "생방송 중에 앵커가 말실수를 해서 큰 화제가 되었다.",
+      "example_en": "The anchor made a verbal slip during the live broadcast, which became a hot topic."
+    },
+    {
+      "korean": "녹화",
+      "english": "recording (video/TV show taping)",
+      "example": "예능 프로그램 녹화가 예정보다 세 시간이나 늦게 끝났다.",
+      "example_en": "The recording of the variety show ended three hours later than scheduled."
+    },
+    {
+      "korean": "중계",
+      "english": "live relay; live coverage (of sports or events)",
+      "example": "올림픽 개막식 중계를 보려고 온 가족이 텔레비전 앞에 모였다.",
+      "example_en": "The whole family gathered in front of the TV to watch the live coverage of the Olympic opening ceremony."
+    },
+    {
+      "korean": "자막",
+      "english": "subtitles; captions; on-screen text",
+      "example": "외국 영화를 볼 때 자막 없이 보는 연습을 하고 있다.",
+      "example_en": "I've been practicing watching foreign films without subtitles."
+    },
+    {
+      "korean": "방영",
+      "english": "airing; broadcasting of a program",
+      "example": "논란이 된 다큐멘터리가 결국 방영 취소되었다.",
+      "example_en": "The controversial documentary was ultimately pulled from airing."
+    },
+    {
+      "korean": "송출",
+      "english": "signal transmission; broadcast feed",
+      "example": "기술적 오류로 인해 잠시 방송 송출이 중단되었습니다.",
+      "example_en": "Broadcast transmission was briefly interrupted due to a technical error."
+    },
+    {
+      "korean": "진행자",
+      "english": "host; presenter; MC",
+      "example": "토론 프로그램의 진행자가 중립적인 태도를 유지하지 못해 비판을 받았다.",
+      "example_en": "The debate show's host was criticized for failing to maintain a neutral stance."
+    },
+    {
+      "korean": "방청객",
+      "english": "studio audience; spectators at a live taping",
+      "example": "방청객들의 반응이 좋아서 그 장면이 하이라이트로 편집되었다.",
+      "example_en": "The studio audience's reaction was so good that the scene was edited into the highlight reel."
+    },
+    {
+      "korean": "촬영",
+      "english": "filming; shooting (video or photo)",
+      "example": "악천후 때문에 야외 촬영 일정을 모두 연기할 수밖에 없었다.",
+      "example_en": "Due to severe weather, all the outdoor filming schedules had to be postponed."
+    },
+    {
+      "korean": "편파방송",
+      "english": "biased broadcasting; slanted coverage",
+      "example": "시민단체가 편파방송에 대한 항의 서명을 받기 시작했다.",
+      "example_en": "A civic group began collecting protest signatures against the biased broadcasting."
+    },
+    {
+      "korean": "댓글",
+      "english": "comment (online); reply",
+      "example": "악성 댓글이 사회 문제로 대두되면서 관련 법 개정 논의가 활발하다.",
+      "example_en": "As malicious comments have emerged as a social issue, discussions on revising related laws are active."
+    },
+    {
+      "korean": "조회수",
+      "english": "view count; number of views",
+      "example": "그 영상은 업로드 하루 만에 조회수 백만을 돌파했다.",
+      "example_en": "The video surpassed one million views just one day after being uploaded."
+    },
+    {
+      "korean": "구독자",
+      "english": "subscriber (to a channel or publication)",
+      "example": "구독자 수가 십만 명을 넘기면서 본격적으로 수익이 나기 시작했다.",
+      "example_en": "Once the subscriber count exceeded 100,000, revenue started coming in earnestly."
+    },
+    {
+      "korean": "검색어",
+      "english": "search term; search keyword",
+      "example": "사건이 터지자마자 관련 검색어가 실시간 순위 상위에 올랐다.",
+      "example_en": "As soon as the incident broke, related search terms shot to the top of the real-time rankings."
+    },
+    {
+      "korean": "게시물",
+      "english": "post (online); posting",
+      "example": "문제가 된 게시물은 이미 삭제되었지만 캡처본이 빠르게 퍼졌다.",
+      "example_en": "The problematic post had already been deleted, but screenshots spread rapidly."
+    },
+    {
+      "korean": "누리꾼",
+      "english": "netizen; internet user",
+      "example": "누리꾼들이 직접 팩트체크에 나서 허위 정보를 바로잡았다.",
+      "example_en": "Netizens took it upon themselves to fact-check and correct the misinformation."
+    },
+    {
+      "korean": "악플",
+      "english": "hate comment; malicious online comment",
+      "example": "연예인들이 악플로 인한 정신적 고통을 호소하는 사례가 늘고 있다.",
+      "example_en": "More and more celebrities are speaking out about the psychological distress caused by hate comments."
+    },
+    {
+      "korean": "여론조작",
+      "english": "opinion manipulation; astroturfing",
+      "example": "댓글을 이용한 여론조작 사건이 적발되어 수사가 진행 중이다.",
+      "example_en": "A case of opinion manipulation using online comments was uncovered, and an investigation is underway."
+    },
+    {
+      "korean": "허위정보",
+      "english": "misinformation; disinformation; false information",
+      "example": "선거철마다 허위정보가 급증해 유권자들의 판단을 흐리고 있다.",
+      "example_en": "Misinformation surges every election season, clouding voters' judgment."
+    },
+    {
+      "korean": "게시판",
+      "english": "online forum; bulletin board; message board",
+      "example": "익명 게시판에 올라온 글이 큰 논란을 불러일으켰다.",
+      "example_en": "A post on an anonymous forum sparked a major controversy."
+    },
+    {
+      "korean": "발행",
+      "english": "publication; issuance (of print media)",
+      "example": "창간 50주년을 맞아 기념 특별판이 발행되었다.",
+      "example_en": "A special commemorative edition was published to mark the 50th anniversary of the founding."
+    },
+    {
+      "korean": "인쇄",
+      "english": "printing; print production",
+      "example": "디지털 시대에도 인쇄 매체를 선호하는 독자층이 여전히 존재한다.",
+      "example_en": "Even in the digital age, there is still a readership that prefers print media."
+    },
+    {
+      "korean": "교정",
+      "english": "proofreading; copyediting",
+      "example": "교정 단계에서 오탈자를 잡아내지 못하면 신문의 신뢰도에 영향을 준다.",
+      "example_en": "If typos aren't caught at the proofreading stage, it affects the newspaper's credibility."
+    },
+    {
+      "korean": "편집",
+      "english": "editing; compilation of media content",
+      "example": "기사를 쓰는 것도 중요하지만 편집에 따라 뉘앙스가 완전히 달라질 수 있다.",
+      "example_en": "Writing the article is important, but the nuance can change entirely depending on the editing."
+    },
+    {
+      "korean": "연재",
+      "english": "serialization; serial publication",
+      "example": "인기 작가의 소설이 신문에 연재되면서 구독률이 크게 올랐다.",
+      "example_en": "Subscription rates rose significantly when the popular author's novel began serialization in the newspaper."
+    },
+    {
+      "korean": "기고",
+      "english": "contributed article; op-ed submission",
+      "example": "저명한 학자가 기고한 칼럼이 큰 반향을 일으켰다.",
+      "example_en": "A column contributed by a renowned scholar generated a huge response."
+    },
+    {
+      "korean": "창간",
+      "english": "founding; launch of a publication",
+      "example": "그 잡지는 창간 이후 한 번도 휴간 없이 매달 발행되고 있다.",
+      "example_en": "The magazine has been published monthly without a single hiatus since its founding."
+    },
+    {
+      "korean": "구독",
+      "english": "subscription (to a publication or channel)",
+      "example": "종이 신문 구독을 끊고 디지털 구독으로 전환하는 사람이 늘고 있다.",
+      "example_en": "More people are canceling their print newspaper subscriptions and switching to digital."
+    },
+    {
+      "korean": "독자",
+      "english": "reader (of a publication)",
+      "example": "독자 투고란을 통해 다양한 시민들의 목소리를 실을 수 있었다.",
+      "example_en": "Through the reader submission section, the voices of various citizens could be featured."
+    },
+    {
+      "korean": "지면",
+      "english": "page space; print space (in a newspaper or magazine)",
+      "example": "광고가 늘면서 실제 기사에 할애할 수 있는 지면이 줄어들었다.",
+      "example_en": "As advertisements increased, the page space available for actual articles shrank."
+    }
+  ],
+  "주제별 단어 — 스포츠 (Topic: Sports)": [
+    {
+      "korean": "경기",
+      "english": "game; match; competition",
+      "example": "오늘 경기에서 우리 팀이 연장전 끝에 극적으로 역전승을 거뒀다.",
+      "example_en": "In today's match, our team pulled off a dramatic comeback victory at the end of overtime."
+    },
+    {
+      "korean": "예선",
+      "english": "preliminary round; qualifier",
+      "example": "예선에서 탈락하면 본선에 진출할 기회조차 없다.",
+      "example_en": "If you get eliminated in the qualifiers, you don't even get a chance to advance to the main round."
+    },
+    {
+      "korean": "결승",
+      "english": "finals; championship match",
+      "example": "결승까지 올라온 두 팀 모두 이번 시즌 최고의 기량을 보여 줬다.",
+      "example_en": "Both teams that made it to the finals showed the best performance of the season."
+    },
+    {
+      "korean": "심판",
+      "english": "referee; umpire",
+      "example": "심판의 판정에 불복한 감독이 항의하다가 퇴장당했다.",
+      "example_en": "The coach who protested the referee's call was ejected from the game."
+    },
+    {
+      "korean": "승부",
+      "english": "match outcome; contest; showdown",
+      "example": "두 선수의 승부는 마지막 라운드까지 갈 정도로 팽팽했다.",
+      "example_en": "The contest between the two athletes was so tight it went all the way to the final round."
+    },
+    {
+      "korean": "역전",
+      "english": "comeback; reversal (of the score)",
+      "example": "후반 막판에 역전골을 넣으면서 경기장 분위기가 폭발했다.",
+      "example_en": "The atmosphere in the stadium exploded when a comeback goal was scored late in the second half."
+    },
+    {
+      "korean": "무승부",
+      "english": "draw; tie",
+      "example": "양 팀이 2대 2 무승부로 끝나서 승부차기로 넘어갔다.",
+      "example_en": "The two teams ended in a 2-2 draw and went to a penalty shootout."
+    },
+    {
+      "korean": "탈락",
+      "english": "elimination; being knocked out",
+      "example": "우승 후보였던 팀이 8강에서 조기 탈락해서 모두 충격을 받았다.",
+      "example_en": "Everyone was shocked when the tournament favorite was eliminated early in the quarterfinals."
+    },
+    {
+      "korean": "선발",
+      "english": "starting lineup; selection (for a team)",
+      "example": "부상에서 복귀한 선수가 드디어 선발 명단에 이름을 올렸다.",
+      "example_en": "The player who returned from injury finally made it onto the starting lineup."
+    },
+    {
+      "korean": "관중",
+      "english": "spectators; crowd; audience (at a sporting event)",
+      "example": "5만 관중이 하나가 되어 응원하는 모습은 정말 감동적이었다.",
+      "example_en": "The sight of 50,000 spectators cheering as one was truly moving."
+    },
+    {
+      "korean": "체력",
+      "english": "physical strength; stamina",
+      "example": "체력이 바닥나면 아무리 기술이 좋아도 후반에 무너진다.",
+      "example_en": "If your stamina runs out, no matter how good your technique is, you'll fall apart in the second half."
+    },
+    {
+      "korean": "근력",
+      "english": "muscular strength",
+      "example": "하체 근력을 키우기 위해 매일 스쿼트를 200개씩 하고 있다.",
+      "example_en": "I'm doing 200 squats every day to build lower-body muscular strength."
+    },
+    {
+      "korean": "유산소 운동",
+      "english": "aerobic exercise; cardio",
+      "example": "유산소 운동을 꾸준히 해야 심폐 기능이 좋아진다.",
+      "example_en": "You need to do aerobic exercise consistently for your cardiovascular function to improve."
+    },
+    {
+      "korean": "무산소 운동",
+      "english": "anaerobic exercise",
+      "example": "단거리 달리기나 역도 같은 무산소 운동은 순간적인 폭발력을 길러 준다.",
+      "example_en": "Anaerobic exercises like sprinting and weightlifting build explosive power."
+    },
+    {
+      "korean": "부상",
+      "english": "injury (sports injury)",
+      "example": "무리한 훈련으로 무릎 부상을 입어 한 시즌을 통째로 쉬어야 했다.",
+      "example_en": "I injured my knee from overtraining and had to sit out an entire season."
+    },
+    {
+      "korean": "준비운동",
+      "english": "warm-up exercise",
+      "example": "준비운동을 충분히 하지 않으면 근육 파열 위험이 높아진다.",
+      "example_en": "If you don't warm up sufficiently, the risk of muscle tears increases."
+    },
+    {
+      "korean": "지구력",
+      "english": "endurance; stamina",
+      "example": "마라톤 선수에게는 무엇보다 지구력이 중요하다.",
+      "example_en": "For a marathon runner, endurance is the most important thing."
+    },
+    {
+      "korean": "감량",
+      "english": "weight cutting; losing weight (for competition)",
+      "example": "체급을 맞추기 위해 일주일 동안 극단적인 감량을 했다.",
+      "example_en": "I went through extreme weight cutting for a week to make my weight class."
+    },
+    {
+      "korean": "실전",
+      "english": "actual competition; real game (as opposed to practice)",
+      "example": "연습 때는 잘하는데 실전에만 나가면 긴장해서 실력 발휘를 못 한다.",
+      "example_en": "I do well in practice, but whenever I go into a real game, I get nervous and can't perform."
+    },
+    {
+      "korean": "정정당당하다",
+      "english": "to be fair and square; to compete with integrity",
+      "example": "어떤 결과가 나오든 정정당당하게 겨루자.",
+      "example_en": "Whatever the result, let's compete fair and square."
+    },
+    {
+      "korean": "패스",
+      "english": "pass (in team sports)",
+      "example": "결정적인 순간에 정확한 패스가 연결되면서 골이 터졌다.",
+      "example_en": "A precise pass connected at the decisive moment, resulting in a goal."
+    },
+    {
+      "korean": "수비",
+      "english": "defense (in sports)",
+      "example": "수비가 흔들리면 아무리 공격을 잘해도 경기를 이길 수 없다.",
+      "example_en": "No matter how good your offense is, you can't win the game if your defense collapses."
+    },
+    {
+      "korean": "공격",
+      "english": "offense; attack (in sports)",
+      "example": "후반 들어 공격 전술을 바꾸자 연속으로 득점에 성공했다.",
+      "example_en": "After changing the offensive tactics in the second half, we scored consecutively."
+    },
+    {
+      "korean": "팀워크",
+      "english": "teamwork",
+      "example": "개인 기량보다 팀워크가 잘 맞는 팀이 결국 우승을 차지했다.",
+      "example_en": "In the end, the team with better teamwork rather than individual skill won the championship."
+    },
+    {
+      "korean": "작전",
+      "english": "strategy; game plan; tactics",
+      "example": "감독이 타임아웃을 걸고 새로운 작전을 지시했다.",
+      "example_en": "The coach called a timeout and gave instructions for a new strategy."
+    },
+    {
+      "korean": "주장",
+      "english": "team captain",
+      "example": "주장이 선수들을 한데 모아 사기를 북돋아 주었다.",
+      "example_en": "The team captain gathered the players together and boosted their morale."
+    },
+    {
+      "korean": "교체",
+      "english": "substitution (player swap)",
+      "example": "체력이 떨어진 공격수를 빼고 신인 선수를 교체 투입했다.",
+      "example_en": "They substituted out the tired striker and brought in a rookie player."
+    },
+    {
+      "korean": "골대",
+      "english": "goalpost; goal frame",
+      "example": "슛이 골대를 맞고 나와서 아쉽게 득점에 실패했다.",
+      "example_en": "The shot hit the goalpost and bounced out, narrowly missing a goal."
+    },
+    {
+      "korean": "드리블",
+      "english": "dribble (in soccer/basketball)",
+      "example": "수비수 세 명을 드리블로 제치고 혼자서 골을 넣었다.",
+      "example_en": "He dribbled past three defenders and scored a goal all by himself."
+    },
+    {
+      "korean": "후보 선수",
+      "english": "bench player; substitute",
+      "example": "후보 선수로 들어가서도 결정적인 활약을 펼쳤다.",
+      "example_en": "Even coming in as a substitute, he delivered a decisive performance."
+    },
+    {
+      "korean": "육상",
+      "english": "track and field; athletics",
+      "example": "한국 육상 역사상 처음으로 100미터에서 10초 벽을 깼다.",
+      "example_en": "For the first time in Korean track and field history, the 10-second barrier in the 100 meters was broken."
+    },
+    {
+      "korean": "체조",
+      "english": "gymnastics",
+      "example": "체조 선수는 유연성과 균형 감각이 뛰어나야 한다.",
+      "example_en": "A gymnast needs to have exceptional flexibility and balance."
+    },
+    {
+      "korean": "양궁",
+      "english": "archery",
+      "example": "한국은 올림픽 양궁에서 늘 금메달을 휩쓸어 왔다.",
+      "example_en": "Korea has always swept the gold medals in Olympic archery."
+    },
+    {
+      "korean": "태권도",
+      "english": "taekwondo",
+      "example": "태권도는 한국에서 유래한 무술로 올림픽 정식 종목이다.",
+      "example_en": "Taekwondo is a martial art originating from Korea and is an official Olympic sport."
+    },
+    {
+      "korean": "유도",
+      "english": "judo",
+      "example": "유도에서는 상대의 힘을 이용해 넘기는 기술이 핵심이다.",
+      "example_en": "In judo, the key is techniques that use the opponent's force to throw them."
+    },
+    {
+      "korean": "펜싱",
+      "english": "fencing",
+      "example": "펜싱은 순간적인 판단력과 민첩성이 요구되는 종목이다.",
+      "example_en": "Fencing is a sport that demands quick judgment and agility."
+    },
+    {
+      "korean": "수영",
+      "english": "swimming",
+      "example": "수영은 전신 운동이라서 관절에 무리를 주지 않으면서도 근육을 고루 발달시킨다.",
+      "example_en": "Swimming is a full-body exercise that develops muscles evenly without putting strain on the joints."
+    },
+    {
+      "korean": "등산",
+      "english": "mountain climbing; hiking",
+      "example": "주말마다 등산을 다니면서 체력도 키우고 스트레스도 해소한다.",
+      "example_en": "By hiking every weekend, I build stamina and relieve stress."
+    },
+    {
+      "korean": "사격",
+      "english": "shooting (sport)",
+      "example": "사격은 호흡 조절과 집중력이 승패를 좌우하는 종목이다.",
+      "example_en": "Shooting is a sport where breath control and concentration determine victory or defeat."
+    },
+    {
+      "korean": "씨름",
+      "english": "ssireum (Korean traditional wrestling)",
+      "example": "씨름은 한국 전통 격투기로 명절 때 대회가 열리곤 했다.",
+      "example_en": "Ssireum is a traditional Korean wrestling sport, and tournaments used to be held during holidays."
+    }
+  ],
+  "주제별 단어 — 역사 (Topic: History)": [
+    {
+      "korean": "삼국시대",
+      "english": "Three Kingdoms period (57 BC - 668 AD); the era of Goguryeo, Baekje, and Silla",
+      "example": "삼국시대에는 고구려, 백제, 신라가 한반도의 패권을 놓고 치열하게 경쟁했다.",
+      "example_en": "During the Three Kingdoms period, Goguryeo, Baekje, and Silla fiercely competed for hegemony over the Korean peninsula."
+    },
+    {
+      "korean": "고려",
+      "english": "Goryeo dynasty (918-1392); the kingdom from which 'Korea' derives its name",
+      "example": "고려는 불교를 국교로 삼아 찬란한 불교 문화를 꽃피웠다.",
+      "example_en": "Goryeo adopted Buddhism as the state religion and cultivated a splendid Buddhist culture."
+    },
+    {
+      "korean": "조선",
+      "english": "Joseon dynasty (1392-1897); the last Korean dynasty, founded on Neo-Confucian ideals",
+      "example": "조선은 유교적 이념을 바탕으로 500년 넘게 이어진 왕조였다.",
+      "example_en": "Joseon was a dynasty that lasted over 500 years, founded on Confucian ideology."
+    },
+    {
+      "korean": "임진왜란",
+      "english": "Japanese invasions of Korea (1592-1598); Imjin War",
+      "example": "임진왜란 때 이순신 장군이 이끄는 수군이 일본 해군을 격파했다.",
+      "example_en": "During the Imjin War, the navy led by Admiral Yi Sun-sin defeated the Japanese naval forces."
+    },
+    {
+      "korean": "병자호란",
+      "english": "Manchu invasion of Korea (1636-1637); the Qing dynasty's attack on Joseon",
+      "example": "병자호란의 패배 이후 조선은 청나라에 조공을 바쳐야 했다.",
+      "example_en": "After the defeat in the Manchu invasion, Joseon had to pay tribute to the Qing dynasty."
+    },
+    {
+      "korean": "일제강점기",
+      "english": "Japanese colonial period (1910-1945); the era of Japan's occupation of Korea",
+      "example": "일제강점기 동안 한국인들은 끊임없이 독립운동을 전개했다.",
+      "example_en": "During the Japanese colonial period, Koreans ceaselessly carried out independence movements."
+    },
+    {
+      "korean": "삼일운동",
+      "english": "March 1st Movement (1919); a nationwide independence protest against Japanese rule",
+      "example": "삼일운동은 비폭력 저항의 상징으로, 대한민국 임시정부 수립의 계기가 되었다.",
+      "example_en": "The March 1st Movement, a symbol of nonviolent resistance, served as the catalyst for establishing the Provisional Government of Korea."
+    },
+    {
+      "korean": "광복",
+      "english": "liberation; national independence (specifically Korea's liberation from Japan on August 15, 1945)",
+      "example": "1945년 8월 15일 광복을 맞이하여 온 국민이 환호했다.",
+      "example_en": "On August 15, 1945, the entire nation celebrated upon achieving liberation."
+    },
+    {
+      "korean": "한국전쟁",
+      "english": "Korean War (1950-1953); the conflict between North and South Korea",
+      "example": "한국전쟁으로 한반도는 폐허가 되었고, 이산가족의 비극이 시작되었다.",
+      "example_en": "The Korean War reduced the peninsula to ruins and began the tragedy of separated families."
+    },
+    {
+      "korean": "민주화운동",
+      "english": "democratization movement; the series of pro-democracy struggles in South Korea (1960s-1980s)",
+      "example": "1980년대 민주화운동의 희생 위에 오늘날의 대한민국 민주주의가 세워졌다.",
+      "example_en": "Today's South Korean democracy was built upon the sacrifices of the 1980s democratization movement."
+    },
+    {
+      "korean": "왕조",
+      "english": "dynasty; a ruling family or succession of monarchs",
+      "example": "한국 역사에서 가장 오래 지속된 왕조는 조선이다.",
+      "example_en": "The longest-lasting dynasty in Korean history is Joseon."
+    },
+    {
+      "korean": "봉건제도",
+      "english": "feudal system; feudalism as a socio-political structure",
+      "example": "유럽의 봉건제도와 조선의 신분 체계는 근본적으로 다른 구조였다.",
+      "example_en": "European feudalism and Joseon's status system were fundamentally different structures."
+    },
+    {
+      "korean": "쇄국정책",
+      "english": "isolationist policy; closed-door policy restricting foreign contact",
+      "example": "조선 후기의 쇄국정책은 서양 열강의 침투를 일시적으로 막았지만, 근대화를 지연시켰다.",
+      "example_en": "The late Joseon isolationist policy temporarily blocked Western powers' encroachment but delayed modernization."
+    },
+    {
+      "korean": "개화",
+      "english": "enlightenment; modernization movement (specifically Korea's opening to the modern world in the late 19th century)",
+      "example": "개화파는 서양 문물을 받아들여 나라를 근대화해야 한다고 주장했다.",
+      "example_en": "The enlightenment faction argued that the country must be modernized by adopting Western civilization."
+    },
+    {
+      "korean": "식민지",
+      "english": "colony; a territory under foreign political control",
+      "example": "한국이 식민지로 전락한 것은 국제 정세와 내부 분열이 복합적으로 작용한 결과였다.",
+      "example_en": "Korea's fall into colonial status resulted from a combination of international circumstances and internal divisions."
+    },
+    {
+      "korean": "유산",
+      "english": "heritage; legacy left by previous generations",
+      "example": "경주에는 신라 시대의 문화유산이 곳곳에 남아 있다.",
+      "example_en": "Cultural heritage from the Silla period remains throughout Gyeongju."
+    },
+    {
+      "korean": "사관",
+      "english": "historical perspective; view of history (also: historian/official chronicler in traditional Korea)",
+      "example": "같은 사건이라도 사관에 따라 전혀 다른 해석이 나올 수 있다.",
+      "example_en": "Even the same event can yield entirely different interpretations depending on one's historical perspective."
+    },
+    {
+      "korean": "사료",
+      "english": "historical records; primary sources used in historical research",
+      "example": "조선왕조실록은 조선 시대를 연구하는 데 가장 중요한 사료이다.",
+      "example_en": "The Annals of the Joseon Dynasty are the most important historical records for studying the Joseon period."
+    },
+    {
+      "korean": "기록유산",
+      "english": "documentary heritage; written records recognized for cultural or historical value",
+      "example": "한국은 훈민정음 해례본 등 세계적으로 인정받는 기록유산을 다수 보유하고 있다.",
+      "example_en": "Korea possesses numerous documentary heritage items recognized worldwide, such as the Hunminjeongeum Haeryebon."
+    },
+    {
+      "korean": "문명",
+      "english": "civilization; an advanced stage of human social and cultural development",
+      "example": "동아시아 문명은 한자 문화권을 중심으로 발전해 왔다.",
+      "example_en": "East Asian civilization developed centered around the sphere of Chinese character culture."
+    },
+    {
+      "korean": "수군",
+      "english": "naval forces; the navy (specifically in pre-modern Korean military context)",
+      "example": "이순신의 수군은 학익진 전법으로 왜군을 대파했다.",
+      "example_en": "Yi Sun-sin's naval forces crushed the Japanese troops using the crane wing formation."
+    },
+    {
+      "korean": "의병",
+      "english": "righteous army; civilian volunteer militia rising against invaders",
+      "example": "임진왜란 당시 전국 각지에서 의병이 일어나 일본군에 맞서 싸웠다.",
+      "example_en": "During the Imjin War, righteous armies rose across the nation and fought against the Japanese forces."
+    },
+    {
+      "korean": "성곽",
+      "english": "fortress walls; castle walls or city walls used for defense",
+      "example": "수원 화성은 정조 시대에 축조된 성곽으로, 동서양의 군사 기술이 결합되어 있다.",
+      "example_en": "Suwon Hwaseong is a fortress built during King Jeongjo's reign, combining Eastern and Western military techniques."
+    },
+    {
+      "korean": "거북선",
+      "english": "turtle ship; the ironclad warship used by the Joseon navy",
+      "example": "거북선은 세계 최초의 철갑선으로 알려져 있으며, 임진왜란에서 활약했다.",
+      "example_en": "The turtle ship is known as the world's first ironclad vessel and played a crucial role in the Imjin War."
+    },
+    {
+      "korean": "격전지",
+      "english": "battlefield; site of a fierce battle",
+      "example": "이 지역은 한국전쟁 당시의 격전지로, 수많은 병사가 목숨을 잃었다.",
+      "example_en": "This area was a fierce battlefield during the Korean War, where countless soldiers lost their lives."
+    },
+    {
+      "korean": "궁병",
+      "english": "archer; a soldier specialized in archery",
+      "example": "고구려의 궁병은 동아시아에서 가장 뛰어난 실력을 갖춘 것으로 유명했다.",
+      "example_en": "Goguryeo's archers were renowned as the most skilled in East Asia."
+    },
+    {
+      "korean": "군량",
+      "english": "military provisions; food supplies for the army",
+      "example": "전쟁이 장기화되자 군량 확보가 가장 시급한 문제로 떠올랐다.",
+      "example_en": "As the war dragged on, securing military provisions became the most urgent problem."
+    },
+    {
+      "korean": "함락",
+      "english": "fall (of a fortress or city); capture by enemy forces",
+      "example": "수도가 함락되자 왕실은 남쪽으로 피난을 떠났다.",
+      "example_en": "When the capital fell, the royal court fled south for refuge."
+    },
+    {
+      "korean": "주둔",
+      "english": "stationing (of troops); military garrison or deployment",
+      "example": "전쟁 이후에도 외국 군대가 이 지역에 주둔하고 있다.",
+      "example_en": "Even after the war, foreign troops remain stationed in this area."
+    },
+    {
+      "korean": "파병",
+      "english": "troop dispatch; sending military forces abroad",
+      "example": "한국은 베트남 전쟁에 대규모 파병을 결정하여 국내외적으로 논란이 되었다.",
+      "example_en": "Korea's decision to dispatch large-scale troops to the Vietnam War sparked controversy both domestically and internationally."
+    },
+    {
+      "korean": "양반",
+      "english": "yangban; the ruling elite or aristocratic class of Joseon society",
+      "example": "조선 시대 양반은 과거 시험을 통해 관직에 진출할 수 있는 특권 계층이었다.",
+      "example_en": "In the Joseon era, yangban were the privileged class eligible to enter government service through the civil service examination."
+    },
+    {
+      "korean": "천민",
+      "english": "commoner of the lowest class; the lowest social stratum in traditional Korea (including slaves and outcasts)",
+      "example": "조선 시대 천민은 사회적 차별을 받아 직업과 거주지가 제한되었다.",
+      "example_en": "In the Joseon era, the lowest-class people faced social discrimination, with restrictions on occupations and residences."
+    },
+    {
+      "korean": "과거제도",
+      "english": "civil service examination system; the state exam for selecting government officials in Joseon",
+      "example": "과거제도는 능력 위주의 관리 선발을 표방했지만, 실제로는 양반 중심으로 운영되었다.",
+      "example_en": "The civil service exam system claimed to select officials by merit, but in practice it was operated around the yangban class."
+    },
+    {
+      "korean": "세도정치",
+      "english": "in-law politics; domination of state affairs by powerful consort families in late Joseon",
+      "example": "세도정치 시기에는 왕의 외척이 권력을 독점하여 정치가 극도로 부패했다.",
+      "example_en": "During the era of in-law politics, the king's maternal relatives monopolized power and politics became extremely corrupt."
+    },
+    {
+      "korean": "항일",
+      "english": "anti-Japanese; resistance against Japanese imperialism",
+      "example": "항일 독립운동가들은 목숨을 걸고 조국의 자유를 위해 싸웠다.",
+      "example_en": "Anti-Japanese independence activists risked their lives fighting for their homeland's freedom."
+    },
+    {
+      "korean": "분단",
+      "english": "division; the partition of the Korean peninsula into North and South",
+      "example": "한반도의 분단은 70년 넘게 이어지고 있으며, 통일은 여전히 민족의 숙원이다.",
+      "example_en": "The division of the Korean peninsula has lasted over 70 years, and reunification remains the nation's long-cherished wish."
+    },
+    {
+      "korean": "군사정권",
+      "english": "military regime; a government controlled by the armed forces through coups",
+      "example": "1960년대부터 1980년대까지 한국은 군사정권 아래에서 경제 성장과 인권 탄압을 동시에 경험했다.",
+      "example_en": "From the 1960s to the 1980s, Korea experienced both economic growth and human rights suppression under military regimes."
+    },
+    {
+      "korean": "독립운동",
+      "english": "independence movement; organized efforts to achieve national sovereignty from colonial rule",
+      "example": "상하이에 설립된 대한민국 임시정부는 해외 독립운동의 구심점 역할을 했다.",
+      "example_en": "The Provisional Government of Korea established in Shanghai served as the focal point of the overseas independence movement."
+    },
+    {
+      "korean": "신분제",
+      "english": "social status system; the hierarchical class system of traditional Korean society",
+      "example": "갑오개혁으로 신분제가 공식적으로 폐지되었지만, 사회적 차별은 쉽게 사라지지 않았다.",
+      "example_en": "The Gabo Reform officially abolished the social status system, but social discrimination did not easily disappear."
+    },
+    {
+      "korean": "유배",
+      "english": "exile; banishment to a remote region as political punishment in Joseon",
+      "example": "정치적으로 패배한 관료들은 유배를 당해 오지에서 여생을 보내기도 했다.",
+      "example_en": "Politically defeated officials were sometimes sent into exile to spend the rest of their lives in remote areas."
+    }
+  ],
+  "주제별 단어 — 음식 (Topic: Food)": [
+    {
+      "korean": "졸이다",
+      "english": "to simmer down; to reduce (a sauce or liquid by boiling)",
+      "example": "간장 양념을 약불에서 천천히 졸여야 고기에 맛이 잘 배요.",
+      "example_en": "You need to slowly reduce the soy sauce marinade on low heat so the flavor absorbs into the meat."
+    },
+    {
+      "korean": "데치다",
+      "english": "to blanch (briefly boil and then shock in cold water)",
+      "example": "시금치를 끓는 물에 살짝 데쳐서 찬물에 헹궈 주세요.",
+      "example_en": "Briefly blanch the spinach in boiling water and rinse it in cold water."
+    },
+    {
+      "korean": "무치다",
+      "english": "to dress; to season and mix (vegetables with sauce)",
+      "example": "콩나물을 참기름과 소금으로 무치면 간단한 반찬이 돼요.",
+      "example_en": "If you toss bean sprouts with sesame oil and salt, it makes a simple side dish."
+    },
+    {
+      "korean": "조리다",
+      "english": "to braise; to simmer in seasoned liquid until absorbed",
+      "example": "감자를 간장 양념에 조려서 윤기 나게 만들었어요.",
+      "example_en": "I braised the potatoes in soy sauce seasoning until they had a glossy finish."
+    },
+    {
+      "korean": "우려내다",
+      "english": "to extract flavor by steeping or simmering (broth, tea)",
+      "example": "다시마와 멸치로 육수를 우려내면 깊은 맛이 나요.",
+      "example_en": "If you steep kelp and anchovies to make stock, you get a deep flavor."
+    },
+    {
+      "korean": "삭히다",
+      "english": "to ferment; to age until mellowed (e.g., skate, fish sauce)",
+      "example": "홍어를 제대로 삭히려면 최소 일주일은 걸려요.",
+      "example_en": "It takes at least a week to properly ferment skate fish."
+    },
+    {
+      "korean": "재우다",
+      "english": "to marinate; to let soak in seasoning",
+      "example": "고기를 양념에 하루 정도 재워야 맛이 제대로 배요.",
+      "example_en": "You need to marinate the meat in the sauce for about a day for the flavor to properly absorb."
+    },
+    {
+      "korean": "버무리다",
+      "english": "to toss and mix together with seasoning (by hand)",
+      "example": "김장할 때 배추에 양념을 골고루 버무리는 게 핵심이에요.",
+      "example_en": "The key when making kimchi is to evenly toss the seasoning into the cabbage."
+    },
+    {
+      "korean": "간을 맞추다",
+      "english": "to adjust the seasoning; to season to taste",
+      "example": "국이 거의 다 됐으니까 마지막에 간을 맞춰 보세요.",
+      "example_en": "The soup is almost done, so try adjusting the seasoning at the end."
+    },
+    {
+      "korean": "치대다",
+      "english": "to knead (dough) thoroughly by pressing and folding",
+      "example": "반죽을 충분히 치대야 쫄깃한 식감이 나와요.",
+      "example_en": "You need to knead the dough thoroughly to get a chewy texture."
+    },
+    {
+      "korean": "멸치액젓",
+      "english": "anchovy fish sauce (fermented anchovy extract used as seasoning)",
+      "example": "김치를 담글 때 멸치액젓을 넣으면 감칠맛이 확 살아나요.",
+      "example_en": "Adding anchovy fish sauce when making kimchi really brings out the umami."
+    },
+    {
+      "korean": "들기름",
+      "english": "perilla oil (nutty-flavored oil pressed from perilla seeds)",
+      "example": "나물 무칠 때 참기름 대신 들기름을 쓰면 더 고소해요.",
+      "example_en": "Using perilla oil instead of sesame oil when seasoning greens makes it nuttier."
+    },
+    {
+      "korean": "천일염",
+      "english": "sun-dried sea salt (natural sea salt evaporated by sunlight)",
+      "example": "김장용 배추를 절일 때는 천일염을 써야 맛이 깔끔해요.",
+      "example_en": "When salting cabbage for kimchi-making, you should use sun-dried sea salt for a clean taste."
+    },
+    {
+      "korean": "조청",
+      "english": "grain syrup; rice malt syrup (traditional Korean sweetener)",
+      "example": "약고추장 만들 때 설탕 대신 조청을 넣으면 훨씬 깊은 맛이 나요.",
+      "example_en": "Using grain syrup instead of sugar when making seasoned gochujang gives a much deeper flavor."
+    },
+    {
+      "korean": "새우젓",
+      "english": "salted fermented shrimp (pungent condiment and seasoning)",
+      "example": "보쌈 먹을 때 새우젓에 찍어 먹으면 정말 맛있어요.",
+      "example_en": "Dipping bossam in salted fermented shrimp is really delicious."
+    },
+    {
+      "korean": "육수",
+      "english": "broth; stock (base liquid for soups and stews)",
+      "example": "육수를 제대로 내면 따로 조미료를 안 넣어도 맛있어요.",
+      "example_en": "If you make the broth properly, it tastes good without adding any extra seasoning."
+    },
+    {
+      "korean": "양념장",
+      "english": "seasoning sauce; marinade (prepared sauce mixture for flavoring)",
+      "example": "불고기 양념장은 집집마다 비율이 조금씩 달라요.",
+      "example_en": "Every household has a slightly different ratio for their bulgogi marinade."
+    },
+    {
+      "korean": "청주",
+      "english": "cheongju; clear rice wine (used in cooking to remove odors)",
+      "example": "생선 비린내를 잡으려면 청주를 한 숟갈 넣어 보세요.",
+      "example_en": "Try adding a spoonful of rice wine to get rid of the fishy smell."
+    },
+    {
+      "korean": "고추냉이",
+      "english": "wasabi; horseradish (pungent green condiment)",
+      "example": "회를 먹을 때 고추냉이를 너무 많이 풀면 눈물이 나요.",
+      "example_en": "If you use too much wasabi when eating raw fish, it'll bring you to tears."
+    },
+    {
+      "korean": "깻잎",
+      "english": "perilla leaf (aromatic leaf used as a wrap or garnish)",
+      "example": "삼겹살 구울 때 깻잎에 싸 먹으면 느끼한 맛이 잡혀요.",
+      "example_en": "Wrapping grilled pork belly in perilla leaves cuts through the greasiness."
+    },
+    {
+      "korean": "곱빼기",
+      "english": "double portion; extra-large serving (at a restaurant)",
+      "example": "배가 너무 고파서 냉면을 곱빼기로 시켰어요.",
+      "example_en": "I was so hungry that I ordered a double portion of cold noodles."
+    },
+    {
+      "korean": "상차림",
+      "english": "table setting; laid-out spread of dishes",
+      "example": "한정식 상차림을 보면 반찬이 스무 가지가 넘어요.",
+      "example_en": "A traditional Korean full-course table setting comes with over twenty side dishes."
+    },
+    {
+      "korean": "반주",
+      "english": "alcoholic drink to accompany a meal",
+      "example": "저녁에 갈비찜에 반주 한잔하는 게 소소한 낙이에요.",
+      "example_en": "Having a drink with braised short ribs in the evening is my small pleasure."
+    },
+    {
+      "korean": "대기표",
+      "english": "waiting number; queue ticket (at a popular restaurant)",
+      "example": "그 맛집은 항상 줄이 길어서 대기표를 받고 30분은 기다려야 해요.",
+      "example_en": "That popular restaurant always has a long line, so you have to take a number and wait at least 30 minutes."
+    },
+    {
+      "korean": "단골집",
+      "english": "one's regular restaurant; go-to eatery",
+      "example": "이 칼국수집은 10년 넘게 다닌 단골집이에요.",
+      "example_en": "This knife-cut noodle place is a spot I've been a regular at for over 10 years."
+    },
+    {
+      "korean": "인분",
+      "english": "serving; portion (counter for number of servings)",
+      "example": "삼겹살 3인분이랑 된장찌개 하나 주세요.",
+      "example_en": "Three servings of pork belly and one soybean paste stew, please."
+    },
+    {
+      "korean": "후식",
+      "english": "dessert; after-meal treat",
+      "example": "식사 후에 후식으로 수정과가 나왔어요.",
+      "example_en": "After the meal, cinnamon persimmon punch came out as dessert."
+    },
+    {
+      "korean": "합석",
+      "english": "sharing a table (with strangers at a busy restaurant)",
+      "example": "점심시간이라 자리가 없어서 합석해도 되냐고 물어봤어요.",
+      "example_en": "It was lunchtime and there were no seats, so I asked if I could share a table."
+    },
+    {
+      "korean": "불판",
+      "english": "grill plate; BBQ griddle (for Korean barbecue)",
+      "example": "불판이 너무 뜨거우니까 고기를 빨리 뒤집어야 안 타요.",
+      "example_en": "The grill plate is really hot, so you need to flip the meat quickly or it'll burn."
+    },
+    {
+      "korean": "별미",
+      "english": "delicacy; special local treat; unusual dish worth trying",
+      "example": "제주도에 가면 꼭 먹어 봐야 할 별미가 많아요.",
+      "example_en": "There are many delicacies you must try when you visit Jeju Island."
+    },
+    {
+      "korean": "쫄깃하다",
+      "english": "chewy; pleasantly elastic (texture of noodles, rice cakes)",
+      "example": "이 떡볶이는 떡이 쫄깃해서 식감이 정말 좋아요.",
+      "example_en": "The rice cakes in this tteokbokki are so chewy that the texture is really great."
+    },
+    {
+      "korean": "바삭하다",
+      "english": "crispy; crunchy (fried food, crackers, roasted items)",
+      "example": "튀김옷이 바삭하게 잘 입혀져서 식감이 최고예요.",
+      "example_en": "The batter was fried perfectly crispy, making the texture outstanding."
+    },
+    {
+      "korean": "담백하다",
+      "english": "mild; clean-tasting; light (not greasy or heavy)",
+      "example": "이 두부 요리는 양념이 세지 않아서 담백하고 깔끔해요.",
+      "example_en": "This tofu dish is mild and clean because the seasoning isn't overpowering."
+    },
+    {
+      "korean": "고소하다",
+      "english": "nutty; savory; toasty (pleasant rich aroma, like sesame)",
+      "example": "갓 볶은 참깨를 뿌리니까 고소한 냄새가 확 퍼졌어요.",
+      "example_en": "When I sprinkled freshly roasted sesame seeds, a nutty aroma spread instantly."
+    },
+    {
+      "korean": "느끼하다",
+      "english": "greasy; overly rich; heavy (unpleasantly oily or fatty)",
+      "example": "크림파스타가 너무 느끼해서 반밖에 못 먹었어요.",
+      "example_en": "The cream pasta was so greasy that I could only eat half of it."
+    },
+    {
+      "korean": "감칠맛",
+      "english": "umami; savory depth of flavor",
+      "example": "된장을 오래 숙성시키면 감칠맛이 훨씬 깊어져요.",
+      "example_en": "When you age doenjang for a long time, the umami deepens significantly."
+    },
+    {
+      "korean": "칼칼하다",
+      "english": "sharp-spicy and refreshing (brisk heat in soups/stews)",
+      "example": "해장국이 칼칼해서 속이 확 풀리는 느낌이에요.",
+      "example_en": "The hangover soup has a sharp spiciness that really settles your stomach."
+    },
+    {
+      "korean": "걸쭉하다",
+      "english": "thick; viscous (consistency of soup, porridge, or sauce)",
+      "example": "호박죽을 좀 더 걸쭉하게 끓이고 싶으면 찹쌀가루를 넣으세요.",
+      "example_en": "If you want to make the pumpkin porridge thicker, add some glutinous rice flour."
+    },
+    {
+      "korean": "구수하다",
+      "english": "rich and earthy; pleasantly savory (grain, roasted, or fermented aroma)",
+      "example": "누룽지를 끓이면 구수한 냄새가 온 집 안에 퍼져요.",
+      "example_en": "When you boil scorched rice, a rich earthy aroma fills the whole house."
+    },
+    {
+      "korean": "쌉싸름하다",
+      "english": "slightly bitter; pleasantly bittersweet (greens, herbs, dark chocolate)",
+      "example": "봄나물은 약간 쌉싸름한 맛이 있어서 입맛을 돋워 줘요.",
+      "example_en": "Spring greens have a slightly bitter taste that stimulates the appetite."
     }
   ]
 }
