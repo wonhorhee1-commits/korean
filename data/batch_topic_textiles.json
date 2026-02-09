@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 섬유 (Topic: Textiles)": [
+    {
+      "korean": "면",
+      "english": "cotton",
+      "example": "이 셔츠는 100% 면으로 만들어졌습니다.",
+      "example_en": "This shirt is made from 100% cotton."
+    },
+    {
+      "korean": "양모",
+      "english": "wool",
+      "example": "겨울에는 양모 스웨터가 따뜻합니다.",
+      "example_en": "Wool sweaters are warm in winter."
+    },
+    {
+      "korean": "비단",
+      "english": "silk",
+      "example": "비단 스카프는 매우 우아합니다.",
+      "example_en": "Silk scarves are very elegant."
+    },
+    {
+      "korean": "가죽",
+      "english": "leather",
+      "example": "그 가죽 가방은 품질이 좋습니다.",
+      "example_en": "That leather bag is of good quality."
+    },
+    {
+      "korean": "린넨",
+      "english": "linen",
+      "example": "린넨 원단은 여름 옷에 적합합니다.",
+      "example_en": "Linen fabric is suitable for summer clothes."
+    },
+    {
+      "korean": "코듀로이",
+      "english": "corduroy",
+      "example": "코듀로이 바지는 안락합니다.",
+      "example_en": "Corduroy pants are comfortable."
+    },
+    {
+      "korean": "플란넬",
+      "english": "flannel",
+      "example": "플란넬 셔츠는 촉감이 부드럽습니다.",
+      "example_en": "Flannel shirts have a soft feel."
+    },
+    {
+      "korean": "스웨이드",
+      "english": "suede",
+      "example": "스웨이드 구두는 세심한 관리가 필요합니다.",
+      "example_en": "Suede shoes require careful maintenance."
+    },
+    {
+      "korean": "데님",
+      "english": "denim",
+      "example": "데님 청바지는 오래 입을 수 있습니다.",
+      "example_en": "Denim jeans are durable."
+    },
+    {
+      "korean": "캔버스",
+      "english": "canvas",
+      "example": "캔버스 가방은 튼튼합니다.",
+      "example_en": "Canvas bags are sturdy."
+    },
+    {
+      "korean": "직조",
+      "english": "weaving",
+      "example": "그 아티스트는 손직조로 천을 만듭니다.",
+      "example_en": "The artisan makes fabric by hand weaving."
+    },
+    {
+      "korean": "뜨개질",
+      "english": "knitting",
+      "example": "뜨개질로 만든 스웨터는 따뜻합니다.",
+      "example_en": "Knitted sweaters are warm."
+    },
+    {
+      "korean": "자수",
+      "english": "embroidery",
+      "example": "이 원단의 자수는 정교합니다.",
+      "example_en": "The embroidery on this fabric is intricate."
+    },
+    {
+      "korean": "염색",
+      "english": "dyeing",
+      "example": "천의 염색은 매우 중요한 공정입니다.",
+      "example_en": "Dyeing is a very important process in fabric production."
+    },
+    {
+      "korean": "재봉",
+      "english": "sewing",
+      "example": "재봉 기술이 없으면 옷을 만들 수 없습니다.",
+      "example_en": "You cannot make clothes without sewing skills."
+    },
+    {
+      "korean": "바느질",
+      "english": "stitching",
+      "example": "손바느질은 시간이 오래 걸립니다.",
+      "example_en": "Hand stitching takes a long time."
+    },
+    {
+      "korean": "표백",
+      "english": "bleaching",
+      "example": "표백 처리로 천이 밝아집니다.",
+      "example_en": "Bleaching makes the fabric brighter."
+    },
+    {
+      "korean": "솔기",
+      "english": "seam",
+      "example": "셔츠의 솔기가 튼튼하지 않습니다.",
+      "example_en": "The seam of the shirt is not sturdy."
+    },
+    {
+      "korean": "단",
+      "english": "hem",
+      "example": "바지 단을 올려야 합니다.",
+      "example_en": "The hem of the pants needs to be raised."
+    },
+    {
+      "korean": "실",
+      "english": "thread",
+      "example": "실의 색깔이 원단과 잘 어울립니다.",
+      "example_en": "The color of the thread matches the fabric well."
+    },
+    {
+      "korean": "바늘",
+      "english": "needle",
+      "example": "재봉 바늘이 너무 둔합니다.",
+      "example_en": "The sewing needle is too dull."
+    },
+    {
+      "korean": "단추",
+      "english": "button",
+      "example": "이 단추가 떨어져 나갔습니다.",
+      "example_en": "This button has come off."
+    },
+    {
+      "korean": "지퍼",
+      "english": "zipper",
+      "example": "지퍼가 걸려 있습니다.",
+      "example_en": "The zipper is stuck."
+    },
+    {
+      "korean": "안감",
+      "english": "lining",
+      "example": "가방의 안감이 찢어졌습니다.",
+      "example_en": "The lining of the bag is torn."
+    },
+    {
+      "korean": "원단",
+      "english": "fabric bolt",
+      "example": "이 원단은 품질이 우수합니다.",
+      "example_en": "This fabric is of superior quality."
+    },
+    {
+      "korean": "무늬",
+      "english": "pattern/design",
+      "example": "그 천의 무늬가 아름답습니다.",
+      "example_en": "The pattern on that cloth is beautiful."
+    },
+    {
+      "korean": "질감",
+      "english": "texture",
+      "example": "비단의 질감은 부드럽습니다.",
+      "example_en": "The texture of silk is soft."
+    },
+    {
+      "korean": "부드러운",
+      "english": "soft",
+      "example": "이 원단은 매우 부드럽습니다.",
+      "example_en": "This fabric is very soft."
+    },
+    {
+      "korean": "거친",
+      "english": "rough",
+      "example": "린넨은 처음에는 거칠 수 있습니다.",
+      "example_en": "Linen can be rough at first."
+    },
+    {
+      "korean": "신축성",
+      "english": "elasticity/stretch",
+      "example": "스판덱스는 높은 신축성을 가집니다.",
+      "example_en": "Spandex has high elasticity."
+    },
+    {
+      "korean": "통기성",
+      "english": "breathability",
+      "example": "이 소재의 통기성이 좋습니다.",
+      "example_en": "This material has good breathability."
+    },
+    {
+      "korean": "방수",
+      "english": "waterproof",
+      "example": "방수 원단으로 우비를 만들었습니다.",
+      "example_en": "The raincoat is made from waterproof fabric."
+    },
+    {
+      "korean": "방염",
+      "english": "flame-resistant",
+      "example": "방염 처리된 커튼은 안전합니다.",
+      "example_en": "Flame-resistant curtains are safe."
+    },
+    {
+      "korean": "반짝이는",
+      "english": "shiny/glossy",
+      "example": "이 실크 드레스는 반짝입니다.",
+      "example_en": "This silk dress is shiny."
+    },
+    {
+      "korean": "무광",
+      "english": "matte",
+      "example": "무광 처리로 더 세련되어 보입니다.",
+      "example_en": "The matte finish looks more sophisticated."
+    },
+    {
+      "korean": "두께",
+      "english": "thickness",
+      "example": "원단의 두께를 확인하세요.",
+      "example_en": "Check the thickness of the fabric."
+    },
+    {
+      "korean": "탄성",
+      "english": "elasticity/springiness",
+      "example": "이 천은 탄성이 뛰어납니다.",
+      "example_en": "This fabric has excellent elasticity."
+    },
+    {
+      "korean": "강도",
+      "english": "strength/durability",
+      "example": "데님의 강도는 매우 높습니다.",
+      "example_en": "Denim has very high strength."
+    },
+    {
+      "korean": "패치",
+      "english": "patch",
+      "example": "바지에 패치를 붙였습니다.",
+      "example_en": "I sewed a patch onto the pants."
+    },
+    {
+      "korean": "혼방",
+      "english": "blend/mixed fabric",
+      "example": "면과 폴리에스터의 혼방이 실용적입니다.",
+      "example_en": "A blend of cotton and polyester is practical."
+    }
+  ]
+}

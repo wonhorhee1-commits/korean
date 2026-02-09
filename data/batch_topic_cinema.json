@@ -1,0 +1,248 @@
+{"주제별 단어 — 영화 (Topic: Cinema & Film)": [
+  {
+    "korean": "시나리오",
+    "english": "screenplay",
+    "example": "이 시나리오는 실제 역사 사건에 기반하고 있다.",
+    "example_en": "This screenplay is based on an actual historical event."
+  },
+  {
+    "korean": "감독",
+    "english": "director",
+    "example": "그 감독의 영화는 항상 국제 영화제에서 호평을 받는다.",
+    "example_en": "That director's films are always well-received at international film festivals."
+  },
+  {
+    "korean": "각본가",
+    "english": "screenwriter",
+    "example": "유명한 각본가가 이번 영화의 스토리를 담당했다.",
+    "example_en": "A renowned screenwriter took charge of this film's story."
+  },
+  {
+    "korean": "영화사",
+    "english": "film company / film studio",
+    "example": "그 영화사는 예술영화를 주로 제작하는 것으로 알려져 있다.",
+    "example_en": "That film company is known for primarily producing art house films."
+  },
+  {
+    "korean": "제작비",
+    "english": "production budget",
+    "example": "이 영화의 제작비는 150억 원을 넘겼다.",
+    "example_en": "This film's production budget exceeded 15 billion won."
+  },
+  {
+    "korean": "배급사",
+    "english": "distributor",
+    "example": "배급사에서 극장 개봉을 결정한 후 홍보가 시작되었다.",
+    "example_en": "Marketing began after the distributor decided on a theatrical release."
+  },
+  {
+    "korean": "개봉",
+    "english": "release / premiere",
+    "example": "다음 달에 장편영화가 개봉될 예정이다.",
+    "example_en": "A feature film is scheduled to be released next month."
+  },
+  {
+    "korean": "흥행",
+    "english": "box office success",
+    "example": "이 영화는 상상을 초월하는 흥행을 기록했다.",
+    "example_en": "This film achieved unprecedented box office success."
+  },
+  {
+    "korean": "박스오피스",
+    "english": "box office",
+    "example": "주말 박스오피스에서 1위를 차지했다.",
+    "example_en": "It topped the weekend box office."
+  },
+  {
+    "korean": "관객수",
+    "english": "audience count / viewership",
+    "example": "개봉 첫 주에 관객수가 1,000만을 넘었다.",
+    "example_en": "Viewership exceeded 10 million in the opening week."
+  },
+  {
+    "korean": "촬영",
+    "english": "filming / shooting",
+    "example": "촬영은 내년 봄부터 3개월간 진행될 예정이다.",
+    "example_en": "Filming is scheduled to take place for three months starting next spring."
+  },
+  {
+    "korean": "촬영감독",
+    "english": "cinematographer / director of photography",
+    "example": "촬영감독의 선택이 영화의 시각적 톤을 결정한다.",
+    "example_en": "The cinematographer's choices determine the film's visual tone."
+  },
+  {
+    "korean": "장면",
+    "english": "scene",
+    "example": "가장 감동적인 장면은 영화의 클라이맥스 부분이다.",
+    "example_en": "The most moving scene is the climax of the film."
+  },
+  {
+    "korean": "컷",
+    "english": "cut (editing term)",
+    "example": "이 컷은 영화의 분위기를 완벽하게 포착했다.",
+    "example_en": "This cut perfectly captures the atmosphere of the film."
+  },
+  {
+    "korean": "테이크",
+    "english": "take",
+    "example": "완벽한 테이크를 위해 배우는 20번을 반복했다.",
+    "example_en": "The actor repeated the scene 20 times to get the perfect take."
+  },
+  {
+    "korean": "렌즈",
+    "english": "lens",
+    "example": "광각 렌즈를 사용해서 광활한 스케일감을 표현했다.",
+    "example_en": "A wide-angle lens was used to express the vast scale."
+  },
+  {
+    "korean": "조명",
+    "english": "lighting",
+    "example": "조명의 명암 대비가 장면의 긴장감을 고조시킨다.",
+    "example_en": "The lighting contrast enhances the tension of the scene."
+  },
+  {
+    "korean": "미술",
+    "english": "art direction / set design",
+    "example": "미술팀이 1980년대 거리를 정교하게 재현했다.",
+    "example_en": "The art department meticulously recreated the 1980s street."
+  },
+  {
+    "korean": "의상",
+    "english": "costume",
+    "example": "의상 디자이너가 각 인물의 성격을 의복으로 표현했다.",
+    "example_en": "The costume designer expressed each character's personality through clothing."
+  },
+  {
+    "korean": "분장",
+    "english": "makeup",
+    "example": "분장으로 배우의 나이를 40년 늙게 표현해야 했다.",
+    "example_en": "Makeup had to make the actor appear 40 years older."
+  },
+  {
+    "korean": "화각",
+    "english": "camera angle",
+    "example": "저각도 화각으로 주인공의 위엄함을 강조했다.",
+    "example_en": "The low camera angle emphasized the protagonist's dignity."
+  },
+  {
+    "korean": "프레임",
+    "english": "frame",
+    "example": "각 프레임이 정교한 미술 작품처럼 구성되어 있다.",
+    "example_en": "Each frame is composed like a carefully crafted work of art."
+  },
+  {
+    "korean": "CG",
+    "english": "CGI / computer graphics",
+    "example": "CG로 만든 외계행성이 매우 사실적이었다.",
+    "example_en": "The alien planet created with CGI looked very realistic."
+  },
+  {
+    "korean": "특수효과",
+    "english": "special effects / VFX",
+    "example": "특수효과 팀이 2년 동안 초현실적인 세계를 구현했다.",
+    "example_en": "The VFX team spent two years creating a surreal world."
+  },
+  {
+    "korean": "편집",
+    "english": "editing",
+    "example": "편집의 리듬감이 이 영화의 성패를 좌우했다.",
+    "example_en": "The editing's pacing determined the film's success or failure."
+  },
+  {
+    "korean": "편집자",
+    "english": "editor",
+    "example": "편집자는 100시간의 촬영본에서 최적의 장면들을 선택했다.",
+    "example_en": "The editor selected the best scenes from 100 hours of footage."
+  },
+  {
+    "korean": "음향",
+    "english": "sound design",
+    "example": "정교한 음향 효과가 관객들에게 몰입감을 선사했다.",
+    "example_en": "Sophisticated sound design gave the audience a sense of immersion."
+  },
+  {
+    "korean": "음향감독",
+    "english": "sound designer",
+    "example": "음향감독이 매 장면마다 독특한 사운드 환경을 만들었다.",
+    "example_en": "The sound designer created a unique sonic environment for each scene."
+  },
+  {
+    "korean": "배경음악",
+    "english": "film score / background music",
+    "example": "유명한 작곡가의 배경음악이 영화의 감정선을 깊게 했다.",
+    "example_en": "The renowned composer's score deepened the film's emotional arc."
+  },
+  {
+    "korean": "효과음",
+    "english": "sound effect",
+    "example": "액션 장면의 효과음이 없었다면 박진감이 훨씬 떨어졌을 것이다.",
+    "example_en": "Without sound effects, the action scenes would have felt much less thrilling."
+  },
+  {
+    "korean": "더빙",
+    "english": "dubbing",
+    "example": "외국 배우의 목소리를 한국 성우가 더빙했다.",
+    "example_en": "A Korean voice actor dubbed the foreign actor's voice."
+  },
+  {
+    "korean": "자막",
+    "english": "subtitle",
+    "example": "이 영화는 16개 국가에서 자막 버전으로 상영되었다.",
+    "example_en": "This film was screened with subtitles in 16 countries."
+  },
+  {
+    "korean": "콘티",
+    "english": "storyboard",
+    "example": "감독은 촬영 전에 매 장면의 콘티를 수백 장 그렸다.",
+    "example_en": "The director drew hundreds of storyboard panels for each scene before filming."
+  },
+  {
+    "korean": "색감",
+    "english": "color tone / color palette",
+    "example": "따뜻하고 부드러운 색감이 영화의 향수감을 살려냈다.",
+    "example_en": "The warm, soft color tones evoked the film's nostalgic feeling."
+  },
+  {
+    "korean": "촬영지",
+    "english": "filming location",
+    "example": "제주도와 강릉을 주요 촬영지로 선택했다.",
+    "example_en": "Jeju Island and Gangneung were chosen as the main filming locations."
+  },
+  {
+    "korean": "리허설",
+    "english": "rehearsal",
+    "example": "배우들은 본 촬영 전에 2주간 집중 리허설을 했다.",
+    "example_en": "The actors had two weeks of intensive rehearsal before principal photography."
+  },
+  {
+    "korean": "투자자",
+    "english": "investor",
+    "example": "그 투자자는 매년 독립영화 제작에 참여한다.",
+    "example_en": "That investor participates in independent film production every year."
+  },
+  {
+    "korean": "영화제",
+    "english": "film festival",
+    "example": "칸 영화제에서 황금종려상을 수상하는 것이 모든 감독의 꿈이다.",
+    "example_en": "Winning the Palme d'Or at Cannes is every director's dream."
+  },
+  {
+    "korean": "상영",
+    "english": "screening",
+    "example": "이 영화는 1,200개 극장에서 동시 상영되었다.",
+    "example_en": "The film was screened simultaneously in 1,200 theaters."
+  },
+  {
+    "korean": "경쟁부문",
+    "english": "competition section",
+    "example": "이 영화가 베를린 영화제 경쟁부문에 선정되었다.",
+    "example_en": "This film was selected for the competition section of the Berlin Film Festival."
+  },
+  {
+    "korean": "평론가",
+    "english": "film critic",
+    "example": "평론가들은 감독의 대담한 시도를 높이 평가했다.",
+    "example_en": "Critics highly praised the director's bold artistic choice."
+  }
+]}

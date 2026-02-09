@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 도자기/공예 (Topic: Ceramics & Crafts)": [
+    {
+      "korean": "물레",
+      "english": "potter's wheel",
+      "example": "도자기 장인은 물레 위에서 흙을 회전시키며 섬세하게 빚는다.",
+      "example_en": "The ceramicist carefully shapes clay on the potter's wheel by rotating it."
+    },
+    {
+      "korean": "성형하다",
+      "english": "to shape; to form",
+      "example": "이 항아리는 손으로 성형한 후 가마에서 구워진다.",
+      "example_en": "This jar is hand-formed and then fired in the kiln."
+    },
+    {
+      "korean": "태토",
+      "english": "clay body",
+      "example": "이 그릇의 태토는 매우 치밀하고 세련되었다.",
+      "example_en": "The clay body of this vessel is very dense and refined."
+    },
+    {
+      "korean": "코일링",
+      "english": "coiling technique",
+      "example": "코일링 기법은 인류 역사상 가장 오래된 도자기 제작 방법 중 하나다.",
+      "example_en": "Coiling is one of the oldest pottery-making methods in human history."
+    },
+    {
+      "korean": "가마",
+      "english": "kiln",
+      "example": "가마의 온도가 1200도에 도달했을 때 색이 변했다.",
+      "example_en": "The color changed when the kiln temperature reached 1200 degrees."
+    },
+    {
+      "korean": "등요",
+      "english": "climbing kiln; anagama",
+      "example": "이 도자기는 전통 등요에서 수일에 걸쳐 소성되었다.",
+      "example_en": "This ceramic was fired in a traditional climbing kiln over several days."
+    },
+    {
+      "korean": "소성",
+      "english": "firing",
+      "example": "첫 번째 소성은 900도에서 천천히 진행되어야 한다.",
+      "example_en": "The first firing must proceed slowly at 900 degrees."
+    },
+    {
+      "korean": "환원 소성",
+      "english": "reduction firing",
+      "example": "청자는 환원 소성으로만 그 독특한 비취색을 얻을 수 있다.",
+      "example_en": "Celadon can only achieve its distinctive jade-green color through reduction firing."
+    },
+    {
+      "korean": "산화 소성",
+      "english": "oxidation firing",
+      "example": "백자는 산화 소성 환경에서 구워져야 순백색이 나타난다.",
+      "example_en": "White porcelain must be fired in an oxidation environment to achieve pure white."
+    },
+    {
+      "korean": "유약",
+      "english": "glaze",
+      "example": "이 유약은 장석, 규사, 장석 성분을 특정 비율로 섞어 만들었다.",
+      "example_en": "This glaze is made by mixing feldspar, silica, and clay in specific proportions."
+    },
+    {
+      "korean": "유약칠하기",
+      "english": "glazing",
+      "example": "유약칠하기 전에 소지가 적절하게 건조되어야 균등한 코팅이 가능하다.",
+      "example_en": "Proper drying before glazing ensures uniform coating on the clay body."
+    },
+    {
+      "korean": "광택",
+      "english": "gloss; luster",
+      "example": "광택이 많은 유약은 햇빛에서 아름다운 반사를 만든다.",
+      "example_en": "Glossy glazes create beautiful reflections in sunlight."
+    },
+    {
+      "korean": "무광",
+      "english": "matte finish",
+      "example": "이 다완은 무광 유약으로 마무리되어 더욱 세련된 느낌을 준다.",
+      "example_en": "This tea bowl finished with a matte glaze has a more refined appearance."
+    },
+    {
+      "korean": "크래클",
+      "english": "crackle effect",
+      "example": "크래클은 유약과 흙의 수축 속도 차이로 인해 자연스럽게 생긴다.",
+      "example_en": "Crackle forms naturally due to different shrinkage rates between glaze and clay."
+    },
+    {
+      "korean": "점토",
+      "english": "clay",
+      "example": "순수한 점토는 주로 카올린, 장석, 규사로 이루어진다.",
+      "example_en": "Pure clay mainly consists of kaolin, feldspar, and silica."
+    },
+    {
+      "korean": "백토",
+      "english": "white clay; kaolin",
+      "example": "백토 함량이 높을수록 최종 도자기의 색이 더 희어진다.",
+      "example_en": "Higher white clay content results in whiter final ceramics."
+    },
+    {
+      "korean": "적토",
+      "english": "red clay; earthenware",
+      "example": "적토는 옛날 토기, 벽돌, 기와 제작에 널리 사용되었다.",
+      "example_en": "Red clay was widely used in ancient pottery, brick, and tile-making."
+    },
+    {
+      "korean": "청자",
+      "english": "celadon; green porcelain",
+      "example": "고려 청자는 세계 도자기 역사에서 가장 뛰어난 예술 작품으로 평가된다.",
+      "example_en": "Goryeo celadon is considered one of the finest artistic achievements in ceramic history."
+    },
+    {
+      "korean": "백자",
+      "english": "white porcelain",
+      "example": "조선 백자의 수려한 형태와 소박한 아름다움은 깊은 감동을 준다.",
+      "example_en": "The elegant form and understated beauty of Joseon white porcelain move the viewer deeply."
+    },
+    {
+      "korean": "분청사기",
+      "english": "buncheong; punch'ong ware",
+      "example": "분청사기는 청자의 우아함과 백자의 소박함을 동시에 담고 있다.",
+      "example_en": "Buncheong combines the elegance of celadon with the simplicity of white porcelain."
+    },
+    {
+      "korean": "삼색기",
+      "english": "tri-color ceramic; sancai ware",
+      "example": "당나라 삼색기는 초록, 갈색, 크림색의 화려한 색감이 특징이다.",
+      "example_en": "Tang dynasty tri-color ceramics feature vibrant green, brown, and cream colors."
+    },
+    {
+      "korean": "소지",
+      "english": "pottery body; clay surface",
+      "example": "이 항아리의 소지는 매끄럽고 견고하여 문양이 선명하게 드러난다.",
+      "example_en": "The smooth, sturdy clay body of this jar makes the patterns stand out clearly."
+    },
+    {
+      "korean": "고르다",
+      "english": "to smooth; to even out",
+      "example": "물레에서 벗겨낸 후 표면을 손으로 섬세하게 고르게 다듬었다.",
+      "example_en": "After removing it from the wheel, I smoothed out the surface delicately by hand."
+    },
+    {
+      "korean": "빚다",
+      "english": "to shape; to mold",
+      "example": "도공은 흙을 물레 위에서 자유롭게 빚어내며 형태를 만들었다.",
+      "example_en": "The potter freely molded the clay on the wheel to create the form."
+    },
+    {
+      "korean": "건조",
+      "english": "drying",
+      "example": "건조 중에 균열이 생기지 않도록 천천히 말려야 한다.",
+      "example_en": "It must be dried slowly to prevent cracks during the drying process."
+    },
+    {
+      "korean": "균열",
+      "english": "crack; fissure",
+      "example": "소성 후 급격한 냉각은 균열의 원인이 될 수 있다.",
+      "example_en": "Rapid cooling after firing can cause cracks."
+    },
+    {
+      "korean": "옻칠",
+      "english": "lacquerware; lacquered ware",
+      "example": "한국의 옻칠 공예는 수천 년의 역사를 가진 전통이다.",
+      "example_en": "Korean lacquerware is a tradition with thousands of years of history."
+    },
+    {
+      "korean": "나전칠기",
+      "english": "mother-of-pearl lacquerware; inlaid lacquerware",
+      "example": "나전칠기는 검은 옻칠 위에 조개껍질을 정교하게 박아 만든 공예품이다.",
+      "example_en": "Mother-of-pearl lacquerware is made by inlaying shell into black lacquer with precision."
+    },
+    {
+      "korean": "목공예",
+      "english": "woodcraft; woodworking",
+      "example": "전통 목공예 장인들은 나무의 결을 살려 독특한 가구와 공예품을 만든다.",
+      "example_en": "Traditional woodcraft masters create unique furniture and crafts by highlighting the wood grain."
+    },
+    {
+      "korean": "금속공예",
+      "english": "metalwork; metal crafts",
+      "example": "금속공예 장인은 금, 은, 동을 정교한 기술로 다루어 아름다운 장식품을 만든다.",
+      "example_en": "Metal craft masters skillfully work with gold, silver, and copper to create beautiful ornaments."
+    },
+    {
+      "korean": "직조",
+      "english": "weaving",
+      "example": "전통 직조 기술로 만들어진 천은 매우 내구성이 좋고 아름답다.",
+      "example_en": "Fabrics made with traditional weaving techniques are both durable and beautiful."
+    },
+    {
+      "korean": "염색",
+      "english": "dyeing",
+      "example": "천연 염색으로 만든 색은 화학 염료보다 더 깊고 오래간다.",
+      "example_en": "Colors produced by natural dyeing are deeper and more lasting than chemical dyes."
+    },
+    {
+      "korean": "수놓기",
+      "english": "embroidery",
+      "example": "세밀한 수놓기로 화려하고 복잡한 무늬를 표현하는 것은 매우 어려운 작업이다.",
+      "example_en": "Expressing vibrant, complex patterns through delicate embroidery is an extremely difficult task."
+    },
+    {
+      "korean": "서예",
+      "english": "calligraphy",
+      "example": "동양 서예는 먹의 농담과 필획의 강약으로 깊은 정취를 표현한다.",
+      "example_en": "Oriental calligraphy expresses deep sentiment through ink gradation and brush stroke variation."
+    },
+    {
+      "korean": "먹",
+      "english": "ink stick; sumi; Chinese ink",
+      "example": "상등품 먹은 향기로운 연기를 내며 부드럽게 벼루에 간다.",
+      "example_en": "High-quality ink grinds smoothly on the inkstone while producing fragrant smoke."
+    },
+    {
+      "korean": "벼루",
+      "english": "inkstone; grinding stone",
+      "example": "벼루는 먹을 물과 함께 갈아서 액체 먹을 만드는 전통 도구다.",
+      "example_en": "An inkstone is a traditional tool used to grind ink with water to make liquid ink."
+    },
+    {
+      "korean": "화선지",
+      "english": "rice paper; xuan paper",
+      "example": "화선지는 먹의 확산 정도를 조절하여 다양한 먹 표현이 가능하다.",
+      "example_en": "Rice paper allows various ink effects by controlling ink diffusion."
+    },
+    {
+      "korean": "문양",
+      "english": "pattern; design motif; decoration",
+      "example": "청자의 문양은 주로 자연의 식물과 동물을 테마로 한다.",
+      "example_en": "Celadon patterns are typically themed around natural plants and animals."
+    },
+    {
+      "korean": "소성온도",
+      "english": "firing temperature",
+      "example": "이 도자기를 제대로 만들려면 1250도 이상의 소성온도가 필요하다.",
+      "example_en": "This ceramic requires a firing temperature of at least 1250 degrees to be properly made."
+    },
+    {
+      "korean": "투명도",
+      "english": "transparency; translucency",
+      "example": "유약의 투명도가 높을수록 흙의 색감이 더 선명하게 드러난다.",
+      "example_en": "Higher glaze transparency makes the clay color more vivid and clear."
+    }
+  ]
+}

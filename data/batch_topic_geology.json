@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 지질/광업 (Topic: Geology & Mining)": [
+    {
+      "korean": "광물",
+      "english": "mineral",
+      "example": "이 암석에 포함된 광물의 성분을 분석해야 한다.",
+      "example_en": "We need to analyze the composition of the minerals contained in this rock."
+    },
+    {
+      "korean": "암석",
+      "english": "rock",
+      "example": "지각을 이루는 주요 암석 종류는 세 가지이다.",
+      "example_en": "There are three main types of rocks that make up the Earth's crust."
+    },
+    {
+      "korean": "화성암",
+      "english": "igneous rock",
+      "example": "화강암은 대표적인 화성암으로 냉각 속도가 느리다.",
+      "example_en": "Granite is a typical igneous rock that cools slowly."
+    },
+    {
+      "korean": "퇴적암",
+      "english": "sedimentary rock",
+      "example": "퇴적암은 해양 환경에서 형성되는 경우가 많다.",
+      "example_en": "Sedimentary rocks are often formed in marine environments."
+    },
+    {
+      "korean": "변성암",
+      "english": "metamorphic rock",
+      "example": "변성암은 높은 열과 압력에 의해 원래의 암석이 변형된 것이다.",
+      "example_en": "Metamorphic rock is the transformation of original rocks by high heat and pressure."
+    },
+    {
+      "korean": "석영",
+      "english": "quartz",
+      "example": "석영은 실리콘과 산소로 이루어진 광물로 매우 단단하다.",
+      "example_en": "Quartz is a mineral composed of silicon and oxygen and is very hard."
+    },
+    {
+      "korean": "장석",
+      "english": "feldspar",
+      "example": "장석은 지구 지각에서 가장 풍부한 광물이다.",
+      "example_en": "Feldspar is the most abundant mineral in the Earth's crust."
+    },
+    {
+      "korean": "운모",
+      "english": "mica",
+      "example": "운모는 얇은 층상 구조로 벗겨지는 특성이 있다.",
+      "example_en": "Mica has the characteristic property of peeling off in thin layers."
+    },
+    {
+      "korean": "판구조",
+      "english": "plate tectonics",
+      "example": "판구조 이론은 대륙이동설을 설명하는 현대 지질학의 기초이다.",
+      "example_en": "Plate tectonics theory is the foundation of modern geology explaining continental drift."
+    },
+    {
+      "korean": "지진",
+      "english": "earthquake",
+      "example": "이 지역은 활성 단층이 많아서 지진이 자주 발생한다.",
+      "example_en": "This area has many active faults, so earthquakes occur frequently."
+    },
+    {
+      "korean": "화산",
+      "english": "volcano",
+      "example": "화산 지역의 토양은 광물이 풍부해서 농업에 유리하다.",
+      "example_en": "Soil in volcanic areas is rich in minerals and favorable for agriculture."
+    },
+    {
+      "korean": "마그마",
+      "english": "magma",
+      "example": "마그마가 지표면으로 분출되면 용암이 된다.",
+      "example_en": "When magma erupts to the surface, it becomes lava."
+    },
+    {
+      "korean": "용암",
+      "english": "lava",
+      "example": "냉각된 용암은 현무암이라는 검은색 암석이 된다.",
+      "example_en": "Cooled lava becomes basalt, a black rock."
+    },
+    {
+      "korean": "화석",
+      "english": "fossil",
+      "example": "지층에서 발견된 화석은 과거의 생물을 연구하는 중요한 단서이다.",
+      "example_en": "Fossils found in strata are important clues for studying past life."
+    },
+    {
+      "korean": "침식",
+      "english": "erosion",
+      "example": "오랜 세월에 걸친 침식으로 협곡이 형성되었다.",
+      "example_en": "Over long periods of erosion, canyons were formed."
+    },
+    {
+      "korean": "퇴적물",
+      "english": "sediment",
+      "example": "강이 운반하는 퇴적물이 삼각주를 형성한다.",
+      "example_en": "Sediment carried by rivers forms deltas."
+    },
+    {
+      "korean": "광상",
+      "english": "ore deposit",
+      "example": "이 지역의 철광상은 세계적으로 유명하다.",
+      "example_en": "The iron ore deposits in this area are world-renowned."
+    },
+    {
+      "korean": "채굴",
+      "english": "mining; excavation",
+      "example": "탄광의 채굴 작업은 매우 위험하고 힘들다.",
+      "example_en": "Coal mining operations are very dangerous and arduous."
+    },
+    {
+      "korean": "광석",
+      "english": "ore",
+      "example": "이 광석에서 금을 추출하기 위해 복잡한 과정이 필요하다.",
+      "example_en": "A complex process is needed to extract gold from this ore."
+    },
+    {
+      "korean": "보석",
+      "english": "gemstone; jewel",
+      "example": "다이아몬드는 가장 값비싼 보석 중 하나이다.",
+      "example_en": "Diamond is one of the most expensive gemstones."
+    },
+    {
+      "korean": "산사태",
+      "english": "landslide",
+      "example": "폭우 후 산사태가 발생하여 도로가 차단되었다.",
+      "example_en": "A landslide occurred after heavy rain and blocked the road."
+    },
+    {
+      "korean": "화구",
+      "english": "crater",
+      "example": "화산의 화구에서 황산 가스가 분출되고 있다.",
+      "example_en": "Sulfuric acid gas is erupting from the volcano's crater."
+    },
+    {
+      "korean": "단층",
+      "english": "fault; fault line",
+      "example": "단층을 따라 지진이 자주 발생하는 경향이 있다.",
+      "example_en": "Earthquakes tend to occur frequently along faults."
+    },
+    {
+      "korean": "지층",
+      "english": "stratum; geological layer",
+      "example": "이 지층은 약 2억 년 전에 형성된 것으로 추정된다.",
+      "example_en": "This stratum is estimated to have formed about 200 million years ago."
+    },
+    {
+      "korean": "시추",
+      "english": "drilling; boring",
+      "example": "석유 탐사를 위해 심해에서 시추 작업을 진행 중이다.",
+      "example_en": "Drilling operations are underway in deep sea for oil exploration."
+    },
+    {
+      "korean": "채석장",
+      "english": "quarry",
+      "example": "채석장에서 화강암을 채취하여 건설 자재로 사용한다.",
+      "example_en": "Granite is extracted from the quarry and used as construction material."
+    },
+    {
+      "korean": "지각",
+      "english": "crust (Earth's crust)",
+      "example": "지각은 지구 표면의 얇은 암석층이다.",
+      "example_en": "The crust is a thin layer of rock on Earth's surface."
+    },
+    {
+      "korean": "맨틀",
+      "english": "mantle",
+      "example": "맨틀은 지각 아래에 있는 대부분의 지구 물질로 이루어져 있다.",
+      "example_en": "The mantle is composed of most of Earth's material beneath the crust."
+    },
+    {
+      "korean": "핵",
+      "english": "core",
+      "example": "지구의 핵은 고온의 철과 니켈로 이루어져 있다.",
+      "example_en": "Earth's core is composed of hot iron and nickel."
+    },
+    {
+      "korean": "광맥",
+      "english": "vein (ore vein)",
+      "example": "금광맥이 광석을 따라 뻗어 있다.",
+      "example_en": "Gold veins run along the ore."
+    },
+    {
+      "korean": "풍화",
+      "english": "weathering",
+      "example": "오랜 풍화작용으로 산의 표면이 깎여나갔다.",
+      "example_en": "Due to long weathering, the mountain's surface was eroded."
+    },
+    {
+      "korean": "사면",
+      "english": "slope; hillside",
+      "example": "급한 사면에서는 산사태가 발생하기 쉽다.",
+      "example_en": "Landslides are prone to occur on steep slopes."
+    },
+    {
+      "korean": "자갈",
+      "english": "gravel; pebble",
+      "example": "강바닥에는 자갈이 많이 쌓여 있다.",
+      "example_en": "Lots of gravel accumulate on the riverbed."
+    },
+    {
+      "korean": "광산",
+      "english": "mine",
+      "example": "그 광산은 지난 20년간 아연을 채굴해왔다.",
+      "example_en": "That mine has been extracting zinc for the past 20 years."
+    },
+    {
+      "korean": "광부",
+      "english": "miner",
+      "example": "광부들은 지하 깊은 곳에서 위험한 작업을 한다.",
+      "example_en": "Miners do dangerous work deep underground."
+    },
+    {
+      "korean": "매장량",
+      "english": "deposits; reserves",
+      "example": "이 지역의 석유 매장량은 상당한 것으로 평가된다.",
+      "example_en": "The oil reserves in this area are considered substantial."
+    },
+    {
+      "korean": "광물 자원",
+      "english": "mineral resources",
+      "example": "한반도의 광물 자원 개발이 주요 산업 과제이다.",
+      "example_en": "Mineral resource development in Korea is a major industrial issue."
+    },
+    {
+      "korean": "광재",
+      "english": "mine tailings; waste rock",
+      "example": "광재를 처리하는 방법이 환경 문제가 될 수 있다.",
+      "example_en": "The way mining tailings are processed can become an environmental issue."
+    },
+    {
+      "korean": "지층학",
+      "english": "stratigraphy",
+      "example": "지층학은 지층의 순서와 연대를 연구하는 학문이다.",
+      "example_en": "Stratigraphy is the study of the sequence and age of geological layers."
+    },
+    {
+      "korean": "탐광",
+      "english": "prospecting; mineral exploration",
+      "example": "광업 회사는 새로운 광상을 찾기 위해 탐광 활동을 벌였다.",
+      "example_en": "The mining company conducted prospecting activities to find new ore deposits."
+    }
+  ]
+}

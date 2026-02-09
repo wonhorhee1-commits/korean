@@ -1,0 +1,238 @@
+{
+  "주제별 단어 — 생명공학 (Topic: Biotechnology)": [
+    {
+      "korean": "유전자 편집",
+      "english": "gene editing",
+      "example": "CRISPR를 이용한 유전자 편집은 많은 유전질환 치료에 혁신을 일으켰다.",
+      "example_en": "Gene editing using CRISPR has revolutionized the treatment of many genetic diseases."
+    },
+    {
+      "korean": "크리스퍼-카스9",
+      "english": "CRISPR-Cas9",
+      "example": "크리스퍼-카스9 기술은 DNA의 특정 부분을 정교하게 절단할 수 있다.",
+      "example_en": "CRISPR-Cas9 technology can precisely cut specific sections of DNA."
+    },
+    {
+      "korean": "염기 서열",
+      "english": "base sequence",
+      "example": "인간 게놈의 염기 서열은 약 30억 개의 염기로 구성되어 있다.",
+      "example_en": "The human genome's base sequence consists of approximately 3 billion bases."
+    },
+    {
+      "korean": "유전자 가위",
+      "english": "genetic scissors",
+      "example": "과학자들은 유전자 가위를 이용하여 질병을 유발하는 유전자를 제거했다.",
+      "example_en": "Scientists used genetic scissors to remove genes that cause disease."
+    },
+    {
+      "korean": "복제",
+      "english": "cloning",
+      "example": "동물 복제 기술은 1996년 돌리양의 탄생으로 현실화되었다.",
+      "example_en": "Animal cloning technology became reality with the birth of Dolly the sheep in 1996."
+    },
+    {
+      "korean": "배아복제",
+      "english": "embryonic cloning",
+      "example": "배아복제는 배아 분할을 통해 동일한 유전자를 가진 개체를 만드는 방식이다.",
+      "example_en": "Embryonic cloning creates identical individuals by dividing embryos."
+    },
+    {
+      "korean": "조직배양",
+      "english": "tissue culture",
+      "example": "의료진들은 조직배양 기술을 통해 손상된 장기를 재생시키고 있다.",
+      "example_en": "Medical professionals are regenerating damaged organs through tissue culture techniques."
+    },
+    {
+      "korean": "줄기세포",
+      "english": "stem cell",
+      "example": "줄기세포는 다양한 세포 유형으로 분화될 수 있는 능력이 있다.",
+      "example_en": "Stem cells have the ability to differentiate into various cell types."
+    },
+    {
+      "korean": "배아줄기세포",
+      "english": "embryonic stem cell",
+      "example": "배아줄기세포의 다분화능은 신경계 질환 치료에 큰 가능성을 보여준다.",
+      "example_en": "The pluripotency of embryonic stem cells shows great potential for treating neurological disorders."
+    },
+    {
+      "korean": "역분화",
+      "english": "dedifferentiation",
+      "example": "유도만능줄기세포는 성숙한 세포의 역분화를 통해 만들어진다.",
+      "example_en": "Induced pluripotent stem cells are created through the dedifferentiation of mature cells."
+    },
+    {
+      "korean": "분화",
+      "english": "differentiation",
+      "example": "배아의 분화 과정은 복잡한 신호 전달 경로에 의해 조절된다.",
+      "example_en": "The differentiation process of embryos is regulated by complex signaling pathways."
+    },
+    {
+      "korean": "유전자변형생물",
+      "english": "genetically modified organism; GMO",
+      "example": "유전자변형생물의 안전성에 관한 논쟁은 여전히 진행 중이다.",
+      "example_en": "The debate about the safety of genetically modified organisms continues."
+    },
+    {
+      "korean": "유전자변형",
+      "english": "genetic modification",
+      "example": "유전자변형을 통해 더 높은 수확량을 가진 작물을 개발할 수 있다.",
+      "example_en": "Higher-yielding crops can be developed through genetic modification."
+    },
+    {
+      "korean": "형질전환",
+      "english": "genetic transformation",
+      "example": "박테리아의 형질전환 기술은 현대 생명공학의 핵심이다.",
+      "example_en": "Bacterial genetic transformation is a cornerstone of modern biotechnology."
+    },
+    {
+      "korean": "외래유전자",
+      "english": "foreign gene; transgene",
+      "example": "외래유전자의 도입은 식물의 특성을 근본적으로 변화시킬 수 있다.",
+      "example_en": "Introduction of foreign genes can fundamentally change plant characteristics."
+    },
+    {
+      "korean": "생물정보학",
+      "english": "bioinformatics",
+      "example": "생물정보학은 생물학적 데이터를 컴퓨터를 이용해 분석하는 학문이다.",
+      "example_en": "Bioinformatics is the field of analyzing biological data using computers."
+    },
+    {
+      "korean": "게노믹스",
+      "english": "genomics",
+      "example": "게노믹스 연구는 전체 유전체의 기능과 구조를 이해하는 데 도움이 된다.",
+      "example_en": "Genomics research helps us understand the function and structure of the entire genome."
+    },
+    {
+      "korean": "단백질 공학",
+      "english": "protein engineering",
+      "example": "단백질 공학을 통해 더 효율적인 효소를 만들 수 있다.",
+      "example_en": "More efficient enzymes can be created through protein engineering."
+    },
+    {
+      "korean": "효소 설계",
+      "english": "enzyme design",
+      "example": "효소 설계 기술은 산업적 생산 과정을 크게 개선했다.",
+      "example_en": "Enzyme design technology has greatly improved industrial production processes."
+    },
+    {
+      "korean": "효소",
+      "english": "enzyme",
+      "example": "각 효소는 특정한 생화학 반응을 촉매하도록 진화했다.",
+      "example_en": "Each enzyme has evolved to catalyze specific biochemical reactions."
+    },
+    {
+      "korean": "발효",
+      "english": "fermentation",
+      "example": "요구르트의 발효 과정에서 유산균이 중요한 역할을 한다.",
+      "example_en": "Lactic acid bacteria play a crucial role in the fermentation process of yogurt."
+    },
+    {
+      "korean": "미생물 발효",
+      "english": "microbial fermentation",
+      "example": "미생물 발효는 항생제와 백신 생산의 핵심 기술이다.",
+      "example_en": "Microbial fermentation is a key technology in antibiotic and vaccine production."
+    },
+    {
+      "korean": "생물 연료",
+      "english": "biofuel",
+      "example": "생물 연료는 재생 가능한 에너지 자원으로서 각광받고 있다.",
+      "example_en": "Biofuels are attracting attention as renewable energy resources."
+    },
+    {
+      "korean": "바이오에탄올",
+      "english": "bioethanol",
+      "example": "바이오에탄올은 옥수수와 사탕수수에서 추출할 수 있다.",
+      "example_en": "Bioethanol can be extracted from corn and sugarcane."
+    },
+    {
+      "korean": "생물윤리",
+      "english": "bioethics",
+      "example": "생물윤리는 유전자 편집 기술의 사용을 규제하는 데 중요하다.",
+      "example_en": "Bioethics is important in regulating the use of gene editing technology."
+    },
+    {
+      "korean": "윤리심사",
+      "english": "ethical review",
+      "example": "모든 인간 대상 연구는 윤리심사위원회의 승인을 받아야 한다.",
+      "example_en": "All human subject research must receive approval from an ethics review committee."
+    },
+    {
+      "korean": "임상시험",
+      "english": "clinical trial",
+      "example": "신약 개발을 위한 임상시험은 여러 단계를 거친다.",
+      "example_en": "Clinical trials for new drug development go through several stages."
+    },
+    {
+      "korean": "상 I 임상시험",
+      "english": "Phase I clinical trial",
+      "example": "상 I 임상시험은 신약의 안전성과 용량을 평가한다.",
+      "example_en": "Phase I clinical trials evaluate the safety and dosage of new drugs."
+    },
+    {
+      "korean": "백신",
+      "english": "vaccine",
+      "example": "백신은 질병에 대한 면역력을 형성하는 생물학적 제제이다.",
+      "example_en": "A vaccine is a biological preparation that forms immunity against disease."
+    },
+    {
+      "korean": "mRNA 백신",
+      "english": "mRNA vaccine",
+      "example": "mRNA 백신은 코로나바이러스 팬데믹 대응에 혁신적인 역할을 했다.",
+      "example_en": "mRNA vaccines played an innovative role in responding to the coronavirus pandemic."
+    },
+    {
+      "korean": "유전자 치료",
+      "english": "gene therapy",
+      "example": "유전자 치료는 결함 있는 유전자를 건강한 유전자로 대체하는 기술이다.",
+      "example_en": "Gene therapy is a technique for replacing defective genes with healthy ones."
+    },
+    {
+      "korean": "체세포 유전자 치료",
+      "english": "somatic gene therapy",
+      "example": "체세포 유전자 치료는 환자 개인의 질병만 치료하며 유전되지 않는다.",
+      "example_en": "Somatic gene therapy only treats the individual patient's disease and is not inherited."
+    },
+    {
+      "korean": "게놈 서열 결정",
+      "english": "genome sequencing",
+      "example": "게놈 서열 결정 비용이 급격히 감소하면서 개인 맞춤 의료가 가능해졌다.",
+      "example_en": "As genome sequencing costs have plummeted, personalized medicine has become possible."
+    },
+    {
+      "korean": "온전한 게놈 분석",
+      "english": "whole genome analysis",
+      "example": "온전한 게놈 분석은 희귀 유전질환의 진단에 도움이 된다.",
+      "example_en": "Whole genome analysis helps diagnose rare genetic diseases."
+    },
+    {
+      "korean": "합성생물학",
+      "english": "synthetic biology",
+      "example": "합성생물학은 자연에 존재하지 않는 생물을 만드는 학문이다.",
+      "example_en": "Synthetic biology is the field of creating organisms that do not exist in nature."
+    },
+    {
+      "korean": "생명회로",
+      "english": "biological circuit",
+      "example": "합성생물학자들은 세포 내에서 작동하는 생명회로를 설계했다.",
+      "example_en": "Synthetic biologists have designed biological circuits that operate within cells."
+    },
+    {
+      "korean": "미생물군집",
+      "english": "microbiome",
+      "example": "인간의 미생물군집은 소화, 면역, 심지어 정신 건강에도 영향을 미친다.",
+      "example_en": "The human microbiome affects digestion, immunity, and even mental health."
+    },
+    {
+      "korean": "장내 미생물",
+      "english": "gut microbiota",
+      "example": "장내 미생물의 다양성은 전반적인 건강과 밀접한 관련이 있다.",
+      "example_en": "The diversity of gut microbiota is closely related to overall health."
+    },
+    {
+      "korean": "생물치료제",
+      "english": "biotherapeutic; biological drug",
+      "example": "생물치료제는 단백질과 핵산으로 만든 의약품이다.",
+      "example_en": "Biotherapeutics are medicines made from proteins and nucleic acids."
+    }
+  ]
+}

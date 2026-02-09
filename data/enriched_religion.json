@@ -1,0 +1,284 @@
+{
+  "주제별 단어 — 종교 (Topic: Religion)": [
+    {
+      "korean": "해탈",
+      "english": "liberation; enlightenment (Buddhist)",
+      "example": "불교의 궁극적 목표는 윤회에서 벗어나 해탈하는 것이다.",
+      "example_en": "The ultimate goal of Buddhism is to achieve liberation from the cycle of rebirth.",
+      "notes": "Sino-Korean (해탈=liberation). Collocation: 해탈에 이르다. Related: 열반 (nirvana), 윤회에서 벗어나다."
+    },
+    {
+      "korean": "윤회",
+      "english": "samsara; cycle of rebirth",
+      "example": "불교에서는 업에 따라 윤회한다고 가르친다.",
+      "example_en": "Buddhism teaches that one is reborn according to one's karma.",
+      "notes": "Sino-Korean (윤회=cycle). Collocations: 윤회하다, 윤회를 거듭하다. Related: 업보, 인과관계."
+    },
+    {
+      "korean": "참선하다",
+      "english": "to practice Zen meditation",
+      "example": "스님은 매일 새벽 4시에 일어나 참선한다.",
+      "example_en": "The monk wakes up at 4 AM every day to practice Zen meditation.",
+      "notes": "Sino-Korean (참선=Zen meditation). Collocation: 참선에 들다 (to engage in meditation), 새벽 참선."
+    },
+    {
+      "korean": "깨달음",
+      "english": "enlightenment; awakening",
+      "example": "붓다는 보리수나무 아래에서 깨달음을 얻었다.",
+      "example_en": "The Buddha attained enlightenment under the bodhi tree.",
+      "notes": "Neutral origin. Collocations: 깨달음을 얻다, 깨달음을 이루다. Related: 돈깨달음 (sudden enlightenment)."
+    },
+    {
+      "korean": "자비",
+      "english": "compassion; mercy (Buddhist)",
+      "example": "자비를 베푸는 것이 불교 수행의 핵심이다.",
+      "example_en": "Showing compassion is the core of Buddhist practice.",
+      "notes": "Sino-Korean (자비=compassion/mercy). Collocation: 자비를 베풀다. Often used in Buddhist texts; antonym: 분노."
+    },
+    {
+      "korean": "사찰",
+      "english": "Buddhist temple",
+      "example": "산속 깊은 곳에 천년 된 사찰이 있다.",
+      "example_en": "Deep in the mountains, there is a thousand-year-old temple.",
+      "notes": "Sino-Korean (사찰=temple). Collocations: 사찰을 방문하다, 산속 사찰. Related: 절, 본사, 암자."
+    },
+    {
+      "korean": "공양하다",
+      "english": "to make an offering; to eat a temple meal",
+      "example": "절에서 공양한 음식은 소박하지만 정성이 가득하다.",
+      "example_en": "The temple meal is simple but full of care.",
+      "notes": "Sino-Korean (공양=offering/service). Collocations: 공양 음식, 공양을 올리다, 공양 받다."
+    },
+    {
+      "korean": "업보",
+      "english": "karma; karmic retribution",
+      "example": "선한 행동이 좋은 업보를 쌓는다고 믿는다.",
+      "example_en": "They believe that good deeds accumulate positive karma.",
+      "notes": "Sino-Korean (업보=karma/retribution). Collocations: 좋은 업보를 쌓다, 업보를 받다. Related: 인과."
+    },
+    {
+      "korean": "무아",
+      "english": "non-self; anatta (Buddhist concept)",
+      "example": "무아의 가르침은 고정된 자아가 없다는 뜻이다.",
+      "example_en": "The teaching of non-self means there is no fixed self.",
+      "notes": "Sino-Korean (무아=non-self). Buddhist philosophical term; related: 공(空) (emptiness), 아(我)."
+    },
+    {
+      "korean": "번뇌",
+      "english": "worldly desires; afflictions (Buddhist)",
+      "example": "수행을 통해 번뇌를 다스릴 수 있다.",
+      "example_en": "Through practice, one can manage worldly afflictions.",
+      "notes": "Sino-Korean (번뇌=afflictions/desires). Collocations: 번뇌에 시달리다, 번뇌를 다스리다. Related: 욕망."
+    },
+    {
+      "korean": "구원",
+      "english": "salvation; redemption",
+      "example": "기독교에서는 믿음을 통한 구원을 강조한다.",
+      "example_en": "Christianity emphasizes salvation through faith.",
+      "notes": "Sino-Korean (구원=salvation). Collocations: 영혼의 구원, 구원받다. Often Christian context; related: 구제."
+    },
+    {
+      "korean": "예배를 드리다",
+      "english": "to attend worship service",
+      "example": "매주 일요일에 가족과 함께 예배를 드린다.",
+      "example_en": "Every Sunday, I attend worship service with my family.",
+      "notes": "Sino-Korean (예배=worship). Collocations: 주일 예배, 예배당, 예배하다. Related: 찬양."
+    },
+    {
+      "korean": "말씀",
+      "english": "the Word (of God); Scripture",
+      "example": "목사님이 오늘 말씀에서 용서의 중요성을 강조하셨다.",
+      "example_en": "The pastor emphasized the importance of forgiveness in today's Word.",
+      "notes": "Native Korean. Christian context; collocations: 말씀을 듣다, 목사님 말씀. Formal/respectful term."
+    },
+    {
+      "korean": "찬송가",
+      "english": "hymn",
+      "example": "합창단이 찬송가를 부르자 교인들이 따라 불렀다.",
+      "example_en": "When the choir sang the hymn, the congregation joined in.",
+      "notes": "Native Korean (찬=praise + 송가=song). Collocations: 찬송가를 부르다, 찬송가 부를 때. Related: 찬양."
+    },
+    {
+      "korean": "세례를 받다",
+      "english": "to be baptized; to receive baptism",
+      "example": "작년 부활절에 세례를 받고 정식 교인이 되었다.",
+      "example_en": "I was baptized last Easter and became a full member.",
+      "notes": "Sino-Korean (세례=baptism). Collocations: 유아세례, 세례명, 세례식. Related: 세례자 요한."
+    },
+    {
+      "korean": "은혜",
+      "english": "grace (divine); blessing",
+      "example": "어려운 시기를 견딜 수 있었던 건 은혜 덕분이다.",
+      "example_en": "I was able to endure the difficult time thanks to grace.",
+      "notes": "Sino-Korean (은혜=grace/favor). Collocations: 은혜를 입다, 은혜를 베풀다. Christian term; antonym: 진노."
+    },
+    {
+      "korean": "십자가",
+      "english": "cross; crucifix",
+      "example": "교회 꼭대기에 십자가가 빛나고 있다.",
+      "example_en": "A cross is shining at the top of the church.",
+      "notes": "Sino-Korean (십자=cross + 가=carrier). Collocations: 십자가를 지다, 십자가 목걸이. Christian symbol."
+    },
+    {
+      "korean": "회개하다",
+      "english": "to repent",
+      "example": "잘못을 깨닫고 진심으로 회개해야 한다.",
+      "example_en": "You must realize your wrongs and sincerely repent.",
+      "notes": "Sino-Korean (회개=repentance). Collocations: 진심으로 회개하다, 회개의 기도. Christian concept; related: 속죄."
+    },
+    {
+      "korean": "선교하다",
+      "english": "to do missionary work; to evangelize",
+      "example": "대학 시절 아프리카에서 선교한 경험이 있다.",
+      "example_en": "I have experience doing missionary work in Africa during college.",
+      "notes": "Sino-Korean (선교=missionary work). Collocations: 선교 활동, 해외 선교, 선교사. Related: 포교하다."
+    },
+    {
+      "korean": "부활",
+      "english": "resurrection",
+      "example": "부활절은 예수의 부활을 기념하는 날이다.",
+      "example_en": "Easter is the day commemorating the resurrection of Jesus.",
+      "notes": "Sino-Korean (부활=resurrection). Collocations: 예수의 부활, 부활절. Christian holiday; also: 부활하다."
+    },
+    {
+      "korean": "영성",
+      "english": "spirituality",
+      "example": "종교와 상관없이 영성을 추구하는 사람들이 늘고 있다.",
+      "example_en": "Regardless of religion, more people are pursuing spirituality.",
+      "notes": "Sino-Korean (영성=spirituality). Modern usage. Collocations: 영적 깊이, 영성 추구. Related: 영적."
+    },
+    {
+      "korean": "초월하다",
+      "english": "to transcend; to go beyond",
+      "example": "진정한 평화는 물질적 욕망을 초월할 때 찾을 수 있다.",
+      "example_en": "True peace can be found when you transcend material desires.",
+      "notes": "Sino-Korean (초월=transcendence). Collocations: 물질적 욕망을 초월하다, 한계를 초월하다."
+    },
+    {
+      "korean": "내면의 평화",
+      "english": "inner peace",
+      "example": "명상을 통해 내면의 평화를 찾으려 노력한다.",
+      "example_en": "I try to find inner peace through meditation.",
+      "notes": "Collocation: 명상으로 내면의 평화를 찾다, 내면의 평화를 추구하다. Related: 마음의 평온."
+    },
+    {
+      "korean": "경건하다",
+      "english": "to be devout; to be reverent",
+      "example": "그는 매일 아침 경건한 마음으로 기도를 시작한다.",
+      "example_en": "He begins each morning with a devout heart in prayer.",
+      "notes": "Sino-Korean (경건=devoutness). Adjective. Collocations: 경건한 마음, 경건한 기도. Related: 신성하다."
+    },
+    {
+      "korean": "신앙심",
+      "english": "faith; religious devotion",
+      "example": "어머니의 깊은 신앙심은 가족 모두에게 영향을 주었다.",
+      "example_en": "My mother's deep faith influenced the entire family.",
+      "notes": "Sino-Korean (신앙=faith + 심=heart). Collocations: 깊은 신앙심, 신앙심이 흔들리다. Related: 신앙 고백."
+    },
+    {
+      "korean": "구도자",
+      "english": "seeker (of truth/enlightenment)",
+      "example": "그는 진리를 찾아 떠나는 구도자의 삶을 살았다.",
+      "example_en": "He lived the life of a seeker, departing in search of truth.",
+      "notes": "Sino-Korean (구도=seeking truth + 자=person). Philosophical/spiritual seeker. Related: 구도, 도를 구하다."
+    },
+    {
+      "korean": "속세",
+      "english": "the secular world; worldly life",
+      "example": "속세를 떠나 산에서 수행하는 수도승도 있다.",
+      "example_en": "There are monks who leave the secular world to practice in the mountains.",
+      "notes": "Sino-Korean (속=secular + 세=world). Buddhist/religious context. Collocation: 속세를 떠나다. Related: 속인."
+    },
+    {
+      "korean": "기도하다",
+      "english": "to pray",
+      "example": "힘든 일이 있을 때면 기도하며 마음을 다잡는다.",
+      "example_en": "When things are tough, I pray and gather my thoughts.",
+      "notes": "Sino-Korean (기도=prayer). Collocations: 기도를 올리다, 기도하며, 기도 응답. Common in all religions."
+    },
+    {
+      "korean": "성지 순례",
+      "english": "pilgrimage to a holy site",
+      "example": "많은 신자들이 일생에 한 번은 성지 순례를 꿈꾼다.",
+      "example_en": "Many believers dream of making a pilgrimage at least once in their lifetime.",
+      "notes": "Sino-Korean (성지=holy site + 순례=pilgrimage). Collocations: 성지 순례를 가다, 순례길. Related: 성역."
+    },
+    {
+      "korean": "종파",
+      "english": "denomination; sect",
+      "example": "같은 종교 안에서도 종파에 따라 교리가 다르다.",
+      "example_en": "Even within the same religion, doctrines differ by denomination.",
+      "notes": "Sino-Korean (종파=sect/denomination). Collocations: 불교 종파, 종파 간 차이, 종파 의식. Related: 교파."
+    },
+    {
+      "korean": "제사를 지내다",
+      "english": "to perform an ancestral rite",
+      "example": "명절마다 온 가족이 모여 제사를 지낸다.",
+      "example_en": "The whole family gathers to perform ancestral rites every holiday.",
+      "notes": "Sino-Korean (제사=ancestral rite). Korean Confucian tradition. Collocations: 제삿날, 제사상, 차례. Related: 제를 모시다."
+    },
+    {
+      "korean": "봉헌하다",
+      "english": "to make an offering; to dedicate (religious)",
+      "example": "수확한 곡식을 신에게 봉헌하는 전통이 있다.",
+      "example_en": "There is a tradition of offering harvested grain to the gods.",
+      "notes": "Sino-Korean (봉헌=offering/dedication). Formal religious context. Collocations: 봉헌식, 봉헌금. Related: 헌금."
+    },
+    {
+      "korean": "축문",
+      "english": "prayer text; ritual invocation (read aloud at ceremonies)",
+      "example": "제사 때 큰아버지가 축문을 읽으셨다.",
+      "example_en": "My uncle read the ritual invocation during the ancestral rite.",
+      "notes": "Sino-Korean (축=blessing + 문=text). Collocations: 축문을 읽다, 제사 축문. Used at rituals/ceremonies."
+    },
+    {
+      "korean": "향을 피우다",
+      "english": "to burn incense",
+      "example": "절에 들어가면 가장 먼저 향을 피운다.",
+      "example_en": "When you enter a temple, the first thing you do is burn incense.",
+      "notes": "Collocation: 향을 피우다, 향냄새, 향을 가득 피우다. Related: 선향, 향초. Common in temples."
+    },
+    {
+      "korean": "금식하다",
+      "english": "to fast (for religious reasons)",
+      "example": "라마단 기간에는 해가 떠 있는 동안 금식한다.",
+      "example_en": "During Ramadan, one fasts while the sun is up.",
+      "notes": "Sino-Korean (금식=fasting). Collocations: 금식 기간, 금식하며 기도하다. Islamic (Ramadan) context."
+    },
+    {
+      "korean": "의식을 치르다",
+      "english": "to perform a ceremony/ritual",
+      "example": "결혼 의식을 치르기 전에 양가 부모의 동의가 필요했다.",
+      "example_en": "Consent from both sets of parents was needed before performing the wedding ceremony.",
+      "notes": "Sino-Korean (의식=ceremony/ritual). Collocations: 결혼 의식, 장례 의식, 입학식을 치르다."
+    },
+    {
+      "korean": "주술",
+      "english": "sorcery; shamanistic incantation",
+      "example": "고대 사회에서는 주술로 질병을 치료하려 했다.",
+      "example_en": "In ancient societies, they tried to cure diseases through sorcery.",
+      "notes": "Sino-Korean (주술=sorcery/incantation). Archaic/historical context. Related: 무술, 점, 부적."
+    },
+    {
+      "korean": "안수 기도",
+      "english": "laying on of hands (prayer)",
+      "example": "목사님이 아픈 교인에게 안수 기도를 해 주셨다.",
+      "example_en": "The pastor performed a laying-on-of-hands prayer for the sick congregant.",
+      "notes": "Sino-Korean (안수=laying on of hands). Christian prayer practice. Collocation: 안수 기도를 받다."
+    },
+    {
+      "korean": "법회",
+      "english": "Buddhist dharma assembly; Buddhist sermon gathering",
+      "example": "큰 스님의 법회에 수백 명이 모였다.",
+      "example_en": "Hundreds gathered for the senior monk's dharma assembly.",
+      "notes": "Sino-Korean (법회=dharma assembly). Buddhist gathering. Collocations: 법회에 참석하다, 큰 스님의 법회."
+    },
+    {
+      "korean": "세속화",
+      "english": "secularization",
+      "example": "현대 사회의 세속화로 종교 인구가 줄고 있다.",
+      "example_en": "The religious population is declining due to the secularization of modern society.",
+      "notes": "Sino-Korean (세속화=secularization). Modern society context. Related: 세속적, 세속주의, 종교 쇠퇴."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "주제별 단어 — 원예 (Topic: Gardening & Horticulture)": [
+    {
+      "korean": "양토",
+      "english": "loam (balanced soil mixture)",
+      "example": "정원을 가꾸려면 배수성이 좋은 양토를 준비하는 것이 가장 중요하다.",
+      "example_en": "To cultivate a garden, preparing well-draining loam is the most important step."
+    },
+    {
+      "korean": "사질토",
+      "english": "sandy soil",
+      "example": "사질토는 배수가 빠르지만 보수력이 낮아서 자주 관수해야 한다.",
+      "example_en": "Sandy soil drains quickly but has poor water retention, so it needs frequent watering."
+    },
+    {
+      "korean": "식양토",
+      "english": "clay loam soil",
+      "example": "이 지역의 식양토는 영양분이 풍부해서 채소 재배에 적합하다.",
+      "example_en": "This region's clay loam is nutrient-rich and suitable for vegetable cultivation."
+    },
+    {
+      "korean": "부식질",
+      "english": "humus; organic matter",
+      "example": "흙에 부식질을 충분히 섞으면 작물의 생장이 촉진된다.",
+      "example_en": "Mixing sufficient humus into the soil promotes crop growth."
+    },
+    {
+      "korean": "산도",
+      "english": "soil acidity (pH)",
+      "example": "대부분의 채소는 pH 6.0~6.8의 약산성 흙에서 잘 자란다.",
+      "example_en": "Most vegetables grow well in slightly acidic soil with a pH of 6.0-6.8."
+    },
+    {
+      "korean": "뿌리",
+      "english": "root",
+      "example": "심근성 식물의 뿌리는 깊게 들어가서 지표면 아래 1미터 이상에 도달한다.",
+      "example_en": "Deep-rooted plants' roots penetrate deeply, reaching more than 1 meter below the surface."
+    },
+    {
+      "korean": "괴근",
+      "english": "tuber (underground storage stem)",
+      "example": "감자와 카사바는 괴근을 형성하는 대표적인 작물이다.",
+      "example_en": "Potatoes and cassava are typical crops that form tubers."
+    },
+    {
+      "korean": "구근",
+      "english": "bulb",
+      "example": "구근식물인 튤립과 수선화는 봄에 아름다운 꽃을 피운다.",
+      "example_en": "Bulbous plants like tulips and daffodils bloom with beautiful flowers in spring."
+    },
+    {
+      "korean": "엽맥",
+      "english": "leaf vein",
+      "example": "잎의 엽맥은 영양분과 물을 운반하는 통로 역할을 한다.",
+      "example_en": "A leaf's veins serve as pathways for transporting nutrients and water."
+    },
+    {
+      "korean": "삽목",
+      "english": "cutting; propagation by cuttings",
+      "example": "포도나무는 휴면기 동안 삽목으로 번식시킬 수 있다.",
+      "example_en": "Grapevines can be propagated by cuttings during the dormant season."
+    },
+    {
+      "korean": "접목",
+      "english": "grafting; budding",
+      "example": "사과나무는 접목으로 우수한 품종을 신속하게 번식한다.",
+      "example_en": "Apple trees are rapidly propagated by grafting superior varieties."
+    },
+    {
+      "korean": "파종",
+      "english": "sowing; seeding",
+      "example": "봄 파종은 마지막 서리 날짜 이후에 시작하는 것이 안전하다.",
+      "example_en": "Spring sowing is safer to start after the last frost date."
+    },
+    {
+      "korean": "발아",
+      "english": "germination",
+      "example": "종자의 발아율을 높이려면 적절한 온도와 습도가 필요하다.",
+      "example_en": "Proper temperature and humidity are needed to improve seed germination rates."
+    },
+    {
+      "korean": "가지치기",
+      "english": "pruning; cutting branches",
+      "example": "과수는 휴면기에 가지치기를 하면 다음 해에 과실 수확이 증가한다.",
+      "example_en": "Pruning fruit trees during dormancy increases fruit yield the following year."
+    },
+    {
+      "korean": "적과",
+      "english": "thinning (removing excess flowers/fruit)",
+      "example": "포도의 적과는 남은 포도의 크기와 당도를 향상시킨다.",
+      "example_en": "Thinning grapes improves the size and sugar content of the remaining fruit."
+    },
+    {
+      "korean": "적심",
+      "english": "pinching off growing tip",
+      "example": "토마토의 적심은 곁가지 발생을 촉진하고 식물을 더 큰 형태로 만든다.",
+      "example_en": "Pinching off tomato tips promotes side branching and creates a bushier plant."
+    },
+    {
+      "korean": "거름",
+      "english": "manure; organic fertilizer",
+      "example": "축사에서 수집한 거름을 6개월 동안 숙성시킨 후 밭에 뿌린다.",
+      "example_en": "Manure collected from livestock is aged for 6 months before spreading on fields."
+    },
+    {
+      "korean": "퇴비",
+      "english": "compost",
+      "example": "가정의 음식물 쓰레기와 정원 낙엽을 모아 퇴비를 만들 수 있다.",
+      "example_en": "You can make compost by collecting household food scraps and garden leaves."
+    },
+    {
+      "korean": "퇴비화",
+      "english": "composting; decomposition",
+      "example": "정원의 나뭇가지와 풀을 퇴비화하면 질 좋은 토양 개량제가 된다.",
+      "example_en": "Composting garden branches and grass produces high-quality soil amendment."
+    },
+    {
+      "korean": "질소질비료",
+      "english": "nitrogen fertilizer",
+      "example": "초기 생육 단계의 작물에는 질소질비료를 충분히 공급해야 한다.",
+      "example_en": "Crops in early growth stages need sufficient nitrogen fertilizer supply."
+    },
+    {
+      "korean": "인산질비료",
+      "english": "phosphate fertilizer",
+      "example": "꽃과 과실의 형성을 촉진하려면 인산질비료를 추가로 시비한다.",
+      "example_en": "Apply phosphate fertilizer additionally to promote flower and fruit formation."
+    },
+    {
+      "korean": "관수",
+      "english": "watering; irrigation",
+      "example": "여름철 한낮의 관수는 피하고 아침이나 저녁에 물을 주는 것이 좋다.",
+      "example_en": "Avoid watering during midday in summer and water in the morning or evening instead."
+    },
+    {
+      "korean": "점적관수",
+      "english": "drip irrigation",
+      "example": "점적관수 시스템은 물의 낭비를 줄이고 작물의 병해를 감소시킨다.",
+      "example_en": "Drip irrigation systems reduce water waste and decrease crop disease."
+    },
+    {
+      "korean": "분무",
+      "english": "spraying; misting",
+      "example": "관엽식물의 분무는 잎의 광합성을 촉진하고 해충을 방지한다.",
+      "example_en": "Misting foliage plants promotes leaf photosynthesis and prevents pests."
+    },
+    {
+      "korean": "온실",
+      "english": "greenhouse",
+      "example": "온실에서는 겨울철에도 고온성 채소와 꽃을 재배할 수 있다.",
+      "example_en": "Greenhouses allow cultivation of heat-loving vegetables and flowers even in winter."
+    },
+    {
+      "korean": "비닐하우스",
+      "english": "plastic tunnel; poly tunnel",
+      "example": "비닐하우스는 설치 비용이 저렴하면서도 보온 효과가 뛰어나다.",
+      "example_en": "Plastic tunnels are inexpensive to install while providing excellent insulation."
+    },
+    {
+      "korean": "진딧물",
+      "english": "aphid",
+      "example": "봄철 진딧물 발생을 조기에 발견하고 방제하면 피해를 줄일 수 있다.",
+      "example_en": "Early detection and control of spring aphids reduces crop damage."
+    },
+    {
+      "korean": "응애",
+      "english": "mite; spider mite",
+      "example": "응애는 건조한 환경에서 번식이 빨라지므로 습도 관리가 중요하다.",
+      "example_en": "Mites reproduce rapidly in dry conditions, so humidity control is important."
+    },
+    {
+      "korean": "역병",
+      "english": "blight (fungal disease)",
+      "example": "감자의 역병은 고온 다습한 환경에서 급속도로 전파된다.",
+      "example_en": "Potato blight spreads rapidly in warm and humid conditions."
+    },
+    {
+      "korean": "흰가루병",
+      "english": "powdery mildew",
+      "example": "흰가루병에 감염된 잎은 희게 변하고 생장이 저해된다.",
+      "example_en": "Leaves infected with powdery mildew turn white and growth is inhibited."
+    },
+    {
+      "korean": "조경",
+      "english": "landscaping; landscape gardening",
+      "example": "현대적 조경 설계는 생태계 보전과 미적 가치를 동시에 추구한다.",
+      "example_en": "Modern landscape design pursues both ecosystem conservation and aesthetic value."
+    },
+    {
+      "korean": "화단",
+      "english": "flower bed",
+      "example": "봄 화단에는 튤립, 팬지, 수선화 등의 구근식물을 심는다.",
+      "example_en": "Spring flower beds are planted with bulbous plants like tulips, pansies, and daffodils."
+    },
+    {
+      "korean": "울타리",
+      "english": "hedge; fence",
+      "example": "보우덱스나무로 만든 울타리는 정원의 경계를 명확하게 해주고 방풍 역할도 한다.",
+      "example_en": "Hedges made from boxwood define the garden boundary and provide wind protection."
+    },
+    {
+      "korean": "연못",
+      "english": "pond; water feature",
+      "example": "정원의 연못은 수서 식물의 서식지이면서 동시에 경관을 아름답게 만든다.",
+      "example_en": "A garden pond serves as habitat for aquatic plants while enhancing the landscape."
+    },
+    {
+      "korean": "쌈채",
+      "english": "leafy greens for wrapping (lettuce, perilla, etc.)",
+      "example": "쌈채는 수확 후 빠르게 시들기 때문에 신선도 관리가 매우 중요하다.",
+      "example_en": "Leafy wraps wilt quickly after harvest, so freshness management is critical."
+    },
+    {
+      "korean": "파종기",
+      "english": "planting season; sowing time",
+      "example": "각 작물의 최적 파종기를 파악하면 수확량과 품질을 크게 높일 수 있다.",
+      "example_en": "Understanding the optimal planting season for each crop greatly increases yield and quality."
+    },
+    {
+      "korean": "휴경",
+      "english": "fallowing; leaving land unplanted",
+      "example": "연작 장해를 피하기 위해 같은 밭을 1~2년 휴경하는 것이 좋다.",
+      "example_en": "To avoid continuous cropping problems, it's good to fallow the same field for 1-2 years."
+    },
+    {
+      "korean": "한옥정원",
+      "english": "traditional Korean garden",
+      "example": "한옥정원은 돌, 물, 식물의 조화로 자연을 축소한 예술 작품이다.",
+      "example_en": "A traditional Korean garden is an art form that miniaturizes nature through harmony of stone, water, and plants."
+    },
+    {
+      "korean": "도시농업",
+      "english": "urban farming; urban agriculture",
+      "example": "도시농업은 고층 빌딩의 옥상과 발코니를 활용한 채소 재배를 의미한다.",
+      "example_en": "Urban farming refers to vegetable cultivation using rooftops and balconies of high-rise buildings."
+    },
+    {
+      "korean": "텃밭",
+      "english": "vegetable garden; small home garden",
+      "example": "아파트 주민들이 공동 텃밭에서 토마토, 상추, 고추 등을 재배한다.",
+      "example_en": "Apartment residents grow tomatoes, lettuce, and peppers in a shared vegetable garden."
+    },
+    {
+      "korean": "수경재배",
+      "english": "hydroponic cultivation",
+      "example": "수경재배는 흙을 사용하지 않고 영양액에서 식물을 기르는 방식이다.",
+      "example_en": "Hydroponic cultivation is a method of growing plants in nutrient solutions without soil."
+    }
+  ]
+}

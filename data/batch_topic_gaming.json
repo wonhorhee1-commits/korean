@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 게임 (Topic: Gaming & Esports)": [
+    {
+      "korean": "이스포츠",
+      "english": "esports (electronic sports)",
+      "example": "한국은 이스포츠 산업에서 세계 최고 수준이다.",
+      "example_en": "Korea is world-class in the esports industry."
+    },
+    {
+      "korean": "경기",
+      "english": "match/competition",
+      "example": "오늘 저녁의 경기는 예상보다 더 긴장했다.",
+      "example_en": "Tonight's match was more tense than expected."
+    },
+    {
+      "korean": "선수",
+      "english": "player/athlete",
+      "example": "최고의 선수들이 이번 대회에 참가한다.",
+      "example_en": "The best players are participating in this tournament."
+    },
+    {
+      "korean": "우승",
+      "english": "championship victory",
+      "example": "그 팀은 3년 연속 우승을 차지했다.",
+      "example_en": "That team won the championship three years in a row."
+    },
+    {
+      "korean": "결승",
+      "english": "finals",
+      "example": "결승 경기는 이번 주 토요일에 열린다.",
+      "example_en": "The finals will be held this Saturday."
+    },
+    {
+      "korean": "스트리밍",
+      "english": "streaming (live broadcast)",
+      "example": "그 게이머는 매일 저녁 스트리밍을 한다.",
+      "example_en": "That gamer streams every evening."
+    },
+    {
+      "korean": "해설자",
+      "english": "caster/commentator",
+      "example": "유명한 해설자가 경기를 중계했다.",
+      "example_en": "A famous caster broadcast the match."
+    },
+    {
+      "korean": "팀",
+      "english": "team",
+      "example": "우리 팀은 8명의 정규 선수로 구성되어 있다.",
+      "example_en": "Our team consists of 8 regular players."
+    },
+    {
+      "korean": "랭킹",
+      "english": "ranking",
+      "example": "국제 랭킹에서 그 선수는 10위이다.",
+      "example_en": "In the international ranking, that player is ranked 10th."
+    },
+    {
+      "korean": "메타",
+      "english": "meta (most effective tactics available)",
+      "example": "현재 메타에서는 이 캐릭터가 가장 강하다.",
+      "example_en": "In the current meta, this character is the strongest."
+    },
+    {
+      "korean": "스킬",
+      "english": "skill/ability",
+      "example": "이 스킬을 마스터하려면 연습이 많이 필요하다.",
+      "example_en": "You need a lot of practice to master this skill."
+    },
+    {
+      "korean": "궁극기",
+      "english": "ultimate ability",
+      "example": "궁극기를 사용하면 적을 한 번에 처치할 수 있다.",
+      "example_en": "If you use your ultimate, you can defeat the enemy in one hit."
+    },
+    {
+      "korean": "쿨타임",
+      "english": "cooldown",
+      "example": "이 스킬의 쿨타임은 30초이다.",
+      "example_en": "This skill's cooldown is 30 seconds."
+    },
+    {
+      "korean": "버프",
+      "english": "buff (enhancement)",
+      "example": "버프를 받은 후에 공격력이 두 배로 증가했다.",
+      "example_en": "After receiving the buff, my attack power doubled."
+    },
+    {
+      "korean": "디버프",
+      "english": "debuff (negative effect)",
+      "example": "상대방이 나에게 슬로우 디버프를 걸었다.",
+      "example_en": "The opponent cast a slow debuff on me."
+    },
+    {
+      "korean": "리스폰",
+      "english": "respawn",
+      "example": "죽으면 5초 후에 리스폰된다.",
+      "example_en": "You respawn 5 seconds after dying."
+    },
+    {
+      "korean": "클리어",
+      "english": "clear/beat (complete a level)",
+      "example": "마지막 보스를 클리어했을 때 정말 뿌듯했다.",
+      "example_en": "When I cleared the final boss, I felt really satisfied."
+    },
+    {
+      "korean": "게임오버",
+      "english": "game over",
+      "example": "체력이 0이 되면 게임오버다.",
+      "example_en": "The game is over when your health reaches zero."
+    },
+    {
+      "korean": "난이도",
+      "english": "difficulty level",
+      "example": "이 게임은 세 가지 난이도를 제공한다.",
+      "example_en": "This game offers three difficulty levels."
+    },
+    {
+      "korean": "아이템",
+      "english": "item/equipment",
+      "example": "좋은 아이템을 획득하면 게임이 훨씬 쉬워진다.",
+      "example_en": "The game becomes much easier when you get good items."
+    },
+    {
+      "korean": "인벤토리",
+      "english": "inventory",
+      "example": "인벤토리가 가득 차서 아이템을 더 담을 수 없다.",
+      "example_en": "My inventory is full so I can't carry more items."
+    },
+    {
+      "korean": "레벨업",
+      "english": "level up",
+      "example": "경험치를 모아서 레벨업하면 스탯이 올라간다.",
+      "example_en": "When you level up by collecting experience, your stats increase."
+    },
+    {
+      "korean": "기록",
+      "english": "record/score",
+      "example": "그 게이머는 새로운 기록을 세웠다.",
+      "example_en": "That gamer set a new record."
+    },
+    {
+      "korean": "클랜",
+      "english": "clan/guild",
+      "example": "우리 클랜은 100명 이상의 멤버를 가지고 있다.",
+      "example_en": "Our clan has over 100 members."
+    },
+    {
+      "korean": "PC방",
+      "english": "PC bang (internet cafe)",
+      "example": "주말이면 PC방은 항상 만석이다.",
+      "example_en": "PC bangs are always full on weekends."
+    },
+    {
+      "korean": "온라인 게임",
+      "english": "online game",
+      "example": "온라인 게임은 세계 어디서나 플레이할 수 있다.",
+      "example_en": "You can play online games from anywhere in the world."
+    },
+    {
+      "korean": "오프라인 전대",
+      "english": "offline tournament",
+      "example": "오프라인 전대에서 우리 팀이 우승했다.",
+      "example_en": "Our team won the offline tournament."
+    },
+    {
+      "korean": "멀티플레이",
+      "english": "multiplayer",
+      "example": "이 게임의 멀티플레이 모드는 최대 4명까지 가능하다.",
+      "example_en": "This game's multiplayer mode supports up to 4 players."
+    },
+    {
+      "korean": "롤플레이",
+      "english": "RPG (role-playing game)",
+      "example": "롤플레이 게임에서는 캐릭터의 스토리가 중요하다.",
+      "example_en": "In RPGs, the character's story is important."
+    },
+    {
+      "korean": "전략 게임",
+      "english": "strategy game",
+      "example": "전략 게임은 깊이 있는 사고력이 필요하다.",
+      "example_en": "Strategy games require deep strategic thinking."
+    },
+    {
+      "korean": "슈팅 게임",
+      "english": "shooter/FPS (first-person shooter)",
+      "example": "인기 있는 슈팅 게임은 보통 경쟁이 치열하다.",
+      "example_en": "Popular shooter games are usually highly competitive."
+    },
+    {
+      "korean": "격투 게임",
+      "english": "fighting game",
+      "example": "격투 게임은 손의 반응 속도가 매우 중요하다.",
+      "example_en": "Hand reaction speed is very important in fighting games."
+    },
+    {
+      "korean": "스포츠 게임",
+      "english": "sports game",
+      "example": "축구 스포츠 게임은 매년 새 버전이 나온다.",
+      "example_en": "Football sports games release new versions every year."
+    },
+    {
+      "korean": "레이싱 게임",
+      "english": "racing game",
+      "example": "레이싱 게임에서 최적의 라인을 찾는 것이 승리의 열쇠다.",
+      "example_en": "Finding the optimal racing line is key to victory in racing games."
+    },
+    {
+      "korean": "어드벤처 게임",
+      "english": "adventure game",
+      "example": "어드벤처 게임은 탐험과 스토리텔링이 핵심이다.",
+      "example_en": "Exploration and storytelling are key in adventure games."
+    },
+    {
+      "korean": "퍼즐 게임",
+      "english": "puzzle game",
+      "example": "퍼즐 게임은 논리적 사고력을 단련한다.",
+      "example_en": "Puzzle games develop logical thinking."
+    },
+    {
+      "korean": "조작감",
+      "english": "controls/feel/gameplay mechanics",
+      "example": "이 게임의 조작감이 정말 부드럽고 반응이 좋다.",
+      "example_en": "This game's controls are really smooth with great responsiveness."
+    },
+    {
+      "korean": "컨트롤러",
+      "english": "controller/gamepad",
+      "example": "게이머들은 보통 고급 컨트롤러를 사용한다.",
+      "example_en": "Gamers usually use high-end controllers."
+    },
+    {
+      "korean": "리더보드",
+      "english": "leaderboard",
+      "example": "리더보드의 1위를 차지하기 위해 열심히 연습한다.",
+      "example_en": "I practice hard to get first place on the leaderboard."
+    },
+    {
+      "korean": "스트리머",
+      "english": "streamer (content creator)",
+      "example": "유명한 스트리머는 하루에 수백만 명의 시청자를 가진다.",
+      "example_en": "Famous streamers have millions of viewers per day."
+    }
+  ]
+}

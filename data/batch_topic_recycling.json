@@ -1,0 +1,250 @@
+{
+  "주제별 단어 — 재활용 (Topic: Recycling & Waste Management)": [
+    {
+      "korean": "종량제",
+      "english": "pay-as-you-throw system",
+      "example": "우리 아파트는 종량제 봉투에 쓰레기를 담아야 한다.",
+      "example_en": "Our apartment building requires us to put trash in pay-as-you-throw bags."
+    },
+    {
+      "korean": "분리수거",
+      "english": "source separation; sorting recyclables",
+      "example": "분리수거를 제대로 하면 재활용률을 높일 수 있다.",
+      "example_en": "If we do source separation properly, we can increase the recycling rate."
+    },
+    {
+      "korean": "폐기물",
+      "english": "waste; refuse",
+      "example": "산업 폐기물 처리는 엄격한 규제 대상이다.",
+      "example_en": "Industrial waste disposal is subject to strict regulations."
+    },
+    {
+      "korean": "소각",
+      "english": "incineration; burning",
+      "example": "매립지가 가득 차면서 소각 시설의 역할이 중요해졌다.",
+      "example_en": "As landfills fill up, the role of incineration facilities has become important."
+    },
+    {
+      "korean": "매립지",
+      "english": "landfill; waste dump",
+      "example": "음식물 쓰레기가 매립지의 절반을 차지한다.",
+      "example_en": "Food waste makes up half of landfill sites."
+    },
+    {
+      "korean": "퇴비",
+      "english": "compost; manure",
+      "example": "가정용 퇴비화 기계를 이용하면 음식물 쓰레기를 줄일 수 있다.",
+      "example_en": "Using a home composting machine can reduce food waste."
+    },
+    {
+      "korean": "유기물",
+      "english": "organic matter; biodegradable material",
+      "example": "유기물은 자연적으로 분해되는 물질이다.",
+      "example_en": "Organic matter is material that naturally decomposes."
+    },
+    {
+      "korean": "음식물 쓰레기",
+      "english": "food waste; food scraps",
+      "example": "음식물 쓰레기는 따로 수거되어 동물 사료나 퇴비로 만들어진다.",
+      "example_en": "Food waste is collected separately and made into animal feed or compost."
+    },
+    {
+      "korean": "종이팩",
+      "english": "paper carton; tetra pak",
+      "example": "우유 종이팩은 일반 종이류가 아니라 별도로 분리수거해야 한다.",
+      "example_en": "Milk cartons should be separated separately, not with regular paper."
+    },
+    {
+      "korean": "플라스틱 오염",
+      "english": "plastic pollution",
+      "example": "플라스틱 오염은 해양 생물에 큰 피해를 입히고 있다.",
+      "example_en": "Plastic pollution is causing great harm to marine life."
+    },
+    {
+      "korean": "미세플라스틱",
+      "english": "microplastic",
+      "example": "미세플라스틱이 인간의 식품과 음용수에서 발견되고 있다.",
+      "example_en": "Microplastics are being found in human food and drinking water."
+    },
+    {
+      "korean": "일회용품",
+      "english": "single-use item; disposable product",
+      "example": "일회용품 사용을 줄이기 위해 재사용 가능한 가방을 이용하자.",
+      "example_en": "Let's use reusable bags to reduce single-use item consumption."
+    },
+    {
+      "korean": "업사이클",
+      "english": "upcycling; creative reuse",
+      "example": "오래된 옷을 업사이클해서 새로운 가방으로 만들 수 있다.",
+      "example_en": "You can upcycle old clothes into new bags."
+    },
+    {
+      "korean": "순환 경제",
+      "english": "circular economy",
+      "example": "순환 경제는 자원 낭비를 줄이고 환경을 보호하는 경제 모델이다.",
+      "example_en": "Circular economy is an economic model that reduces resource waste and protects the environment."
+    },
+    {
+      "korean": "전자 폐기물",
+      "english": "electronic waste; e-waste",
+      "example": "폐휴대폰과 오래된 컴퓨터는 전자 폐기물로 분류된다.",
+      "example_en": "Discarded mobile phones and old computers are classified as electronic waste."
+    },
+    {
+      "korean": "유해 폐기물",
+      "english": "hazardous waste; toxic waste",
+      "example": "배터리와 형광등은 유해 폐기물로 취급되어야 한다.",
+      "example_en": "Batteries and fluorescent lights should be treated as hazardous waste."
+    },
+    {
+      "korean": "분해성",
+      "english": "biodegradability; decomposability",
+      "example": "자연의 분해성을 고려하여 제품을 설계해야 한다.",
+      "example_en": "Products should be designed considering their natural biodegradability."
+    },
+    {
+      "korean": "재생 에너지",
+      "english": "renewable energy",
+      "example": "폐기물을 태워서 재생 에너지를 만드는 기술이 발전하고 있다.",
+      "example_en": "Technology that generates renewable energy by burning waste is advancing."
+    },
+    {
+      "korean": "폐자원",
+      "english": "waste resources; post-consumer waste",
+      "example": "폐자원을 새로운 자원으로 변환하는 것이 순환 경제의 핵심이다.",
+      "example_en": "Converting waste resources into new resources is the core of circular economy."
+    },
+    {
+      "korean": "환경오염",
+      "english": "environmental pollution",
+      "example": "부적절한 폐기물 처리는 환경오염을 야기한다.",
+      "example_en": "Improper waste disposal causes environmental pollution."
+    },
+    {
+      "korean": "용기 보증금",
+      "english": "container deposit; bottle deposit",
+      "example": "음료수 병을 반환하면 용기 보증금을 돌려받을 수 있다.",
+      "example_en": "You can get a container deposit refund by returning beverage bottles."
+    },
+    {
+      "korean": "재활용 센터",
+      "english": "recycling center",
+      "example": "재활용 센터에서는 분리수거한 물건들을 처리한다.",
+      "example_en": "Recycling centers process sorted recyclable materials."
+    },
+    {
+      "korean": "쓰레기 소각장",
+      "english": "incineration plant; garbage incinerator",
+      "example": "새로운 쓰레기 소각장이 지어지면서 주민들이 반대했다.",
+      "example_en": "Residents opposed the construction of a new garbage incineration plant."
+    },
+    {
+      "korean": "음식물 감량기",
+      "english": "food waste reducer; dehydrator",
+      "example": "음식물 감량기로 쓰레기를 줄이고 퇴비를 만든다.",
+      "example_en": "Food waste reducers decrease waste and create compost."
+    },
+    {
+      "korean": "재활용률",
+      "english": "recycling rate",
+      "example": "한국의 재활용률은 선진국 중에서 가장 높다.",
+      "example_en": "Korea's recycling rate is among the highest in developed countries."
+    },
+    {
+      "korean": "자원 낭비",
+      "english": "resource waste; waste of resources",
+      "example": "과도한 포장은 심각한 자원 낭비이다.",
+      "example_en": "Excessive packaging is serious resource waste."
+    },
+    {
+      "korean": "생분해성",
+      "english": "biodegradable; compostable",
+      "example": "생분해성 플라스틱이 일반 플라스틱을 대체할 수 있을까?",
+      "example_en": "Can biodegradable plastic replace regular plastic?"
+    },
+    {
+      "korean": "소비자 책임",
+      "english": "consumer responsibility; extended producer responsibility",
+      "example": "제품 포장을 줄이는 것은 소비자의 환경 책임이다.",
+      "example_en": "Reducing product packaging is part of consumer environmental responsibility."
+    },
+    {
+      "korean": "매립지 가스",
+      "english": "landfill gas",
+      "example": "매립지 가스는 온실가스로 대기 오염을 악화시킨다.",
+      "example_en": "Landfill gas is a greenhouse gas that worsens air pollution."
+    },
+    {
+      "korean": "침출액",
+      "english": "leachate; seepage",
+      "example": "매립지의 침출액이 지하수를 오염시킬 수 있다.",
+      "example_en": "Leachate from landfills can contaminate groundwater."
+    },
+    {
+      "korean": "재생 원료",
+      "english": "recycled raw material; virgin material replacement",
+      "example": "재생 원료를 사용하면 새로운 자원 채취를 줄일 수 있다.",
+      "example_en": "Using recycled raw materials can reduce new resource extraction."
+    },
+    {
+      "korean": "폐기물 처리비",
+      "english": "waste disposal fee",
+      "example": "늘어나는 폐기물 처리비로 생활비가 증가하고 있다.",
+      "example_en": "Rising waste disposal fees are increasing living costs."
+    },
+    {
+      "korean": "자동 선별 시설",
+      "english": "automated sorting facility",
+      "example": "자동 선별 시설은 AI로 재활용품을 분류한다.",
+      "example_en": "Automated sorting facilities use AI to classify recyclables."
+    },
+    {
+      "korean": "포장재 재활용",
+      "english": "packaging material recycling",
+      "example": "포장재 재활용을 늘리려면 기업의 협력이 필수적이다.",
+      "example_en": "Corporate cooperation is essential to increase packaging material recycling."
+    },
+    {
+      "korean": "생산자 책임 제도",
+      "english": "extended producer responsibility (EPR)",
+      "example": "생산자 책임 제도 아래서 기업들은 포장재 재활용을 지원해야 한다.",
+      "example_en": "Under extended producer responsibility, companies must support packaging recycling."
+    },
+    {
+      "korean": "퇴비화",
+      "english": "composting",
+      "example": "퇴비화를 통해 유기물을 비료로 변환한다.",
+      "example_en": "Through composting, organic matter is converted into fertilizer."
+    },
+    {
+      "korean": "바이오가스",
+      "english": "biogas",
+      "example": "음식물 쓰레기에서 바이오가스를 생성하는 기술이 개발되고 있다.",
+      "example_en": "Technology to generate biogas from food waste is being developed."
+    },
+    {
+      "korean": "환경 표지",
+      "english": "eco-label; environmental certification",
+      "example": "환경 표지가 있는 제품을 선택하면 환경 보호에 동참할 수 있다.",
+      "example_en": "Choosing products with eco-labels allows you to participate in environmental protection."
+    },
+    {
+      "korean": "제로 웨이스트",
+      "english": "zero waste",
+      "example": "제로 웨이스트 라이프스타일을 실천하려면 계획이 필요하다.",
+      "example_en": "Practicing a zero waste lifestyle requires planning."
+    },
+    {
+      "korean": "불태우는 방식",
+      "english": "thermal treatment; combustion method",
+      "example": "불태우는 방식은 폐기물 부피를 획기적으로 줄일 수 있다.",
+      "example_en": "Thermal treatment can dramatically reduce waste volume."
+    },
+    {
+      "korean": "매건 및 밀봉",
+      "english": "bagging and sealing; landfill capping",
+      "example": "매립지는 환경 오염을 막기 위해 최종적으로 매건 및 밀봉된다.",
+      "example_en": "Landfills are finally bagged and sealed to prevent environmental pollution."
+    }
+  ]
+}

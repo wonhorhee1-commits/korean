@@ -1,0 +1,242 @@
+{"주제별 단어 — 연극 (Topic: Theater & Performing Arts)": [
+  {
+    "korean": "무대",
+    "english": "stage",
+    "example": "그 배우는 무대 위에서 화려한 연기를 펼쳤다.",
+    "example_en": "The actor displayed a brilliant performance on stage."
+  },
+  {
+    "korean": "배우",
+    "english": "actor, actress",
+    "example": "유명한 배우가 주인공 역할을 맡았다.",
+    "example_en": "A famous actor took on the lead role."
+  },
+  {
+    "korean": "연기",
+    "english": "acting, performance",
+    "example": "그녀의 연기는 너무 자연스러워서 관객들이 감동했다.",
+    "example_en": "Her acting was so natural that the audience was moved."
+  },
+  {
+    "korean": "극본",
+    "english": "script, play text",
+    "example": "배우들은 극본을 여러 번 읽으며 역할을 분석했다.",
+    "example_en": "The actors read the script multiple times and analyzed their roles."
+  },
+  {
+    "korean": "극작가",
+    "english": "playwright",
+    "example": "이 극작가는 사회 문제를 다루는 작품을 많이 썼다.",
+    "example_en": "This playwright wrote many works that address social issues."
+  },
+  {
+    "korean": "연출",
+    "english": "direction, directing",
+    "example": "감독의 연출이 뛰어나서 이 공연은 성공했다.",
+    "example_en": "The director's direction was excellent, making the performance a success."
+  },
+  {
+    "korean": "연출가",
+    "english": "director",
+    "example": "유명한 연출가가 이 연극을 무대에 올렸다.",
+    "example_en": "A renowned director brought this play to the stage."
+  },
+  {
+    "korean": "대사",
+    "english": "dialogue, lines",
+    "example": "배우들은 대사를 완벽하게 외워야 했다.",
+    "example_en": "The actors had to memorize the lines perfectly."
+  },
+  {
+    "korean": "의상",
+    "english": "costume",
+    "example": "이번 공연의 의상은 조선시대 복장을 정확히 재현했다.",
+    "example_en": "The costumes for this performance accurately recreated Joseon-era clothing."
+  },
+  {
+    "korean": "분장",
+    "english": "makeup, face makeup",
+    "example": "분장사가 배우들의 얼굴을 전문적으로 꾸몄다.",
+    "example_en": "The makeup artist professionally styled the actors' faces."
+  },
+  {
+    "korean": "소품",
+    "english": "prop, property",
+    "example": "무대에는 검, 촛불, 편지 같은 여러 소품들이 있었다.",
+    "example_en": "There were various props on stage including a sword, candles, and a letter."
+  },
+  {
+    "korean": "조명",
+    "english": "lighting",
+    "example": "조명이 이 장면의 분위기를 완전히 바꾸어 놓았다.",
+    "example_en": "The lighting completely changed the mood of this scene."
+  },
+  {
+    "korean": "음향",
+    "english": "sound, acoustics",
+    "example": "공연장의 음향 시설이 최신식으로 설치되어 있다.",
+    "example_en": "The theater's sound system was installed with the latest equipment."
+  },
+  {
+    "korean": "무대 설정",
+    "english": "stage setting, set design",
+    "example": "이 연극의 무대 설정은 19세기 런던의 거리를 표현했다.",
+    "example_en": "This play's stage setting represented a 19th-century London street."
+  },
+  {
+    "korean": "관객",
+    "english": "audience, spectator",
+    "example": "관객들은 마지막 장면에서 일어나 박수를 쳤다.",
+    "example_en": "The audience stood up and applauded at the final scene."
+  },
+  {
+    "korean": "공연",
+    "english": "performance, show",
+    "example": "이번 공연은 세 주간 계속될 예정이다.",
+    "example_en": "This performance is scheduled to run for three weeks."
+  },
+  {
+    "korean": "극장",
+    "english": "theater",
+    "example": "그 극장은 500석의 객석을 가지고 있다.",
+    "example_en": "That theater has 500 seats."
+  },
+  {
+    "korean": "막",
+    "english": "curtain",
+    "example": "막이 올라가면서 관객들은 숨을 죽였다.",
+    "example_en": "As the curtain rose, the audience held their breath."
+  },
+  {
+    "korean": "커튼콜",
+    "english": "curtain call",
+    "example": "커튼콜 때 배우들은 여러 번 인사를 반복했다.",
+    "example_en": "During the curtain call, the actors bowed several times."
+  },
+  {
+    "korean": "리허설",
+    "english": "rehearsal",
+    "example": "본공연 전에 철저한 리허설이 필요하다.",
+    "example_en": "Thorough rehearsal is necessary before the actual performance."
+  },
+  {
+    "korean": "무용",
+    "english": "dance",
+    "example": "이 무용은 전통 한국 춤의 현대적 해석이다.",
+    "example_en": "This dance is a modern interpretation of traditional Korean dance."
+  },
+  {
+    "korean": "무용수",
+    "english": "dancer",
+    "example": "무용수들의 우아한 움직임이 관객들을 매료시켰다.",
+    "example_en": "The dancers' graceful movements captivated the audience."
+  },
+  {
+    "korean": "발레",
+    "english": "ballet",
+    "example": "그 발레 공연은 차이콥스키의 음악으로 구성되었다.",
+    "example_en": "The ballet performance was composed of Tchaikovsky's music."
+  },
+  {
+    "korean": "오페라",
+    "english": "opera",
+    "example": "오페라의 화려한 성악과 음악은 관객들을 감동시켰다.",
+    "example_en": "The opera's magnificent singing and music moved the audience."
+  },
+  {
+    "korean": "뮤지컬",
+    "english": "musical",
+    "example": "그 뮤지컬은 유명한 영화를 바탕으로 만들어졌다.",
+    "example_en": "That musical was based on a famous film."
+  },
+  {
+    "korean": "판소리",
+    "english": "pansori (Korean narrative singing)",
+    "example": "판소리는 한 명의 성악가와 고수의 북소리로 이루어진다.",
+    "example_en": "Pansori consists of one vocalist and a drummer's accompaniment."
+  },
+  {
+    "korean": "탈춤",
+    "english": "talchum (Korean mask dance)",
+    "example": "탈춤은 전통 한국 문화를 대표하는 예술 형식이다.",
+    "example_en": "Talchum is an art form that represents traditional Korean culture."
+  },
+  {
+    "korean": "안무",
+    "english": "choreography",
+    "example": "이 안무는 현대 무용의 기법과 전통 춤을 결합했다.",
+    "example_en": "This choreography combined modern dance techniques with traditional dance."
+  },
+  {
+    "korean": "안무가",
+    "english": "choreographer",
+    "example": "유명한 안무가가 이번 공연의 무용을 담당했다.",
+    "example_en": "A renowned choreographer was in charge of the dance for this performance."
+  },
+  {
+    "korean": "무대 공포증",
+    "english": "stage fright",
+    "example": "비록 무대 공포증이 있었지만 그는 훌륭하게 공연했다.",
+    "example_en": "Despite having stage fright, he performed excellently."
+  },
+  {
+    "korean": "프롤로그",
+    "english": "prologue",
+    "example": "프롤로그에서 배우가 이 이야기의 배경을 설명했다.",
+    "example_en": "In the prologue, an actor explained the background of this story."
+  },
+  {
+    "korean": "에필로그",
+    "english": "epilogue",
+    "example": "에필로그는 주인공의 미래를 암시했다.",
+    "example_en": "The epilogue hinted at the protagonist's future."
+  },
+  {
+    "korean": "객석",
+    "english": "audience seating, theater seats",
+    "example": "객석은 최근에 새로운 의자로 교체되었다.",
+    "example_en": "The audience seating was recently replaced with new chairs."
+  },
+  {
+    "korean": "중막",
+    "english": "intermission, act break",
+    "example": "1막 후 20분간의 중막이 있었다.",
+    "example_en": "There was a 20-minute intermission after the first act."
+  },
+  {
+    "korean": "앙코르",
+    "english": "encore",
+    "example": "관객들의 열렬한 박수에 배우들이 앙코르로 한 곡을 더 불렀다.",
+    "example_en": "The audience's enthusiastic applause prompted the actors to sing one more song as an encore."
+  },
+  {
+    "korean": "스포트라이트",
+    "english": "spotlight",
+    "example": "스포트라이트가 무대 중앙의 배우를 비추었다.",
+    "example_en": "The spotlight illuminated the actor in the center of the stage."
+  },
+  {
+    "korean": "비극",
+    "english": "tragedy",
+    "example": "이 연극은 고전 비극을 현대적으로 각색했다.",
+    "example_en": "This play is a modern adaptation of a classical tragedy."
+  },
+  {
+    "korean": "희극",
+    "english": "comedy",
+    "example": "희극은 관객들에게 웃음과 즐거움을 주었다.",
+    "example_en": "The comedy brought laughter and joy to the audience."
+  },
+  {
+    "korean": "독백",
+    "english": "monologue, soliloquy",
+    "example": "주인공의 독백 장면은 이 연극의 백미였다.",
+    "example_en": "The protagonist's monologue scene was the highlight of the play."
+  },
+  {
+    "korean": "백스테이지",
+    "english": "backstage",
+    "example": "백스테이지에서 배우들은 다음 장면을 준비하고 있었다.",
+    "example_en": "Backstage, the actors were preparing for the next scene."
+  }
+]}

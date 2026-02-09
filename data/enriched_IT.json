@@ -1,0 +1,284 @@
+{
+  "주제별 단어 — IT (Topic: IT)": [
+    {
+      "korean": "원천 기술",
+      "english": "core/source technology",
+      "example": "원천 기술 없이는 글로벌 경쟁에서 살아남기 어렵다.",
+      "example_en": "It's hard to survive in global competition without core technology.",
+      "notes": "Often used in collocations: 원천기술 개발, 원천기술 확보. Key concept in Korean tech industry strategy."
+    },
+    {
+      "korean": "개발 환경",
+      "english": "development environment",
+      "example": "개발 환경을 먼저 세팅해야 코딩을 시작할 수 있다.",
+      "example_en": "You need to set up the development environment before you can start coding.",
+      "notes": "Sino-Korean (環境). Common collocations: 개발환경 구축, 개발환경 세팅. Related: 실행 환경 (runtime environment)."
+    },
+    {
+      "korean": "소스 코드",
+      "english": "source code",
+      "example": "소스 코드를 공개하면 누구나 기여할 수 있다.",
+      "example_en": "If you open the source code, anyone can contribute.",
+      "notes": "Loanword origin (English 'source code'). Common collocations: 소스코드 공개, 소스코드 관리. Related: 코드 (code)."
+    },
+    {
+      "korean": "배포하다",
+      "english": "to deploy; to release (software)",
+      "example": "새 버전을 금요일에 배포하면 주말에 문제가 터질 수 있다.",
+      "example_en": "If you deploy the new version on Friday, issues could pop up over the weekend.",
+      "notes": "Regular verb. Used in technical/business contexts: 배포 일정, 배포 버전. Related: 릴리스 (release, loanword)."
+    },
+    {
+      "korean": "오류를 잡다",
+      "english": "to fix a bug; to debug",
+      "example": "하루 종일 오류를 잡느라 다른 작업을 못 했다.",
+      "example_en": "I spent all day debugging and couldn't do any other work.",
+      "notes": "Colloquial phrase: 오류를 잡다/해결하다. Also: 버그를 잡다. Related: 에러 (error, loanword)."
+    },
+    {
+      "korean": "유지 보수",
+      "english": "maintenance (of software/systems)",
+      "example": "유지 보수 비용이 개발 비용보다 더 클 수 있다.",
+      "example_en": "Maintenance costs can be greater than development costs.",
+      "notes": "Sino-Korean (保守). Collocations: 유지보수 비용, 유지보수 기간. Related: 지원 (support)."
+    },
+    {
+      "korean": "확장성",
+      "english": "scalability",
+      "example": "확장성을 고려하지 않으면 나중에 구조를 다시 짜야 한다.",
+      "example_en": "If you don't consider scalability, you'll have to restructure later.",
+      "notes": "Sino-Korean (擴張). Collocations: 확장성 고려, 확장성 있는 설계. Related: 확장 가능한."
+    },
+    {
+      "korean": "의존성",
+      "english": "dependency (software library)",
+      "example": "외부 라이브러리 의존성이 너무 많으면 관리가 복잡해진다.",
+      "example_en": "Too many external library dependencies make management complicated.",
+      "notes": "Sino-Korean (依存). Collocations: 의존성 관리, 의존성 충돌, 의존성 해결. Related: 라이브러리 (library)."
+    },
+    {
+      "korean": "병목 현상",
+      "english": "bottleneck (performance)",
+      "example": "데이터베이스 조회가 병목 현상을 일으키고 있다.",
+      "example_en": "Database queries are causing a bottleneck.",
+      "notes": "Sino-Korean (瓶頸). Collocations: 병목 현상 발생, 병목 현상 해결. Used in performance optimization contexts."
+    },
+    {
+      "korean": "리팩토링",
+      "english": "refactoring (code restructuring)",
+      "example": "기능 추가 전에 기존 코드 리팩토링부터 해야 한다.",
+      "example_en": "Before adding features, you need to refactor the existing code first.",
+      "notes": "Loanword (English 'refactoring'). Collocations: 코드 리팩토링, 리팩토링 작업. Related: 개선 (improvement)."
+    },
+    {
+      "korean": "취약점",
+      "english": "vulnerability (security)",
+      "example": "정기적으로 취약점 점검을 해야 해킹을 막을 수 있다.",
+      "example_en": "Regular vulnerability checks are needed to prevent hacking.",
+      "notes": "Sino-Korean (脆弱). Collocations: 보안 취약점, 취약점 점검. Related: 보안 (security, Sino-Korean)."
+    },
+    {
+      "korean": "보안 패치",
+      "english": "security patch",
+      "example": "보안 패치가 나오면 즉시 적용하는 것이 원칙이다.",
+      "example_en": "The principle is to apply security patches immediately when they come out.",
+      "notes": "Sino-Korean (補安). Collocations: 보안 패치 적용, 패치 배포. Related: 업데이트 (update, loanword)."
+    },
+    {
+      "korean": "침해 사고",
+      "english": "security breach; intrusion incident",
+      "example": "대규모 침해 사고로 수백만 명의 개인정보가 유출됐다.",
+      "example_en": "Millions of people's personal information was leaked in a large-scale security breach.",
+      "notes": "Sino-Korean (侵害). Collocations: 침해 사고 발생, 침해 사고 수사. Related: 보안 침해 (security breach)."
+    },
+    {
+      "korean": "복호화",
+      "english": "decryption",
+      "example": "암호화된 데이터를 복호화하려면 올바른 키가 필요하다.",
+      "example_en": "You need the correct key to decrypt encrypted data.",
+      "notes": "Sino-Korean (復號). Pair with 암호화 (encryption). Collocations: 데이터 복호화, 복호화 키."
+    },
+    {
+      "korean": "암호화",
+      "english": "encryption",
+      "example": "개인정보는 반드시 암호화해서 저장해야 한다.",
+      "example_en": "Personal information must be stored encrypted.",
+      "notes": "Sino-Korean (暗號). Pair with 복호화 (decryption). Collocations: 데이터 암호화, 암호화 알고리즘."
+    },
+    {
+      "korean": "접근 권한",
+      "english": "access permission; authorization",
+      "example": "불필요한 접근 권한을 줄여야 보안이 강화된다.",
+      "example_en": "Reducing unnecessary access permissions strengthens security.",
+      "notes": "Sino-Korean (接近). Collocations: 접근 권한 부여, 접근 권한 제한. Related: 인증 (authentication)."
+    },
+    {
+      "korean": "이중 인증",
+      "english": "two-factor authentication (2FA)",
+      "example": "이중 인증을 설정하면 계정 도용 위험이 크게 줄어든다.",
+      "example_en": "Setting up two-factor authentication greatly reduces the risk of account theft.",
+      "notes": "Sino-Korean (二重) + 認證. Collocations: 이중 인증 설정, 이중 인증 활성화. Also: 다중 인증."
+    },
+    {
+      "korean": "악성 코드",
+      "english": "malware; malicious code",
+      "example": "의심스러운 첨부 파일을 열면 악성 코드에 감염될 수 있다.",
+      "example_en": "Opening suspicious attachments can lead to malware infection.",
+      "notes": "Sino-Korean (惡性). Collocations: 악성 코드 감염, 악성 코드 제거. Related: 바이러스 (virus, loanword)."
+    },
+    {
+      "korean": "방화벽",
+      "english": "firewall",
+      "example": "방화벽 설정을 잘못하면 외부 공격에 노출된다.",
+      "example_en": "Misconfiguring the firewall exposes the system to external attacks.",
+      "notes": "Sino-Korean (防火). Collocations: 방화벽 설정, 방화벽 규칙. Related: 네트워크 보안 (network security)."
+    },
+    {
+      "korean": "피싱",
+      "english": "phishing",
+      "example": "최근 피싱 수법이 점점 정교해지고 있다.",
+      "example_en": "Phishing techniques are becoming increasingly sophisticated recently.",
+      "notes": "Loanword (English 'phishing'). Collocations: 피싱 사기, 피싱 메일. Related: 스팸 (spam, loanword)."
+    },
+    {
+      "korean": "정형 데이터",
+      "english": "structured data",
+      "example": "정형 데이터는 표 형태로 깔끔하게 정리된 데이터를 말한다.",
+      "example_en": "Structured data refers to data neatly organized in tabular form.",
+      "notes": "Sino-Korean (定形). Collocations: 정형 데이터 분석, 정형 데이터 처리. Opposite of 비정형."
+    },
+    {
+      "korean": "비정형 데이터",
+      "english": "unstructured data",
+      "example": "이미지, 영상, 텍스트 등은 비정형 데이터에 해당한다.",
+      "example_en": "Images, video, text, etc. fall under unstructured data.",
+      "notes": "Sino-Korean (非定形). Collocations: 비정형 데이터 처리, 비정형 데이터 분석. Includes images, videos, text."
+    },
+    {
+      "korean": "학습 모델",
+      "english": "trained model; learning model (AI/ML)",
+      "example": "학습 모델의 정확도를 높이려면 양질의 데이터가 필요하다.",
+      "example_en": "High-quality data is needed to improve the accuracy of a learning model.",
+      "notes": "Sino-Korean (學習). Collocations: 학습 모델 구축, 학습 모델 평가, 모델 성능. Related: 모델 (model, loanword)."
+    },
+    {
+      "korean": "과적합",
+      "english": "overfitting (machine learning)",
+      "example": "과적합이 발생하면 새로운 데이터에 대한 예측력이 떨어진다.",
+      "example_en": "When overfitting occurs, predictive power on new data decreases.",
+      "notes": "Sino-Korean (過適合). Collocations: 과적합 현상, 과적합 방지, 과적합 문제. Opposite of 과소적합."
+    },
+    {
+      "korean": "편향",
+      "english": "bias (in data/AI)",
+      "example": "학습 데이터에 편향이 있으면 결과도 왜곡된다.",
+      "example_en": "If there is bias in the training data, the results are also distorted.",
+      "notes": "Sino-Korean (偏向). Collocations: 데이터 편향, 편향 제거, 편향 문제. Important in AI ethics."
+    },
+    {
+      "korean": "자연어 처리",
+      "english": "natural language processing (NLP)",
+      "example": "자연어 처리 기술 덕분에 기계가 사람 말을 이해할 수 있다.",
+      "example_en": "Thanks to NLP technology, machines can understand human language.",
+      "notes": "Sino-Korean (自然語). Collocations: 자연어 처리 기술, NLP 모델. Related: 기계 번역 (machine translation)."
+    },
+    {
+      "korean": "생성형 인공지능",
+      "english": "generative AI",
+      "example": "생성형 인공지능이 글, 그림, 음악까지 만들어 내고 있다.",
+      "example_en": "Generative AI is producing text, images, and even music.",
+      "notes": "Collocations: 생성형 AI 모델, 생성형 AI 기술. Recent term for generative systems like ChatGPT."
+    },
+    {
+      "korean": "딥러닝",
+      "english": "deep learning",
+      "example": "딥러닝 기반 번역이 기존 방식보다 자연스럽다.",
+      "example_en": "Deep learning-based translation is more natural than conventional methods.",
+      "notes": "Loanword (English 'deep learning'). Collocations: 딥러닝 기반, 딥러닝 알고리즘, 신경망. Related: 신경망 (neural network)."
+    },
+    {
+      "korean": "강화 학습",
+      "english": "reinforcement learning",
+      "example": "강화 학습으로 훈련한 AI가 바둑에서 인간을 이겼다.",
+      "example_en": "An AI trained with reinforcement learning beat humans in Go.",
+      "notes": "Sino-Korean (強化). Collocations: 강화 학습 기법, 강화 학습 알고리즘. Used in AI training contexts."
+    },
+    {
+      "korean": "전처리",
+      "english": "preprocessing (data)",
+      "example": "분석 전에 데이터 전처리 과정이 반드시 필요하다.",
+      "example_en": "A data preprocessing step is essential before analysis.",
+      "notes": "Sino-Korean (前處理). Collocations: 데이터 전처리, 전처리 과정, 전처리 단계. Essential for data analysis."
+    },
+    {
+      "korean": "디지털 문해력",
+      "english": "digital literacy",
+      "example": "디지털 문해력은 현대 사회의 필수 역량이다.",
+      "example_en": "Digital literacy is an essential competency in modern society.",
+      "notes": "Sino-Korean (文識). Collocations: 디지털 문해력 강화, 디지털 문해력 교육. Growing social importance."
+    },
+    {
+      "korean": "개인정보 유출",
+      "english": "personal data leak",
+      "example": "개인정보 유출 사고가 반복되면서 불신이 커졌다.",
+      "example_en": "Repeated personal data leaks have increased distrust.",
+      "notes": "Sino-Korean (流出). Collocations: 개인정보 유출 사고, 유출 사건. Related: 데이터 침해 (data breach)."
+    },
+    {
+      "korean": "전자 서명",
+      "english": "digital signature; electronic signature",
+      "example": "계약서에 전자 서명을 하면 종이 문서가 필요 없다.",
+      "example_en": "If you use a digital signature on contracts, paper documents are unnecessary.",
+      "notes": "Sino-Korean (電子). Collocations: 전자 서명 인증, 전자 서명 법률. Related: 전자 문서 (electronic document)."
+    },
+    {
+      "korean": "클라우드 저장소",
+      "english": "cloud storage",
+      "example": "클라우드 저장소에 백업해 두면 기기 분실에도 안전하다.",
+      "example_en": "If you back up to cloud storage, you're safe even if you lose the device.",
+      "notes": "Loanword (English 'cloud'). Collocations: 클라우드 저장소 이용, 클라우드 백업, 클라우드 서비스. Related: 클라우드 컴퓨팅."
+    },
+    {
+      "korean": "사물 인터넷",
+      "english": "Internet of Things (IoT)",
+      "example": "사물 인터넷으로 집 밖에서도 가전을 제어할 수 있다.",
+      "example_en": "With IoT, you can control home appliances from outside the house.",
+      "notes": "Sino-Korean (物事) + 인터넷. Collocations: 사물인터넷 기기, 사물인터넷 기술. Also: IoT (English acronym)."
+    },
+    {
+      "korean": "가상 현실",
+      "english": "virtual reality (VR)",
+      "example": "가상 현실 기술이 교육 분야에서 활용되고 있다.",
+      "example_en": "Virtual reality technology is being used in the education sector.",
+      "notes": "Sino-Korean (假想). Collocations: 가상 현실 기술, 가상 현실 체험. Also: VR (English acronym)."
+    },
+    {
+      "korean": "증강 현실",
+      "english": "augmented reality (AR)",
+      "example": "증강 현실 앱으로 가구 배치를 미리 확인할 수 있다.",
+      "example_en": "You can preview furniture placement using an augmented reality app.",
+      "notes": "Sino-Korean (增强). Collocations: 증강 현실 앱, 증강 현실 기술. Also: AR (English acronym)."
+    },
+    {
+      "korean": "자동화",
+      "english": "automation",
+      "example": "반복 작업의 자동화로 업무 효율이 크게 올랐다.",
+      "example_en": "Work efficiency greatly improved through the automation of repetitive tasks.",
+      "notes": "Sino-Korean (自動). Collocations: 자동화 도구, 자동화 기술, 자동화 시스템. Related: 로봇 (robot, loanword)."
+    },
+    {
+      "korean": "알고리즘 편향",
+      "english": "algorithmic bias",
+      "example": "알고리즘 편향이 채용 과정에서 차별을 유발할 수 있다.",
+      "example_en": "Algorithmic bias can cause discrimination in the hiring process.",
+      "notes": "Sino-Korean (算法). Collocations: 알고리즘 편향 문제, 알고리즘 편향 해소. Key term in AI ethics."
+    },
+    {
+      "korean": "디지털 격차",
+      "english": "digital divide",
+      "example": "노인 세대의 디지털 격차가 사회적 문제로 대두되고 있다.",
+      "example_en": "The digital divide among the elderly generation is emerging as a social issue.",
+      "notes": "Sino-Korean (格差). Collocations: 디지털 격차 해소, 디지털 격차 심화. Social issue in modern Korea."
+    }
+  ]
+}

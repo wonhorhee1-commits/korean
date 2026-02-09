@@ -1,0 +1,250 @@
+{
+  "주제별 단어 — 수의학 (Topic: Veterinary Medicine)": [
+    {
+      "korean": "진단",
+      "english": "diagnosis",
+      "example": "수의사는 혈액 검사를 통해 정확한 진단을 내렸다.",
+      "example_en": "The veterinarian made an accurate diagnosis through a blood test."
+    },
+    {
+      "korean": "예방접종",
+      "english": "vaccination",
+      "example": "강아지는 8주일 때부터 예방접종을 시작해야 한다.",
+      "example_en": "Puppies should start vaccinations from 8 weeks of age."
+    },
+    {
+      "korean": "수술",
+      "english": "surgery",
+      "example": "고양이의 중성화 수술은 5분 이내에 완료되었다.",
+      "example_en": "The cat's spaying surgery was completed in less than 5 minutes."
+    },
+    {
+      "korean": "마취",
+      "english": "anesthesia",
+      "example": "큰 수술을 할 때는 전신 마취가 필요하다.",
+      "example_en": "General anesthesia is necessary for major surgery."
+    },
+    {
+      "korean": "중성화",
+      "english": "neutering/spaying",
+      "example": "중성화 수술은 반려동물의 건강과 복지를 위해 중요하다.",
+      "example_en": "Neutering is important for the health and welfare of pets."
+    },
+    {
+      "korean": "기생충",
+      "english": "parasite",
+      "example": "개는 매달 기생충 예방약을 먹어야 한다.",
+      "example_en": "Dogs need to take parasite prevention medication every month."
+    },
+    {
+      "korean": "켄넬 기침",
+      "english": "kennel cough",
+      "example": "켄넬 기침은 강아지들이 함께 있는 환경에서 쉽게 전파된다.",
+      "example_en": "Kennel cough easily spreads in environments where dogs are together."
+    },
+    {
+      "korean": "개 디스템퍼",
+      "english": "canine distemper",
+      "example": "개 디스템퍼는 생명을 위협하는 바이러스 감염이다.",
+      "example_en": "Canine distemper is a life-threatening viral infection."
+    },
+    {
+      "korean": "광견병",
+      "english": "rabies",
+      "example": "광견병은 매우 위험하므로 정기적인 예방접종이 필수다.",
+      "example_en": "Rabies is very dangerous, so regular vaccination is essential."
+    },
+    {
+      "korean": "고양이 백혈병",
+      "english": "feline leukemia",
+      "example": "고양이 백혈병은 주로 감염된 고양이의 체액을 통해 전파된다.",
+      "example_en": "Feline leukemia is mainly transmitted through bodily fluids of infected cats."
+    },
+    {
+      "korean": "엑스레이",
+      "english": "X-ray",
+      "example": "수의사는 골절 여부를 확인하기 위해 엑스레이를 촬영했다.",
+      "example_en": "The veterinarian took an X-ray to check for fractures."
+    },
+    {
+      "korean": "초음파",
+      "english": "ultrasound",
+      "example": "임신한 개의 건강 상태를 확인하기 위해 초음파 검사를 했다.",
+      "example_en": "An ultrasound was performed to check the health of the pregnant dog."
+    },
+    {
+      "korean": "혈액 검사",
+      "english": "blood test",
+      "example": "정기적인 혈액 검사는 질병을 조기에 발견하는 데 도움이 된다.",
+      "example_en": "Regular blood tests help detect diseases early."
+    },
+    {
+      "korean": "격리",
+      "english": "quarantine",
+      "example": "새로운 반려동물을 들이기 전에 2주간 격리하는 것이 좋다.",
+      "example_en": "It's good to quarantine a new pet for 2 weeks before introducing it."
+    },
+    {
+      "korean": "안락사",
+      "english": "euthanasia",
+      "example": "말기 질환을 앓는 반려동물의 경우 수의사와 안락사에 대해 상담한다.",
+      "example_en": "For pets suffering from terminal illness, owners consult with the veterinarian about euthanasia."
+    },
+    {
+      "korean": "마이크로칩",
+      "english": "microchip",
+      "example": "마이크로칩 삽입은 반려동물을 잃어버렸을 때 찾는 데 도움이 된다.",
+      "example_en": "Microchip implantation helps locate lost pets."
+    },
+    {
+      "korean": "청진기",
+      "english": "stethoscope",
+      "example": "수의사는 청진기로 개의 심장 음을 들었다.",
+      "example_en": "The veterinarian listened to the dog's heart sounds with a stethoscope."
+    },
+    {
+      "korean": "처방약",
+      "english": "prescription medication",
+      "example": "수의사의 처방약을 지시대로 복용해야 한다.",
+      "example_en": "You must take prescription medications as directed by the veterinarian."
+    },
+    {
+      "korean": "재활 치료",
+      "english": "rehabilitation therapy",
+      "example": "수술 후 재활 치료는 회복 속도를 높인다.",
+      "example_en": "Rehabilitation therapy after surgery speeds up recovery."
+    },
+    {
+      "korean": "호스피스 케어",
+      "english": "hospice care",
+      "example": "생명이 남아있는 동안 호스피스 케어로 통증을 완화할 수 있다.",
+      "example_en": "Hospice care can alleviate pain while the animal's life remains."
+    },
+    {
+      "korean": "동물 복지",
+      "english": "animal welfare",
+      "example": "동물 복지는 수의사의 중요한 책임 중 하나다.",
+      "example_en": "Animal welfare is one of the veterinarian's important responsibilities."
+    },
+    {
+      "korean": "항생제",
+      "english": "antibiotic",
+      "example": "세균 감염을 치료하기 위해 항생제를 처방했다.",
+      "example_en": "Antibiotics were prescribed to treat the bacterial infection."
+    },
+    {
+      "korean": "예방약",
+      "english": "preventive medication",
+      "example": "월별 예방약으로 기생충과 벼룩을 방지할 수 있다.",
+      "example_en": "Monthly preventive medication can prevent parasites and fleas."
+    },
+    {
+      "korean": "항염증제",
+      "english": "anti-inflammatory",
+      "example": "관절염으로 인한 통증을 줄이기 위해 항염증제를 투여한다.",
+      "example_en": "Anti-inflammatory medication is administered to reduce pain from arthritis."
+    },
+    {
+      "korean": "진정제",
+      "english": "sedative",
+      "example": "불안한 반려동물을 안정시키기 위해 진정제를 사용할 수 있다.",
+      "example_en": "Sedatives can be used to calm anxious pets."
+    },
+    {
+      "korean": "백신",
+      "english": "vaccine",
+      "example": "핵심 백신은 모든 개와 고양이에게 권장된다.",
+      "example_en": "Core vaccines are recommended for all dogs and cats."
+    },
+    {
+      "korean": "방사선 치료",
+      "english": "radiotherapy",
+      "example": "암 치료를 위해 방사선 치료가 필요할 수 있다.",
+      "example_en": "Radiotherapy may be necessary for cancer treatment."
+    },
+    {
+      "korean": "화학 치료",
+      "english": "chemotherapy",
+      "example": "종양 제거 후 화학 치료를 진행하기도 한다.",
+      "example_en": "Chemotherapy may be performed after tumor removal."
+    },
+    {
+      "korean": "임상 검사",
+      "english": "clinical examination",
+      "example": "정기적인 임상 검사는 건강 문제를 조기에 발견한다.",
+      "example_en": "Regular clinical examinations detect health problems early."
+    },
+    {
+      "korean": "전문의",
+      "english": "specialist",
+      "example": "복잡한 수술의 경우 동물 전문의의 진료를 받는 것이 좋다.",
+      "example_en": "For complex surgeries, it's good to consult with an animal specialist."
+    },
+    {
+      "korean": "응급실",
+      "english": "emergency room",
+      "example": "심각한 외상을 입은 반려동물은 즉시 응급실로 가야 한다.",
+      "example_en": "A pet with severe trauma should go to the emergency room immediately."
+    },
+    {
+      "korean": "신경학적 검사",
+      "english": "neurological examination",
+      "example": "신경 손상이 의심될 때 신경학적 검사를 수행한다.",
+      "example_en": "A neurological examination is performed when nerve damage is suspected."
+    },
+    {
+      "korean": "피부 질환",
+      "english": "dermatological condition",
+      "example": "지속적인 가려움증은 피부 질환의 신호일 수 있다.",
+      "example_en": "Persistent itching can be a sign of a dermatological condition."
+    },
+    {
+      "korean": "안과 검사",
+      "english": "ophthalmologic examination",
+      "example": "안과 검사로 각막 궤양이 발견되었다.",
+      "example_en": "An ophthalmologic examination revealed a corneal ulcer."
+    },
+    {
+      "korean": "치과 청소",
+      "english": "dental cleaning",
+      "example": "나이 든 강아지는 정기적인 치과 청소가 필요하다.",
+      "example_en": "Older dogs need regular dental cleaning."
+    },
+    {
+      "korean": "알레르기 검사",
+      "english": "allergy testing",
+      "example": "반복되는 피부 문제는 알레르기 검사로 원인을 파악할 수 있다.",
+      "example_en": "Recurring skin problems can be diagnosed through allergy testing."
+    },
+    {
+      "korean": "식이 관리",
+      "english": "dietary management",
+      "example": "특정 질환이 있는 반려동물은 식이 관리가 중요하다.",
+      "example_en": "Dietary management is important for pets with certain conditions."
+    },
+    {
+      "korean": "재발 방지",
+      "english": "recurrence prevention",
+      "example": "질병의 재발 방지를 위해 정기적인 검진이 필수다.",
+      "example_en": "Regular check-ups are essential for recurrence prevention."
+    },
+    {
+      "korean": "임상 증상",
+      "english": "clinical symptom",
+      "example": "임상 증상이 나타나기 전에 질병을 발견하는 것이 이상적이다.",
+      "example_en": "Detecting disease before clinical symptoms appear is ideal."
+    },
+    {
+      "korean": "진통제",
+      "english": "pain reliever/analgesic",
+      "example": "수술 후 반려동물의 불편함을 줄이기 위해 진통제를 처방한다.",
+      "example_en": "Pain relievers are prescribed to reduce discomfort after surgery."
+    },
+    {
+      "korean": "염증",
+      "english": "inflammation",
+      "example": "감염된 상처는 염증이 생기기 쉽다.",
+      "example_en": "Infected wounds are prone to inflammation."
+    }
+  ]
+}

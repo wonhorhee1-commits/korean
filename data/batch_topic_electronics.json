@@ -1,0 +1,250 @@
+{
+  "주제별 단어 — 전자기기 (Topic: Electronics & Gadgets)": [
+    {
+      "korean": "반도체",
+      "english": "semiconductor",
+      "example": "최신 스마트폰의 반도체 기술은 에너지 효율을 크게 개선했다.",
+      "example_en": "The latest smartphone's semiconductor technology greatly improved energy efficiency."
+    },
+    {
+      "korean": "회로판",
+      "english": "circuit board / PCB",
+      "example": "노트북의 회로판에 물이 들어가면 단락이 발생할 수 있다.",
+      "example_en": "If water gets into a laptop's circuit board, it can cause a short circuit."
+    },
+    {
+      "korean": "칩셋",
+      "english": "chipset",
+      "example": "이 메인보드의 칩셋은 최신 CPU와 완벽하게 호환된다.",
+      "example_en": "This motherboard's chipset is fully compatible with the latest CPU."
+    },
+    {
+      "korean": "마더보드",
+      "english": "motherboard",
+      "example": "데스크톱 컴퓨터를 조립할 때 마더보드가 가장 중요한 부품이다.",
+      "example_en": "When assembling a desktop computer, the motherboard is the most critical component."
+    },
+    {
+      "korean": "중앙처리장치",
+      "english": "CPU / central processing unit",
+      "example": "고사양 게임을 하려면 강력한 중앙처리장치가 필수다.",
+      "example_en": "A powerful CPU is essential for playing high-end games."
+    },
+    {
+      "korean": "그래픽처리장치",
+      "english": "GPU / graphics processing unit",
+      "example": "4K 영상을 편집할 때는 고성능 그래픽처리장치가 필요하다.",
+      "example_en": "A high-performance GPU is needed when editing 4K videos."
+    },
+    {
+      "korean": "메모리",
+      "english": "memory / RAM",
+      "example": "이 컴퓨터는 16GB의 메모리로 충분히 빠른 속도를 낸다.",
+      "example_en": "This computer runs at sufficient speed with 16GB of memory."
+    },
+    {
+      "korean": "SSD",
+      "english": "solid state drive",
+      "example": "기계식 하드드라이브를 SSD로 교체하면 부팅 속도가 크게 빨라진다.",
+      "example_en": "Replacing a mechanical hard drive with an SSD significantly speeds up boot time."
+    },
+    {
+      "korean": "HDD",
+      "english": "hard disk drive",
+      "example": "대용량 파일을 저장하려면 HDD를 추가로 장착하는 것이 경제적이다.",
+      "example_en": "Installing an additional HDD is economical for storing large files."
+    },
+    {
+      "korean": "저장소",
+      "english": "storage",
+      "example": "클라우드 저장소 서비스는 여러 기기에서 파일을 동기화한다.",
+      "example_en": "Cloud storage services synchronize files across multiple devices."
+    },
+    {
+      "korean": "전원공급장치",
+      "english": "power supply unit / PSU",
+      "example": "고사양 그래픽카드를 추가할 때는 충분한 용량의 전원공급장치가 필요하다.",
+      "example_en": "When adding a high-end graphics card, an adequate power supply is necessary."
+    },
+    {
+      "korean": "방열판",
+      "english": "heat sink",
+      "example": "프로세서의 방열판을 청소하면 과열 문제를 해결할 수 있다.",
+      "example_en": "Cleaning the processor's heat sink can resolve overheating issues."
+    },
+    {
+      "korean": "쿨러",
+      "english": "cooler",
+      "example": "수냉식 쿨러는 공냉식 쿨러보다 더 효율적으로 열을 배출한다.",
+      "example_en": "Liquid coolers dissipate heat more efficiently than air coolers."
+    },
+    {
+      "korean": "펌웨어",
+      "english": "firmware",
+      "example": "라우터의 펌웨어를 최신 버전으로 업데이트하면 보안이 강화된다.",
+      "example_en": "Updating the router's firmware to the latest version enhances security."
+    },
+    {
+      "korean": "드라이버",
+      "english": "driver",
+      "example": "그래픽카드 드라이버를 설치하지 않으면 화면 출력에 문제가 생긴다.",
+      "example_en": "If you don't install the graphics card driver, display output problems occur."
+    },
+    {
+      "korean": "LCD",
+      "english": "LCD / liquid crystal display",
+      "example": "LCD 모니터는 OLED 디스플레이보다 가격이 저렴하다.",
+      "example_en": "LCD monitors are cheaper than OLED displays."
+    },
+    {
+      "korean": "OLED",
+      "english": "OLED / organic light-emitting diode",
+      "example": "최근 프리미엄 스마트폰들은 OLED 화면을 채택하고 있다.",
+      "example_en": "Recent premium smartphones are adopting OLED screens."
+    },
+    {
+      "korean": "해상도",
+      "english": "resolution",
+      "example": "4K 해상도는 1080p보다 네 배 많은 픽셀을 표시한다.",
+      "example_en": "4K resolution displays four times as many pixels as 1080p."
+    },
+    {
+      "korean": "주사율",
+      "english": "refresh rate",
+      "example": "고주사율 모니터는 게이밍 경험을 훨씬 부드럽게 만든다.",
+      "example_en": "High refresh rate monitors make the gaming experience much smoother."
+    },
+    {
+      "korean": "배터리",
+      "english": "battery",
+      "example": "이 노트북의 배터리는 한 번 충전으로 10시간 이상 간다.",
+      "example_en": "This laptop's battery lasts over 10 hours on a single charge."
+    },
+    {
+      "korean": "용량",
+      "english": "capacity",
+      "example": "배터리의 용량은 밀리암페어시(mAh)로 표시된다.",
+      "example_en": "Battery capacity is measured in milliamp-hours (mAh)."
+    },
+    {
+      "korean": "충전기",
+      "english": "charger",
+      "example": "빠른 충전을 위해서는 고와트의 충전기를 사용해야 한다.",
+      "example_en": "To charge quickly, you need to use a high-watt charger."
+    },
+    {
+      "korean": "어댑터",
+      "english": "adapter / power adapter",
+      "example": "해외 여행을 갈 때는 멀티탭 어댑터를 꼭 챙겨야 한다.",
+      "example_en": "When traveling abroad, you must bring a universal power adapter."
+    },
+    {
+      "korean": "케이블",
+      "english": "cable",
+      "example": "손상된 케이블은 누전의 위험이 있으므로 즉시 교체해야 한다.",
+      "example_en": "Damaged cables pose a risk of electrical shock and must be replaced immediately."
+    },
+    {
+      "korean": "포트",
+      "english": "port",
+      "example": "이 모니터의 HDMI 포트는 여러 개의 장치를 동시에 연결할 수 있다.",
+      "example_en": "This monitor's HDMI port can connect multiple devices simultaneously."
+    },
+    {
+      "korean": "센서",
+      "english": "sensor",
+      "example": "스마트폰의 가속도 센서는 게임 조종에 사용된다.",
+      "example_en": "The accelerometer sensor in a smartphone is used for game controls."
+    },
+    {
+      "korean": "이미지센서",
+      "english": "image sensor / camera sensor",
+      "example": "고급 카메라의 이미지센서는 어두운 환경에서도 선명한 사진을 찍는다.",
+      "example_en": "Advanced camera image sensors capture clear photos even in low light."
+    },
+    {
+      "korean": "해상도",
+      "english": "megapixel / pixel resolution",
+      "example": "DSLR 카메라의 해상도가 높을수록 인화 시 더 선명한 이미지를 얻는다.",
+      "example_en": "The higher the megapixel resolution of a DSLR, the clearer the image when printed."
+    },
+    {
+      "korean": "렌즈",
+      "english": "lens",
+      "example": "교환식 렌즈를 사용하면 다양한 초점거리로 촬영할 수 있다.",
+      "example_en": "Using interchangeable lenses allows you to shoot at various focal lengths."
+    },
+    {
+      "korean": "스크린",
+      "english": "screen / display",
+      "example": "스크린의 밝기를 조정하면 눈의 피로를 줄일 수 있다.",
+      "example_en": "Adjusting the screen's brightness can reduce eye strain."
+    },
+    {
+      "korean": "터치스크린",
+      "english": "touchscreen",
+      "example": "터치스크린이 반응하지 않으면 보호필름을 제거하고 화면을 청소해보자.",
+      "example_en": "If the touchscreen doesn't respond, remove the protective film and clean the screen."
+    },
+    {
+      "korean": "스크린 보호기",
+      "english": "screen protector",
+      "example": "강화유리 스크린 보호기는 낙하 충격으로부터 화면을 효과적으로 보호한다.",
+      "example_en": "Tempered glass screen protectors effectively protect the display from drop impacts."
+    },
+    {
+      "korean": "납땜",
+      "english": "soldering",
+      "example": "깨진 회로판의 납땜 연결부를 다시 고정하면 기기가 작동할 수 있다.",
+      "example_en": "Repairing the soldering connections on a broken circuit board can restore functionality."
+    },
+    {
+      "korean": "단락",
+      "english": "short circuit",
+      "example": "전자제품 내부에 물이 들어가면 단락으로 인한 화재 위험이 있다.",
+      "example_en": "Water entering an electronic device can cause a fire risk due to short circuits."
+    },
+    {
+      "korean": "방열",
+      "english": "heat dissipation",
+      "example": "노트북의 방열 구멍을 막으면 과열로 인해 기기가 자동으로 꺼진다.",
+      "example_en": "Blocking a laptop's heat dissipation vents causes it to shut down due to overheating."
+    },
+    {
+      "korean": "발열",
+      "english": "heat generation / heating",
+      "example": "게임을 오래 하면 그래픽카드의 발열이 심해진다.",
+      "example_en": "Extended gaming causes the graphics card to generate excessive heat."
+    },
+    {
+      "korean": "전압",
+      "english": "voltage",
+      "example": "한국의 전압은 220V이지만 미국은 110V를 사용한다.",
+      "example_en": "Korea uses 220V while the United States uses 110V voltage."
+    },
+    {
+      "korean": "와트",
+      "english": "watt",
+      "example": "100와트의 전자레인지는 1000와트 제품보다 데우는 속도가 느리다.",
+      "example_en": "A 100-watt microwave heats slower than a 1000-watt unit."
+    },
+    {
+      "korean": "주파수",
+      "english": "frequency",
+      "example": "무선 라우터의 주파수는 2.4GHz 또는 5GHz 중 선택할 수 있다.",
+      "example_en": "A wireless router's frequency can be set to either 2.4GHz or 5GHz."
+    },
+    {
+      "korean": "대역폭",
+      "english": "bandwidth",
+      "example": "4K 스트리밍을 위해서는 충분한 인터넷 대역폭이 필요하다.",
+      "example_en": "Adequate internet bandwidth is needed for 4K streaming."
+    },
+    {
+      "korean": "지연",
+      "english": "lag / latency",
+      "example": "온라인 게임 중 지연이 발생하면 플레이가 어려워진다.",
+      "example_en": "Lag during online gaming makes it difficult to play."
+    }
+  ]
+}

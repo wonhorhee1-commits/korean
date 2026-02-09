@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 사진 (Topic: Photography)": [
+    {
+      "korean": "카메라",
+      "english": "camera",
+      "example": "새로운 카메라로 처음 촬영했을 때 굉장히 설렜다.",
+      "example_en": "I was thrilled when I first shot with my new camera."
+    },
+    {
+      "korean": "렌즈",
+      "english": "lens",
+      "example": "광각 렌즈는 풍경 사진에 적합하다.",
+      "example_en": "A wide-angle lens is suitable for landscape photography."
+    },
+    {
+      "korean": "조리개",
+      "english": "aperture",
+      "example": "조리개를 크게 열면 배경이 흐려진다.",
+      "example_en": "When you open the aperture wide, the background blurs."
+    },
+    {
+      "korean": "셔터 스피드",
+      "english": "shutter speed",
+      "example": "빠른 셔터 스피드로 움직이는 피사체를 포착할 수 있다.",
+      "example_en": "You can capture moving subjects with a fast shutter speed."
+    },
+    {
+      "korean": "ISO",
+      "english": "ISO sensitivity",
+      "example": "어두운 환경에서는 ISO를 높여야 한다.",
+      "example_en": "You need to raise the ISO in dark environments."
+    },
+    {
+      "korean": "삼각대",
+      "english": "tripod",
+      "example": "오래 노출 촬영을 할 때는 삼각대가 필수다.",
+      "example_en": "A tripod is essential for long exposure photography."
+    },
+    {
+      "korean": "플래시",
+      "english": "flash",
+      "example": "실내 촬영에서 플래시를 사용하면 밝은 사진을 얻을 수 있다.",
+      "example_en": "Using flash in indoor shots gives you brighter photos."
+    },
+    {
+      "korean": "필터",
+      "english": "filter",
+      "example": "편광 필터는 반사광을 줄이는 데 효과적이다.",
+      "example_en": "A polarizing filter is effective at reducing reflections."
+    },
+    {
+      "korean": "반사판",
+      "english": "reflector",
+      "example": "반사판으로 빛을 반사시켜 그림자를 채웠다.",
+      "example_en": "I used a reflector to bounce light and fill in shadows."
+    },
+    {
+      "korean": "렌즈 캡",
+      "english": "lens cap",
+      "example": "렌즈 캡을 빼먹으면 렌즈가 손상될 수 있다.",
+      "example_en": "Forgetting the lens cap can damage your lens."
+    },
+    {
+      "korean": "조명",
+      "english": "lighting",
+      "example": "좋은 조명이 사진의 성패를 결정한다.",
+      "example_en": "Good lighting makes or breaks a photograph."
+    },
+    {
+      "korean": "역광",
+      "english": "backlighting",
+      "example": "역광으로 촬영하면 피사체가 빛나는 듯한 효과를 낸다.",
+      "example_en": "Backlighting creates a glowing effect on your subject."
+    },
+    {
+      "korean": "자연광",
+      "english": "natural light",
+      "example": "자연광으로만 촬영하는 것이 가장 아름답다고 생각한다.",
+      "example_en": "I think shooting with only natural light is the most beautiful."
+    },
+    {
+      "korean": "골든 아워",
+      "english": "golden hour",
+      "example": "골든 아워에는 피부가 부드럽고 따뜻하게 표현된다.",
+      "example_en": "During golden hour, skin looks soft and warm."
+    },
+    {
+      "korean": "노출",
+      "english": "exposure",
+      "example": "노출을 제대로 조절하지 않으면 사진이 너무 밝거나 어둡다.",
+      "example_en": "If you don't control exposure properly, the photo is too bright or too dark."
+    },
+    {
+      "korean": "밝기",
+      "english": "brightness",
+      "example": "밝기를 조정하여 이미지의 전체적인 톤을 바꿀 수 있다.",
+      "example_en": "You can adjust brightness to change the overall tone of the image."
+    },
+    {
+      "korean": "그림자",
+      "english": "shadow",
+      "example": "그림자를 잘 활용하면 깊이감 있는 사진을 만들 수 있다.",
+      "example_en": "Using shadows well creates photos with depth."
+    },
+    {
+      "korean": "하이라이트",
+      "english": "highlight",
+      "example": "하이라이트가 살짝 날아간 부분을 회복시킬 수 없다.",
+      "example_en": "You cannot recover blown highlight areas."
+    },
+    {
+      "korean": "색온도",
+      "english": "color temperature",
+      "example": "색온도에 따라 사진의 분위기가 완전히 달라진다.",
+      "example_en": "The color temperature completely changes the mood of the photo."
+    },
+    {
+      "korean": "구도",
+      "english": "composition",
+      "example": "좋은 구도는 시각적으로 균형 잡힌 사진을 만든다.",
+      "example_en": "Good composition creates visually balanced photos."
+    },
+    {
+      "korean": "프레이밍",
+      "english": "framing",
+      "example": "프레이밍을 통해 뷰어의 시선을 피사체로 유도할 수 있다.",
+      "example_en": "Through framing, you can direct the viewer's eye to the subject."
+    },
+    {
+      "korean": "삼분할 법칙",
+      "english": "rule of thirds",
+      "example": "삼분할 법칙을 적용하면 더 역동적인 사진이 된다.",
+      "example_en": "Applying the rule of thirds makes the photo more dynamic."
+    },
+    {
+      "korean": "깊이감",
+      "english": "depth",
+      "example": "렌즈 선택과 조리개 값이 깊이감을 결정한다.",
+      "example_en": "Lens choice and aperture value determine depth."
+    },
+    {
+      "korean": "초점",
+      "english": "focus",
+      "example": "초점을 명확하게 잡아야 피사체가 돋보인다.",
+      "example_en": "You need to focus clearly for the subject to stand out."
+    },
+    {
+      "korean": "배경",
+      "english": "background",
+      "example": "배경을 흐리게 처리하면 피사체에 집중할 수 있다.",
+      "example_en": "Blurring the background helps focus on the subject."
+    },
+    {
+      "korean": "피사체",
+      "english": "subject",
+      "example": "피사체 선택이 사진의 성공을 크게 좌우한다.",
+      "example_en": "Subject choice greatly influences the success of the photo."
+    },
+    {
+      "korean": "원근감",
+      "english": "perspective",
+      "example": "낮은 앵글에서 촬영하면 원근감이 극대화된다.",
+      "example_en": "Shooting from a low angle maximizes perspective."
+    },
+    {
+      "korean": "대칭",
+      "english": "symmetry",
+      "example": "대칭적인 구도는 안정감 있는 사진을 만든다.",
+      "example_en": "Symmetrical composition creates stable-looking photos."
+    },
+    {
+      "korean": "균형",
+      "english": "balance",
+      "example": "사진의 왼쪽과 오른쪽 균형을 맞춰야 한다.",
+      "example_en": "You need to balance the left and right sides of the photo."
+    },
+    {
+      "korean": "편집",
+      "english": "editing",
+      "example": "좋은 편집 작업은 좋은 촬영 기술을 보완한다.",
+      "example_en": "Good editing work complements good shooting technique."
+    },
+    {
+      "korean": "보정",
+      "english": "adjustment/correction",
+      "example": "색상 보정으로 사진의 색감을 자연스럽게 만들 수 있다.",
+      "example_en": "Color correction can make the photo's colors look natural."
+    },
+    {
+      "korean": "색상 보정",
+      "english": "color correction",
+      "example": "화이트 밸런스 색상 보정은 필수적인 편집 과정이다.",
+      "example_en": "White balance color correction is an essential editing step."
+    },
+    {
+      "korean": "명도",
+      "english": "brightness/luminosity",
+      "example": "명도를 조정하여 사진의 전체적인 톤을 조절한다.",
+      "example_en": "Adjust luminosity to control the overall tone of the photo."
+    },
+    {
+      "korean": "대비",
+      "english": "contrast",
+      "example": "대비를 높이면 사진이 더 생생해 보인다.",
+      "example_en": "Increasing contrast makes the photo look more vivid."
+    },
+    {
+      "korean": "채도",
+      "english": "saturation",
+      "example": "채도를 조절하여 색감의 강도를 조정할 수 있다.",
+      "example_en": "You can adjust saturation to control color intensity."
+    },
+    {
+      "korean": "톤 커브",
+      "english": "tone curve",
+      "example": "톤 커브는 정교한 노출 조절을 가능하게 한다.",
+      "example_en": "Tone curves allow precise exposure adjustments."
+    },
+    {
+      "korean": "트리밍",
+      "english": "cropping",
+      "example": "트리밍으로 불필요한 부분을 제거하여 구도를 개선했다.",
+      "example_en": "Cropping removed unnecessary parts and improved the composition."
+    },
+    {
+      "korean": "리터칭",
+      "english": "retouching",
+      "example": "초상화 촬영 후 피부 리터칭은 거의 필수다.",
+      "example_en": "Skin retouching is almost essential after portrait shoots."
+    },
+    {
+      "korean": "화이트 밸런스",
+      "english": "white balance",
+      "example": "화이트 밸런스를 올바르게 설정하면 색감이 자연스러워진다.",
+      "example_en": "Setting white balance correctly makes colors look natural."
+    },
+    {
+      "korean": "피사계 심도",
+      "english": "depth of field",
+      "example": "피사계 심도가 얕을수록 배경 흐림이 더 크다.",
+      "example_en": "The shallower the depth of field, the more background blur."
+    }
+  ]
+}

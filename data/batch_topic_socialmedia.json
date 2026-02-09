@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 소셜미디어 (Topic: Social Media & Internet)": [
+    {
+      "korean": "알고리즘",
+      "english": "algorithm; algorithmic recommendation system",
+      "example": "이 동영상이 자꾸만 떠는 건 틱톡 알고리즘 때문이야.",
+      "example_en": "This video keeps showing up because of TikTok's algorithm."
+    },
+    {
+      "korean": "수익화",
+      "english": "monetization; to monetize content",
+      "example": "유튜브 채널을 충분히 성장시켜야 수익화를 시작할 수 있어.",
+      "example_en": "You need to grow your YouTube channel enough before you can start monetization."
+    },
+    {
+      "korean": "노출도",
+      "english": "reach; visibility; impressions",
+      "example": "인스타그램 게시물의 노출도를 높이려면 해시태그를 잘 써야 한다.",
+      "example_en": "To increase the reach of your Instagram posts, you need to use hashtags effectively."
+    },
+    {
+      "korean": "참여도",
+      "english": "engagement rate; user engagement",
+      "example": "좋아요와 댓글이 많을수록 참여도가 높은 콘텐츠로 간주된다.",
+      "example_en": "Content with more likes and comments is considered to have higher engagement."
+    },
+    {
+      "korean": "클릭베이트",
+      "english": "clickbait; sensational headline",
+      "example": "그 뉴스 기사는 명백한 클릭베이트야. 제목이 과장되어 있어.",
+      "example_en": "That news article is obvious clickbait. The headline is exaggerated."
+    },
+    {
+      "korean": "트롤링",
+      "english": "trolling; online provocation",
+      "example": "소셜 미디어에서 트롤링을 하는 사람들은 처벌받아야 한다.",
+      "example_en": "People who engage in trolling on social media should face consequences."
+    },
+    {
+      "korean": "사이버폭력",
+      "english": "cyberbullying; online harassment",
+      "example": "청소년들이 사이버폭력으로 인한 심각한 피해를 입고 있다.",
+      "example_en": "Teenagers are suffering serious damage from cyberbullying."
+    },
+    {
+      "korean": "디지털 발자국",
+      "english": "digital footprint",
+      "example": "당신이 온라인에서 남긴 디지털 발자국은 영원히 남을 수 있다.",
+      "example_en": "Your digital footprint left online can remain forever."
+    },
+    {
+      "korean": "개인정보 설정",
+      "english": "privacy settings",
+      "example": "새로운 소셜 미디어 계정을 만들면 항상 개인정보 설정을 확인해야 한다.",
+      "example_en": "When you create a new social media account, you should always check the privacy settings."
+    },
+    {
+      "korean": "취소 문화",
+      "english": "cancel culture; call-out culture",
+      "example": "유명인이 실언을 하면 취소 문화에 의해 큰 타격을 입을 수 있다.",
+      "example_en": "If a celebrity makes an offensive remark, they can suffer greatly from cancel culture."
+    },
+    {
+      "korean": "필터 버블",
+      "english": "filter bubble; algorithmic echo chamber",
+      "example": "알고리즘의 필터 버블 때문에 사람들은 자신과 비슷한 의견만 보게 된다.",
+      "example_en": "Because of the filter bubble from algorithms, people only see opinions similar to their own."
+    },
+    {
+      "korean": "에코 챔버",
+      "english": "echo chamber; filter bubble",
+      "example": "소셜 미디어의 에코 챔버는 극단주의를 심화시킬 수 있다.",
+      "example_en": "The echo chamber of social media can deepen extremism."
+    },
+    {
+      "korean": "가짜뉴스",
+      "english": "fake news; misinformation",
+      "example": "우리는 온라인에서 가짜뉴스를 구분하는 능력을 길러야 한다.",
+      "example_en": "We need to develop the ability to distinguish fake news online."
+    },
+    {
+      "korean": "팩트체킹",
+      "english": "fact-checking; verification",
+      "example": "신뢰할 수 있는 뉴스를 읽기 위해서는 팩트체킹이 필수적이다.",
+      "example_en": "Fact-checking is essential for reading trustworthy news."
+    },
+    {
+      "korean": "정보유출",
+      "english": "data breach; information leak",
+      "example": "그 회사의 정보유출 사건으로 인해 수백만 명의 개인정보가 노출되었다.",
+      "example_en": "Due to the data breach at that company, millions of people's personal information was exposed."
+    },
+    {
+      "korean": "이용약관",
+      "english": "terms of service; terms of use",
+      "example": "대부분의 사용자는 이용약관을 읽지 않고 동의 버튼을 클릭한다.",
+      "example_en": "Most users click the agree button without reading the terms of service."
+    },
+    {
+      "korean": "커뮤니티 가이드라인",
+      "english": "community guidelines; community standards",
+      "example": "페이스북의 커뮤니티 가이드라인을 위반하면 계정이 정지될 수 있다.",
+      "example_en": "If you violate Facebook's community guidelines, your account can be suspended."
+    },
+    {
+      "korean": "바이럴 콘텐츠",
+      "english": "viral content",
+      "example": "그 짧은 동영상은 바이럴 콘텐츠가 되어 며칠 만에 천만 뷰를 넘었다.",
+      "example_en": "That short video became viral content and exceeded ten million views in just a few days."
+    },
+    {
+      "korean": "딥페이크",
+      "english": "deepfake; AI-generated fake video",
+      "example": "딥페이크 기술은 정치 선거에 악영향을 미칠 수 있다는 우려가 있다.",
+      "example_en": "There are concerns that deepfake technology could negatively impact political elections."
+    },
+    {
+      "korean": "봇",
+      "english": "bot; automated account",
+      "example": "그 계정은 봇일 가능성이 높아. 게시물을 올리지 않는데 자꾸 팔로우를 하거든.",
+      "example_en": "That account is likely a bot. It keeps following me without posting anything."
+    },
+    {
+      "korean": "신상털기",
+      "english": "doxxing; revealing someone's personal information",
+      "example": "신상털기는 심각한 범죄이며 사이버폭력의 한 형태다.",
+      "example_en": "Doxxing is a serious crime and a form of cyberstalking."
+    },
+    {
+      "korean": "댓글 수사",
+      "english": "comment investigation; scrolling through past comments",
+      "example": "유명인이 논란에 휘말리면 사람들이 과거 댓글 수사를 시작한다.",
+      "example_en": "When a celebrity gets caught in controversy, people start investigating their past comments."
+    },
+    {
+      "korean": "좋아요 폭탄",
+      "english": "like bombing; mass liking campaign",
+      "example": "팬들이 그 가수의 새 앨범에 좋아요 폭탄을 퍼부었다.",
+      "example_en": "Fans bombarded the singer's new album with likes."
+    },
+    {
+      "korean": "팬 활동",
+      "english": "fan activity; fandom engagement",
+      "example": "한국 아이돌의 팬 활동은 세계적으로 가장 활발한 것으로 알려져 있다.",
+      "example_en": "Korean idol fan activities are known to be the most active in the world."
+    },
+    {
+      "korean": "해시태그",
+      "english": "hashtag",
+      "example": "인스타그램에 사진을 올릴 때 관련된 해시태그를 여러 개 사용하는 것이 좋다.",
+      "example_en": "When posting photos on Instagram, it's good to use multiple relevant hashtags."
+    },
+    {
+      "korean": "트렌드",
+      "english": "trending; trend",
+      "example": "트위터의 트렌드 섹션을 보면 지금 세계에서 무슨 일이 일어나고 있는지 알 수 있다.",
+      "example_en": "By looking at Twitter's trending section, you can see what's happening in the world right now."
+    },
+    {
+      "korean": "팔로우 백",
+      "english": "follow back",
+      "example": "그 사람이 나를 팔로우했으니 나도 팔로우 백을 해야지.",
+      "example_en": "Since that person followed me, I should follow them back."
+    },
+    {
+      "korean": "팔로워 확대",
+      "english": "follower growth",
+      "example": "콘텐츠 크리에이터들은 지속적인 팔로워 확대를 위해 노력한다.",
+      "example_en": "Content creators work hard for continuous follower growth."
+    },
+    {
+      "korean": "인생샷",
+      "english": "picture of a lifetime; aesthetically perfect shot",
+      "example": "그 유명한 카페는 인생샷을 찍을 수 있어서 항상 붐빈다.",
+      "example_en": "That famous café is always crowded because you can take amazing photos there."
+    },
+    {
+      "korean": "인증샷",
+      "english": "authentication shot; selfie proof of attendance",
+      "example": "콘서트에 다녀왔다는 인증샷을 SNS에 올렸어.",
+      "example_en": "I posted a proof photo of attending the concert on SNS."
+    },
+    {
+      "korean": "스팸",
+      "english": "spam; unwanted messages",
+      "example": "이 계정의 댓글은 스팸으로만 가득 찼다.",
+      "example_en": "This account's comments are filled with nothing but spam."
+    },
+    {
+      "korean": "차단",
+      "english": "block; to block a user",
+      "example": "계속 괴롭히면 나는 너를 차단하겠어.",
+      "example_en": "If you keep harassing me, I'll block you."
+    },
+    {
+      "korean": "뮤트",
+      "english": "mute; to silence notifications",
+      "example": "그 계정을 팔로우는 하되 뮤트해서 게시물이 안 보이게 했어.",
+      "example_en": "I followed the account but muted it so I don't see their posts."
+    },
+    {
+      "korean": "프라이빗 계정",
+      "english": "private account",
+      "example": "그녀는 프라이빗 계정을 운영해서 승인 받은 사람만 자신의 게시물을 볼 수 있다.",
+      "example_en": "She runs a private account so only approved people can see her posts."
+    },
+    {
+      "korean": "인스타그래머블",
+      "english": "instagrammable; photo-worthy",
+      "example": "그 식당은 매우 인스타그래머블해서 젊은 사람들 사이에서 인기다.",
+      "example_en": "That restaurant is very instagrammable and popular among young people."
+    },
+    {
+      "korean": "스트리밍",
+      "english": "streaming; live streaming",
+      "example": "요즘 많은 아티스트들이 온라인 스트리밍 공연을 개최하고 있다.",
+      "example_en": "Many artists are now holding online streaming concerts."
+    },
+    {
+      "korean": "구독",
+      "english": "subscribe; subscription",
+      "example": "유튜브 채널을 구독하면 새로운 동영상이 올라올 때 알림을 받을 수 있다.",
+      "example_en": "If you subscribe to a YouTube channel, you get notifications when new videos are uploaded."
+    },
+    {
+      "korean": "신뢰도",
+      "english": "credibility; trustworthiness",
+      "example": "그 매체의 신뢰도가 낮아서 그들이 보도하는 뉴스는 확인이 필요하다.",
+      "example_en": "That media outlet's credibility is low, so their news needs to be verified."
+    },
+    {
+      "korean": "휴면 계정",
+      "english": "inactive account; dormant account",
+      "example": "오랫동안 로그인하지 않은 휴면 계정은 삭제될 수 있다.",
+      "example_en": "Inactive accounts that haven't been logged into for a long time can be deleted."
+    },
+    {
+      "korean": "게시글 삭제",
+      "english": "post deletion; removing a post",
+      "example": "실언을 했다면 빨리 게시글 삭제를 하는 것이 나을 수도 있다.",
+      "example_en": "If you made an offensive post, it might be better to delete it quickly."
+    }
+  ]
+}
