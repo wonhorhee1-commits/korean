@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 물류 (Topic: Logistics)": [
+    {
+      "korean": "배송",
+      "english": "delivery/shipping",
+      "example": "이 상품은 내일 배송될 예정입니다.",
+      "example_en": "This item is scheduled to be delivered tomorrow."
+    },
+    {
+      "korean": "창고",
+      "english": "warehouse",
+      "example": "우리 회사는 서울과 인천에 창고를 두고 있습니다.",
+      "example_en": "Our company has warehouses in Seoul and Incheon."
+    },
+    {
+      "korean": "재고",
+      "english": "inventory/stock",
+      "example": "재고가 부족해서 주문을 받을 수 없습니다.",
+      "example_en": "We can't accept orders because inventory is low."
+    },
+    {
+      "korean": "공급망",
+      "english": "supply chain",
+      "example": "공급망 문제로 인해 납기가 지연되었습니다.",
+      "example_en": "The delivery schedule was delayed due to supply chain issues."
+    },
+    {
+      "korean": "운송",
+      "english": "transportation/carriage",
+      "example": "해상 운송이 항공 운송보다 저렴합니다.",
+      "example_en": "Sea transportation is cheaper than air transportation."
+    },
+    {
+      "korean": "배송료",
+      "english": "shipping charge",
+      "example": "배송료는 주문 금액에 따라 다릅니다.",
+      "example_en": "The shipping charge varies depending on the order amount."
+    },
+    {
+      "korean": "택배",
+      "english": "parcel delivery/courier",
+      "example": "택배로 다음 날 받을 수 있습니다.",
+      "example_en": "You can receive it by courier the next day."
+    },
+    {
+      "korean": "포장",
+      "english": "packaging/wrapping",
+      "example": "제품이 손상되지 않도록 포장을 튼튼하게 해야 합니다.",
+      "example_en": "The packaging must be sturdy to prevent product damage."
+    },
+    {
+      "korean": "상자",
+      "english": "box/carton",
+      "example": "이 상자에는 50개의 상품이 들어있습니다.",
+      "example_en": "This box contains 50 items."
+    },
+    {
+      "korean": "물류센터",
+      "english": "logistics center/distribution hub",
+      "example": "우리 물류센터는 하루에 1만 개의 주문을 처리합니다.",
+      "example_en": "Our logistics center handles 10,000 orders per day."
+    },
+    {
+      "korean": "수령",
+      "english": "receipt/acceptance",
+      "example": "상품 수령 시 외관을 먼저 확인해 주세요.",
+      "example_en": "Please check the appearance first when receiving the item."
+    },
+    {
+      "korean": "도착",
+      "english": "arrival",
+      "example": "비행기가 인천공항에 도착했습니다.",
+      "example_en": "The airplane has arrived at Incheon Airport."
+    },
+    {
+      "korean": "출발",
+      "english": "departure",
+      "example": "화물은 내일 새벽에 출발할 예정입니다.",
+      "example_en": "The cargo is scheduled to depart tomorrow at dawn."
+    },
+    {
+      "korean": "적재",
+      "english": "loading/loading cargo",
+      "example": "트럭에 적재하는 데 2시간이 걸렸습니다.",
+      "example_en": "It took 2 hours to load the truck."
+    },
+    {
+      "korean": "하역",
+      "english": "unloading/discharge",
+      "example": "항구에서 하역하는 과정이 복잡합니다.",
+      "example_en": "The unloading process at the port is complex."
+    },
+    {
+      "korean": "트럭",
+      "english": "truck",
+      "example": "20톤 트럭으로 화물을 운반합니다.",
+      "example_en": "We transport cargo using 20-ton trucks."
+    },
+    {
+      "korean": "화물",
+      "english": "cargo/freight",
+      "example": "화물의 무게와 부피를 확인해야 합니다.",
+      "example_en": "The weight and volume of the cargo must be verified."
+    },
+    {
+      "korean": "배급",
+      "english": "distribution",
+      "example": "식품 배급은 정부가 관리합니다.",
+      "example_en": "Food distribution is managed by the government."
+    },
+    {
+      "korean": "유통",
+      "english": "circulation/distribution",
+      "example": "이 제품은 전국의 유통망을 통해 판매됩니다.",
+      "example_en": "This product is sold through distribution networks nationwide."
+    },
+    {
+      "korean": "주문",
+      "english": "order",
+      "example": "주문 후 3일 이내에 배송됩니다.",
+      "example_en": "It will be shipped within 3 days of ordering."
+    },
+    {
+      "korean": "선적",
+      "english": "shipment/booking",
+      "example": "선적 날짜는 내주 월요일입니다.",
+      "example_en": "The shipment date is next Monday."
+    },
+    {
+      "korean": "도크",
+      "english": "dock/loading dock",
+      "example": "트럭이 도크에 정차했습니다.",
+      "example_en": "The truck has parked at the dock."
+    },
+    {
+      "korean": "적재량",
+      "english": "loading capacity",
+      "example": "이 트럭의 적재량은 5톤입니다.",
+      "example_en": "This truck has a loading capacity of 5 tons."
+    },
+    {
+      "korean": "배송 예정일",
+      "english": "estimated delivery date",
+      "example": "배송 예정일이 3월 15일로 변경되었습니다.",
+      "example_en": "The estimated delivery date has been changed to March 15."
+    },
+    {
+      "korean": "배송 상태",
+      "english": "shipping status",
+      "example": "배송 상태를 실시간으로 추적할 수 있습니다.",
+      "example_en": "You can track the shipping status in real time."
+    },
+    {
+      "korean": "반품",
+      "english": "return",
+      "example": "반품은 배송 후 7일 이내에 신청해야 합니다.",
+      "example_en": "Returns must be requested within 7 days of delivery."
+    },
+    {
+      "korean": "환불",
+      "english": "refund",
+      "example": "환불은 반품 확인 후 3일 이내에 처리됩니다.",
+      "example_en": "The refund is processed within 3 days after return confirmation."
+    },
+    {
+      "korean": "재배송",
+      "english": "redelivery",
+      "example": "손상된 상품은 재배송으로 교체하겠습니다.",
+      "example_en": "We will replace the damaged item with a redelivery."
+    },
+    {
+      "korean": "손상",
+      "english": "damage",
+      "example": "배송 중에 상품에 손상이 발생했습니다.",
+      "example_en": "The product was damaged during shipping."
+    },
+    {
+      "korean": "지연",
+      "english": "delay",
+      "example": "날씨로 인한 배송 지연이 있을 수 있습니다.",
+      "example_en": "There may be shipping delays due to weather."
+    },
+    {
+      "korean": "배송 구간",
+      "english": "shipping leg/stage",
+      "example": "각 배송 구간마다 추적 정보가 업데이트됩니다.",
+      "example_en": "Tracking information is updated for each shipping leg."
+    },
+    {
+      "korean": "수탁",
+      "english": "consignment",
+      "example": "우리는 상품을 수탁 방식으로 판매합니다.",
+      "example_en": "We sell products on consignment."
+    },
+    {
+      "korean": "수령인",
+      "english": "recipient/consignee",
+      "example": "수령인의 주소가 올바른지 확인해 주세요.",
+      "example_en": "Please verify that the recipient's address is correct."
+    },
+    {
+      "korean": "발송인",
+      "english": "sender/shipper",
+      "example": "발송인이 배송비를 부담합니다.",
+      "example_en": "The sender bears the shipping cost."
+    },
+    {
+      "korean": "보관",
+      "english": "storage/keeping",
+      "example": "상품을 안전하게 보관해야 합니다.",
+      "example_en": "The products must be stored safely."
+    },
+    {
+      "korean": "보관료",
+      "english": "storage fee",
+      "example": "창고의 보관료는 월 100만 원입니다.",
+      "example_en": "The warehouse storage fee is 1 million won per month."
+    },
+    {
+      "korean": "피킹",
+      "english": "picking (order fulfillment)",
+      "example": "피킹 작업을 자동화했습니다.",
+      "example_en": "We have automated the picking process."
+    },
+    {
+      "korean": "패킹",
+      "english": "packing",
+      "example": "패킹은 품질 관리가 중요합니다.",
+      "example_en": "Quality control is important in packing."
+    },
+    {
+      "korean": "배송사",
+      "english": "shipping company/carrier",
+      "example": "이번에는 다른 배송사를 이용해 보겠습니다.",
+      "example_en": "I'll try using a different shipping company this time."
+    },
+    {
+      "korean": "운송료",
+      "english": "transportation fee/freight rate",
+      "example": "국제 운송료가 최근에 상승했습니다.",
+      "example_en": "International freight rates have risen recently."
+    }
+  ]
+}

@@ -21661,5 +21661,1209 @@
       "example": "거래 조건을 계약서에 명확히 기술해야 한다.",
       "example_en": "Terms of trade must be clearly stated in the contract."
     }
+  ],
+  "주제별 단어 — 물류 (Topic: Logistics)": [
+    {
+      "korean": "배송",
+      "english": "delivery/shipping",
+      "example": "이 상품은 내일 배송될 예정입니다.",
+      "example_en": "This item is scheduled to be delivered tomorrow."
+    },
+    {
+      "korean": "창고",
+      "english": "warehouse",
+      "example": "우리 회사는 서울과 인천에 창고를 두고 있습니다.",
+      "example_en": "Our company has warehouses in Seoul and Incheon."
+    },
+    {
+      "korean": "재고",
+      "english": "inventory/stock",
+      "example": "재고가 부족해서 주문을 받을 수 없습니다.",
+      "example_en": "We can't accept orders because inventory is low."
+    },
+    {
+      "korean": "공급망",
+      "english": "supply chain",
+      "example": "공급망 문제로 인해 납기가 지연되었습니다.",
+      "example_en": "The delivery schedule was delayed due to supply chain issues."
+    },
+    {
+      "korean": "운송",
+      "english": "transportation/carriage",
+      "example": "해상 운송이 항공 운송보다 저렴합니다.",
+      "example_en": "Sea transportation is cheaper than air transportation."
+    },
+    {
+      "korean": "배송료",
+      "english": "shipping charge",
+      "example": "배송료는 주문 금액에 따라 다릅니다.",
+      "example_en": "The shipping charge varies depending on the order amount."
+    },
+    {
+      "korean": "택배",
+      "english": "parcel delivery/courier",
+      "example": "택배로 다음 날 받을 수 있습니다.",
+      "example_en": "You can receive it by courier the next day."
+    },
+    {
+      "korean": "포장",
+      "english": "packaging/wrapping",
+      "example": "제품이 손상되지 않도록 포장을 튼튼하게 해야 합니다.",
+      "example_en": "The packaging must be sturdy to prevent product damage."
+    },
+    {
+      "korean": "상자",
+      "english": "box/carton",
+      "example": "이 상자에는 50개의 상품이 들어있습니다.",
+      "example_en": "This box contains 50 items."
+    },
+    {
+      "korean": "물류센터",
+      "english": "logistics center/distribution hub",
+      "example": "우리 물류센터는 하루에 1만 개의 주문을 처리합니다.",
+      "example_en": "Our logistics center handles 10,000 orders per day."
+    },
+    {
+      "korean": "수령",
+      "english": "receipt/acceptance",
+      "example": "상품 수령 시 외관을 먼저 확인해 주세요.",
+      "example_en": "Please check the appearance first when receiving the item."
+    },
+    {
+      "korean": "도착",
+      "english": "arrival",
+      "example": "비행기가 인천공항에 도착했습니다.",
+      "example_en": "The airplane has arrived at Incheon Airport."
+    },
+    {
+      "korean": "출발",
+      "english": "departure",
+      "example": "화물은 내일 새벽에 출발할 예정입니다.",
+      "example_en": "The cargo is scheduled to depart tomorrow at dawn."
+    },
+    {
+      "korean": "적재",
+      "english": "loading/loading cargo",
+      "example": "트럭에 적재하는 데 2시간이 걸렸습니다.",
+      "example_en": "It took 2 hours to load the truck."
+    },
+    {
+      "korean": "하역",
+      "english": "unloading/discharge",
+      "example": "항구에서 하역하는 과정이 복잡합니다.",
+      "example_en": "The unloading process at the port is complex."
+    },
+    {
+      "korean": "트럭",
+      "english": "truck",
+      "example": "20톤 트럭으로 화물을 운반합니다.",
+      "example_en": "We transport cargo using 20-ton trucks."
+    },
+    {
+      "korean": "화물",
+      "english": "cargo/freight",
+      "example": "화물의 무게와 부피를 확인해야 합니다.",
+      "example_en": "The weight and volume of the cargo must be verified."
+    },
+    {
+      "korean": "배급",
+      "english": "distribution",
+      "example": "식품 배급은 정부가 관리합니다.",
+      "example_en": "Food distribution is managed by the government."
+    },
+    {
+      "korean": "유통",
+      "english": "circulation/distribution",
+      "example": "이 제품은 전국의 유통망을 통해 판매됩니다.",
+      "example_en": "This product is sold through distribution networks nationwide."
+    },
+    {
+      "korean": "주문",
+      "english": "order",
+      "example": "주문 후 3일 이내에 배송됩니다.",
+      "example_en": "It will be shipped within 3 days of ordering."
+    },
+    {
+      "korean": "선적",
+      "english": "shipment/booking",
+      "example": "선적 날짜는 내주 월요일입니다.",
+      "example_en": "The shipment date is next Monday."
+    },
+    {
+      "korean": "도크",
+      "english": "dock/loading dock",
+      "example": "트럭이 도크에 정차했습니다.",
+      "example_en": "The truck has parked at the dock."
+    },
+    {
+      "korean": "적재량",
+      "english": "loading capacity",
+      "example": "이 트럭의 적재량은 5톤입니다.",
+      "example_en": "This truck has a loading capacity of 5 tons."
+    },
+    {
+      "korean": "배송 예정일",
+      "english": "estimated delivery date",
+      "example": "배송 예정일이 3월 15일로 변경되었습니다.",
+      "example_en": "The estimated delivery date has been changed to March 15."
+    },
+    {
+      "korean": "배송 상태",
+      "english": "shipping status",
+      "example": "배송 상태를 실시간으로 추적할 수 있습니다.",
+      "example_en": "You can track the shipping status in real time."
+    },
+    {
+      "korean": "반품",
+      "english": "return",
+      "example": "반품은 배송 후 7일 이내에 신청해야 합니다.",
+      "example_en": "Returns must be requested within 7 days of delivery."
+    },
+    {
+      "korean": "환불",
+      "english": "refund",
+      "example": "환불은 반품 확인 후 3일 이내에 처리됩니다.",
+      "example_en": "The refund is processed within 3 days after return confirmation."
+    },
+    {
+      "korean": "재배송",
+      "english": "redelivery",
+      "example": "손상된 상품은 재배송으로 교체하겠습니다.",
+      "example_en": "We will replace the damaged item with a redelivery."
+    },
+    {
+      "korean": "손상",
+      "english": "damage",
+      "example": "배송 중에 상품에 손상이 발생했습니다.",
+      "example_en": "The product was damaged during shipping."
+    },
+    {
+      "korean": "지연",
+      "english": "delay",
+      "example": "날씨로 인한 배송 지연이 있을 수 있습니다.",
+      "example_en": "There may be shipping delays due to weather."
+    },
+    {
+      "korean": "배송 구간",
+      "english": "shipping leg/stage",
+      "example": "각 배송 구간마다 추적 정보가 업데이트됩니다.",
+      "example_en": "Tracking information is updated for each shipping leg."
+    },
+    {
+      "korean": "수탁",
+      "english": "consignment",
+      "example": "우리는 상품을 수탁 방식으로 판매합니다.",
+      "example_en": "We sell products on consignment."
+    },
+    {
+      "korean": "수령인",
+      "english": "recipient/consignee",
+      "example": "수령인의 주소가 올바른지 확인해 주세요.",
+      "example_en": "Please verify that the recipient's address is correct."
+    },
+    {
+      "korean": "발송인",
+      "english": "sender/shipper",
+      "example": "발송인이 배송비를 부담합니다.",
+      "example_en": "The sender bears the shipping cost."
+    },
+    {
+      "korean": "보관",
+      "english": "storage/keeping",
+      "example": "상품을 안전하게 보관해야 합니다.",
+      "example_en": "The products must be stored safely."
+    },
+    {
+      "korean": "보관료",
+      "english": "storage fee",
+      "example": "창고의 보관료는 월 100만 원입니다.",
+      "example_en": "The warehouse storage fee is 1 million won per month."
+    },
+    {
+      "korean": "피킹",
+      "english": "picking (order fulfillment)",
+      "example": "피킹 작업을 자동화했습니다.",
+      "example_en": "We have automated the picking process."
+    },
+    {
+      "korean": "패킹",
+      "english": "packing",
+      "example": "패킹은 품질 관리가 중요합니다.",
+      "example_en": "Quality control is important in packing."
+    },
+    {
+      "korean": "배송사",
+      "english": "shipping company/carrier",
+      "example": "이번에는 다른 배송사를 이용해 보겠습니다.",
+      "example_en": "I'll try using a different shipping company this time."
+    },
+    {
+      "korean": "운송료",
+      "english": "transportation fee/freight rate",
+      "example": "국제 운송료가 최근에 상승했습니다.",
+      "example_en": "International freight rates have risen recently."
+    }
+  ],
+  "주제별 단어 — 건설 (Topic: Construction)": [
+    {
+      "korean": "시멘트",
+      "english": "cement",
+      "example": "건설 현장에서 시멘트를 섞어 콘크리트를 만든다.",
+      "example_en": "At the construction site, cement is mixed to make concrete."
+    },
+    {
+      "korean": "벽돌",
+      "english": "brick",
+      "example": "오래된 건물의 벽은 붉은 벽돌로 지어졌다.",
+      "example_en": "The walls of the old building were built with red bricks."
+    },
+    {
+      "korean": "목재",
+      "english": "lumber; timber",
+      "example": "지붕을 짓기 위해 질 좋은 목재를 선택해야 한다.",
+      "example_en": "Good quality lumber must be selected to build the roof."
+    },
+    {
+      "korean": "강철",
+      "english": "steel",
+      "example": "고층 건물의 뼈대는 강철로 만들어진다.",
+      "example_en": "The skeleton of high-rise buildings is made of steel."
+    },
+    {
+      "korean": "단열재",
+      "english": "insulation material",
+      "example": "겨울에 따뜻함을 유지하려면 좋은 단열재가 필요하다.",
+      "example_en": "Good insulation material is needed to maintain warmth in winter."
+    },
+    {
+      "korean": "타일",
+      "english": "tile",
+      "example": "욕실 바닥에 미끄럼 방지 타일을 붙였다.",
+      "example_en": "Non-slip tiles were installed on the bathroom floor."
+    },
+    {
+      "korean": "콘크리트",
+      "english": "concrete",
+      "example": "기초 공사에는 높은 강도의 콘크리트가 사용된다.",
+      "example_en": "High-strength concrete is used in foundation work."
+    },
+    {
+      "korean": "아스팔트",
+      "english": "asphalt",
+      "example": "도로는 검은 아스팔트로 포장되었다.",
+      "example_en": "The road was paved with black asphalt."
+    },
+    {
+      "korean": "유리",
+      "english": "glass",
+      "example": "건물의 창에는 강화 유리가 사용된다.",
+      "example_en": "Tempered glass is used in building windows."
+    },
+    {
+      "korean": "페인트",
+      "english": "paint",
+      "example": "벽을 새 페인트로 칠했더니 훨씬 밝아졌다.",
+      "example_en": "After painting the wall with new paint, it became much brighter."
+    },
+    {
+      "korean": "망치",
+      "english": "hammer",
+      "example": "목수가 망치로 못을 박았다.",
+      "example_en": "The carpenter drove the nail with a hammer."
+    },
+    {
+      "korean": "톱",
+      "english": "saw",
+      "example": "목재를 톱으로 잘라서 길이를 맞췄다.",
+      "example_en": "The lumber was cut with a saw to fit the length."
+    },
+    {
+      "korean": "삽",
+      "english": "shovel",
+      "example": "흙을 삽으로 파서 모래를 섞는다.",
+      "example_en": "Soil is shoveled and mixed with sand."
+    },
+    {
+      "korean": "렌치",
+      "english": "wrench",
+      "example": "렌치로 볼트를 조여서 부품을 고정했다.",
+      "example_en": "The wrench was used to tighten the bolt and secure the part."
+    },
+    {
+      "korean": "드릴",
+      "english": "drill",
+      "example": "벽에 구멍을 뚫기 위해 전동 드릴을 사용했다.",
+      "example_en": "An electric drill was used to bore a hole in the wall."
+    },
+    {
+      "korean": "줄자",
+      "english": "measuring tape",
+      "example": "건설 현장에서 줄자로 거리를 정확히 측정한다.",
+      "example_en": "Measuring tape is used to precisely measure distance on the construction site."
+    },
+    {
+      "korean": "수준기",
+      "english": "spirit level",
+      "example": "선반이 수평인지 확인하기 위해 수준기를 사용했다.",
+      "example_en": "A spirit level was used to check if the shelf was horizontal."
+    },
+    {
+      "korean": "콘크리트 믹서",
+      "english": "concrete mixer",
+      "example": "콘크리트 믹서가 회전하면서 시멘트와 모래를 섞는다.",
+      "example_en": "The concrete mixer rotates while mixing cement and sand."
+    },
+    {
+      "korean": "사다리",
+      "english": "ladder",
+      "example": "높은 곳에 올라가기 위해 튼튼한 사다리를 사용한다.",
+      "example_en": "A sturdy ladder is used to climb to high places."
+    },
+    {
+      "korean": "스크루 드라이버",
+      "english": "screwdriver",
+      "example": "작은 나사는 스크루 드라이버로 조였다.",
+      "example_en": "Small screws were tightened with a screwdriver."
+    },
+    {
+      "korean": "안전모",
+      "english": "hard hat; safety helmet",
+      "example": "모든 작업자는 건설 현장에서 안전모를 써야 한다.",
+      "example_en": "All workers must wear hard hats at the construction site."
+    },
+    {
+      "korean": "안전대",
+      "english": "safety belt; harness",
+      "example": "높은 곳에서 일할 때는 반드시 안전대를 착용해야 한다.",
+      "example_en": "A safety belt must be worn when working at heights."
+    },
+    {
+      "korean": "안전화",
+      "english": "safety shoes; work boots",
+      "example": "무거운 물건이 떨어질 수 있으므로 안전화를 신는다.",
+      "example_en": "Safety shoes are worn because heavy objects may fall."
+    },
+    {
+      "korean": "장갑",
+      "english": "gloves",
+      "example": "거친 일을 할 때는 보호 장갑을 끼운다.",
+      "example_en": "Protective gloves are worn when doing rough work."
+    },
+    {
+      "korean": "보안경",
+      "english": "safety goggles",
+      "example": "용접할 때 눈을 보호하기 위해 보안경을 쓴다.",
+      "example_en": "Safety goggles are worn to protect the eyes while welding."
+    },
+    {
+      "korean": "사고",
+      "english": "accident",
+      "example": "안전 규칙을 지키지 않으면 사고가 날 수 있다.",
+      "example_en": "An accident can happen if safety rules are not followed."
+    },
+    {
+      "korean": "기초",
+      "english": "foundation",
+      "example": "건물이 튼튼하려면 견고한 기초가 필요하다.",
+      "example_en": "A strong foundation is needed for a solid building."
+    },
+    {
+      "korean": "구조",
+      "english": "structure",
+      "example": "건축가가 건물의 구조를 설계했다.",
+      "example_en": "The architect designed the structure of the building."
+    },
+    {
+      "korean": "하중",
+      "english": "load; weight",
+      "example": "이 기둥은 매우 높은 하중을 견딜 수 있다.",
+      "example_en": "This column can withstand very high loads."
+    },
+    {
+      "korean": "강도",
+      "english": "strength; rigidity",
+      "example": "콘크리트의 강도는 시멘트의 양에 따라 결정된다.",
+      "example_en": "The strength of concrete is determined by the amount of cement."
+    },
+    {
+      "korean": "지반",
+      "english": "ground; soil",
+      "example": "건설 전에 지반을 철저히 조사해야 한다.",
+      "example_en": "The ground must be thoroughly surveyed before construction."
+    },
+    {
+      "korean": "보(보 구조)",
+      "english": "beam",
+      "example": "천장을 지탱하기 위해 튼튼한 보가 설치되었다.",
+      "example_en": "A strong beam was installed to support the ceiling."
+    },
+    {
+      "korean": "기둥",
+      "english": "column; pillar",
+      "example": "건물의 기둥은 건물 전체의 무게를 견딘다.",
+      "example_en": "Building columns support the entire weight of the structure."
+    },
+    {
+      "korean": "공사",
+      "english": "construction; project",
+      "example": "새로운 도로 공사가 내일부터 시작된다.",
+      "example_en": "The new road construction will start tomorrow."
+    },
+    {
+      "korean": "시공",
+      "english": "construction work; execution",
+      "example": "설계가 완료되면 시공이 시작된다.",
+      "example_en": "After the design is completed, construction work begins."
+    },
+    {
+      "korean": "건설 현장",
+      "english": "construction site",
+      "example": "건설 현장에는 많은 기계와 노동자들이 있다.",
+      "example_en": "There are many machines and workers at the construction site."
+    },
+    {
+      "korean": "비계",
+      "english": "scaffolding",
+      "example": "높은 건물을 짓기 위해 임시 비계를 설치한다.",
+      "example_en": "Temporary scaffolding is installed to build tall buildings."
+    },
+    {
+      "korean": "도면",
+      "english": "blueprint; plan",
+      "example": "건축가의 도면에 따라 건설이 진행된다.",
+      "example_en": "Construction proceeds according to the architect's blueprint."
+    },
+    {
+      "korean": "검사",
+      "english": "inspection",
+      "example": "공사 완료 후에는 철저한 검사가 필요하다.",
+      "example_en": "A thorough inspection is necessary after construction is completed."
+    }
+  ],
+  "주제별 단어 — 음악 (Topic: Music)": [
+    {
+      "korean": "피아노",
+      "english": "piano",
+      "example": "어렸을 때부터 피아노를 배웠어요.",
+      "example_en": "I've been learning piano since I was young."
+    },
+    {
+      "korean": "기타",
+      "english": "guitar",
+      "example": "그의 기타 연주가 정말 인상적이었다.",
+      "example_en": "His guitar performance was really impressive."
+    },
+    {
+      "korean": "바이올린",
+      "english": "violin",
+      "example": "바이올린은 현악기 중에서 가장 음역대가 높다.",
+      "example_en": "The violin has the highest range among stringed instruments."
+    },
+    {
+      "korean": "첼로",
+      "english": "cello",
+      "example": "첼로의 깊고 풍부한 음색이 매력적이다.",
+      "example_en": "The cello's deep and rich tone is attractive."
+    },
+    {
+      "korean": "플루트",
+      "english": "flute",
+      "example": "이 곡은 플루트의 아름다운 소리를 살려낸다.",
+      "example_en": "This piece brings out the beautiful sound of the flute."
+    },
+    {
+      "korean": "트롬본",
+      "english": "trombone",
+      "example": "재즈 밴드에서 트롬본은 중요한 역할을 한다.",
+      "example_en": "The trombone plays an important role in a jazz band."
+    },
+    {
+      "korean": "드럼",
+      "english": "drum",
+      "example": "드럼의 강렬한 비트가 분위기를 살린다.",
+      "example_en": "The drum's powerful beat enlivens the atmosphere."
+    },
+    {
+      "korean": "오보에",
+      "english": "oboe",
+      "example": "오보에는 오케스트라의 기준음이 되곤 한다.",
+      "example_en": "The oboe often serves as the reference pitch for an orchestra."
+    },
+    {
+      "korean": "색소폰",
+      "english": "saxophone",
+      "example": "색소폰 솔로가 이 노래의 하이라이트다.",
+      "example_en": "The saxophone solo is the highlight of this song."
+    },
+    {
+      "korean": "하프",
+      "english": "harp",
+      "example": "하프의 신비로운 소리는 영화 음악에 자주 쓰인다.",
+      "example_en": "The harp's mysterious sound is often used in film scores."
+    },
+    {
+      "korean": "공연",
+      "english": "performance",
+      "example": "내일 대학로에서 공연이 있다.",
+      "example_en": "There's a performance in Daehangno tomorrow."
+    },
+    {
+      "korean": "콘서트",
+      "english": "concert",
+      "example": "그 가수의 콘서트 티켓이 다 팔렸다.",
+      "example_en": "All tickets for that singer's concert sold out."
+    },
+    {
+      "korean": "무대",
+      "english": "stage",
+      "example": "무대 위에서 그의 자신감 있는 모습이 눈에 띄었다.",
+      "example_en": "His confident appearance on stage caught my eye."
+    },
+    {
+      "korean": "앙코르",
+      "english": "encore",
+      "example": "관객들의 큰 박수에 가수가 앙코르 곡을 불렀다.",
+      "example_en": "The singer performed an encore song to the audience's thunderous applause."
+    },
+    {
+      "korean": "리사이틀",
+      "english": "recital",
+      "example": "그녀의 피아노 리사이틀은 매년 기대되는 공연이다.",
+      "example_en": "Her piano recital is an eagerly anticipated annual performance."
+    },
+    {
+      "korean": "오케스트라",
+      "english": "orchestra",
+      "example": "서울시립 오케스트라의 공연을 들었다.",
+      "example_en": "I listened to a Seoul Philharmonic Orchestra performance."
+    },
+    {
+      "korean": "합창",
+      "english": "chorus; choir",
+      "example": "학교 합창 대회에서 우리 팀이 입상했다.",
+      "example_en": "Our team won a prize in the school choir competition."
+    },
+    {
+      "korean": "독주",
+      "english": "solo performance",
+      "example": "이 곡의 독주 부분은 가장 기술적으로 어렵다.",
+      "example_en": "The solo part of this piece is the most technically difficult."
+    },
+    {
+      "korean": "이중주",
+      "english": "duet",
+      "example": "그들의 이중주 무대는 정말 환상적이었다.",
+      "example_en": "Their duet performance was absolutely fantastic."
+    },
+    {
+      "korean": "버스킹",
+      "english": "busking; street performance",
+      "example": "지하철에서 버스킹하는 뮤지션들을 자주 볼 수 있다.",
+      "example_en": "You can often see street musicians busking in the subway."
+    },
+    {
+      "korean": "멜로디",
+      "english": "melody",
+      "example": "이 곡의 멜로디가 너무 아름다워서 자꾸 따라 부르게 된다.",
+      "example_en": "The melody of this song is so beautiful that I keep humming it."
+    },
+    {
+      "korean": "리듬",
+      "english": "rhythm",
+      "example": "리듬감이 좋은 사람이 춤을 잘 춘다.",
+      "example_en": "People with a good sense of rhythm dance well."
+    },
+    {
+      "korean": "화음",
+      "english": "harmony",
+      "example": "이 곡의 화음이 정말 풍부하고 복잡하다.",
+      "example_en": "The harmony in this piece is really rich and complex."
+    },
+    {
+      "korean": "가사",
+      "english": "lyrics",
+      "example": "가사가 너무 감동적이어서 눈물이 났다.",
+      "example_en": "The lyrics were so touching that I cried."
+    },
+    {
+      "korean": "악보",
+      "english": "score; sheet music",
+      "example": "악보를 읽을 수 없으면 클래식 음악을 배우기 어렵다.",
+      "example_en": "It's difficult to learn classical music if you can't read sheet music."
+    },
+    {
+      "korean": "템포",
+      "english": "tempo",
+      "example": "지휘자가 템포를 조금 더 빠르게 할 것을 지시했다.",
+      "example_en": "The conductor instructed to play at a slightly faster tempo."
+    },
+    {
+      "korean": "음정",
+      "english": "pitch",
+      "example": "성악가는 정확한 음정을 유지하는 것이 중요하다.",
+      "example_en": "It's important for a vocalist to maintain accurate pitch."
+    },
+    {
+      "korean": "곡",
+      "english": "song; composition; piece",
+      "example": "요즘 가장 인기 있는 곡이 무엇인가요?",
+      "example_en": "What's the most popular song these days?"
+    },
+    {
+      "korean": "악기",
+      "english": "musical instrument",
+      "example": "그는 여러 악기를 능숙하게 다룬다.",
+      "example_en": "He skillfully handles several musical instruments."
+    },
+    {
+      "korean": "현악기",
+      "english": "string instrument",
+      "example": "현악기는 활을 사용하여 소리를 낸다.",
+      "example_en": "String instruments produce sound by using a bow."
+    },
+    {
+      "korean": "음악가",
+      "english": "musician",
+      "example": "유명한 음악가들이 이 축제에 참여한다.",
+      "example_en": "Famous musicians are participating in this festival."
+    },
+    {
+      "korean": "성악가",
+      "english": "vocalist; singer",
+      "example": "그 성악가의 목소리는 정말 아름답다.",
+      "example_en": "That vocalist's voice is truly beautiful."
+    },
+    {
+      "korean": "지휘자",
+      "english": "conductor",
+      "example": "지휘자의 동작이 오케스트라의 소리를 결정한다.",
+      "example_en": "The conductor's movements determine the sound of the orchestra."
+    },
+    {
+      "korean": "작곡가",
+      "english": "composer",
+      "example": "그 유명한 작곡가는 여생을 음악에만 바쳤다.",
+      "example_en": "That famous composer dedicated the rest of his life to music."
+    },
+    {
+      "korean": "반주자",
+      "english": "accompanist",
+      "example": "반주자는 솔리스트를 잘 받쳐줘야 한다.",
+      "example_en": "An accompanist must support the soloist well."
+    },
+    {
+      "korean": "악사",
+      "english": "musician; instrumentalist",
+      "example": "악사들은 무대에 나오기 전에 충분히 워밍업한다.",
+      "example_en": "Musicians warm up sufficiently before taking the stage."
+    },
+    {
+      "korean": "연주자",
+      "english": "performer; player",
+      "example": "경험 많은 연주자일수록 감정 표현이 풍부하다.",
+      "example_en": "The more experienced the performer, the richer the emotional expression."
+    },
+    {
+      "korean": "보컬",
+      "english": "vocalist; vocal",
+      "example": "이 노래는 보컬의 능력을 잘 보여주는 곡이다.",
+      "example_en": "This song well demonstrates the vocalist's ability."
+    },
+    {
+      "korean": "클래식",
+      "english": "classical (music)",
+      "example": "저는 클래식 음악을 감상하는 것을 좋아한다.",
+      "example_en": "I like listening to classical music."
+    },
+    {
+      "korean": "재즈",
+      "english": "jazz",
+      "example": "재즈는 즉흥 연주가 특징이다.",
+      "example_en": "Improvisation is a characteristic feature of jazz."
+    }
+  ],
+  "주제별 단어 — 치과 (Topic: Dental)": [
+    {
+      "korean": "치아",
+      "english": "tooth; teeth",
+      "example": "치아를 매일 두 번 닦아야 한다.",
+      "example_en": "You should brush your teeth twice a day."
+    },
+    {
+      "korean": "치과",
+      "english": "dental clinic; dentist",
+      "example": "내일 치과에 가서 검진을 받을 거예요.",
+      "example_en": "I'm going to the dentist tomorrow for a checkup."
+    },
+    {
+      "korean": "치과 의사",
+      "english": "dentist",
+      "example": "우리 동네에 잘하는 치과 의사가 있다고 들었어.",
+      "example_en": "I heard there's a good dentist in our neighborhood."
+    },
+    {
+      "korean": "치과 위생사",
+      "english": "dental hygienist",
+      "example": "치과 위생사가 나의 치아를 청소해 주었다.",
+      "example_en": "The dental hygienist cleaned my teeth."
+    },
+    {
+      "korean": "앞니",
+      "english": "front teeth; incisors",
+      "example": "그 배우는 앞니가 정말 하얀 이빨이다.",
+      "example_en": "That actor has really white front teeth."
+    },
+    {
+      "korean": "어금니",
+      "english": "molar; back tooth",
+      "example": "어금니가 아파서 음식을 씹기가 힘들어.",
+      "example_en": "My molar hurts, so it's hard to chew."
+    },
+    {
+      "korean": "송곳니",
+      "english": "canine tooth; eyetooth",
+      "example": "송곳니가 튀어나와 있어서 어려서부터 신경 썼어.",
+      "example_en": "My canine tooth stuck out, so I've been concerned since childhood."
+    },
+    {
+      "korean": "유치",
+      "english": "baby tooth; milk tooth; deciduous tooth",
+      "example": "아이의 유치가 빠지고 영구치가 나오고 있다.",
+      "example_en": "My child's baby teeth are falling out and permanent teeth are coming in."
+    },
+    {
+      "korean": "영구치",
+      "english": "permanent tooth",
+      "example": "영구치는 한 번 손상되면 회복이 어렵다.",
+      "example_en": "Once permanent teeth are damaged, it's hard to recover them."
+    },
+    {
+      "korean": "치근",
+      "english": "root of tooth; tooth root",
+      "example": "충치가 깊어서 치근까지 손상되었다.",
+      "example_en": "The cavity was deep and damaged the tooth root."
+    },
+    {
+      "korean": "치관",
+      "english": "dental crown",
+      "example": "금을 씌운 치관이 비싼 치료다.",
+      "example_en": "A gold crown is an expensive dental treatment."
+    },
+    {
+      "korean": "충치",
+      "english": "cavity; tooth decay; dental caries",
+      "example": "어릴 때 충치가 많아서 고생했어.",
+      "example_en": "I had a lot of cavities when I was young."
+    },
+    {
+      "korean": "치석",
+      "english": "tartar; dental calculus",
+      "example": "정기적으로 치과에서 치석을 제거해야 한다.",
+      "example_en": "You need to have tartar removed at the dentist regularly."
+    },
+    {
+      "korean": "잇몸",
+      "english": "gums; gingiva",
+      "example": "잇몸에서 피가 나면 칫솔질을 너무 세게 하는 거야.",
+      "example_en": "If your gums bleed, you're brushing too hard."
+    },
+    {
+      "korean": "치은염",
+      "english": "gingivitis; gum inflammation",
+      "example": "치은염이 심해지면 치주 질환으로 진행될 수 있다.",
+      "example_en": "If gingivitis worsens, it can progress to periodontal disease."
+    },
+    {
+      "korean": "치주 질환",
+      "english": "periodontal disease; gum disease",
+      "example": "치주 질환은 성인이 치아를 잃는 주요 원인이다.",
+      "example_en": "Periodontal disease is a major cause of tooth loss in adults."
+    },
+    {
+      "korean": "스케일링",
+      "english": "scaling; teeth cleaning",
+      "example": "6개월마다 치과에서 스케일링을 받는 게 좋아.",
+      "example_en": "It's good to get scaling done at the dentist every six months."
+    },
+    {
+      "korean": "근관 치료",
+      "english": "root canal treatment",
+      "example": "충치가 심하면 근관 치료가 필요할 수 있다.",
+      "example_en": "If a cavity is severe, root canal treatment may be necessary."
+    },
+    {
+      "korean": "발치",
+      "english": "tooth extraction",
+      "example": "회복 불가능한 치아는 발치해야 한다.",
+      "example_en": "A tooth that cannot be saved must be extracted."
+    },
+    {
+      "korean": "임플란트",
+      "english": "dental implant",
+      "example": "임플란트는 비싸지만 오래 쓸 수 있다.",
+      "example_en": "Dental implants are expensive, but they last a long time."
+    },
+    {
+      "korean": "틀니",
+      "english": "dentures; false teeth",
+      "example": "할머니는 틀니를 착용하고 계신다.",
+      "example_en": "Grandmother wears dentures."
+    },
+    {
+      "korean": "브릿지",
+      "english": "dental bridge",
+      "example": "브릿지는 양쪽 이빨을 깎아야 한다.",
+      "example_en": "A bridge requires shaving down the teeth on both sides."
+    },
+    {
+      "korean": "교정",
+      "english": "orthodontic treatment; braces",
+      "example": "아이가 치아 교정을 받기로 했어.",
+      "example_en": "My child has decided to get braces."
+    },
+    {
+      "korean": "교정 장치",
+      "english": "orthodontic appliance; braces",
+      "example": "교정 장치가 불편하지만 효과는 좋다.",
+      "example_en": "Braces are uncomfortable, but they're effective."
+    },
+    {
+      "korean": "치아 미백",
+      "english": "teeth whitening; teeth bleaching",
+      "example": "치아 미백 시술을 받으면 좀 더 밝아진다.",
+      "example_en": "Teeth whitening treatment makes teeth brighter."
+    },
+    {
+      "korean": "칫솔",
+      "english": "toothbrush",
+      "example": "부드러운 칫솔이 잇몸에 좋아.",
+      "example_en": "A soft toothbrush is good for your gums."
+    },
+    {
+      "korean": "전동 칫솔",
+      "english": "electric toothbrush",
+      "example": "전동 칫솔이 일반 칫솔보다 더 효과적이다.",
+      "example_en": "An electric toothbrush is more effective than a regular one."
+    },
+    {
+      "korean": "치약",
+      "english": "toothpaste",
+      "example": "불소가 함유된 치약을 써야 한다.",
+      "example_en": "You should use toothpaste that contains fluoride."
+    },
+    {
+      "korean": "치실",
+      "english": "dental floss",
+      "example": "칫솔질 후에 치실로 닦으면 충치 예방에 좋다.",
+      "example_en": "Using floss after brushing helps prevent cavities."
+    },
+    {
+      "korean": "구강 청결제",
+      "english": "mouthwash; oral rinse",
+      "example": "식사 후에 구강 청결제로 가글하는 것도 도움이 된다.",
+      "example_en": "Rinsing with mouthwash after meals also helps."
+    },
+    {
+      "korean": "치아 검진",
+      "english": "dental checkup; dental examination",
+      "example": "6개월마다 정기적으로 치아 검진을 받아야 한다.",
+      "example_en": "You should have regular dental checkups every six months."
+    },
+    {
+      "korean": "방사선 촬영",
+      "english": "X-ray; radiography (dental)",
+      "example": "치과에서 방사선 촬영을 해서 충치를 찾아냈어.",
+      "example_en": "The dentist took an X-ray and found a cavity."
+    },
+    {
+      "korean": "마취",
+      "english": "anesthesia; numbness (from local anesthetic)",
+      "example": "치료 전에 마취를 했으니까 통증이 없어.",
+      "example_en": "They gave me anesthesia before treatment, so there's no pain."
+    },
+    {
+      "korean": "살짝 아프다",
+      "english": "to hurt a little; to be slightly painful",
+      "example": "이가 살짝 아픈데 충치 때문인지 확인해야 한다.",
+      "example_en": "My tooth hurts a little; I need to check if it's because of a cavity."
+    },
+    {
+      "korean": "시린이",
+      "english": "sensitive teeth; tooth sensitivity",
+      "example": "찬 것을 먹을 때마다 시린이가 심해진다.",
+      "example_en": "Every time I eat something cold, my tooth sensitivity gets worse."
+    },
+    {
+      "korean": "치아 손상",
+      "english": "tooth damage; damaged tooth",
+      "example": "사고로 인해 앞니가 치아 손상을 입었다.",
+      "example_en": "My front tooth was damaged in an accident."
+    },
+    {
+      "korean": "악물다",
+      "english": "to clench; to grit (teeth)",
+      "example": "스트레스를 받으면 자면서 이를 악물어서 아침에 턱이 아프다.",
+      "example_en": "When I'm stressed, I grind my teeth while sleeping and my jaw hurts in the morning."
+    },
+    {
+      "korean": "이가 흔들리다",
+      "english": "tooth is loose; to have a loose tooth",
+      "example": "아이의 유치가 흔들려서 빠질 준비를 하고 있다.",
+      "example_en": "My child's baby tooth is loose and about to fall out."
+    },
+    {
+      "korean": "치아 미용",
+      "english": "cosmetic dentistry",
+      "example": "많은 사람들이 아름다운 미소를 위해 치아 미용을 받는다.",
+      "example_en": "Many people get cosmetic dental work for a beautiful smile."
+    },
+    {
+      "korean": "잇몸 이식",
+      "english": "gum graft",
+      "example": "잇몸이 심하게 내려앉았을 때 잇몸 이식이 필요할 수 있다.",
+      "example_en": "Gum grafting may be necessary when gums have severely receded."
+    }
+  ],
+  "주제별 단어 — 노화/노년 (Topic: Aging)": [
+    {
+      "korean": "노화",
+      "english": "aging, the process of growing old",
+      "example": "피부의 노화를 늦추기 위해서는 햇빛 차단제를 꾸준히 발라야 한다.",
+      "example_en": "To slow down skin aging, you need to consistently apply sunscreen."
+    },
+    {
+      "korean": "노년",
+      "english": "old age, elderly years",
+      "example": "그는 노년에도 여전히 활발한 사회활동을 하고 있다.",
+      "example_en": "Even in his old age, he remains actively involved in social activities."
+    },
+    {
+      "korean": "은퇴",
+      "english": "retirement",
+      "example": "65세에 은퇴하는 것이 일반적이지만, 요즘은 재정상황에 따라 차이가 난다.",
+      "example_en": "Retiring at 65 used to be standard, but nowadays it varies depending on financial circumstances."
+    },
+    {
+      "korean": "노인",
+      "english": "elderly person, senior",
+      "example": "지하철에서 노인이 탈 때는 자리를 양보하는 것이 기본 예절이다.",
+      "example_en": "Giving up your seat when an elderly person boards the subway is basic etiquette."
+    },
+    {
+      "korean": "세대",
+      "english": "generation",
+      "example": "베이비붐 세대와 Z세대 사이에는 상당한 가치관의 차이가 있다.",
+      "example_en": "There's a significant difference in values between the Baby Boom generation and Gen Z."
+    },
+    {
+      "korean": "경로효친",
+      "english": "filial piety toward elderly parents",
+      "example": "경로효친은 우리 전통문화에서 가장 강조되는 미덕 중 하나이다.",
+      "example_en": "Filial piety toward elderly parents is one of the most emphasized virtues in our traditional culture."
+    },
+    {
+      "korean": "요양원",
+      "english": "nursing home, care facility",
+      "example": "부모님을 요양원에 모시는 것은 많은 한국 가족에게 여전히 심리적 부담이다.",
+      "example_en": "Placing parents in a nursing home remains a psychological burden for many Korean families."
+    },
+    {
+      "korean": "노령연금",
+      "english": "old age pension",
+      "example": "국민연금의 수령 시작 나이가 65세에서 67세로 점진적으로 올라가고 있다.",
+      "example_en": "The age to start receiving the National Pension is gradually increasing from 65 to 67."
+    },
+    {
+      "korean": "치매",
+      "english": "dementia",
+      "example": "치매 초기에 적절한 치료와 관리를 받으면 진행을 늦출 수 있다.",
+      "example_en": "With proper treatment and management in the early stages of dementia, progression can be slowed."
+    },
+    {
+      "korean": "관절염",
+      "english": "arthritis",
+      "example": "나이가 들면서 무릎 관절염으로 고통받는 사람들이 많다.",
+      "example_en": "Many people suffer from knee arthritis as they age."
+    },
+    {
+      "korean": "골다공증",
+      "english": "osteoporosis",
+      "example": "폐경 이후 여성들은 골다공증에 걸릴 위험이 높아진다.",
+      "example_en": "Women's risk of osteoporosis increases after menopause."
+    },
+    {
+      "korean": "백내장",
+      "english": "cataract",
+      "example": "백내장은 노년기의 흔한 안질환이지만 수술로 치료할 수 있다.",
+      "example_en": "Cataracts are a common eye disease in old age but can be treated with surgery."
+    },
+    {
+      "korean": "청력",
+      "english": "hearing",
+      "example": "나이가 들면서 청력이 감소하는 것은 자연스러운 현상이다.",
+      "example_en": "Loss of hearing with age is a natural phenomenon."
+    },
+    {
+      "korean": "갱년기",
+      "english": "menopause, climacteric",
+      "example": "갱년기 증상을 관리하는 방법은 개인차가 크다.",
+      "example_en": "Methods of managing menopausal symptoms vary greatly from person to person."
+    },
+    {
+      "korean": "주름살",
+      "english": "wrinkles",
+      "example": "자외선 노출은 주름살이 생기는 주된 원인 중 하나이다.",
+      "example_en": "UV exposure is one of the main causes of wrinkles."
+    },
+    {
+      "korean": "흰머리",
+      "english": "gray hair",
+      "example": "흰머리가 나는 시기는 유전과 생활습관에 따라 달라진다.",
+      "example_en": "The timing of graying hair varies depending on genetics and lifestyle habits."
+    },
+    {
+      "korean": "보청기",
+      "english": "hearing aid",
+      "example": "최근의 보청기는 기술이 발전해서 더 작아지고 편해졌다.",
+      "example_en": "Modern hearing aids have become smaller and more comfortable due to technological advances."
+    },
+    {
+      "korean": "휠체어",
+      "english": "wheelchair",
+      "example": "거동이 불편해지면 휠체어가 노년층의 독립성을 유지하는 데 도움이 된다.",
+      "example_en": "When mobility becomes difficult, a wheelchair helps the elderly maintain their independence."
+    },
+    {
+      "korean": "지팡이",
+      "english": "cane, walking stick",
+      "example": "지팡이를 짚고 산책하는 노인들을 공원에서 자주 본다.",
+      "example_en": "You often see elderly people taking walks with canes in the park."
+    },
+    {
+      "korean": "보행기",
+      "english": "walker",
+      "example": "거동이 불안정한 어르신들은 보행기를 사용해서 안전하게 움직인다.",
+      "example_en": "Elderly people with unstable mobility use walkers to move safely."
+    },
+    {
+      "korean": "활동능력",
+      "english": "mobility, activity capacity",
+      "example": "정기적인 운동은 노인의 활동능력을 유지하는 데 필수적이다.",
+      "example_en": "Regular exercise is essential to maintaining an elderly person's mobility."
+    },
+    {
+      "korean": "인지능력",
+      "english": "cognitive ability, cognition",
+      "example": "인지능력이 감소하면 일상생활에서 많은 어려움이 생긴다.",
+      "example_en": "Declining cognitive ability creates many difficulties in daily life."
+    },
+    {
+      "korean": "독립생활",
+      "english": "independent living",
+      "example": "가능한 한 오래도록 독립생활을 유지하는 것이 노인의 삶의 질을 높인다.",
+      "example_en": "Maintaining independent living as long as possible improves an elderly person's quality of life."
+    },
+    {
+      "korean": "부양",
+      "english": "support, maintenance (of elderly parents)",
+      "example": "부양 의무는 법적으로 명시되어 있지만, 실제로는 개인의 상황에 따라 크게 달라진다.",
+      "example_en": "The duty of support is legally specified, but in practice varies greatly depending on individual circumstances."
+    },
+    {
+      "korean": "효도",
+      "english": "filial duty, filial piety",
+      "example": "효도는 단순히 부모님을 모시는 것이 아니라, 마음가짐이 중요하다.",
+      "example_en": "Filial duty is not just about taking care of parents; it's about one's mindset."
+    },
+    {
+      "korean": "세대차",
+      "english": "generational gap",
+      "example": "디지털 기술 사용에서의 세대차는 점점 커지고 있다.",
+      "example_en": "The generational gap in digital technology use is widening."
+    },
+    {
+      "korean": "기성세대",
+      "english": "older generation, established generation",
+      "example": "기성세대는 MZ세대의 문화를 이해하기 어려워하는 경우가 많다.",
+      "example_en": "The older generation often has difficulty understanding Gen Z's culture."
+    },
+    {
+      "korean": "MZ세대",
+      "english": "Gen Z/Millennials",
+      "example": "MZ세대는 SNS를 통해 문화를 형성하고 확산시킨다.",
+      "example_en": "Gen Z/Millennials form and spread culture through social media."
+    },
+    {
+      "korean": "가치관",
+      "english": "values, worldview",
+      "example": "부모와 자녀의 가치관 차이가 가정갈등의 주요 원인이 되기도 한다.",
+      "example_en": "Differences in values between parents and children can be a major cause of family conflict."
+    },
+    {
+      "korean": "인생경험",
+      "english": "life experience",
+      "example": "노인들의 인생경험은 젊은 세대에게 귀중한 지혜를 제공할 수 있다.",
+      "example_en": "The life experiences of elderly people can provide valuable wisdom to younger generations."
+    },
+    {
+      "korean": "회고록",
+      "english": "memoir, autobiography",
+      "example": "많은 유명인들이 은퇴 후 회고록을 출판하는 추세가 있다.",
+      "example_en": "There's a trend of many celebrities publishing memoirs after retirement."
+    },
+    {
+      "korean": "노후",
+      "english": "old age, later years",
+      "example": "노후를 어떻게 보낼 것인가는 인생에서 가장 중요한 질문 중 하나이다.",
+      "example_en": "How to spend your later years is one of life's most important questions."
+    },
+    {
+      "korean": "노후대비",
+      "english": "preparation for old age, retirement planning",
+      "example": "조기에 노후대비를 시작할수록 경제적 안정성이 높아진다.",
+      "example_en": "The earlier you start retirement planning, the higher your financial stability."
+    },
+    {
+      "korean": "연금",
+      "english": "pension, annuity",
+      "example": "국민연금만으로는 노후생활을 하기 어려워서 추가 저축이 필수다.",
+      "example_en": "The national pension alone is not enough for retirement, so additional savings are essential."
+    },
+    {
+      "korean": "적금",
+      "english": "savings account, time deposit",
+      "example": "꾸준한 적금 납입은 노후자금을 마련하는 확실한 방법이다.",
+      "example_en": "Consistent savings deposits are a reliable way to prepare retirement funds."
+    },
+    {
+      "korean": "의료비",
+      "english": "medical expenses",
+      "example": "노년기의 의료비는 예상보다 훨씬 많이 들 수 있다.",
+      "example_en": "Medical expenses in old age can be much higher than expected."
+    },
+    {
+      "korean": "시설",
+      "english": "facility, institution",
+      "example": "요양 시설의 질과 가격은 지역과 시설마다 큰 차이가 있다.",
+      "example_en": "The quality and price of care facilities vary greatly by region and facility."
+    },
+    {
+      "korean": "수명",
+      "english": "lifespan, life expectancy",
+      "example": "의료 기술의 발전으로 평균 수명이 계속 증가하고 있다.",
+      "example_en": "Average life expectancy continues to increase with advances in medical technology."
+    },
+    {
+      "korean": "장수",
+      "english": "longevity, living long",
+      "example": "우리 할머니는 건강한 생활습관 덕분에 장수를 누리고 계신다.",
+      "example_en": "Our grandmother enjoys longevity thanks to her healthy lifestyle habits."
+    },
+    {
+      "korean": "세상 물정",
+      "english": "worldly knowledge, knowledge of how the world works",
+      "example": "나이가 들면서 세상 물정을 더 많이 알게 되는 것이 경험의 이점이다.",
+      "example_en": "Understanding more about how the world works as you age is an advantage of experience."
+    }
   ]
 }
