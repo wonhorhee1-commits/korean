@@ -16237,241 +16237,281 @@
       "korean": "이병",
       "english": "private (lowest enlisted rank)",
       "example": "새로 입대한 이병들이 훈련소에서 기초군사훈련을 받고 있다.",
-      "example_en": "Newly enlisted privates are undergoing basic military training at the training camp."
+      "example_en": "Newly enlisted privates are undergoing basic military training at the training camp.",
+      "notes": "Sino-Korean: 二 (two) + 兵 (soldier). Lowest rank; used as baseline for service duration (e.g., '이병 9개월')."
     },
     {
       "korean": "일병",
       "english": "private first class",
       "example": "그는 이병 9개월 만에 일병으로 진급했다.",
-      "example_en": "He was promoted to private first class after 9 months as a private."
+      "example_en": "He was promoted to private first class after 9 months as a private.",
+      "notes": "Sino-Korean: 一 (first) + 兵 (soldier). Typically promoted after 9 months; common collocation: '일병 진급' (promotion to PFC)."
     },
     {
       "korean": "상병",
       "english": "corporal",
       "example": "상병은 신병들을 감시하고 지도하는 역할을 한다.",
-      "example_en": "A corporal's role is to supervise and train new recruits."
+      "example_en": "A corporal's role is to supervise and train new recruits.",
+      "notes": "Sino-Korean: 上 (upper/senior) + 兵 (soldier). Senior enlisted before sergeant; responsible for new recruits."
     },
     {
       "korean": "병장",
       "english": "sergeant (highest enlisted rank)",
       "example": "병장은 분대를 통솔하고 장병들의 복무 상태를 관리한다.",
-      "example_en": "A sergeant commands a squad and manages the service status of soldiers."
+      "example_en": "A sergeant commands a squad and manages the service status of soldiers.",
+      "notes": "Sino-Korean: 兵 (soldier) + 長 (chief). Highest enlisted rank; often serves as squad leader, collocates with '책임' (responsibility)."
     },
     {
       "korean": "하사",
       "english": "staff sergeant (lowest NCO rank)",
       "example": "하사 계급은 여군에도 있으며, 분대장의 역할을 수행한다.",
-      "example_en": "The rank of staff sergeant exists for women soldiers too and serves as a squad leader."
+      "example_en": "The rank of staff sergeant exists for women soldiers too and serves as a squad leader.",
+      "notes": "Sino-Korean: 下 (lower) + 士 (officer). Ranks below 중사; common support role."
     },
     {
       "korean": "중사",
       "english": "master sergeant",
       "example": "중사는 부사관으로서 중요한 행정 업무를 담당한다.",
-      "example_en": "As a non-commissioned officer, a master sergeant handles important administrative duties."
+      "example_en": "As a non-commissioned officer, a master sergeant handles important administrative duties.",
+      "notes": "Sino-Korean: 中 (middle) + 士 (officer). Non-commissioned officer rank; common in all branches."
     },
     {
       "korean": "소위",
       "english": "second lieutenant (lowest officer rank)",
       "example": "소위는 대학 ROTC를 졸업한 후 임관한다.",
-      "example_en": "A second lieutenant is commissioned after graduating from university ROTC."
+      "example_en": "A second lieutenant is commissioned after graduating from university ROTC.",
+      "notes": "Sino-Korean: 小 (small) + 尉 (officer). Lowest officer rank, often fresh from military academy."
     },
     {
       "korean": "중위",
       "english": "first lieutenant",
       "example": "그는 소위로 2년간 복무한 후 중위로 진급했다.",
-      "example_en": "After serving two years as a second lieutenant, he was promoted to first lieutenant."
+      "example_en": "After serving two years as a second lieutenant, he was promoted to first lieutenant.",
+      "notes": "Sino-Korean: 中 (middle) + 尉 (officer). Lieutenant rank for company officers or senior staff."
     },
     {
       "korean": "대위",
       "english": "captain",
       "example": "대위는 회사급 지휘관으로서 약 150명의 병사를 지휘한다.",
-      "example_en": "A captain, as a company-level commander, leads approximately 150 soldiers."
+      "example_en": "A captain, as a company-level commander, leads approximately 150 soldiers.",
+      "notes": "Sino-Korean: 大 (great) + 尉 (officer). Company-level commander; typical starting rank for officers."
     },
     {
       "korean": "영관급",
       "english": "field grade officer (major and above)",
       "example": "영관급 장교들은 고급 전술과 전략을 담당한다.",
-      "example_en": "Field grade officers are responsible for advanced tactics and strategy."
+      "example_en": "Field grade officers are responsible for advanced tactics and strategy.",
+      "notes": "Sino-Korean: 領 (lead) + 官 (officer) + 級 (rank). Category for mid-level officers (major-colonel); '영관' = colonel-level."
     },
     {
       "korean": "전술",
       "english": "tactic",
       "example": "이 전술은 적의 방어를 뚫고 전투를 승리로 이끈다.",
-      "example_en": "This tactic breaks through the enemy's defense and leads the battle to victory."
+      "example_en": "This tactic breaks through the enemy's defense and leads the battle to victory.",
+      "notes": "Sino-Korean: 戰 (war) + 術 (technique). Tactical-level operations; contrasts with '전략' (strategy)."
     },
     {
       "korean": "전략",
       "english": "strategy",
       "example": "군부는 장기적인 전략을 바탕으로 국방력을 강화하고 있다.",
-      "example_en": "The military is strengthening defense capability based on long-term strategy."
+      "example_en": "The military is strengthening defense capability based on long-term strategy.",
+      "notes": "Sino-Korean: 戰 (war) + 略 (approximate). Strategic planning; broader than '전술'."
     },
     {
       "korean": "포위",
       "english": "encirclement",
       "example": "아군은 적군을 포위하여 항복을 강요했다.",
-      "example_en": "Our forces encircled the enemy to force surrender."
+      "example_en": "Our forces encircled the enemy to force surrender.",
+      "notes": "Sino-Korean: 包 (surround) + 圍 (encircle). Military encirclement; collocates with '작전' (operation)."
     },
     {
       "korean": "퇴각",
       "english": "retreat",
       "example": "전황이 악화되자 부대는 전략적 퇴각을 감행했다.",
-      "example_en": "As the battle situation deteriorated, the unit executed a strategic retreat."
+      "example_en": "As the battle situation deteriorated, the unit executed a strategic retreat.",
+      "notes": "Sino-Korean: 退 (retreat) + 角 (position). Tactical retreat; formal military maneuver."
     },
     {
       "korean": "진격",
       "english": "advance/offensive",
       "example": "정오부터 우리 군대의 진격이 시작된다.",
-      "example_en": "Our army's offensive will begin at noon."
+      "example_en": "Our army's offensive will begin at noon.",
+      "notes": "Sino-Korean: 進 (advance) + 擊 (strike). Military advance/offensive operation."
     },
     {
       "korean": "보급선",
       "english": "supply line",
       "example": "적군이 우리의 보급선을 끊어버려 물자 부족이 심했다.",
-      "example_en": "The enemy cut off our supply line, causing severe shortages of supplies."
+      "example_en": "The enemy cut off our supply line, causing severe shortages of supplies.",
+      "notes": "Sino-Korean: 保 (preserve) + 給 (supply) + 線 (line). Supply line logistics."
     },
     {
       "korean": "초소",
       "english": "outpost/sentry post",
       "example": "국경 근처의 초소들은 24시간 경계근무를 서고 있다.",
-      "example_en": "Outposts near the border are on 24-hour guard duty."
+      "example_en": "Outposts near the border are on 24-hour guard duty.",
+      "notes": "Sino-Korean: 哨 (sentinel) + 所 (place). Guard post/sentry position; key defensive position."
     },
     {
       "korean": "매복",
       "english": "ambush",
       "example": "적군의 매복 작전에 걸려 우리 부대가 큰 손실을 입었다.",
-      "example_en": "Our unit suffered heavy losses by falling into the enemy's ambush operation."
+      "example_en": "Our unit suffered heavy losses by falling into the enemy's ambush operation.",
+      "notes": "Sino-Korean: 埋 (bury) + 伏 (hide). Ambush; commonly used in tactical contexts."
     },
     {
       "korean": "정찰",
       "english": "reconnaissance/scouting",
       "example": "특수부대가 적 진지의 정찰을 실시했다.",
-      "example_en": "The special forces conducted reconnaissance of the enemy position."
+      "example_en": "The special forces conducted reconnaissance of the enemy position.",
+      "notes": "Sino-Korean: 偵 (scout) + 察 (investigate). Reconnaissance mission; collocates with '활동' (activity)."
     },
     {
       "korean": "전선",
       "english": "front line",
       "example": "전선 상황이 긴장되면서 병력이 증파되었다.",
-      "example_en": "As the front line situation became tense, additional troops were dispatched."
+      "example_en": "As the front line situation became tense, additional troops were dispatched.",
+      "notes": "Sino-Korean: 戰 (war) + 線 (line). Front line; used in '전선 배치' (frontline deployment)."
     },
     {
       "korean": "소총",
       "english": "rifle",
       "example": "신병들은 소총의 분해와 조립을 반복 훈련한다.",
-      "example_en": "New recruits repeatedly train in disassembling and assembling rifles."
+      "example_en": "New recruits repeatedly train in disassembling and assembling rifles.",
+      "notes": "Sino-Korean: 小 (small) + 銃 (gun). Rifle; standard infantry weapon, contrasts with '기관총' (machine gun)."
     },
     {
       "korean": "권총",
       "english": "pistol",
       "example": "사관들은 권총 사격 자격이 필수다.",
-      "example_en": "Officers must be qualified in pistol marksmanship."
+      "example_en": "Officers must be qualified in pistol marksmanship.",
+      "notes": "Sino-Korean: 拳 (fist) + 銃 (gun). Pistol; officer/NCO sidearm, less common than 소총."
     },
     {
       "korean": "기관총",
       "english": "machine gun",
       "example": "기관총의 강력한 화력이 적군의 진격을 막았다.",
-      "example_en": "The machine gun's powerful firepower stopped the enemy's advance."
+      "example_en": "The machine gun's powerful firepower stopped the enemy's advance.",
+      "notes": "Sino-Korean: 機 (machine) + 關 (mechanism) + 銃 (gun). Machine gun; support weapon."
     },
     {
       "korean": "수류탄",
       "english": "grenade",
       "example": "훈련병들이 수류탄 투척 연습을 하고 있다.",
-      "example_en": "Trainees are practicing grenade throwing."
+      "example_en": "Trainees are practicing grenade throwing.",
+      "notes": "Sino-Korean: 手 (hand) + 榴 (pomegranate/grenade) + 彈 (projectile). Hand grenade."
     },
     {
       "korean": "박격포",
       "english": "mortar",
       "example": "박격포 소대는 포병 지원 업무를 담당한다.",
-      "example_en": "The mortar platoon handles artillery support."
+      "example_en": "The mortar platoon handles artillery support.",
+      "notes": "Sino-Korean: 迫 (force/mortar) + 擊 (strike) + 砲 (artillery). Mortar; indirect fire weapon."
     },
     {
       "korean": "탱크",
       "english": "tank",
       "example": "우리 군의 탱크들은 최신 기술로 무장되어 있다.",
-      "example_en": "Our military's tanks are equipped with the latest technology."
+      "example_en": "Our military's tanks are equipped with the latest technology.",
+      "notes": "Loanword from English 'tank'. Armored vehicle; also called '전차' (Sino-Korean: 戰 war + 車 vehicle)."
     },
     {
       "korean": "장갑차",
       "english": "armored vehicle",
       "example": "장갑차가 경계 근처를 순찰하고 있다.",
-      "example_en": "An armored vehicle is patrolling near the border."
+      "example_en": "An armored vehicle is patrolling near the border.",
+      "notes": "Sino-Korean: 裝 (armor) + 甲 (armor plating) + 車 (vehicle). Armored personnel carrier."
     },
     {
       "korean": "헬리콥터",
       "english": "helicopter",
       "example": "군용 헬리콥터가 병력 수송과 의료 후송을 담당한다.",
-      "example_en": "Military helicopters handle troop transport and medical evacuation."
+      "example_en": "Military helicopters handle troop transport and medical evacuation.",
+      "notes": "Loanword from English 'helicopter'. Rotary-wing aircraft."
     },
     {
       "korean": "전투기",
       "english": "fighter jet",
       "example": "우리 공군의 전투기들이 영공을 방어한다.",
-      "example_en": "Our air force's fighter jets defend the airspace."
+      "example_en": "Our air force's fighter jets defend the airspace.",
+      "notes": "Sino-Korean: 戰 (combat) + 鬥 (fight) + 機 (machine). Fighter aircraft; combat jet."
     },
     {
       "korean": "군함",
       "english": "warship/naval vessel",
       "example": "우리 해군의 군함들이 해상 보안을 담당한다.",
-      "example_en": "Our navy's warships are responsible for maritime security."
+      "example_en": "Our navy's warships are responsible for maritime security.",
+      "notes": "Sino-Korean: 軍 (military) + 艦 (warship). Warship; general naval vessel term."
     },
     {
       "korean": "미사일",
       "english": "missile",
       "example": "국방부가 새로운 미사일 체계를 공개했다.",
-      "example_en": "The Ministry of Defense revealed a new missile system."
+      "example_en": "The Ministry of Defense revealed a new missile system.",
+      "notes": "Loanword from English 'missile'. Guided projectile weapon."
     },
     {
       "korean": "병역",
       "english": "military service",
       "example": "병역은 한국 남성의 국방 의무다.",
-      "example_en": "Military service is a Korean male's defense obligation."
+      "example_en": "Military service is a Korean male's defense obligation.",
+      "notes": "Sino-Korean: 兵 (soldier) + 役 (service). Military service obligation; broader term than 복무."
     },
     {
       "korean": "입대",
       "english": "enlistment",
       "example": "그가 다음 달에 입대하기로 했다.",
-      "example_en": "He decided to enlist next month."
+      "example_en": "He decided to enlist next month.",
+      "notes": "Enter military service; common collocation: '입대하다' (to be drafted/enlist), '입대식' (enlistment ceremony)."
     },
     {
       "korean": "제대",
       "english": "discharge/demobilization",
       "example": "2년 복무 후 제대할 때 많은 선후배들이 배웅을 왔다.",
-      "example_en": "After 2 years of service, many senior and junior colleagues came to see him off at discharge."
+      "example_en": "After 2 years of service, many senior and junior colleagues came to see him off at discharge.",
+      "notes": "Discharge from military; formal end of service, similar to 전역."
     },
     {
       "korean": "복무",
       "english": "service/military duty",
       "example": "열심히 복무하면 조기 전역이 가능한 경우도 있다.",
-      "example_en": "In some cases, diligent service may allow early discharge."
+      "example_en": "In some cases, diligent service may allow early discharge.",
+      "notes": "Serve (military duty); broader term than 입대, implies active service period."
     },
     {
       "korean": "훈련소",
       "english": "training camp",
       "example": "모든 신입병은 훈련소에서 5주간의 기초훈련을 받는다.",
-      "example_en": "All new recruits undergo 5 weeks of basic training at training camp."
+      "example_en": "All new recruits undergo 5 weeks of basic training at training camp.",
+      "notes": "Sino-Korean: 訓 (train) + 練 (practice) + 所 (place). Training center/basic training facility."
     },
     {
       "korean": "기초군사훈련",
       "english": "basic military training",
       "example": "기초군사훈련은 모든 신병이 필수로 받아야 하는 과정이다.",
-      "example_en": "Basic military training is a mandatory course all new soldiers must complete."
+      "example_en": "Basic military training is a mandatory course all new soldiers must complete.",
+      "notes": "Basic military training; mandatory 4-5 week program for all new recruits."
     },
     {
       "korean": "전역",
       "english": "discharge/end of service",
       "example": "그는 내년 3월에 전역할 예정이다.",
-      "example_en": "He is scheduled to discharge next March."
+      "example_en": "He is scheduled to discharge next March.",
+      "notes": "Complete military service; opposite of 입대, collocates with 'date', '예정일' (scheduled discharge date)."
     },
     {
       "korean": "예비역",
       "english": "reserve",
       "example": "현역 복무를 마친 후 예비역 의무가 남아 있다.",
-      "example_en": "After completing active duty service, there is remaining reserve obligation."
+      "example_en": "After completing active duty service, there is remaining reserve obligation.",
+      "notes": "Sino-Korean: 預 (reserve) + 備 (prepare) + 役 (service). Reserve status after active duty; '예비군' (reserve forces)."
     },
     {
       "korean": "전시근무지정",
       "english": "wartime service designation",
       "example": "전역 후 전시근무지정자로 등록되었다.",
-      "example_en": "After discharge, he was registered as a wartime service designee."
+      "example_en": "After discharge, he was registered as a wartime service designee.",
+      "notes": "Sino-Korean: 戰 (wartime) + 時 (time) + 근무 (service) + 指 (designate) + 定 (determine). Wartime service assignment."
     }
   ],
   "주제별 단어 — 주거 (Topic: Housing)": [
@@ -16479,241 +16519,281 @@
       "korean": "전세",
       "english": "jeonse (long-term deposit rental) — lump sum deposit for occupancy term, no monthly rent",
       "example": "전세 아파트에 살면 이자 수익까지 고려할 수 있어서 어떤 면에선 저축하는 느낌이다.",
-      "example_en": "If you live in a jeonse apartment, you can even consider the interest income, so in some ways it feels like saving money."
+      "example_en": "If you live in a jeonse apartment, you can even consider the interest income, so in some ways it feels like saving money.",
+      "notes": "전세 계약, 전세금 인상; 월세/전월세와 대비; 한국 특유의 임차인 제도. Sino-Korean: 傳世 (전/傳 + 세/世)."
     },
     {
       "korean": "월세",
       "english": "monthly rent — regular monthly payment without large deposit",
       "example": "사회 초년생이라 대출받을 여유가 없어서 월세로 시작했다.",
-      "example_en": "As a new worker, I didn't have the means to get a loan, so I started with monthly rent."
+      "example_en": "As a new worker, I didn't have the means to get a loan, so I started with monthly rent.",
+      "notes": "월세 올리기, 월세 내기; 전세와 함께 사용되는 주요 임차 방식. Sino-Korean: 月稅 (월/月 + 세/稅)."
     },
     {
       "korean": "오피스텔",
       "english": "officetel — compact residential/office hybrid unit, smaller than apartment",
       "example": "오피스텔은 자취생에게 인기가 많은데 관리가 까다롭다는 게 단점이다.",
-      "example_en": "Officetels are popular with students living alone, but the downside is that management can be complicated."
+      "example_en": "Officetels are popular with students living alone, but the downside is that management can be complicated.",
+      "notes": "오피스텔 월세, 원룸과 비교; 신혼부부/직장인 선호. 영어차용어: office + tel(ephone)."
     },
     {
       "korean": "빌라",
       "english": "villa — multi-unit residential building, between apartment and detached house",
       "example": "빌라는 아파트보다 저렴하지만 배수가 자주 막혀서 신경 써야 한다.",
-      "example_en": "Villas are cheaper than apartments, but you have to be careful because drainage clogs frequently."
+      "example_en": "Villas are cheaper than apartments, but you have to be careful because drainage clogs frequently.",
+      "notes": "빌라 구조, 빌라 배수 문제; 다세대주택과 유사하지만 더 작음. 영어차용어: villa (이탈리아 건축 양식)."
     },
     {
       "korean": "다세대주택",
       "english": "multi-family house — shared building with multiple independent units",
       "example": "이 지역의 다세대주택은 좁지만 가성비가 뛰어나다.",
-      "example_en": "Multi-family houses in this area are small but offer great value for money."
+      "example_en": "Multi-family houses in this area are small but offer great value for money.",
+      "notes": "다세대주택 임대, 투자용 인기; 단독주택/빌라와 구분. Sino-Korean: 多世代住宅 (여러 + 세대 + 집)."
     },
     {
       "korean": "단독주택",
       "english": "detached house — standalone residential house with private yard",
       "example": "단독주택을 구매하려니 토지 가격이 너무 올라서 포기했다.",
-      "example_en": "I gave up on buying a detached house because land prices went up too much."
+      "example_en": "I gave up on buying a detached house because land prices went up too much.",
+      "notes": "단독주택 가격, 토지; 전원주택과 구분 (도시 근처). Sino-Korean: 單獨住宅 (혼자 + 독립적 + 집)."
     },
     {
       "korean": "신축",
       "english": "newly built — brand new construction not yet occupied",
       "example": "신축 아파트는 가격이 비싸지만 시설이 최신식이라서 인기가 많다.",
-      "example_en": "Newly built apartments are expensive, but they're popular because the facilities are state-of-the-art."
+      "example_en": "Newly built apartments are expensive, but they're popular because the facilities are state-of-the-art.",
+      "notes": "신축 프리미엄, 신축 분양; 중고/기존과 대비. Sino-Korean: 新築 (새 + 짓다)."
     },
     {
       "korean": "중고 아파트",
       "english": "preowned apartment — previously occupied apartment for resale",
       "example": "중고 아파트는 신축보다 저렴해서 요즘 구매자들이 많이 찾는다.",
-      "example_en": "Preowned apartments are cheaper than newly built ones, so many buyers are looking for them these days."
+      "example_en": "Preowned apartments are cheaper than newly built ones, so many buyers are looking for them these days.",
+      "notes": "중고 가격, 중고 매입; 신축과의 가격 차이. Sino-Korean: 中古 (다른 사람의 + 오래된)."
     },
     {
       "korean": "투룸",
       "english": "two-room unit — apartment with two separate rooms plus living area",
       "example": "신혼부부들이 투룸이나 쓰리룸을 많이 찾는 편이다.",
-      "example_en": "Newlyweds tend to look for two-room or three-room units."
+      "example_en": "Newlyweds tend to look for two-room or three-room units.",
+      "notes": "투룸 평면, 투룸 월세; 원룸/쓰리룸 비교. 영어차용어: two-room의 음역."
     },
     {
       "korean": "원룸",
       "english": "one-room unit — studio apartment with single large room and bathroom",
       "example": "대학가 원룸 월세가 50만 원대인데 요즘 내릴 기미가 안 보인다.",
-      "example_en": "One-room rentals near universities are in the 500,000-won range, but there's no sign of them dropping these days."
+      "example_en": "One-room rentals near universities are in the 500,000-won range, but there's no sign of them dropping these days.",
+      "notes": "원룸 시장, 원룸 가격; 자취생/독신자 대상. 영어차용어: one-room의 음역."
     },
     {
       "korean": "리모델링",
       "english": "remodeling — large-scale renovation changing structure or layout",
       "example": "20년 된 주택을 리모델링해서 새집처럼 만들었다.",
-      "example_en": "We remodeled a 20-year-old house to make it look brand new."
+      "example_en": "We remodeled a 20-year-old house to make it look brand new.",
+      "notes": "리모델링 공사, 리모델링 비용; 인테리어와 다름 (구조 변경). 영어차용어: remodeling."
     },
     {
       "korean": "인테리어",
       "english": "interior — decorating and finishing interior spaces",
       "example": "인테리어 비용이 생각보다 많이 들어서 예산을 초과했다.",
-      "example_en": "Interior costs were more than expected, so we went over budget."
+      "example_en": "Interior costs were more than expected, so we went over budget.",
+      "notes": "인테리어 공사, 인테리어 업체; 리모델링보다 가벼움. 영어차용어: interior design."
     },
     {
       "korean": "도배",
       "english": "wallpapering — applying wallpaper or wall coating",
       "example": "곰팡이가 심해서 도배를 다시 해야 한다.",
-      "example_en": "The mold is so bad that we need to redo the wallpapering."
+      "example_en": "The mold is so bad that we need to redo the wallpapering.",
+      "notes": "도배 시공, 곰팡이로 인한 도배 필요; 방수/방음과 함께 필요. 순우리말 기원."
     },
     {
       "korean": "방음",
       "english": "soundproofing — insulation against noise",
       "example": "옆집 소음이 심해서 벽에 방음재를 붙였는데 효과가 없다.",
-      "example_en": "The noise from the next apartment is bad, so we put soundproofing material on the wall, but it didn't work."
+      "example_en": "The noise from the next apartment is bad, so we put soundproofing material on the wall, but it didn't work.",
+      "notes": "방음재, 방음 공사; 층간소음 대응책. Sino-Korean: 防音 (막을 + 소리)."
     },
     {
       "korean": "방수",
       "english": "waterproofing — protection against water leakage",
       "example": "지하방은 방수가 잘되지 않으면 비 올 때마다 습기 때문에 고생한다.",
-      "example_en": "If a semi-basement isn't well waterproofed, you struggle with moisture every time it rains."
+      "example_en": "If a semi-basement isn't well waterproofed, you struggle with moisture every time it rains.",
+      "notes": "방수 처리, 방수 공사; 지하방/반지하 필수. Sino-Korean: 防水 (막을 + 물)."
     },
     {
       "korean": "싱크대",
       "english": "kitchen sink — sink unit with counter for kitchen",
       "example": "싱크대 배수가 막혀서 배관공을 불렀다.",
-      "example_en": "The kitchen sink drain got clogged, so I called a plumber."
+      "example_en": "The kitchen sink drain got clogged, so I called a plumber.",
+      "notes": "싱크대 배수, 싱크대 교체; 주방 필수 설비. 영어차용어: sink + 대(台, 대사관의 대)."
     },
     {
       "korean": "욕실 타일",
       "english": "bathroom tile — ceramic tile for bathroom surfaces",
       "example": "욕실 타일에 곰팡이가 많이 슬었으니 타일을 교체해야 한다.",
-      "example_en": "There's a lot of mold on the bathroom tiles, so we need to replace them."
+      "example_en": "There's a lot of mold on the bathroom tiles, so we need to replace them.",
+      "notes": "욕실 타일 교체, 곰팡이 제거; 욕실 관리의 주요 부분. 영어차용어: tile (포르투갈 도자기 기원)."
     },
     {
       "korean": "냉난방",
       "english": "cooling and heating — air conditioning and heating systems",
       "example": "오래된 건물은 냉난방 효율이 떨어져서 전기료가 많이 나온다.",
-      "example_en": "Older buildings have poor cooling and heating efficiency, so electricity bills are high."
+      "example_en": "Older buildings have poor cooling and heating efficiency, so electricity bills are high.",
+      "notes": "냉난방 비용, 냉난방 효율; 에너지 소비의 주요 원인. Sino-Korean: 冷暖房 (차가운/따뜻한 + 방)."
     },
     {
       "korean": "보일러",
       "english": "boiler — heating system for hot water and room heating",
       "example": "겨울에 보일러가 고장 나면 난방을 못 하니까 미리 점검해야 한다.",
-      "example_en": "If the boiler breaks down in winter, you can't have heating, so you need to check it in advance."
+      "example_en": "If the boiler breaks down in winter, you can't have heating, so you need to check it in advance.",
+      "notes": "보일러 점검, 보일러 수리; 겨울 생활 필수. 영어차용어: boiler."
     },
     {
       "korean": "시공",
       "english": "construction — actual building or renovation work",
       "example": "시공 기간이 예상보다 길어져서 입주가 미뤄졌다.",
-      "example_en": "The construction period was longer than expected, so move-in was delayed."
+      "example_en": "The construction period was longer than expected, so move-in was delayed.",
+      "notes": "시공 기간, 시공 업체; 설계와 구분. Sino-Korean: 施工 (베풀 + 공사)."
     },
     {
       "korean": "공인중개사",
       "english": "licensed real estate agent — official intermediary for property transactions",
       "example": "좋은 공인중개사를 만나면 계약 과정이 훨씬 수월하다.",
-      "example_en": "If you meet a good licensed real estate agent, the contract process is much smoother."
+      "example_en": "If you meet a good licensed real estate agent, the contract process is much smoother.",
+      "notes": "공인중개사 수수료, 공인중개소; 공식 자격 필수. Sino-Korean: 公認 (공식적으로 인정) + 仲介人 (중개자)."
     },
     {
       "korean": "계약",
       "english": "contract — formal agreement for property rental or purchase",
       "example": "전세 계약을 체결할 때 명의 이전이 제대로 되는지 확인해야 한다.",
-      "example_en": "When signing a jeonse contract, you must verify that the name transfer is properly done."
+      "example_en": "When signing a jeonse contract, you must verify that the name transfer is properly done.",
+      "notes": "계약서 작성, 계약 체결; 법률 문제 예방 필수. Sino-Korean: 契約 (약속 + 계약)."
     },
     {
       "korean": "등기",
       "english": "registration — legal registration of property ownership",
       "example": "부동산을 구매한 후 등기를 하지 않으면 법적 문제가 생길 수 있다.",
-      "example_en": "If you don't register a property after purchase, it can cause legal problems."
+      "example_en": "If you don't register a property after purchase, it can cause legal problems.",
+      "notes": "등기부등본, 소유권 등기; 법적 소유권 증명. Sino-Korean: 登記 (오를 + 기록)."
     },
     {
       "korean": "보증금",
       "english": "deposit — security deposit for rental agreements",
       "example": "전세 보증금이 올라서 이사를 고민하게 됐다.",
-      "example_en": "Because the jeonse deposit increased, I'm now considering moving."
+      "example_en": "Because the jeonse deposit increased, I'm now considering moving.",
+      "notes": "보증금 반환, 보증금 인상; 전세 계약의 핵심. Sino-Korean: 保證金 (보장할 + 돈)."
     },
     {
       "korean": "계약금",
       "english": "down payment — initial payment when signing property contract",
       "example": "아파트를 계약할 때 계약금으로 보통 5%를 내야 한다.",
-      "example_en": "When signing an apartment contract, you usually need to pay a down payment of 5%."
+      "example_en": "When signing an apartment contract, you usually need to pay a down payment of 5%.",
+      "notes": "계약금 비율, 잔금과의 구분; 분양/구매 시 필수. Sino-Korean: 契約金 (계약 + 돈)."
     },
     {
       "korean": "잔금",
       "english": "final payment — remaining balance due at closing",
       "example": "잔금 지불은 소유권 이전 당일에 이루어진다.",
-      "example_en": "The final payment is made on the day of ownership transfer."
+      "example_en": "The final payment is made on the day of ownership transfer.",
+      "notes": "잔금 납부, 소유권 이전; 계약금 이후 최종 결제. Sino-Korean: 殘金 (남은 + 돈)."
     },
     {
       "korean": "담보",
       "english": "collateral — property pledged as security for a loan",
       "example": "주택을 담보로 잡고 은행에서 대출받는 것이 일반적이다.",
-      "example_en": "It's common to borrow from a bank using a house as collateral."
+      "example_en": "It's common to borrow from a bank using a house as collateral.",
+      "notes": "담보 인정, 주택담보대출; 금융 거래의 중요 개념. Sino-Korean: 擔保 (맡길 + 보장)."
     },
     {
       "korean": "이사",
       "english": "moving — relocation to a new residence",
       "example": "큰 이사인데 친구들에게 도움을 청했다.",
-      "example_en": "It was a big move, so I asked friends for help."
+      "example_en": "It was a big move, so I asked friends for help.",
+      "notes": "이사 업체, 이사 비용, 이사짐; 전국적 서비스 산업. Sino-Korean: 移徙 (옮길 + 옮길)."
     },
     {
       "korean": "취득세",
       "english": "acquisition tax — tax on property purchase",
       "example": "부동산을 구매할 때 취득세가 생각보다 많이 나온다.",
-      "example_en": "When buying real estate, the acquisition tax is higher than expected."
+      "example_en": "When buying real estate, the acquisition tax is higher than expected.",
+      "notes": "취득세 세율, 취득세 계산; 구매 시 필수 비용. Sino-Korean: 取得稅 (얻을 + 세금)."
     },
     {
       "korean": "종부세",
       "english": "property tax — annual tax on real property holdings",
       "example": "다주택자는 종부세를 내야 하기 때문에 부담이 크다.",
-      "example_en": "Multi-property owners have to pay property tax, so the burden is heavy."
+      "example_en": "Multi-property owners have to pay property tax, so the burden is heavy.",
+      "notes": "종부세 대상, 종부세 세율; 부동산 보유 시 연간 납부. Sino-Korean: 綜合不動産稅 (종합 + 부동산 + 세금)."
     },
     {
       "korean": "이웃",
       "english": "neighbor — person living next door or in nearby area",
       "example": "이웃과의 관계가 좋으면 동네 생활이 편하다.",
-      "example_en": "If you have a good relationship with neighbors, living in the neighborhood is easier."
+      "example_en": "If you have a good relationship with neighbors, living in the neighborhood is easier.",
+      "notes": "이웃 관계, 이웃과의 분쟁; 공동생활 문화의 기초. 순우리말 기원."
     },
     {
       "korean": "층간소음",
       "english": "noise between floors — sound disturbance from above or below",
       "example": "층간소음 때문에 윗집 주민과 싸우는 일이 자주 생긴다.",
-      "example_en": "Disputes with upstairs residents often happen because of noise between floors."
+      "example_en": "Disputes with upstairs residents often happen because of noise between floors.",
+      "notes": "층간소음 분쟁, 층간소음 조치; 한국 아파트 문화의 주요 갈등. Sino-Korean: 層間 (층 + 사이) + 騷音 (소란)."
     },
     {
       "korean": "공동생활",
       "english": "shared living — communal residential arrangement",
       "example": "아파트에서 공동생활을 하려면 주민 간 매너가 중요하다.",
-      "example_en": "For shared living in an apartment, good manners between residents are important."
+      "example_en": "For shared living in an apartment, good manners between residents are important.",
+      "notes": "공동생활 규칙, 공동 시설 이용; 아파트 문화의 핵심. Sino-Korean: 共同 (함께 + 함께) + 生活 (살다)."
     },
     {
       "korean": "관리사",
       "english": "property manager — person managing building maintenance and services",
       "example": "관리사가 성실하면 아파트 관리가 잘 된다.",
-      "example_en": "If the property manager is diligent, apartment maintenance is good."
+      "example_en": "If the property manager is diligent, apartment maintenance is good.",
+      "notes": "관리사 업무, 관리비 납부; 아파트 관리의 중심 인물. Sino-Korean: 管理人 (관리 + 사람)."
     },
     {
       "korean": "경비실",
       "english": "security office — guard booth at building entrance",
       "example": "경비실에 소포가 왔다고 전화가 왔다.",
-      "example_en": "The security office called to say a package arrived."
+      "example_en": "The security office called to say a package arrived.",
+      "notes": "경비실 방문, 경비요청; 아파트 안전의 최일선. Sino-Korean: 警備 (경비 + 경비) + 室 (방)."
     },
     {
       "korean": "주택가",
       "english": "residential area — neighborhood with houses",
       "example": "조용한 주택가에 살고 싶어서 강남보다 강북을 찾고 있다.",
-      "example_en": "I want to live in a quiet residential area, so I'm looking in areas north of the river rather than south."
+      "example_en": "I want to live in a quiet residential area, so I'm looking in areas north of the river rather than south.",
+      "notes": "주택가 조용함, 주택가 가격; 도시 지역과 구분. Sino-Korean: 住宅 (집) + 街 (거리)."
     },
     {
       "korean": "아파트 단지",
       "english": "apartment complex — large residential compound with multiple buildings",
       "example": "큰 아파트 단지는 편의시설이 풍부해서 생활이 편하다.",
-      "example_en": "Large apartment complexes have abundant amenities, so living is convenient."
+      "example_en": "Large apartment complexes have abundant amenities, so living is convenient.",
+      "notes": "단지 내 편의시설, 아파트 단지 문화; 대규모 주거공간. Sino-Korean: 團地 (모임 + 땅)."
     },
     {
       "korean": "골목",
       "english": "alley — narrow lane between buildings",
       "example": "골목 깊숙한 곳에 숨은 맛집들이 많다.",
-      "example_en": "There are many hidden restaurants deep in the alleys."
+      "example_en": "There are many hidden restaurants deep in the alleys.",
+      "notes": "골목 문화, 골목 상권; 서울/도시의 특징적 공간. 순우리말 기원."
     },
     {
       "korean": "지역",
       "english": "area — district or neighborhood region",
       "example": "학군이 좋은 지역은 주택 가격이 높은 편이다.",
-      "example_en": "Areas with good school districts tend to have higher housing prices."
+      "example_en": "Areas with good school districts tend to have higher housing prices.",
+      "notes": "지역 선택, 지역 선호도; 주택구매의 핵심 고려사항. Sino-Korean: 地域 (땅 + 지역)."
     },
     {
       "korean": "매물",
       "english": "property for sale — item/property available for sale or lease",
       "example": "지금은 좋은 매물이 많지 않아서 대기하는 중이다.",
-      "example_en": "Right now there aren't many good properties available, so we're waiting."
+      "example_en": "Right now there aren't many good properties available, so we're waiting.",
+      "notes": "매물 부족, 좋은 매물 찾기; 부동산 거래의 핵심 용어. Sino-Korean: 賣物 (팔 + 물건)."
     }
   ],
   "주제별 단어 — 자연 (Topic: Nature)": [
@@ -16721,241 +16801,281 @@
       "korean": "산맥",
       "english": "mountain range; mountain chain",
       "example": "태백산맥은 한반도의 등뼈 역할을 하는 주요 산맥이다.",
-      "example_en": "The Taebaek mountain range serves as the backbone of the Korean peninsula."
+      "example_en": "The Taebaek mountain range serves as the backbone of the Korean peninsula.",
+      "notes": "Sino-Korean (山脈 lit. mountain-vein). Collocations: 산맥이 뻗다, 산맥을 따라. Related: 산, 능선."
     },
     {
       "korean": "평야",
       "english": "plain; flatland; open field",
       "example": "김제 평야는 한국에서 가장 넓은 곡창지대로 알려져 있다.",
-      "example_en": "The Gimje plain is known as the widest granary region in Korea."
+      "example_en": "The Gimje plain is known as the widest granary region in Korea.",
+      "notes": "Sino-Korean (平野 lit. flat-wild). Collocation: 평야 지역. Related: 들, 평지."
     },
     {
       "korean": "분지",
       "english": "basin; valley basin",
       "example": "대구는 분지 지형이라 여름에 유난히 덥다.",
-      "example_en": "Daegu is in a basin terrain, so it's unusually hot in summer."
+      "example_en": "Daegu is in a basin terrain, so it's unusually hot in summer.",
+      "notes": "Sino-Korean (盆地 lit. bowl-place). Collocation: 분지 지형. Related: 계곡, 호분."
     },
     {
       "korean": "갯벌",
       "english": "tidal flat; mudflat",
       "example": "서해안 갯벌은 유네스코 세계유산으로 등재될 만큼 생태학적 가치가 높다.",
-      "example_en": "The west coast tidal flats have such high ecological value that they were listed as a UNESCO World Heritage site."
+      "example_en": "The west coast tidal flats have such high ecological value that they were listed as a UNESCO World Heritage site.",
+      "notes": "Native Korean (gae + beol). Collocation: 갯벌 생태계. Related: 조간대, 간석지."
     },
     {
       "korean": "폭포",
       "english": "waterfall; cascade",
       "example": "정방폭포는 바닷가로 직접 떨어지는 드문 형태의 폭포다.",
-      "example_en": "Jeongbang Waterfall is a rare type of waterfall that falls directly into the sea."
+      "example_en": "Jeongbang Waterfall is a rare type of waterfall that falls directly into the sea.",
+      "notes": "Sino-Korean (瀑布 lit. waterfall-cloth). Collocation: 폭포가 떨어지다. Related: 물, 계곡."
     },
     {
       "korean": "동굴",
       "english": "cave; cavern; grotto",
       "example": "석회암 동굴 안에는 수만 년에 걸쳐 형성된 종유석이 가득하다.",
-      "example_en": "Inside the limestone cave, there are stalactites formed over tens of thousands of years."
+      "example_en": "Inside the limestone cave, there are stalactites formed over tens of thousands of years.",
+      "notes": "Sino-Korean (洞窟 lit. cave-cave). Collocation: 석회암 동굴, 동굴 탐험. Related: 종유석, 석순."
     },
     {
       "korean": "삼림",
       "english": "forest; woodland; timberland",
       "example": "무분별한 개발로 원시 삼림이 빠르게 사라지고 있다.",
-      "example_en": "Primeval forests are rapidly disappearing due to reckless development."
+      "example_en": "Primeval forests are rapidly disappearing due to reckless development.",
+      "notes": "Sino-Korean (森林 lit. forest-forest). Collocation: 열대 삼림, 원시 삼림. Related: 숲, 산림."
     },
     {
       "korean": "오솔길",
       "english": "narrow trail; footpath; woodland path",
       "example": "숲속 오솔길을 걸으며 새소리를 들으니 마음이 편안해졌다.",
-      "example_en": "Walking along the narrow trail in the forest and hearing birdsong put my mind at ease."
+      "example_en": "Walking along the narrow trail in the forest and hearing birdsong put my mind at ease.",
+      "notes": "Native Korean (os + solgil). Collocation: 숲 오솔길. Related: 등산로, 산책로."
     },
     {
       "korean": "기슭",
       "english": "foot (of a mountain); shore; bank; edge",
       "example": "산기슭에 자리 잡은 마을은 사계절 내내 아름다운 풍경을 자랑한다.",
-      "example_en": "The village at the foot of the mountain boasts beautiful scenery throughout all four seasons."
+      "example_en": "The village at the foot of the mountain boasts beautiful scenery throughout all four seasons.",
+      "notes": "Native Korean. Collocation: 산기슭, 강가기슭. Related: 언덕, 경사면."
     },
     {
       "korean": "구릉",
       "english": "hill; rolling hills; knoll",
       "example": "완만한 구릉 지대에 포도밭이 끝없이 펼쳐져 있었다.",
-      "example_en": "Vineyards stretched endlessly across the gentle rolling hills."
+      "example_en": "Vineyards stretched endlessly across the gentle rolling hills.",
+      "notes": "Sino-Korean (丘陵 lit. hill-ridge). Collocation: 완만한 구릉. Related: 언덕, 산언덕."
     },
     {
       "korean": "장마",
       "english": "monsoon season; rainy season; seasonal rains",
       "example": "올해 장마가 예년보다 2주나 길어서 농작물 피해가 컸다.",
-      "example_en": "This year's monsoon season was two weeks longer than usual, causing significant crop damage."
+      "example_en": "This year's monsoon season was two weeks longer than usual, causing significant crop damage.",
+      "notes": "Sino-Korean (長雨 lit. long-rain). Collocation: 장마철, 장마가 지나다. Related: 우기, 장마 전선."
     },
     {
       "korean": "무더위",
       "english": "sweltering heat; muggy heat; oppressive heat",
       "example": "한여름 무더위에 에어컨 없이는 잠을 잘 수가 없다.",
-      "example_en": "In the midsummer sweltering heat, you can't sleep without air conditioning."
+      "example_en": "In the midsummer sweltering heat, you can't sleep without air conditioning.",
+      "notes": "Native Korean (mud + deowi). Collocation: 한여름 무더위. Related: 더위, 폭염."
     },
     {
       "korean": "돌풍",
       "english": "gust of wind; sudden squall; windblast",
       "example": "갑작스러운 돌풍에 시장 노점의 천막이 날아가 버렸다.",
-      "example_en": "A sudden gust of wind blew away the market vendor's tent."
+      "example_en": "A sudden gust of wind blew away the market vendor's tent.",
+      "notes": "Sino-Korean (突風 lit. sudden-wind). Collocation: 돌풍이 부다. Related: 바람, 윤풍."
     },
     {
       "korean": "영하",
       "english": "below zero; sub-zero (temperature)",
       "example": "기온이 영하 15도까지 떨어지면서 수도관이 얼어 터졌다.",
-      "example_en": "As the temperature dropped to minus 15 degrees, the water pipes froze and burst."
+      "example_en": "As the temperature dropped to minus 15 degrees, the water pipes froze and burst.",
+      "notes": "Sino-Korean (零下 lit. zero-below). Common in weather reports: 영하 5도. Related: 영상, 기온."
     },
     {
       "korean": "쾌청",
       "english": "clear and fine weather; bright and clear sky",
       "example": "며칠간 비가 온 뒤 오늘은 쾌청한 날씨가 이어지고 있다.",
-      "example_en": "After several days of rain, today we're enjoying clear and fine weather."
+      "example_en": "After several days of rain, today we're enjoying clear and fine weather.",
+      "notes": "Sino-Korean (快晴 lit. bright-clear). Collocation: 쾌청한 날씨. Related: 맑다, 맑은 날씨."
     },
     {
       "korean": "강수량",
       "english": "precipitation; rainfall amount",
       "example": "올해 강수량이 평년 대비 30% 이상 적어서 물 부족이 우려된다.",
-      "example_en": "This year's precipitation is more than 30% below average, raising concerns about water shortages."
+      "example_en": "This year's precipitation is more than 30% below average, raising concerns about water shortages.",
+      "notes": "Sino-Korean (降水量 lit. fall-water-amount). Collocation: 강수량이 많다/적다. Related: 강우량, 침수."
     },
     {
       "korean": "습도",
       "english": "humidity; moisture level",
       "example": "습도가 90%를 넘기면 불쾌지수가 급격히 올라간다.",
-      "example_en": "When humidity exceeds 90%, the discomfort index rises sharply."
+      "example_en": "When humidity exceeds 90%, the discomfort index rises sharply.",
+      "notes": "Sino-Korean (濕度 lit. moist-degree). Common in weather forecasts: 습도 80%. Related: 쾌적도, 습기."
     },
     {
       "korean": "이상기후",
       "english": "abnormal weather; climate anomaly",
       "example": "전 세계적인 이상기후 현상이 지구온난화와 관련이 있다는 연구가 늘고 있다.",
-      "example_en": "More studies are linking worldwide abnormal weather phenomena to global warming."
+      "example_en": "More studies are linking worldwide abnormal weather phenomena to global warming.",
+      "notes": "Sino-Korean (異常氣候 lit. abnormal-climate). Collocation: 이상기후로 인한 피해. Related: 기후변화, 지구온난화."
     },
     {
       "korean": "미세먼지",
       "english": "fine dust; particulate matter (PM2.5/PM10)",
       "example": "미세먼지 농도가 '매우 나쁨' 수준이라 외출 자제 권고가 내려졌다.",
-      "example_en": "Fine dust levels were rated 'very bad,' so advisories to refrain from going out were issued."
+      "example_en": "Fine dust levels were rated 'very bad,' so advisories to refrain from going out were issued.",
+      "notes": "Modern compound (fine-dust). Collocation: 미세먼지 농도, 미세먼지 주의보. Related: 황사, 공기질."
     },
     {
       "korean": "소용돌이",
       "english": "whirlpool; vortex; swirl",
       "example": "강물이 좁은 바위 사이를 지나면서 거대한 소용돌이가 생겼다.",
-      "example_en": "A massive whirlpool formed as the river water passed between the narrow rocks."
+      "example_en": "A massive whirlpool formed as the river water passed between the narrow rocks.",
+      "notes": "Native Korean (so + yong + dol + i). Collocation: 소용돌이치다. Related: 회오리, 와류."
     },
     {
       "korean": "소나무",
       "english": "pine tree; Korean red pine",
       "example": "한국 전통 회화에서 소나무는 절개와 지조를 상징한다.",
-      "example_en": "In traditional Korean painting, the pine tree symbolizes integrity and constancy."
+      "example_en": "In traditional Korean painting, the pine tree symbolizes integrity and constancy.",
+      "notes": "Native Korean (so + na + mu). Iconic in Korean culture. Related: 소나무 숲, 소나무 정신."
     },
     {
       "korean": "대나무",
       "english": "bamboo",
       "example": "담양의 대나무 숲은 영화 촬영지로도 유명하다.",
-      "example_en": "The bamboo forest in Damyang is also famous as a filming location."
+      "example_en": "The bamboo forest in Damyang is also famous as a filming location.",
+      "notes": "Native Korean (dae + na + mu). Cultural significance in East Asia. Related: 죽림, 죽순."
     },
     {
       "korean": "은행나무",
       "english": "ginkgo tree",
       "example": "가을이면 은행나무 가로수길이 노란색으로 물들어 장관을 이룬다.",
-      "example_en": "In autumn, the ginkgo tree-lined streets turn yellow, creating a spectacular sight."
+      "example_en": "In autumn, the ginkgo tree-lined streets turn yellow, creating a spectacular sight.",
+      "notes": "Native Korean (eun + haeng + na + mu). Famous for yellow fall colors. Related: 은행, 낙엽."
     },
     {
       "korean": "단풍",
       "english": "autumn foliage; fall colors; maple leaves",
       "example": "설악산의 단풍은 매년 10월 초에 절정을 이룬다.",
-      "example_en": "The autumn foliage at Seoraksan peaks in early October every year."
+      "example_en": "The autumn foliage at Seoraksan peaks in early October every year.",
+      "notes": "Native Korean (dan + pung). Collocation: 단풍철, 단풍을 감상하다. Related: 낙엽, 가을색."
     },
     {
       "korean": "묘목",
       "english": "sapling; seedling; young tree",
       "example": "식목일에 학생들이 학교 뒤편에 묘목을 심었다.",
-      "example_en": "On Arbor Day, students planted saplings behind the school."
+      "example_en": "On Arbor Day, students planted saplings behind the school.",
+      "notes": "Sino-Korean (苗木 lit. seedling-tree). Collocation: 묘목을 심다. Related: 모종, 어린 나무."
     },
     {
       "korean": "야생화",
       "english": "wildflower",
       "example": "봄이 되면 고산지대에 다양한 야생화가 피어난다.",
-      "example_en": "In spring, various wildflowers bloom in the alpine zones."
+      "example_en": "In spring, various wildflowers bloom in the alpine zones.",
+      "notes": "Sino-Korean (野生花 lit. wild-grow-flower). Collocation: 야생화 군락. Related: 야생식물, 들꽃."
     },
     {
       "korean": "수액",
       "english": "tree sap; plant sap",
       "example": "이른 봄에 고로쇠나무의 수액을 채취해서 건강 음료로 마신다.",
-      "example_en": "In early spring, sap is collected from painted maple trees and drunk as a health beverage."
+      "example_en": "In early spring, sap is collected from painted maple trees and drunk as a health beverage.",
+      "notes": "Sino-Korean (樹液 lit. tree-sap). Collocation: 수액이 흐르다, 수액 채취. Related: 진액, 맑은 물."
     },
     {
       "korean": "군락",
       "english": "colony; cluster; community (of plants)",
       "example": "이 지역에는 희귀한 고산식물 군락이 보존되어 있다.",
-      "example_en": "A colony of rare alpine plants is preserved in this area."
+      "example_en": "A colony of rare alpine plants is preserved in this area.",
+      "notes": "Sino-Korean (群落 lit. group-fall). Collocation: 식물 군락, 산호초 군락. Related: 생태계, 서식지."
     },
     {
       "korean": "고사목",
       "english": "dead standing tree; withered tree",
       "example": "화산 분출 이후 남겨진 고사목들이 황량한 풍경을 만들어냈다.",
-      "example_en": "The dead standing trees left after the volcanic eruption created a desolate landscape."
+      "example_en": "The dead standing trees left after the volcanic eruption created a desolate landscape.",
+      "notes": "Sino-Korean (枯死木 lit. wither-die-tree). Environmental indicator of past disasters. Related: 죽은 나무, 화산재."
     },
     {
       "korean": "자생하다",
       "english": "to grow wild; to be native; to be indigenous",
       "example": "한라산에는 한국에서만 자생하는 식물 종이 여러 개 있다.",
-      "example_en": "There are several plant species on Hallasan that grow wild only in Korea."
+      "example_en": "There are several plant species on Hallasan that grow wild only in Korea.",
+      "notes": "Sino-Korean (自生 lit. self-grow). Collocation: 자생종, 자생지. Related: 토착, 원산지."
     },
     {
       "korean": "태풍",
       "english": "typhoon; tropical cyclone",
       "example": "초대형 태풍이 한반도를 향해 북상하면서 전국에 비상이 걸렸다.",
-      "example_en": "As a super typhoon moved northward toward the Korean peninsula, the entire country went on emergency alert."
+      "example_en": "As a super typhoon moved northward toward the Korean peninsula, the entire country went on emergency alert.",
+      "notes": "Sino-Korean (颱風 lit. wind-wind). Collocation: 태풍 경보, 태풍이 상륙하다. Related: 사이클론, 허리케인."
     },
     {
       "korean": "쓰나미",
       "english": "tsunami; seismic sea wave",
       "example": "쓰나미 경보가 발령되자 해안 주민들이 고지대로 대피했다.",
-      "example_en": "When the tsunami warning was issued, coastal residents evacuated to higher ground."
+      "example_en": "When the tsunami warning was issued, coastal residents evacuated to higher ground.",
+      "notes": "Loanword from Japanese (津波). Collocation: 쓰나미 경보. Related: 지진해일, 파도."
     },
     {
       "korean": "가뭄",
       "english": "drought; prolonged dry spell",
       "example": "3개월째 이어지는 가뭄으로 댐 저수율이 20% 아래로 떨어졌다.",
-      "example_en": "Due to the drought continuing for three months, the dam's water reserve rate dropped below 20%."
+      "example_en": "Due to the drought continuing for three months, the dam's water reserve rate dropped below 20%.",
+      "notes": "Native Korean. Collocation: 극심한 가뭄, 가뭄이 계속되다. Related: 건조, 물부족."
     },
     {
       "korean": "산불",
       "english": "wildfire; forest fire",
       "example": "봄철 건조한 날씨에 산불이 발생하면 진화에 며칠이 걸린다.",
-      "example_en": "When a wildfire breaks out in the dry spring weather, it takes days to extinguish."
+      "example_en": "When a wildfire breaks out in the dry spring weather, it takes days to extinguish.",
+      "notes": "Native Korean (san + bul). Collocation: 산불이 나다, 산불 진화. Related: 산림화재, 불에 타다."
     },
     {
       "korean": "침수",
       "english": "flooding; inundation; submersion",
       "example": "폭우로 지하 주차장이 침수되어 차량 수백 대가 물에 잠겼다.",
-      "example_en": "The underground parking lot was flooded by heavy rain, submerging hundreds of vehicles."
+      "example_en": "The underground parking lot was flooded by heavy rain, submerging hundreds of vehicles.",
+      "notes": "Sino-Korean (浸水 lit. soak-water). Collocation: 침수 피해, 침수 지역. Related: 물에 잠기다, 홍수."
     },
     {
       "korean": "싱크홀",
       "english": "sinkhole; ground collapse",
       "example": "도심 한복판에 싱크홀이 발생해서 도로가 함몰됐다.",
-      "example_en": "A sinkhole appeared in the middle of the city center, causing the road to collapse."
+      "example_en": "A sinkhole appeared in the middle of the city center, causing the road to collapse.",
+      "notes": "Loanword from English (sinkhole). Modern term for ground collapse. Related: 지반 침하, 도로 함몰."
     },
     {
       "korean": "폭설",
       "english": "heavy snowfall; blizzard; snowstorm",
       "example": "기습 폭설로 고속도로에서 수백 대의 차량이 고립됐다.",
-      "example_en": "Hundreds of vehicles were stranded on the highway due to a sudden heavy snowfall."
+      "example_en": "Hundreds of vehicles were stranded on the highway due to a sudden heavy snowfall.",
+      "notes": "Sino-Korean (暴雪 lit. violent-snow). Collocation: 폭설이 내리다, 폭설 주의보. Related: 눈, 대설."
     },
     {
       "korean": "토사",
       "english": "earth and sand; debris; sediment",
       "example": "산사태로 쏟아진 토사가 마을 입구를 완전히 막아버렸다.",
-      "example_en": "The debris from the landslide completely blocked the entrance to the village."
+      "example_en": "The debris from the landslide completely blocked the entrance to the village.",
+      "notes": "Sino-Korean (土砂 lit. earth-sand). Collocation: 토사 유출, 토사 재해. Related: 흙, 진흙."
     },
     {
       "korean": "황사",
       "english": "yellow dust; Asian dust storm",
       "example": "봄철 황사가 심한 날에는 마스크를 쓰고 외출해야 한다.",
-      "example_en": "On days with severe yellow dust in spring, you should wear a mask when going outside."
+      "example_en": "On days with severe yellow dust in spring, you should wear a mask when going outside.",
+      "notes": "Sino-Korean (黃砂 lit. yellow-sand). Spring weather phenomenon. Related: 모래, 아시아 먼지."
     },
     {
       "korean": "진앙",
       "english": "epicenter (of an earthquake)",
       "example": "이번 지진의 진앙은 해안에서 50km 떨어진 해저로 확인됐다.",
-      "example_en": "The epicenter of this earthquake was confirmed to be on the seabed, 50km from the coast."
+      "example_en": "The epicenter of this earthquake was confirmed to be on the seabed, 50km from the coast.",
+      "notes": "Sino-Korean (震央 lit. shake-center). Seismic term: 진앙지, 진앙거리. Related: 지진, 진원지."
     }
   ],
   "주제별 단어 — 범죄 (Topic: Crime)": [
@@ -16963,241 +17083,281 @@
       "korean": "사기",
       "english": "fraud; swindle; scam",
       "example": "보이스피싱 사기 피해액이 매년 수천억 원에 달한다.",
-      "example_en": "Voice phishing fraud damages amount to hundreds of billions of won every year."
+      "example_en": "Voice phishing fraud damages amount to hundreds of billions of won every year.",
+      "notes": "Sino-Korean: 詐欺 (deceive+trick). Collocations: 사기를 당하다 (fall for a scam), 사기꾼 (scammer). Related: 보이스피싱, 보안사기."
     },
     {
       "korean": "횡령",
       "english": "embezzlement; misappropriation",
       "example": "회사 자금을 횡령한 임원이 경찰에 체포됐다.",
-      "example_en": "The executive who embezzled company funds was arrested by the police."
+      "example_en": "The executive who embezzled company funds was arrested by the police.",
+      "notes": "Sino-Korean: 橫領 (lateral+seize). Typically corporate financial crime. Collocations: 횡령죄 (embezzlement charge), 자금 횡령."
     },
     {
       "korean": "뇌물",
       "english": "bribe; bribery",
       "example": "공무원에게 뇌물을 제공하면 주는 쪽도 받는 쪽도 처벌받는다.",
-      "example_en": "If you offer a bribe to a public official, both the giver and the receiver are punished."
+      "example_en": "If you offer a bribe to a public official, both the giver and the receiver are punished.",
+      "notes": "Sino-Korean: 賂物 (bribe+thing). Unique legal aspect: both parties punished equally. Collocations: 뇌물수수 (accepting bribes), 뇌물죄."
     },
     {
       "korean": "절도",
       "english": "theft; larceny; stealing",
       "example": "편의점 절도 사건이 야간에 특히 많이 발생한다.",
-      "example_en": "Convenience store theft incidents occur especially frequently at night."
+      "example_en": "Convenience store theft incidents occur especially frequently at night.",
+      "notes": "Sino-Korean: 竊盜 (steal+rob). Legal distinction from 강도: no violence/force. Collocations: 절도죄, 자동차 절도."
     },
     {
       "korean": "방화",
       "english": "arson; setting fire deliberately",
       "example": "연쇄 방화범이 한 달 만에 검거됐다.",
-      "example_en": "The serial arsonist was apprehended after one month."
+      "example_en": "The serial arsonist was apprehended after one month.",
+      "notes": "Sino-Korean: 放火 (release+fire). Serious crime with high punishment; 방화범 (arsonist) is the perpetrator. Related: 화재 (fire)."
     },
     {
       "korean": "납치",
       "english": "kidnapping; abduction",
       "example": "아동 납치 예방을 위해 학교 주변 CCTV를 확충했다.",
-      "example_en": "CCTV cameras around schools were expanded to prevent child abductions."
+      "example_en": "CCTV cameras around schools were expanded to prevent child abductions.",
+      "notes": "Sino-Korean: 拉致 (pull+detain). Often combined with 미성년자 (minor). Collocations: 아동 납치, 신원 확인 후 납치범 검거."
     },
     {
       "korean": "위조",
       "english": "forgery; counterfeiting; falsification",
       "example": "여권 위조 조직이 국제 공조 수사를 통해 적발됐다.",
-      "example_en": "A passport forgery ring was uncovered through an international joint investigation."
+      "example_en": "A passport forgery ring was uncovered through an international joint investigation.",
+      "notes": "Sino-Korean: 位造 or 僞造 (fake+make). Covers documents, currency, art. Collocations: 문서 위조, 지폐 위조."
     },
     {
       "korean": "강도",
       "english": "robbery; robber; mugger",
       "example": "새벽에 편의점에 흉기를 들고 들어온 강도가 현금을 빼앗아 갔다.",
-      "example_en": "A robber with a weapon entered the convenience store at dawn and took the cash."
+      "example_en": "A robber with a weapon entered the convenience store at dawn and took the cash.",
+      "notes": "Sino-Korean: 強盜 (force+rob). Key difference from 절도: involves force/weapon. Collocations: 흉기를 들다 (wield a weapon), 강도죄."
     },
     {
       "korean": "살인",
       "english": "murder; homicide; killing",
       "example": "한국의 살인 범죄율은 OECD 국가 중 낮은 편에 속한다.",
-      "example_en": "Korea's murder rate is among the lowest of OECD countries."
+      "example_en": "Korea's murder rate is among the lowest of OECD countries.",
+      "notes": "Sino-Korean: 殺人 (kill+person). Highest severity crime; different from 과실치사 (negligent homicide). Collocations: 살인죄, 살인사건."
     },
     {
       "korean": "사이버 범죄",
       "english": "cybercrime; digital crime",
       "example": "개인정보 유출 등 사이버 범죄에 대한 처벌이 강화되고 있다.",
-      "example_en": "Penalties for cybercrimes such as personal information leaks are being strengthened."
+      "example_en": "Penalties for cybercrimes such as personal information leaks are being strengthened.",
+      "notes": "Modern term (사이버+범죄). Includes hacking, phishing, defamation online. Related: 해킹 (hacking), 개인정보 유출."
     },
     {
       "korean": "수사",
       "english": "investigation; criminal inquiry",
       "example": "경찰이 사건 발생 직후부터 본격적인 수사에 착수했다.",
-      "example_en": "The police launched a full-scale investigation immediately after the incident."
+      "example_en": "The police launched a full-scale investigation immediately after the incident.",
+      "notes": "Sino-Korean: 搜査 (search+investigate). Used for both police and prosecution. Collocations: 수사에 착수하다 (begin investigation), 수사기관 (investigative agency)."
     },
     {
       "korean": "증거",
       "english": "evidence; proof",
       "example": "결정적인 증거가 없으면 기소하기 어렵다.",
-      "example_en": "Without decisive evidence, it is difficult to indict."
+      "example_en": "Without decisive evidence, it is difficult to indict.",
+      "notes": "Sino-Korean: 證據 (prove+basis). 결정적 증거 (conclusive evidence) is crucial for prosecution. Collocations: 증거 채집, 증거 불충분."
     },
     {
       "korean": "용의자",
       "english": "suspect; person of interest",
       "example": "CCTV 영상 분석을 통해 용의자의 신원이 확인됐다.",
-      "example_en": "The suspect's identity was confirmed through CCTV footage analysis."
+      "example_en": "The suspect's identity was confirmed through CCTV footage analysis.",
+      "notes": "Sino-Korean: 容疑者 (suspect+person). Not yet confirmed guilty; distinction from 피고인 (defendant/accused in trial)."
     },
     {
       "korean": "목격자",
       "english": "witness; eyewitness; bystander",
       "example": "사건 당시 현장에 있던 목격자의 진술이 수사에 결정적이었다.",
-      "example_en": "The testimony of the witness who was at the scene during the incident was decisive for the investigation."
+      "example_en": "The testimony of the witness who was at the scene during the incident was decisive for the investigation.",
+      "notes": "Sino-Korean: 目撃者 (eye+see+person). 진술 (testimony) is critical. Collocations: 목격자 보호 (witness protection), 목격자 진술."
     },
     {
       "korean": "지문",
       "english": "fingerprint",
       "example": "범행 현장에서 채취한 지문이 용의자의 것과 일치했다.",
-      "example_en": "The fingerprints collected from the crime scene matched the suspect's."
+      "example_en": "The fingerprints collected from the crime scene matched the suspect's.",
+      "notes": "Mixed: 지 (finger, native) + 문 (mark, Sino). Forensic evidence type. Related: DNA, 지문 인식 (fingerprint recognition)."
     },
     {
       "korean": "압수수색",
       "english": "search and seizure; raid",
       "example": "검찰이 해당 기업 본사에 대한 압수수색을 실시했다.",
-      "example_en": "The prosecution carried out a search and seizure at the company's headquarters."
+      "example_en": "The prosecution carried out a search and seizure at the company's headquarters.",
+      "notes": "Sino-Korean: 押收搜索 (seize+collect+search+seek). Legal investigative procedure requiring warrant. Collocations: 압수수색영장 (search warrant)."
     },
     {
       "korean": "자백",
       "english": "confession; admission of guilt",
       "example": "피의자가 장시간 조사 끝에 범행을 자백했다.",
-      "example_en": "The suspect confessed to the crime after a long interrogation."
+      "example_en": "The suspect confessed to the crime after a long interrogation.",
+      "notes": "Sino-Korean: 自白 (self+white/clear). Different from 진술 (statement); implies guilt admission. Collocations: 자발적 자백, 자백 서명."
     },
     {
       "korean": "검거",
       "english": "arrest; apprehension; capture",
       "example": "도주 중이던 범인이 2주 만에 부산에서 검거됐다.",
-      "example_en": "The fugitive was apprehended in Busan after two weeks on the run."
+      "example_en": "The fugitive was apprehended in Busan after two weeks on the run.",
+      "notes": "Sino-Korean: 檢擧 (examine+raise). Formal police action. Slightly less formal than 체포 (arrest). Collocations: 현행범 검거, 검거 직후."
     },
     {
       "korean": "부검",
       "english": "autopsy; post-mortem examination",
       "example": "사인을 규명하기 위해 국립과학수사연구원에서 부검을 실시했다.",
-      "example_en": "An autopsy was performed at the National Forensic Service to determine the cause of death."
+      "example_en": "An autopsy was performed at the National Forensic Service to determine the cause of death.",
+      "notes": "Sino-Korean: 剖檢 (cut+inspect). Determines 사인 (cause of death). Performed by 국과수 (National Forensic Service)."
     },
     {
       "korean": "공범",
       "english": "accomplice; accessory; co-conspirator",
       "example": "주범뿐 아니라 공범도 동일한 혐의로 기소됐다.",
-      "example_en": "Not only the principal offender but also the accomplice was indicted on the same charges."
+      "example_en": "Not only the principal offender but also the accomplice was indicted on the same charges.",
+      "notes": "Sino-Korean: 共犯 (together+crime). Different from 주범 (principal offender). Collocations: 공범자, 공범 관계."
     },
     {
       "korean": "징역",
       "english": "imprisonment; prison sentence",
       "example": "법원은 피고인에게 징역 10년을 선고했다.",
-      "example_en": "The court sentenced the defendant to 10 years of imprisonment."
+      "example_en": "The court sentenced the defendant to 10 years of imprisonment.",
+      "notes": "Sino-Korean: 懲役 (punish+labor). Hard labor aspect; different from 금고 (simple imprisonment). Collocations: 징역 10년, 징역형."
     },
     {
       "korean": "벌금",
       "english": "fine; monetary penalty",
       "example": "음주운전 적발 시 벌금 최대 1천만 원이 부과될 수 있다.",
-      "example_en": "If caught drunk driving, a fine of up to 10 million won can be imposed."
+      "example_en": "If caught drunk driving, a fine of up to 10 million won can be imposed.",
+      "notes": "Sino-Korean: 罰金 (punish+gold). Often combined with other sentences. Collocations: 벌금형, 벌금을 부과하다."
     },
     {
       "korean": "집행유예",
       "english": "suspended sentence; probation",
       "example": "초범이고 반성하는 태도를 보여서 집행유예를 선고받았다.",
-      "example_en": "Being a first-time offender who showed remorse, they received a suspended sentence."
+      "example_en": "Being a first-time offender who showed remorse, they received a suspended sentence.",
+      "notes": "Mixed Sino-Korean: 執行猶豫 (enforce+hesitate). Sentence suspended if conditions met; differs from 보호관찰 (probation supervision). Collocations: 3년 집행유예."
     },
     {
       "korean": "가석방",
       "english": "parole; early release; conditional release",
       "example": "모범수로 인정받아 형기의 3분의 2를 채우고 가석방됐다.",
-      "example_en": "Recognized as a model prisoner, they were paroled after serving two-thirds of their sentence."
+      "example_en": "Recognized as a model prisoner, they were paroled after serving two-thirds of their sentence.",
+      "notes": "Sino-Korean: 假釋放 (temporary+release+free). Requires good behavior; different from 사면 (pardon). Collocations: 가석방 심사, 형기의 3분의 2."
     },
     {
       "korean": "사형",
       "english": "death penalty; capital punishment",
       "example": "한국은 사실상 사형 폐지국이지만 법적으로는 사형 제도가 남아 있다.",
-      "example_en": "Korea is a de facto abolitionist country, but the death penalty remains legally."
+      "example_en": "Korea is a de facto abolitionist country, but the death penalty remains legally.",
+      "notes": "Sino-Korean: 死刑 (death+punishment). Korea de facto abolished but legally exists; related: 사형 폐지."
     },
     {
       "korean": "전자발찌",
       "english": "electronic ankle bracelet; tracking device",
       "example": "성범죄자에게 출소 후 전자발찌 착용이 의무화됐다.",
-      "example_en": "Wearing an electronic ankle bracelet after release became mandatory for sex offenders."
+      "example_en": "Wearing an electronic ankle bracelet after release became mandatory for sex offenders.",
+      "notes": "Modern compound: 전자 (electronic) + 발찌 (bracelet). 성범죄자 (sex offenders) primary users. Collocations: 전자발찌 착용."
     },
     {
       "korean": "보호관찰",
       "english": "probation; parole supervision",
       "example": "소년범에게는 구금보다 보호관찰 처분이 우선 적용된다.",
-      "example_en": "For juvenile offenders, probation is applied as a priority over incarceration."
+      "example_en": "For juvenile offenders, probation is applied as a priority over incarceration.",
+      "notes": "Sino-Korean: 保護觀察 (protect+observe+examine). Especially for juveniles (소년범). Collocations: 보호관찰관 (probation officer), 보호관찰 기간."
     },
     {
       "korean": "교도소",
       "english": "prison; penitentiary; correctional facility",
       "example": "교도소 과밀 수용 문제가 인권 단체에 의해 지속적으로 제기되고 있다.",
-      "example_en": "The issue of prison overcrowding is continually raised by human rights organizations."
+      "example_en": "The issue of prison overcrowding is continually raised by human rights organizations.",
+      "notes": "Sino-Korean: 教導所 (teach+guide+place). Official facility name. Related: 감옥 (jail, informal), 수감자 (inmate)."
     },
     {
       "korean": "재범",
       "english": "recidivism; reoffending; repeat offense",
       "example": "출소자의 재범률을 낮추기 위한 사회 복귀 프로그램이 확대되고 있다.",
-      "example_en": "Social reintegration programs to reduce recidivism rates among ex-convicts are being expanded."
+      "example_en": "Social reintegration programs to reduce recidivism rates among ex-convicts are being expanded.",
+      "notes": "Sino-Korean: 再犯 (again+crime). 재범률 (recidivism rate) is policy concern. Related: 초범 (first-time offender)."
     },
     {
       "korean": "양형",
       "english": "sentencing; determination of penalty",
       "example": "양형 기준이 너무 가볍다는 여론이 높아지고 있다.",
-      "example_en": "Public opinion is growing that sentencing guidelines are too lenient."
+      "example_en": "Public opinion is growing that sentencing guidelines are too lenient.",
+      "notes": "Sino-Korean: 量刑 (measure+punishment). Policy/judicial standard. Collocations: 양형 기준, 양형위원회 (sentencing commission)."
     },
     {
       "korean": "기소",
       "english": "indictment; prosecution; pressing charges",
       "example": "검찰은 증거 불충분을 이유로 불기소 처분을 내렸다.",
-      "example_en": "The prosecution dropped the charges citing insufficient evidence."
+      "example_en": "The prosecution dropped the charges citing insufficient evidence.",
+      "notes": "Sino-Korean: 起訴 (begin+prosecute). 기소 vs 불기소 (no-prosecution decision). Collocations: 기소 여부, 기소인원."
     },
     {
       "korean": "재판",
       "english": "trial; court hearing; adjudication",
       "example": "이 사건은 1심 재판에서 무죄 판결이 내려졌다.",
-      "example_en": "This case received a not-guilty verdict at the first trial."
+      "example_en": "This case received a not-guilty verdict at the first trial.",
+      "notes": "Sino-Korean: 裁判 (judge+determine). Levels: 1심 (1st court), 2심 (appeals), 대법원 (Supreme). Collocations: 재판부 (trial division), 공개재판."
     },
     {
       "korean": "항소",
       "english": "appeal (to a higher court)",
       "example": "검찰 측이 1심 판결에 불복하여 즉시 항소했다.",
-      "example_en": "The prosecution immediately appealed, objecting to the first trial verdict."
+      "example_en": "The prosecution immediately appealed, objecting to the first trial verdict.",
+      "notes": "Sino-Korean: 抗訴 (resist+prosecute). Filed against 1심 decision; differs from 상고 (appeal to Supreme Court). Collocations: 항소장 제출."
     },
     {
       "korean": "변호사",
       "english": "lawyer; attorney; defense counsel",
       "example": "국선 변호사 제도 덕분에 경제적 여유가 없어도 법적 도움을 받을 수 있다.",
-      "example_en": "Thanks to the public defender system, people can receive legal help even without financial means."
+      "example_en": "Thanks to the public defender system, people can receive legal help even without financial means.",
+      "notes": "Sino-Korean: 辯護士 (advocate+defend+person). 국선 변호사 (public defender), 변론 (defense argument). Related: 법률 전문가."
     },
     {
       "korean": "판사",
       "english": "judge; justice",
       "example": "판사가 피고인에게 최종 진술 기회를 부여했다.",
-      "example_en": "The judge gave the defendant a chance to make a final statement."
+      "example_en": "The judge gave the defendant a chance to make a final statement.",
+      "notes": "Sino-Korean: 判事 (judge+official). Presides over trial. Collocations: 판사의 판단, 합의부 판사 (panel judge)."
     },
     {
       "korean": "배심원",
       "english": "juror; jury member",
       "example": "한국의 국민참여재판에서는 배심원의 평결이 권고적 효력을 갖는다.",
-      "example_en": "In Korea's citizen participation trials, the jury's verdict has advisory effect."
+      "example_en": "In Korea's citizen participation trials, the jury's verdict has advisory effect.",
+      "notes": "Sino-Korean: 排審員 (arrange+examine+person). Korea's 국민참여재판 (citizen trial) differs from US jury system; verdict is advisory only."
     },
     {
       "korean": "판결",
       "english": "verdict; ruling; judgment",
       "example": "대법원의 최종 판결이 나오기까지 3년이 걸렸다.",
-      "example_en": "It took three years for the Supreme Court's final verdict to come out."
+      "example_en": "It took three years for the Supreme Court's final verdict to come out.",
+      "notes": "Sino-Korean: 判決 (judge+decide). 최종 판결 (final verdict) is binding. Collocations: 유죄 판결 (guilty verdict), 판결문 (judgment document)."
     },
     {
       "korean": "소송",
       "english": "lawsuit; litigation; legal action",
       "example": "피해자들이 회사를 상대로 집단 소송을 제기했다.",
-      "example_en": "The victims filed a class-action lawsuit against the company."
+      "example_en": "The victims filed a class-action lawsuit against the company.",
+      "notes": "Sino-Korean: 訴訟 (prosecute+lawsuit). 집단 소송 (class action), 민사 소송 (civil suit). Collocations: 소송 제기, 소송 절차."
     },
     {
       "korean": "공소시효",
       "english": "statute of limitations (for prosecution)",
       "example": "살인죄의 공소시효가 폐지되면서 미제 사건 수사가 재개됐다.",
-      "example_en": "With the abolition of the statute of limitations for murder, cold case investigations were resumed."
+      "example_en": "With the abolition of the statute of limitations for murder, cold case investigations were resumed.",
+      "notes": "Sino-Korean: 公訴時效 (public+prosecute+time+effect). Murder statute abolished in Korea (2015); affects cold cases. Related: 미제 사건."
     },
     {
       "korean": "무죄추정",
       "english": "presumption of innocence",
       "example": "무죄추정의 원칙에 따라 유죄 판결 전까지는 무죄로 간주된다.",
-      "example_en": "Under the principle of presumption of innocence, one is considered innocent until a guilty verdict."
+      "example_en": "Under the principle of presumption of innocence, one is considered innocent until a guilty verdict.",
+      "notes": "Sino-Korean: 無罪推定 (no+crime+infer+settle). Fundamental legal principle; burden of proof on prosecution. Collocations: 무죄추정의 원칙."
     }
   ],
   "주제별 단어 — 건축 (Topic: Architecture)": [
@@ -17205,241 +17365,281 @@
       "korean": "고층 건물",
       "english": "high-rise building",
       "example": "서울 도심에는 고층 건물이 밀집해 있다.",
-      "example_en": "High-rise buildings are densely packed in downtown Seoul."
+      "example_en": "High-rise buildings are densely packed in downtown Seoul.",
+      "notes": "Sino-Korean: 高層 (high) + 建物 (building). Collocates with: 밀집하다, 들어서다, 숲을 이루다. Related: 초고층 빌딩, 단독 주택."
     },
     {
       "korean": "단독 주택",
       "english": "detached house; single-family home",
       "example": "은퇴 후 교외에 단독 주택을 짓고 싶다.",
-      "example_en": "After retirement, I want to build a detached house in the suburbs."
+      "example_en": "After retirement, I want to build a detached house in the suburbs.",
+      "notes": "Sino-Korean: 單獨 (alone) + 住宅 (residence). Collocates with: 짓다, 구매하다, 매매하다. Contrast with 아파트 (apartment), 한옥 (hanok)."
     },
     {
       "korean": "한옥",
       "english": "traditional Korean house",
       "example": "북촌에는 잘 보존된 한옥이 많다.",
-      "example_en": "There are many well-preserved traditional Korean houses in Bukchon."
+      "example_en": "There are many well-preserved traditional Korean houses in Bukchon.",
+      "notes": "Pure Korean: 한 (Korean) + 옥 (house). Collocates with: 보존하다, 복원하다, 개조하다. Often modified by: 전통, 고급, 보존된. Usage: 한옥마을 (hanok village)."
     },
     {
       "korean": "상가 건물",
       "english": "commercial building",
       "example": "역 앞 상가 건물의 임대료가 크게 올랐다.",
-      "example_en": "The rent for the commercial building in front of the station has risen significantly."
+      "example_en": "The rent for the commercial building in front of the station has risen significantly.",
+      "notes": "Sino-Korean: 商家 (commerce) + 建物 (building). Collocates with: 임대료, 월세, 건물주. Related: 상업용, 점포, 상점."
     },
     {
       "korean": "초고층 빌딩",
       "english": "skyscraper; supertall building",
       "example": "초고층 빌딩 건설에는 첨단 기술이 필요하다.",
-      "example_en": "Advanced technology is required for skyscraper construction."
+      "example_en": "Advanced technology is required for skyscraper construction.",
+      "notes": "Sino-Korean: 超高層 (super-high-rise). Loanword: 빌딩 (building). Collocates with: 건설하다, 기술, 첨단. Related: 마천루, 고층 건물."
     },
     {
       "korean": "공공 건축물",
       "english": "public building; civic architecture",
       "example": "새 공공 건축물은 시민들의 접근성을 최우선으로 설계되었다.",
-      "example_en": "The new public building was designed with citizen accessibility as the top priority."
+      "example_en": "The new public building was designed with citizen accessibility as the top priority.",
+      "notes": "Sino-Korean: 公共 (public) + 建築 (architecture) + 物 (thing). Collocates with: 설계, 접근성, 편의성. Related: 시설, 기관, 시청."
     },
     {
       "korean": "복합 단지",
       "english": "mixed-use complex",
       "example": "주거와 상업을 결합한 복합 단지가 늘어나고 있다.",
-      "example_en": "Mixed-use complexes combining residential and commercial areas are increasing."
+      "example_en": "Mixed-use complexes combining residential and commercial areas are increasing.",
+      "notes": "Sino-Korean: 複合 (mixed) + 團地 (complex/zone). Collocates with: 주거, 상업, 개발하다. Related: 아파트 단지, 쇼핑몰."
     },
     {
       "korean": "종교 건축",
       "english": "religious architecture",
       "example": "유럽의 종교 건축은 고딕 양식의 영향을 많이 받았다.",
-      "example_en": "European religious architecture was heavily influenced by the Gothic style."
+      "example_en": "European religious architecture was heavily influenced by the Gothic style.",
+      "notes": "Sino-Korean: 宗教 (religion) + 建築 (architecture). Collocates with: 양식, 양식, 양식, 특징. Related: 교회, 절, 사찰, 모스크."
     },
     {
       "korean": "문화 시설",
       "english": "cultural facility",
       "example": "정부는 지방에 더 많은 문화 시설을 확충할 계획이다.",
-      "example_en": "The government plans to expand more cultural facilities in regional areas."
+      "example_en": "The government plans to expand more cultural facilities in regional areas.",
+      "notes": "Sino-Korean: 文化 (culture) + 施設 (facility). Collocates with: 확충, 건립, 이용. Related: 박물관, 미술관, 공연장, 도서관."
     },
     {
       "korean": "임시 구조물",
       "english": "temporary structure",
       "example": "축제 기간에 광장에 임시 구조물이 세워졌다.",
-      "example_en": "Temporary structures were erected in the square during the festival."
+      "example_en": "Temporary structures were erected in the square during the festival.",
+      "notes": "Sino-Korean: 臨時 (temporary) + 構造 (structure) + 物 (thing). Collocates with: 세우다, 설치하다, 철거하다. Usage: 가설건축물."
     },
     {
       "korean": "착공",
       "english": "groundbreaking; start of construction",
       "example": "신도시 건설이 내년 초 착공에 들어간다.",
-      "example_en": "Construction of the new city will break ground at the beginning of next year."
+      "example_en": "Construction of the new city will break ground at the beginning of next year.",
+      "notes": "Sino-Korean: 着工 (begin work). Collocates with: 들어가다, 예정되다, 식을 거행하다. Contrast with: 준공 (completion), 공정률 (progress rate)."
     },
     {
       "korean": "골조 공사",
       "english": "structural framing; framework construction",
       "example": "골조 공사가 완료되면 내장 작업에 들어간다.",
-      "example_en": "Once the structural framing is complete, interior work begins."
+      "example_en": "Once the structural framing is complete, interior work begins.",
+      "notes": "Sino-Korean: 骨組 (framework/skeleton) + 工事 (construction work). Stage in construction: 기초 공사 → 골조 공사 → 내장 공사. Related: 철근콘크리트."
     },
     {
       "korean": "기초 공사",
       "english": "foundation work",
       "example": "단단한 기초 공사 없이는 건물의 안전을 보장할 수 없다.",
-      "example_en": "Without solid foundation work, the safety of the building cannot be guaranteed."
+      "example_en": "Without solid foundation work, the safety of the building cannot be guaranteed.",
+      "notes": "Sino-Korean: 基礎 (foundation) + 工事 (work). Collocates with: 단단하다, 견고하다, 보강하다. Critical first stage of construction."
     },
     {
       "korean": "철거",
       "english": "demolition",
       "example": "재개발을 위해 노후 건물의 철거가 시작되었다.",
-      "example_en": "Demolition of the old building has begun for redevelopment."
+      "example_en": "Demolition of the old building has begun for redevelopment.",
+      "notes": "Sino-Korean: 撤去 (remove/demolish). Collocates with: 시작하다, 완료하다, 예정. Related: 개축, 재개발, 리모델링."
     },
     {
       "korean": "내진 설계",
       "english": "earthquake-resistant design; seismic design",
       "example": "한국에서도 내진 설계 기준이 강화되고 있다.",
-      "example_en": "Earthquake-resistant design standards are being strengthened in Korea as well."
+      "example_en": "Earthquake-resistant design standards are being strengthened in Korea as well.",
+      "notes": "Sino-Korean: 耐震 (earthquake-resistant) + 設計 (design). Collocates with: 기준, 시공, 강화하다. Related: 지진, 안전성, 구조."
     },
     {
       "korean": "시공사",
       "english": "construction company; builder",
       "example": "대형 시공사가 이번 프로젝트를 수주했다.",
-      "example_en": "A major construction company won the bid for this project."
+      "example_en": "A major construction company won the bid for this project.",
+      "notes": "Sino-Korean: 施工 (construction) + 社 (company). Collocates with: 대형, 영선, 수주하다, 낙찰되다. Related: 건설회사, 건축회사."
     },
     {
       "korean": "공정률",
       "english": "construction progress rate",
       "example": "현재 공정률이 70%를 넘어 예정대로 준공될 전망이다.",
-      "example_en": "The current progress rate exceeds 70%, and completion is expected on schedule."
+      "example_en": "The current progress rate exceeds 70%, and completion is expected on schedule.",
+      "notes": "Sino-Korean: 工程 (construction project) + 率 (rate/percentage). Collocates with: ~%, 70%, 80%, 넘다, 진행되다. Usage: 공정 진행률."
     },
     {
       "korean": "준공",
       "english": "completion of construction",
       "example": "아파트 준공이 6개월 지연되어 입주민들이 불만을 표했다.",
-      "example_en": "The apartment completion was delayed by six months, and residents expressed dissatisfaction."
+      "example_en": "The apartment completion was delayed by six months, and residents expressed dissatisfaction.",
+      "notes": "Sino-Korean: 竣工 (completion of construction). Collocates with: 예정, 지연, 연기되다, 입주. Opposite of: 착공 (groundbreaking)."
     },
     {
       "korean": "자재",
       "english": "building materials",
       "example": "원자재 가격 상승으로 건축 자재 비용이 급등했다.",
-      "example_en": "Building material costs surged due to rising raw material prices."
+      "example_en": "Building material costs surged due to rising raw material prices.",
+      "notes": "Sino-Korean: 資材 (materials/supplies). Collocates with: 가격, 비용, 부족, 수급. Related: 석재, 목재, 강철, 시멘트."
     },
     {
       "korean": "감리",
       "english": "construction supervision; inspection oversight",
       "example": "부실 공사를 방지하려면 철저한 감리가 필수적이다.",
-      "example_en": "Thorough construction supervision is essential to prevent shoddy work."
+      "example_en": "Thorough construction supervision is essential to prevent shoddy work.",
+      "notes": "Sino-Korean: 監理 (supervision). Collocates with: 철저하다, 전문가, 확인하다. Related: 검수, 품질관리, 부실 공사."
     },
     {
       "korean": "인테리어",
       "english": "interior design; interior decoration",
       "example": "이사 후 인테리어를 새로 하느라 한 달이 걸렸다.",
-      "example_en": "It took a month to redo the interior design after moving."
+      "example_en": "It took a month to redo the interior design after moving.",
+      "notes": "Loanword from English 'interior'. Collocates with: 하다, 예산, 디자인, 비용. Related: 외장, 조명, 마감재, 동선."
     },
     {
       "korean": "동선",
       "english": "traffic flow; circulation path (in a space)",
       "example": "주방의 동선이 효율적으로 설계되어 요리하기 편하다.",
-      "example_en": "The kitchen's traffic flow is designed efficiently, making it convenient to cook."
+      "example_en": "The kitchen's traffic flow is designed efficiently, making it convenient to cook.",
+      "notes": "Pure Korean: 動 (movement) + 線 (line). Collocates with: 효율적, 편리하다, 설계. Related: 공간 배치, 레이아웃."
     },
     {
       "korean": "마감재",
       "english": "finishing material",
       "example": "고급 마감재를 사용하면 주택 가치가 올라간다.",
-      "example_en": "Using premium finishing materials increases the value of a home."
+      "example_en": "Using premium finishing materials increases the value of a home.",
+      "notes": "Sino-Korean: 磨感 (finish/surface) + 材 (material). Collocates with: 고급, 선택하다, 품질. Related: 벽지, 바닥재, 타일, 페인트."
     },
     {
       "korean": "수납공간",
       "english": "storage space",
       "example": "작은 집일수록 수납공간을 잘 활용해야 한다.",
-      "example_en": "The smaller the house, the better you need to utilize storage space."
+      "example_en": "The smaller the house, the better you need to utilize storage space.",
+      "notes": "Pure Korean: 收納 (Sino-Korean for storage) + 空間 (space). Collocates with: 활용, 부족, 확보. Related: 수납장, 클로젯, 판트리."
     },
     {
       "korean": "개방형 구조",
       "english": "open-plan layout",
       "example": "요즘 신축 아파트는 거실과 주방이 개방형 구조로 되어 있다.",
-      "example_en": "These days, newly built apartments have an open-plan layout for the living room and kitchen."
+      "example_en": "These days, newly built apartments have an open-plan layout for the living room and kitchen.",
+      "notes": "Sino-Korean: 開放型 (open-type) + 構造 (structure). Collocates with: 거실, 주방, 설계. Trend in modern architecture favoring spacious, unified rooms."
     },
     {
       "korean": "조명 설계",
       "english": "lighting design",
       "example": "적절한 조명 설계는 공간의 분위기를 완전히 바꿀 수 있다.",
-      "example_en": "Proper lighting design can completely transform the atmosphere of a space."
+      "example_en": "Proper lighting design can completely transform the atmosphere of a space.",
+      "notes": "Sino-Korean: 照明 (lighting) + 設計 (design). Collocates with: 적절하다, 간접 조명, 분위기. Related: 조도, 색온도, 매입등."
     },
     {
       "korean": "천장고",
       "english": "ceiling height",
       "example": "천장고가 높으면 공간이 훨씬 넓어 보인다.",
-      "example_en": "A high ceiling height makes the space look much more spacious."
+      "example_en": "A high ceiling height makes the space look much more spacious.",
+      "notes": "Pure Korean: 天井 (ceiling) + 高 (height). Collocates with: 높다, 낮다, 측정. Standard residential height: 2.4-2.8m; luxury: 3m+."
     },
     {
       "korean": "바닥재",
       "english": "flooring material",
       "example": "원목 바닥재가 인기 있지만 관리가 까다롭다.",
-      "example_en": "Hardwood flooring is popular but high-maintenance."
+      "example_en": "Hardwood flooring is popular but high-maintenance.",
+      "notes": "Sino-Korean: 床 (floor) + 材 (material). Types: 원목, 강화마루, 타일, 대리석, 콘크리트. Collocates with: 관리, 내구성."
     },
     {
       "korean": "단열재",
       "english": "insulation material",
       "example": "겨울 난방비를 줄이려면 단열재를 보강해야 한다.",
-      "example_en": "To reduce winter heating costs, insulation materials need to be reinforced."
+      "example_en": "To reduce winter heating costs, insulation materials need to be reinforced.",
+      "notes": "Sino-Korean: 斷熱 (insulation) + 材 (material). Types: 글래스울, 로크울, 스티로폼. Collocates with: 보강하다, 두께, 효율."
     },
     {
       "korean": "리모델링",
       "english": "remodeling; renovation",
       "example": "30년 된 아파트를 리모델링해서 새집처럼 바꿨다.",
-      "example_en": "We remodeled the 30-year-old apartment and made it look like new."
+      "example_en": "We remodeled the 30-year-old apartment and made it look like new.",
+      "notes": "Loanword from English 'remodeling'. Collocates with: 하다, 비용, 예산, 기간. Often used interchangeably with 개축, 인테리어."
     },
     {
       "korean": "도시 계획",
       "english": "urban planning",
       "example": "체계적인 도시 계획 없이 개발하면 교통 문제가 생긴다.",
-      "example_en": "Development without systematic urban planning leads to traffic problems."
+      "example_en": "Development without systematic urban planning leads to traffic problems.",
+      "notes": "Sino-Korean: 都市 (city) + 計畫 (plan). Collocates with: 체계적, 수립, 수립하다. Related: 도시 설계, 도시 공학, 인프라."
     },
     {
       "korean": "용도 지역",
       "english": "zoning district; land use zone",
       "example": "이 지역은 상업 용도 지역으로 지정되어 주거가 제한된다.",
-      "example_en": "This area is designated as a commercial zoning district, so residential use is restricted."
+      "example_en": "This area is designated as a commercial zoning district, so residential use is restricted.",
+      "notes": "Sino-Korean: 用途 (use) + 地域 (area/district). Types: 주거, 상업, 공업, 녹지. Collocates with: 지정하다, 변경."
     },
     {
       "korean": "용적률",
       "english": "floor area ratio (FAR)",
       "example": "용적률 규제 완화로 더 높은 건물을 지을 수 있게 되었다.",
-      "example_en": "Relaxation of floor area ratio regulations made it possible to build taller buildings."
+      "example_en": "Relaxation of floor area ratio regulations made it possible to build taller buildings.",
+      "notes": "Sino-Korean: 用積 (usable area) + 率 (ratio). Formula: 건축면적 ÷ 대지면적. Policy tool regulating building density and height."
     },
     {
       "korean": "건폐율",
       "english": "building coverage ratio",
       "example": "건폐율이 높으면 녹지 공간이 줄어든다.",
-      "example_en": "A high building coverage ratio reduces green space."
+      "example_en": "A high building coverage ratio reduces green space.",
+      "notes": "Sino-Korean: 建蔽 (building coverage) + 率 (ratio). Formula: 건축면적 ÷ 대지면적. Regulatory limit varies by zoning; affects green space preservation."
     },
     {
       "korean": "재개발",
       "english": "redevelopment",
       "example": "노후 주거 지역의 재개발 사업이 본격화되고 있다.",
-      "example_en": "Redevelopment projects in aging residential areas are ramping up."
+      "example_en": "Redevelopment projects in aging residential areas are ramping up.",
+      "notes": "Sino-Korean: 再開發 (redevelop). Collocates with: 사업, 본격화, 추진. Often controversial; affects residents and property values. Related: 도시 재생."
     },
     {
       "korean": "보행자 전용 구역",
       "english": "pedestrian-only zone",
       "example": "도심 내 보행자 전용 구역이 확대되면서 거리가 활기를 띠고 있다.",
-      "example_en": "Streets are becoming more vibrant as pedestrian-only zones expand in the city center."
+      "example_en": "Streets are becoming more vibrant as pedestrian-only zones expand in the city center.",
+      "notes": "Sino-Korean: 步行者 (pedestrian) + 專用 (exclusive) + 區域 (zone). Urban design trend improving walkability and street vitality. Related: 보행로, 광장."
     },
     {
       "korean": "녹지 비율",
       "english": "green space ratio",
       "example": "쾌적한 도시 환경을 위해 녹지 비율을 높여야 한다.",
-      "example_en": "The green space ratio must be increased for a pleasant urban environment."
+      "example_en": "The green space ratio must be increased for a pleasant urban environment.",
+      "notes": "Sino-Korean: 綠地 (green space) + 比率 (ratio). Percentage of land with vegetation in urban planning; affects air quality and livability. Related: 공원, 숲."
     },
     {
       "korean": "기반 시설",
       "english": "infrastructure",
       "example": "신도시 개발에는 도로와 상하수도 같은 기반 시설이 먼저 갖춰져야 한다.",
-      "example_en": "Infrastructure such as roads and water supply must be established first for new city development."
+      "example_en": "Infrastructure such as roads and water supply must be established first for new city development.",
+      "notes": "Sino-Korean: 基盤 (foundation/base) + 施設 (facility). Includes: roads, water, sewage, electricity, gas, telecommunications. Critical for urban development."
     },
     {
       "korean": "스카이라인",
       "english": "skyline",
       "example": "강남의 스카이라인은 10년 전과 완전히 달라졌다.",
-      "example_en": "The skyline of Gangnam has completely changed from ten years ago."
+      "example_en": "The skyline of Gangnam has completely changed from ten years ago.",
+      "notes": "Loanword from English 'skyline'. Collocates with: 변하다, 독특하다, 아름답다. Urban symbol; architectural identity of a city."
     },
     {
       "korean": "도시 재생",
       "english": "urban regeneration; urban renewal",
       "example": "도시 재생 사업을 통해 쇠퇴한 구도심에 활력을 불어넣고 있다.",
-      "example_en": "Urban regeneration projects are breathing new life into declining old city centers."
+      "example_en": "Urban regeneration projects are breathing new life into declining old city centers.",
+      "notes": "Sino-Korean: 都市 (city) + 再生 (regeneration). Broader than 재개발; includes cultural, social renewal. Collocates with: 사업, 활성화."
     }
   ],
   "주제별 단어 — 사회학 (Topic: Sociology)": [
@@ -17689,241 +17889,281 @@
       "korean": "볶다",
       "english": "to stir-fry; to saute",
       "example": "센 불에서 야채를 빠르게 볶아야 아삭한 식감이 살아난다.",
-      "example_en": "You need to quickly stir-fry the vegetables over high heat to keep them crispy."
+      "example_en": "You need to quickly stir-fry the vegetables over high heat to keep them crispy.",
+      "notes": "Often paired with 센 불 (high heat) for vegetables. Related: 덮밥, 계란볶음밥. Tip: stir constantly for even cooking."
     },
     {
       "korean": "조리다",
       "english": "to simmer; to braise (in sauce)",
       "example": "간장 양념에 감자를 조리면 밑반찬으로 좋다.",
-      "example_en": "Simmering potatoes in soy sauce seasoning makes a great side dish."
+      "example_en": "Simmering potatoes in soy sauce seasoning makes a great side dish.",
+      "notes": "Common with 장조림, 감자조림. Sino-Korean: 調 (arrange/adjust). Collocation: 장 양념에 조리다."
     },
     {
       "korean": "데치다",
       "english": "to blanch; to parboil",
       "example": "시금치를 끓는 물에 살짝 데쳐서 나물을 만들었다.",
-      "example_en": "I blanched the spinach briefly in boiling water and made namul."
+      "example_en": "I blanched the spinach briefly in boiling water and made namul.",
+      "notes": "Preliminary step before making 나물 (namul). Related: 삶다 (boil), 살짝 데치다 (blanch briefly)."
     },
     {
       "korean": "절이다",
       "english": "to pickle; to salt; to brine",
       "example": "배추를 소금에 절이는 것이 김치 만들기의 첫 단계이다.",
-      "example_en": "Salting the napa cabbage is the first step in making kimchi."
+      "example_en": "Salting the napa cabbage is the first step in making kimchi.",
+      "notes": "Essential for 김치, 무 장아찌. Sino-Korean: 漬 (soak). Collocation: 소금에 절이다."
     },
     {
       "korean": "숙성시키다",
       "english": "to age; to ferment; to mature",
       "example": "된장은 최소 6개월 이상 숙성시켜야 깊은 맛이 난다.",
-      "example_en": "Doenjang needs to be aged for at least six months to develop a deep flavor."
+      "example_en": "Doenjang needs to be aged for at least six months to develop a deep flavor.",
+      "notes": "Used for 된장, 고추장, fermented foods. Sino-Korean: 熟 (ripe/mature), 成 (become). Takes months/years."
     },
     {
       "korean": "졸이다",
       "english": "to reduce (a sauce); to boil down",
       "example": "소스를 약한 불에 졸여서 농도를 맞추세요.",
-      "example_en": "Reduce the sauce over low heat to adjust the consistency."
+      "example_en": "Reduce the sauce over low heat to adjust the consistency.",
+      "notes": "Reduces liquid to concentrate flavor. Often with 약한 불 (low heat). Related: 육수 졸이다."
     },
     {
       "korean": "무치다",
       "english": "to toss; to mix (vegetables with seasoning)",
       "example": "콩나물을 참기름과 소금으로 무쳐서 반찬을 만들었다.",
-      "example_en": "I tossed the bean sprouts with sesame oil and salt to make a side dish."
+      "example_en": "I tossed the bean sprouts with sesame oil and salt to make a side dish.",
+      "notes": "Mix vegetables with 양념. Collocation: 참기름으로 무치다, 고추장으로 무치다."
     },
     {
       "korean": "튀기다",
       "english": "to deep-fry",
       "example": "새우를 바삭하게 튀기려면 기름 온도가 중요하다.",
-      "example_en": "The oil temperature is important for deep-frying shrimp until crispy."
+      "example_en": "The oil temperature is important for deep-frying shrimp until crispy.",
+      "notes": "Requires precise oil temperature (170-180°C). Related: 바삭한 (crispy), 기름 온도."
     },
     {
       "korean": "쪄내다",
       "english": "to steam (food until done)",
       "example": "만두를 찜기에 넣고 15분간 쪄냈다.",
-      "example_en": "I put the dumplings in the steamer and steamed them for 15 minutes."
+      "example_en": "I put the dumplings in the steamer and steamed them for 15 minutes.",
+      "notes": "Also written as 찐다. Common: 만두 쪄내다, 계란 쪄내다. Cooking method using 찜기 (steamer)."
     },
     {
       "korean": "삶다",
       "english": "to boil (ingredients)",
       "example": "돼지고기를 삶아서 보쌈을 만들었다.",
-      "example_en": "I boiled pork to make bossam."
+      "example_en": "I boiled pork to make bossam.",
+      "notes": "Boiling for tenderness/cleanliness. Related: 데치다 (blanch), 우리다. Collocation: 고기를 삶다."
     },
     {
       "korean": "칼",
       "english": "knife; kitchen knife",
       "example": "요리를 잘하려면 먼저 칼을 다루는 법을 배워야 한다.",
-      "example_en": "To cook well, you first need to learn how to handle a knife."
+      "example_en": "To cook well, you first need to learn how to handle a knife.",
+      "notes": "Related tools: 도마 (cutting board), 숌돌 (sharpener). Tip: 칼질 (knife work) affects cooking time."
     },
     {
       "korean": "도마",
       "english": "cutting board",
       "example": "생선과 채소는 별도의 도마를 사용하는 것이 위생적이다.",
-      "example_en": "Using separate cutting boards for fish and vegetables is hygienic."
+      "example_en": "Using separate cutting boards for fish and vegetables is hygienic.",
+      "notes": "Used with 칼. Hygienic to separate: 생선용, 채소용 (separate boards for fish/vegetables)."
     },
     {
       "korean": "냄비",
       "english": "pot; saucepan",
       "example": "찌개는 뚝배기보다 냄비에 끓이면 빨리 식는다.",
-      "example_en": "Jjigae cools down faster when boiled in a regular pot rather than a stone pot."
+      "example_en": "Jjigae cools down faster when boiled in a regular pot rather than a stone pot.",
+      "notes": "Common types: 양수냄비 (shallow), 국냄비 (tall). Related: 냄비 끓이다 (boil in pot)."
     },
     {
       "korean": "프라이팬",
       "english": "frying pan; skillet",
       "example": "눌어붙지 않는 프라이팬이 있으면 요리가 훨씬 수월하다.",
-      "example_en": "Cooking is much easier with a non-stick frying pan."
+      "example_en": "Cooking is much easier with a non-stick frying pan.",
+      "notes": "Loanword from English 'frying pan'. Related: 눌어붙지 않는 (non-stick), 코팅."
     },
     {
       "korean": "주걱",
       "english": "spatula; rice paddle",
       "example": "나무 주걱으로 저어야 코팅이 벗겨지지 않는다.",
-      "example_en": "You should stir with a wooden spatula so the coating doesn't peel off."
+      "example_en": "You should stir with a wooden spatula so the coating doesn't peel off.",
+      "notes": "Often wooden (나무 주걱) to preserve non-stick coating. Related: 저어주다 (stir)."
     },
     {
       "korean": "강판",
       "english": "grater",
       "example": "무를 강판에 갈아서 소스에 넣었다.",
-      "example_en": "I grated the radish on a grater and added it to the sauce."
+      "example_en": "I grated the radish on a grater and added it to the sauce.",
+      "notes": "For grating 무 (radish), 생강 (ginger). Related: 갈다 (grate), 곱게 간다 (grate finely)."
     },
     {
       "korean": "체",
       "english": "sieve; strainer",
       "example": "밀가루를 체에 내려야 덩어리 없이 부드러운 반죽이 된다.",
-      "example_en": "You need to sift the flour through a sieve for a smooth, lump-free dough."
+      "example_en": "You need to sift the flour through a sieve for a smooth, lump-free dough.",
+      "notes": "For sifting flour, powders. Related: 내려다 (sift), 체에 내리다 (pass through sieve)."
     },
     {
       "korean": "뒤집개",
       "english": "flipper; turner",
       "example": "전을 뒤집개로 살살 뒤집어야 모양이 안 무너진다.",
-      "example_en": "You need to gently flip the jeon with a turner so it doesn't fall apart."
+      "example_en": "You need to gently flip the jeon with a turner so it doesn't fall apart.",
+      "notes": "Also called 뒤집게. For flipping 전 (jeon), 계란 (eggs) without breaking."
     },
     {
       "korean": "계량컵",
       "english": "measuring cup",
       "example": "베이킹은 계량컵으로 정확하게 재는 것이 중요하다.",
-      "example_en": "In baking, it's important to measure accurately with a measuring cup."
+      "example_en": "In baking, it's important to measure accurately with a measuring cup.",
+      "notes": "Essential for baking precision. Related: 계량스푼 (measuring spoon), 정확하게 재다."
     },
     {
       "korean": "찜기",
       "english": "steamer",
       "example": "대나무 찜기에 쪄낸 딤섬이 가장 맛있다.",
-      "example_en": "Dim sum steamed in a bamboo steamer is the most delicious."
+      "example_en": "Dim sum steamed in a bamboo steamer is the most delicious.",
+      "notes": "Types: 대나무 찜기 (bamboo), 이중냄비 (double boiler). For steaming 만두, 딤섬."
     },
     {
       "korean": "간을 맞추다",
       "english": "to season; to adjust the seasoning",
       "example": "국물 요리는 마지막에 간을 맞추는 것이 핵심이다.",
-      "example_en": "The key to soup dishes is adjusting the seasoning at the end."
+      "example_en": "The key to soup dishes is adjusting the seasoning at the end.",
+      "notes": "Fine-tune seasoning, usually at end of cooking. Related: 밑간, 마무리 간."
     },
     {
       "korean": "감칠맛",
       "english": "umami; savory taste",
       "example": "멸치 육수를 넣으면 감칠맛이 확 살아난다.",
-      "example_en": "Adding anchovy broth really brings out the umami flavor."
+      "example_en": "Adding anchovy broth really brings out the umami flavor.",
+      "notes": "Umami flavor. Sino-Korean: 感 (sense), 喝 (flavor). From 멸치, 다시마, 버터."
     },
     {
       "korean": "고소하다",
       "english": "nutty; savory (in a rich way)",
       "example": "참기름을 넣으니까 나물이 훨씬 고소해졌다.",
-      "example_en": "Adding sesame oil made the namul much more nutty and savory."
+      "example_en": "Adding sesame oil made the namul much more nutty and savory.",
+      "notes": "Rich, nutty taste. From 참기름 (sesame oil), 견과류 (nuts). Related: 풍미."
     },
     {
       "korean": "담백하다",
       "english": "light; mild; clean-tasting",
       "example": "담백한 맛을 원하면 양념을 최소화해야 한다.",
-      "example_en": "If you want a light, clean taste, you should minimize the seasoning."
+      "example_en": "If you want a light, clean taste, you should minimize the seasoning.",
+      "notes": "Light, clean taste. Opposite of 자극적 (stimulating). Collocation: 담백한 국물."
     },
     {
       "korean": "칼칼하다",
       "english": "pleasantly spicy and pungent",
       "example": "해장국은 칼칼해야 속이 풀린다.",
-      "example_en": "Hangover soup needs to be pleasantly spicy to settle the stomach."
+      "example_en": "Hangover soup needs to be pleasantly spicy to settle the stomach.",
+      "notes": "Pleasantly pungent/spicy. Common with 해장국 (hangover soup), 라면. Related: 자극적."
     },
     {
       "korean": "느끼하다",
       "english": "greasy; heavy; oily (food)",
       "example": "치킨이 느끼하면 무 피클이랑 같이 먹으면 된다.",
-      "example_en": "If the fried chicken tastes greasy, eat it with pickled radish."
+      "example_en": "If the fried chicken tastes greasy, eat it with pickled radish.",
+      "notes": "Greasy, heavy. Paired with 무 피클, 막걸리 (neutralizer). Opposite: 담백하다."
     },
     {
       "korean": "새콤달콤하다",
       "english": "sweet and sour",
       "example": "새콤달콤한 소스에 탕수육을 찍어 먹었다.",
-      "example_en": "I dipped the tangsuyuk in sweet and sour sauce."
+      "example_en": "I dipped the tangsuyuk in sweet and sour sauce.",
+      "notes": "Sweet-sour balance. Common: 탕수육, 짜장면. Related: 쌍콤한, 산미."
     },
     {
       "korean": "짭짤하다",
       "english": "pleasantly salty; savory",
       "example": "짭짤한 치즈가 와인 안주로 딱이다.",
-      "example_en": "Pleasantly salty cheese is perfect as a wine snack."
+      "example_en": "Pleasantly salty cheese is perfect as a wine snack.",
+      "notes": "Pleasantly salty, savory. Opposite: 싱겁다 (bland). Often describing 치즈, 베이컨."
     },
     {
       "korean": "텁텁하다",
       "english": "rough; coarse; dry-feeling (on the palate)",
       "example": "떫은 감은 먹으면 입이 텁텁해진다.",
-      "example_en": "Eating an astringent persimmon makes your mouth feel rough and dry."
+      "example_en": "Eating an astringent persimmon makes your mouth feel rough and dry.",
+      "notes": "Rough, astringent mouthfeel (from tannins in 떫은 감). Related: 떫다, 떫은맛."
     },
     {
       "korean": "깔끔하다",
       "english": "clean-tasting; refreshing (flavor)",
       "example": "이 소주는 맛이 깔끔해서 음식과 잘 어울린다.",
-      "example_en": "This soju has a clean taste that pairs well with food."
+      "example_en": "This soju has a clean taste that pairs well with food.",
+      "notes": "Clean finish without heaviness. Related: 상큼하다 (refreshing), 깔끔한 뒷맛."
     },
     {
       "korean": "밑간",
       "english": "base seasoning; preliminary seasoning (before cooking)",
       "example": "고기에 밑간을 해두면 양념이 잘 배어든다.",
-      "example_en": "If you apply base seasoning to the meat beforehand, the flavor absorbs well."
+      "example_en": "If you apply base seasoning to the meat beforehand, the flavor absorbs well.",
+      "notes": "Base seasoning before cooking. Collocation: 고기에 밑간을 하다. Ensures even flavor absorption."
     },
     {
       "korean": "손질",
       "english": "food preparation; cleaning and trimming ingredients",
       "example": "재료 손질이 요리 시간의 절반을 차지한다.",
-      "example_en": "Ingredient preparation takes up half the cooking time."
+      "example_en": "Ingredient preparation takes up half the cooking time.",
+      "notes": "Preparation (cleaning, trimming, peeling). Collocation: 재료 손질, 손질하기. Takes significant time."
     },
     {
       "korean": "육수를 내다",
       "english": "to make broth; to prepare stock",
       "example": "깊은 맛을 내려면 멸치와 다시마로 육수를 내야 한다.",
-      "example_en": "To bring out a deep flavor, you need to make broth with anchovies and kelp."
+      "example_en": "To bring out a deep flavor, you need to make broth with anchovies and kelp.",
+      "notes": "Make broth/stock. Common: 멸치 육수, 다시마 육수. Related: 푹 우리다 (steep)."
     },
     {
       "korean": "양념장",
       "english": "seasoning sauce; marinade mixture",
       "example": "불고기 양념장은 간장, 설탕, 마늘로 만든다.",
-      "example_en": "Bulgogi marinade is made with soy sauce, sugar, and garlic."
+      "example_en": "Bulgogi marinade is made with soy sauce, sugar, and garlic.",
+      "notes": "Marinade or dipping sauce. Collocation: 불고기 양념장, 쌈장. Contains: 간장, 설탕, 마늘, 고추."
     },
     {
       "korean": "재료를 썰다",
       "english": "to chop/slice ingredients",
       "example": "재료를 고르게 썰어야 골고루 익는다.",
-      "example_en": "Ingredients must be sliced evenly so they cook uniformly."
+      "example_en": "Ingredients must be sliced evenly so they cook uniformly.",
+      "notes": "Chop/slice ingredients. Related: 칼질, 굵기 (thickness). Tip: even cutting = uniform cooking."
     },
     {
       "korean": "불 조절",
       "english": "heat control; flame adjustment",
       "example": "요리의 성패는 불 조절에 달려 있다.",
-      "example_en": "The success or failure of cooking depends on heat control."
+      "example_en": "The success or failure of cooking depends on heat control.",
+      "notes": "Heat management critical for cooking success. Related: 센 불, 약한 불, 중불. English: 'heat control'."
     },
     {
       "korean": "반죽",
       "english": "dough; batter",
       "example": "수제비 반죽은 충분히 치대야 쫄깃한 식감이 나온다.",
-      "example_en": "Sujebi dough needs to be kneaded enough to achieve a chewy texture."
+      "example_en": "Sujebi dough needs to be kneaded enough to achieve a chewy texture.",
+      "notes": "Dough or batter. Related: 치대다 (knead), 치대다 (knead), 부푸는 (rise/puff). Types: 밀가루 반죽."
     },
     {
       "korean": "계량하다",
       "english": "to measure (ingredients)",
       "example": "베이킹에서는 재료를 정확히 계량해야 실패가 없다.",
-      "example_en": "In baking, you must measure ingredients precisely to avoid failure."
+      "example_en": "In baking, you must measure ingredients precisely to avoid failure.",
+      "notes": "Measure ingredients precisely. Essential for baking. Related: 정확하게, 저울 (scale)."
     },
     {
       "korean": "고명",
       "english": "garnish (for Korean food)",
       "example": "잡채 위에 계란 지단을 고명으로 올렸다.",
-      "example_en": "I placed sliced egg crepe as garnish on top of the japchae."
+      "example_en": "I placed sliced egg crepe as garnish on top of the japchae.",
+      "notes": "Garnish topping. Common: 계란 지단 (egg crepe), 파 (green onion), 깨. Improves presentation."
     },
     {
       "korean": "간이 배다",
       "english": "for seasoning to soak in; to be well-marinated",
       "example": "하루 재워두면 양념이 충분히 배어서 맛있다.",
-      "example_en": "If you let it marinate for a day, the seasoning soaks in well and it tastes great."
+      "example_en": "If you let it marinate for a day, the seasoning soaks in well and it tastes great.",
+      "notes": "Seasoning absorbs/soaks in. Collocation: 양념이 배다, 맛이 배다. Takes time (1 hour+)."
     }
   ],
   "주제별 단어 — 패션 (Topic: Fashion)": [
@@ -17931,241 +18171,281 @@
       "korean": "헐렁하다",
       "english": "loose-fitting; baggy; oversized",
       "example": "요즘은 헐렁한 실루엣의 옷이 유행이다.",
-      "example_en": "These days, loose-fitting silhouettes are in fashion."
+      "example_en": "These days, loose-fitting silhouettes are in fashion.",
+      "notes": "Common collocations: 헐렁한 옷, 헐렁한 실루엣. Related: 오버핏, 넉넉하다. Implies comfort over body-hugging silhouettes."
     },
     {
       "korean": "달라붙다",
       "english": "to cling; to fit tightly; skin-tight",
       "example": "몸에 달라붙는 원피스는 체형이 그대로 드러나서 부담스럽다.",
-      "example_en": "A clingy dress reveals your body shape completely, which can feel uncomfortable."
+      "example_en": "A clingy dress reveals your body shape completely, which can feel uncomfortable.",
+      "notes": "Collocation: 몸에 달라붙다. Related: 타이트하다, 꼭 맞다. Often used negatively in fashion context."
     },
     {
       "korean": "주름",
       "english": "wrinkle; crease; pleat",
       "example": "셔츠에 주름이 잡혀서 다림질을 해야 한다.",
-      "example_en": "The shirt has creases, so I need to iron it."
+      "example_en": "The shirt has creases, so I need to iron it.",
+      "notes": "Collocations: 주름이 생기다, 주름을 펴다, 다림질하다. Related: 구김, 누더기. Can be aesthetic (pleats) or unfashionable (wrinkles)."
     },
     {
       "korean": "무늬",
       "english": "pattern; print; design",
       "example": "체크무늬 셔츠는 캐주얼한 느낌을 주기에 좋다.",
-      "example_en": "A checkered pattern shirt is good for giving a casual vibe."
+      "example_en": "A checkered pattern shirt is good for giving a casual vibe.",
+      "notes": "Common patterns: 체크무늬, 줄무늬, 꽃무늬, 동물 무늬. Related: 패턴, 프린트. Native Korean word preferred over 패턴."
     },
     {
       "korean": "차림",
       "english": "outfit; attire; how one is dressed",
       "example": "격식 있는 자리에 평상복 차림으로 나타나면 실례가 된다.",
-      "example_en": "Showing up in casual attire to a formal occasion is considered rude."
+      "example_en": "Showing up in casual attire to a formal occasion is considered rude.",
+      "notes": "Collocations: 단정한 차림, 평상복 차림, 정장 차림. Usage: describes complete outfit appropriateness for occasion."
     },
     {
       "korean": "단정하다",
       "english": "neat; tidy; well-groomed",
       "example": "면접 때는 단정한 복장과 깔끔한 헤어스타일이 중요하다.",
-      "example_en": "For interviews, neat attire and a tidy hairstyle are important."
+      "example_en": "For interviews, neat attire and a tidy hairstyle are important.",
+      "notes": "Collocations: 단정한 복장, 단정한 모습. Slightly formal/conservative connotation. Related: 깔끔하다, 멋있다."
     },
     {
       "korean": "촌스럽다",
       "english": "tacky; unfashionable; outdated-looking",
       "example": "예전에는 촌스럽다고 여겨졌던 스타일이 레트로 유행으로 다시 돌아왔다.",
-      "example_en": "Styles once considered tacky have come back as retro trends."
+      "example_en": "Styles once considered tacky have come back as retro trends.",
+      "notes": "Related: 나이 들어 보이다, 올드하다, 구린. Antonym: 세련되다. Often describes fashion perceived as outdated or unsophisticated."
     },
     {
       "korean": "화려하다",
       "english": "flashy; flamboyant; colorful; splendid",
       "example": "시상식에서 배우들은 화려한 드레스를 입고 레드카펫을 밟았다.",
-      "example_en": "At the awards ceremony, actors walked the red carpet in flashy dresses."
+      "example_en": "At the awards ceremony, actors walked the red carpet in flashy dresses.",
+      "notes": "Collocations: 화려한 드레스, 화려한 색상. Related: 화사하다, 화려해 보이다. Can be positive (elegant) or negative (overdone)."
     },
     {
       "korean": "수수하다",
       "english": "plain; modest; understated",
       "example": "그녀는 늘 수수한 옷차림이지만 분위기가 있다.",
-      "example_en": "She always dresses modestly but has a certain presence."
+      "example_en": "She always dresses modestly but has a certain presence.",
+      "notes": "Collocations: 수수한 옷차림, 수수한 스타일. Opposite: 화려하다. Implies quiet sophistication and timelessness."
     },
     {
       "korean": "깔끔하다",
       "english": "clean-cut; crisp; polished (in appearance)",
       "example": "흰 셔츠에 검은 바지, 깔끔한 코디의 정석이다.",
-      "example_en": "A white shirt with black pants — the textbook of clean-cut coordination."
+      "example_en": "A white shirt with black pants — the textbook of clean-cut coordination.",
+      "notes": "Collocations: 깔끔한 코디, 깔끔한 모습. Related: 단정하다. Emphasizes simplicity and orderliness in styling."
     },
     {
       "korean": "면",
       "english": "cotton (fabric)",
       "example": "여름에는 통기성이 좋은 면 소재의 옷이 가장 편하다.",
-      "example_en": "In summer, cotton fabric clothes with good breathability are the most comfortable."
+      "example_en": "In summer, cotton fabric clothes with good breathability are the most comfortable.",
+      "notes": "Collocations: 면 소재, 순면(100% cotton). Related: 통기성, 흡수성. Most versatile and affordable fabric for everyday wear."
     },
     {
       "korean": "마",
       "english": "linen; hemp fabric",
       "example": "마 소재는 시원하지만 구김이 잘 가는 게 단점이다.",
-      "example_en": "Linen is cool, but the downside is that it wrinkles easily."
+      "example_en": "Linen is cool, but the downside is that it wrinkles easily.",
+      "notes": "Native Korean fabric term. Collocations: 마 소재, 마 바지. Usage: prized for breathability but requires careful maintenance."
     },
     {
       "korean": "명주",
       "english": "silk; silk fabric",
       "example": "한복에 사용되는 명주는 광택이 있어서 고급스러운 느낌을 준다.",
-      "example_en": "The silk used in hanbok has a sheen that gives a luxurious feel."
+      "example_en": "The silk used in hanbok has a sheen that gives a luxurious feel.",
+      "notes": "Sino-Korean 明珠 (bright pearl). Associated with luxury and traditional Korean dress. Related: 비단(silk), 광택(sheen)."
     },
     {
       "korean": "가죽",
       "english": "leather; hide",
       "example": "인조 가죽 재킷은 진짜 가죽보다 가격이 저렴하면서 관리가 쉽다.",
-      "example_en": "Faux leather jackets are cheaper than real leather and easier to maintain."
+      "example_en": "Faux leather jackets are cheaper than real leather and easier to maintain.",
+      "notes": "Collocations: 가죽 재킷, 인조 가죽, 진짜 가죽. Related: 동물성 소재, 비건 가죽. Premium fabric often used for outerwear."
     },
     {
       "korean": "모직",
       "english": "wool fabric; woolen; worsted",
       "example": "겨울 코트는 모직 소재가 보온성이 뛰어나다.",
-      "example_en": "For winter coats, wool fabric has excellent heat retention."
+      "example_en": "For winter coats, wool fabric has excellent heat retention.",
+      "notes": "Sino-Korean 毛織. Collocations: 모직 코트, 모직 소재. High heat retention makes it ideal for cold-weather garments."
     },
     {
       "korean": "니트",
       "english": "knit; knitwear; knitted fabric",
       "example": "가을에는 니트 스웨터 하나면 간편하게 스타일링할 수 있다.",
-      "example_en": "In autumn, a single knit sweater is enough for easy styling."
+      "example_en": "In autumn, a single knit sweater is enough for easy styling.",
+      "notes": "English loanword. Collocations: 니트 스웨터, 니트 원피스. Versatile autumn/winter staple; relates to texture rather than fiber content."
     },
     {
       "korean": "데님",
       "english": "denim; jean fabric",
       "example": "데님 재킷은 사계절 내내 활용할 수 있는 만능 아이템이다.",
-      "example_en": "A denim jacket is a versatile item you can wear in all four seasons."
+      "example_en": "A denim jacket is a versatile item you can wear in all four seasons.",
+      "notes": "English loanword. Collocations: 데님 재킷, 데님 바지. Timeless, durable fabric that serves as fashion staple across seasons."
     },
     {
       "korean": "벨벳",
       "english": "velvet",
       "example": "벨벳 소재는 빛에 따라 색감이 다르게 보여서 고급스럽다.",
-      "example_en": "Velvet looks luxurious because its color appears different depending on the light."
+      "example_en": "Velvet looks luxurious because its color appears different depending on the light.",
+      "notes": "English loanword. Collocations: 벨벳 드레스, 벨벳 소재. Luxurious tactile fabric; light-reflective surface adds sophistication."
     },
     {
       "korean": "합성섬유",
       "english": "synthetic fiber; man-made fabric",
       "example": "합성섬유는 가격이 싸지만 피부가 예민한 사람에겐 안 맞을 수 있다.",
-      "example_en": "Synthetic fibers are cheap, but may not suit people with sensitive skin."
+      "example_en": "Synthetic fibers are cheap, but may not suit people with sensitive skin.",
+      "notes": "Sino-Korean 合成纖維 (combined + fiber). Affordable but may cause skin irritation. Related: 폴리에스터, 나일론, 아크릴."
     },
     {
       "korean": "원단",
       "english": "textile; fabric; cloth (as material)",
       "example": "이 원단은 촉감이 부드러워서 고급 정장에 많이 사용된다.",
-      "example_en": "This textile is soft to the touch, so it's often used for high-end suits."
+      "example_en": "This textile is soft to the touch, so it's often used for high-end suits.",
+      "notes": "Native Korean 원단 (원 + 단). Generic term for fabric as material/yardage. Related: 천, 소재. Used when discussing fabric quality or sourcing."
     },
     {
       "korean": "빈티지",
       "english": "vintage (style); retro fashion",
       "example": "요즘 빈티지 스타일이 인기라 구제 시장을 찾는 젊은층이 늘었다.",
-      "example_en": "Vintage style is popular lately, so more young people are visiting thrift markets."
+      "example_en": "Vintage style is popular lately, so more young people are visiting thrift markets.",
+      "notes": "English loanword. Collocations: 빈티지 스타일, 빈티지 룩, 구제(thrift). Often associated with sustainability and nostalgia."
     },
     {
       "korean": "오버핏",
       "english": "oversized fit; relaxed fit",
       "example": "오버핏 코트가 몇 년째 가을 패션의 대세다.",
-      "example_en": "Oversized fit coats have been the dominant autumn fashion trend for several years."
+      "example_en": "Oversized fit coats have been the dominant autumn fashion trend for several years.",
+      "notes": "English loanword. Collocations: 오버핏 코트, 오버핏 실루엣. Modern trend emphasizing comfort and volume over body-conforming cuts."
     },
     {
       "korean": "미니멀",
       "english": "minimal; minimalist (style)",
       "example": "군더더기 없는 미니멀 스타일이 직장인들 사이에서 인기다.",
-      "example_en": "A no-frills minimal style is popular among office workers."
+      "example_en": "A no-frills minimal style is popular among office workers.",
+      "notes": "English loanword. Related: 심플, 깔끔. Emphasizes essential items, neutral colors, and functional design in wardrobe."
     },
     {
       "korean": "레이어드",
       "english": "layered (styling); layering",
       "example": "환절기에는 레이어드 코디로 온도 변화에 대비하는 게 좋다.",
-      "example_en": "During seasonal transitions, it's good to layer outfits to prepare for temperature changes."
+      "example_en": "During seasonal transitions, it's good to layer outfits to prepare for temperature changes.",
+      "notes": "English loanword (layered). Collocations: 레이어드 코디, 레이어드 룩. Both practical (temperature control) and aesthetic technique."
     },
     {
       "korean": "코디",
       "english": "outfit coordination; styling; coord",
       "example": "하루 아침에 입을 코디를 미리 정해 놓으면 시간이 절약된다.",
-      "example_en": "Deciding your outfit coordination the night before saves time in the morning."
+      "example_en": "Deciding your outfit coordination the night before saves time in the morning.",
+      "notes": "English loanword (coordination). Collocations: 코디를 하다, 룩 코디. Essential term in modern Korean fashion vocabulary."
     },
     {
       "korean": "시스루",
       "english": "see-through; sheer (fabric/style)",
       "example": "시스루 소재 블라우스는 안에 이너를 입어야 부담이 없다.",
-      "example_en": "With a see-through blouse, you need to wear an inner layer to feel comfortable."
+      "example_en": "With a see-through blouse, you need to wear an inner layer to feel comfortable.",
+      "notes": "English loanword (see-through). Collocations: 시스루 블라우스, 시스루 시즌. Requires layering with appropriate undergarments."
     },
     {
       "korean": "스트릿패션",
       "english": "street fashion; streetwear",
       "example": "홍대 주변은 스트릿패션의 성지로 불린다.",
-      "example_en": "The area around Hongdae is called the mecca of street fashion."
+      "example_en": "The area around Hongdae is called the mecca of street fashion.",
+      "notes": "English loanword. Associated with youth culture and trendy neighborhoods like Hongdae. Represents casual, experimental street style."
     },
     {
       "korean": "하이엔드",
       "english": "high-end; luxury (fashion)",
       "example": "하이엔드 브랜드의 옷을 중고로 사는 리셀 문화가 확산되고 있다.",
-      "example_en": "The resale culture of buying high-end brand clothes secondhand is spreading."
+      "example_en": "The resale culture of buying high-end brand clothes secondhand is spreading.",
+      "notes": "English loanword. Related: 명품, 럭셔리. Indicates premium brands and luxury price points; increasingly accessible through resale markets."
     },
     {
       "korean": "애슬레저",
       "english": "athleisure; athletic-leisure wear",
       "example": "재택근무가 늘면서 애슬레저 시장이 폭발적으로 성장했다.",
-      "example_en": "As remote work increased, the athleisure market grew explosively."
+      "example_en": "As remote work increased, the athleisure market grew explosively.",
+      "notes": "English loanword (athletic + leisure). Collocations: 애슬레저 룩, 애슬레저 시장. Grew with remote work; blurs boundary between sportswear and everyday wear."
     },
     {
       "korean": "젠더리스",
       "english": "genderless; gender-neutral (fashion)",
       "example": "젠더리스 패션이 확산되면서 남녀 구분 없는 옷이 많아졌다.",
-      "example_en": "With genderless fashion spreading, more clothing items are made without gender distinction."
+      "example_en": "With genderless fashion spreading, more clothing items are made without gender distinction.",
+      "notes": "English loanword. Related: 유니섹스, 중성적. Modern trend rejecting traditional gendered clothing categories."
     },
     {
       "korean": "한복",
       "english": "hanbok; traditional Korean clothing",
       "example": "설날에 한복을 입고 세배하는 풍습이 아직도 이어지고 있다.",
-      "example_en": "The custom of wearing hanbok and performing the New Year's bow on Seollal still continues."
+      "example_en": "The custom of wearing hanbok and performing the New Year's bow on Seollal still continues.",
+      "notes": "Sino-Korean 韓服 (Korean + clothing). Worn on holidays (Seollal, Chuseok) and formal occasions. Components: 저고리(jeogori), 치마(skirt), 바지(pants)."
     },
     {
       "korean": "생활한복",
       "english": "modernized hanbok; everyday hanbok",
       "example": "생활한복은 전통 한복을 현대적으로 재해석한 일상복이다.",
-      "example_en": "Modernized hanbok is everyday clothing that reinterprets traditional hanbok in a contemporary way."
+      "example_en": "Modernized hanbok is everyday clothing that reinterprets traditional hanbok in a contemporary way.",
+      "notes": "Simplified, comfortable version of traditional hanbok designed for everyday wear. Related: 개량한복. Growing trend among younger generations."
     },
     {
       "korean": "동대문",
       "english": "Dongdaemun (fashion district); wholesale fashion market",
       "example": "동대문 시장은 새벽까지 문을 열어서 도매 바이어들이 몰린다.",
-      "example_en": "Dongdaemun market stays open until dawn, attracting wholesale buyers."
+      "example_en": "Dongdaemun market stays open until dawn, attracting wholesale buyers.",
+      "notes": "Famous Seoul fashion district; major wholesale and trendy retail hub. Opens early mornings for bulk buyers; hub for fast-fashion trend-setting."
     },
     {
       "korean": "맞춤복",
       "english": "custom-tailored clothing; bespoke suit",
       "example": "기성복보다 맞춤복이 핏이 좋지만 가격이 두세 배 비싸다.",
-      "example_en": "Custom-tailored clothing fits better than ready-to-wear, but costs two to three times more."
+      "example_en": "Custom-tailored clothing fits better than ready-to-wear, but costs two to three times more.",
+      "notes": "Sino-Korean 맞춤 + 服. Premium option for perfect fit and quality. Related: 테일러메이드, 맞춤 옷. Involves fittings and time investment."
     },
     {
       "korean": "기성복",
       "english": "ready-to-wear; off-the-rack clothing",
       "example": "SPA 브랜드의 등장으로 저렴한 기성복 시장이 급성장했다.",
-      "example_en": "With the emergence of SPA brands, the affordable ready-to-wear market grew rapidly."
+      "example_en": "With the emergence of SPA brands, the affordable ready-to-wear market grew rapidly.",
+      "notes": "Sino-Korean 既成服. Standard sizes produced in bulk; democratized fashion access. SPA brands offer affordable trendy pieces."
     },
     {
       "korean": "유행",
       "english": "trend; fashion trend; vogue",
       "example": "패션 유행은 20년 주기로 돌고 돈다는 말이 있다.",
-      "example_en": "There's a saying that fashion trends go in 20-year cycles."
+      "example_en": "There's a saying that fashion trends go in 20-year cycles.",
+      "notes": "Sino-Korean 流行 (flow + behavior). Collocations: 유행을 따르다, 유행이 지나가다. Fashion cycles and trend forecasting are cultural phenomena."
     },
     {
       "korean": "꾸안꾸",
       "english": "effortlessly stylish; dressed-up but looking natural",
       "example": "꾸안꾸 스타일은 꾸민 듯 안 꾸민 듯 자연스러운 게 핵심이다.",
-      "example_en": "The key to 'effortlessly stylish' is looking natural as if you dressed up but also didn't."
+      "example_en": "The key to 'effortlessly stylish' is looking natural as if you dressed up but also didn't.",
+      "notes": "Native Korean compound: 꾸밈 + 안 + 꾸밈 (styled + not styled). Aesthetic ideal in Korean fashion emphasizing studied casualness; highly curated but appearing effortless."
     },
     {
       "korean": "개성",
       "english": "individuality; personal style; uniqueness",
       "example": "자신만의 개성을 살린 패션이 획일적인 유행보다 중요하다.",
-      "example_en": "Fashion that brings out your own individuality is more important than uniform trends."
+      "example_en": "Fashion that brings out your own individuality is more important than uniform trends.",
+      "notes": "Sino-Korean 個性 (individual + nature). Collocations: 개성 있는 스타일, 개성을 드러내다. Encourages personal expression over trend conformity."
     },
     {
       "korean": "착장",
       "english": "outfit; ensemble; what one is wearing",
       "example": "오늘의 착장을 SNS에 올리는 것이 일종의 자기 표현이 됐다.",
-      "example_en": "Posting today's outfit on social media has become a form of self-expression."
+      "example_en": "Posting today's outfit on social media has become a form of self-expression.",
+      "notes": "Sino-Korean 着裝 (wear + dress). Collocations: 오늘의 착장, 착장 사진. Modern usage: common in social media fashion documentation."
     },
     {
       "korean": "패피",
       "english": "fashionista; fashion-forward person (slang for 패션피플)",
       "example": "서울 패션위크에 모인 패피들의 스타일이 다양했다.",
-      "example_en": "The styles of the fashionistas gathered at Seoul Fashion Week were diverse."
+      "example_en": "The styles of the fashionistas gathered at Seoul Fashion Week were diverse.",
+      "notes": "Slang abbreviation of 패션피플 (fashion people). Used for fashion-conscious, trendsetting individuals. Related: 패션 블로거, 인플루언서."
     }
   ],
   "주제별 단어 — 성격 (Topic: Personality)": [
@@ -18415,241 +18695,281 @@
       "korean": "환승",
       "english": "transfer (between transit lines); interchange",
       "example": "이 역에서 2호선으로 환승하면 세 정거장 만에 도착한다.",
-      "example_en": "If you transfer to Line 2 at this station, you'll arrive in just three stops."
+      "example_en": "If you transfer to Line 2 at this station, you'll arrive in just three stops.",
+      "notes": "環乘 (Sino-Korean: environment + ride). Collocations: 환승하다, 환승 구간. Related: 갈아타다."
     },
     {
       "korean": "배차 간격",
       "english": "service interval; headway between buses/trains",
       "example": "출퇴근 시간에는 배차 간격이 2분으로 줄어든다.",
-      "example_en": "During rush hours, the service interval is reduced to 2 minutes."
+      "example_en": "During rush hours, the service interval is reduced to 2 minutes.",
+      "notes": "Service frequency term. Related: 배차간격 줄이다, 운행 간격. Natural in: 배차 간격이 5분이다."
     },
     {
       "korean": "첫차",
       "english": "first train/bus of the day",
       "example": "첫차를 타려면 새벽 5시에는 역에 도착해야 한다.",
-      "example_en": "To catch the first train, you need to arrive at the station by 5 AM."
+      "example_en": "To catch the first train, you need to arrive at the station by 5 AM.",
+      "notes": "Opposite: 막차 (last). Collocations: 첫차를 타다, 첫차를 놓치다. Common in commute context."
     },
     {
       "korean": "막차",
       "english": "last train/bus of the day",
       "example": "막차를 놓치면 택시를 타거나 심야버스를 이용해야 한다.",
-      "example_en": "If you miss the last train, you have to take a taxi or use the late-night bus."
+      "example_en": "If you miss the last train, you have to take a taxi or use the late-night bus.",
+      "notes": "Opposite: 첫차 (first). Collocations: 막차를 놓치다, 막차를 타다. Often followed by transport mode."
     },
     {
       "korean": "노선",
       "english": "route; transit line; course",
       "example": "새로운 버스 노선이 신설되면서 통학이 한결 편해졌다.",
-      "example_en": "Commuting to school became much easier with the new bus route."
+      "example_en": "Commuting to school became much easier with the new bus route.",
+      "notes": "路線 (Sino-Korean: road + line). Collocations: 노선을 신설하다, 버스 노선. Related: 노선도 (route map)."
     },
     {
       "korean": "교통카드",
       "english": "transit card; transportation card (T-money etc.)",
       "example": "교통카드를 충전하지 않으면 지하철을 탈 수 없다.",
-      "example_en": "You can't ride the subway if you haven't charged your transit card."
+      "example_en": "You can't ride the subway if you haven't charged your transit card.",
+      "notes": "Modern term. Collocations: 교통카드를 충전하다, 충전하다. Korean cards: T-money, Cashbee."
     },
     {
       "korean": "혼잡",
       "english": "congestion; crowding; overcrowding",
       "example": "출근 시간 지하철 혼잡도가 200%를 넘기기도 한다.",
-      "example_en": "During morning rush hour, subway congestion can exceed 200% capacity."
+      "example_en": "During morning rush hour, subway congestion can exceed 200% capacity.",
+      "notes": "混雜 (Sino-Korean: mix + disorder). Collocations: 혼잡도, 혼잡하다. Related: 혼잡 시간대."
     },
     {
       "korean": "정류장",
       "english": "bus stop; station; stop",
       "example": "다음 정류장에서 내리면 병원이 바로 앞이에요.",
-      "example_en": "If you get off at the next stop, the hospital is right in front of you."
+      "example_en": "If you get off at the next stop, the hospital is right in front of you.",
+      "notes": "停留場 (Sino-Korean: stop + stay + place). Collocations: 다음 정류장, 정류장에서 내리다. Related: 버스정류장."
     },
     {
       "korean": "광역버스",
       "english": "express bus; metropolitan bus (between cities)",
       "example": "경기도에서 서울까지 광역버스로 출퇴근하는 사람이 수십만 명이다.",
-      "example_en": "Hundreds of thousands of people commute from Gyeonggi Province to Seoul by express bus."
+      "example_en": "Hundreds of thousands of people commute from Gyeonggi Province to Seoul by express bus.",
+      "notes": "Long-distance commute buses. Collocations: 광역버스를 타다, 광역버스 이용. Prefixed with colors/numbers."
     },
     {
       "korean": "전용차로",
       "english": "dedicated lane; bus-only lane",
       "example": "버스 전용차로 덕분에 출퇴근 시간에도 버스가 빠르게 운행된다.",
-      "example_en": "Thanks to bus-only lanes, buses run quickly even during rush hours."
+      "example_en": "Thanks to bus-only lanes, buses run quickly even during rush hours.",
+      "notes": "Dedicated traffic lane. Collocations: 버스 전용차로, 전용차로를 침범하다. Related: 차선 (lane)."
     },
     {
       "korean": "차선",
       "english": "lane (on a road); traffic lane",
       "example": "고속도로에서 1차선은 추월 차선으로 지정되어 있다.",
-      "example_en": "On the highway, the first lane is designated as the passing lane."
+      "example_en": "On the highway, the first lane is designated as the passing lane.",
+      "notes": "車線 (Sino-Korean: vehicle + line). Collocations: 차선을 바꾸다, 1차선, 오른쪽/왼쪽 차선."
     },
     {
       "korean": "교차로",
       "english": "intersection; crossroads; junction",
       "example": "이 교차로는 사고가 잦아서 신호등이 추가 설치됐다.",
-      "example_en": "This intersection had frequent accidents, so additional traffic lights were installed."
+      "example_en": "This intersection had frequent accidents, so additional traffic lights were installed.",
+      "notes": "交叉路 (Sino-Korean: cross + fork + road). Collocations: 교차로에서, 교차로를 지나다. Related: 신호등."
     },
     {
       "korean": "과속",
       "english": "speeding; exceeding the speed limit",
       "example": "과속 단속 카메라에 찍히면 벌점과 함께 범칙금이 부과된다.",
-      "example_en": "If caught by a speed camera, you receive demerit points along with a traffic fine."
+      "example_en": "If caught by a speed camera, you receive demerit points along with a traffic fine.",
+      "notes": "過速 (Sino-Korean: exceed + speed). Collocations: 과속으로 달리다, 과속 단속. Related: 속도 위반."
     },
     {
       "korean": "역주행",
       "english": "driving the wrong way; going against traffic",
       "example": "고속도로 역주행은 대형 사고로 이어지는 극히 위험한 행위다.",
-      "example_en": "Driving the wrong way on the highway is an extremely dangerous act that leads to major accidents."
+      "example_en": "Driving the wrong way on the highway is an extremely dangerous act that leads to major accidents.",
+      "notes": "Native compound: 역 (reverse) + 주행 (driving). Extremely dangerous act. Collocations: 역주행하다, 역주행 사고."
     },
     {
       "korean": "음주운전",
       "english": "drunk driving; DUI",
       "example": "음주운전 처벌이 강화되면서 대리운전 이용이 크게 늘었다.",
-      "example_en": "As drunk driving penalties were strengthened, the use of designated driver services increased significantly."
+      "example_en": "As drunk driving penalties were strengthened, the use of designated driver services increased significantly.",
+      "notes": "Drinking + driving. Related: 대리운전 (designated driver service). Collocations: 음주운전 적발, 음주운전 처벌."
     },
     {
       "korean": "내비게이션",
       "english": "navigation; GPS navigation system",
       "example": "내비게이션이 막히지 않는 우회 경로를 안내해 줬다.",
-      "example_en": "The navigation system guided me through an alternate route without traffic."
+      "example_en": "The navigation system guided me through an alternate route without traffic.",
+      "notes": "Loanword: navigation. Collocations: 내비게이션을 켜다, 내비게이션 설정. Korean: GPS, 네비."
     },
     {
       "korean": "갓길",
       "english": "road shoulder; hard shoulder",
       "example": "차가 고장 나면 갓길에 세우고 비상등을 켜야 한다.",
-      "example_en": "If your car breaks down, you should pull over to the shoulder and turn on the hazard lights."
+      "example_en": "If your car breaks down, you should pull over to the shoulder and turn on the hazard lights.",
+      "notes": "Native Korean: 갓 (edge) + 길 (road). Collocations: 갓길에 세우다, 갓길 주차. Related: 도로 어깨."
     },
     {
       "korean": "톨게이트",
       "english": "tollgate; toll booth",
       "example": "하이패스 단말기가 있으면 톨게이트에서 멈추지 않고 통과할 수 있다.",
-      "example_en": "With a Hi-pass device, you can pass through the tollgate without stopping."
+      "example_en": "With a Hi-pass device, you can pass through the tollgate without stopping.",
+      "notes": "Toll + gate (loanword). Collocations: 톨게이트를 통과하다, 하이패스 (Hi-pass system)."
     },
     {
       "korean": "정체",
       "english": "traffic jam; standstill; gridlock",
       "example": "명절 연휴마다 고속도로 정체가 극심해진다.",
-      "example_en": "Highway traffic jams become severe every holiday season."
+      "example_en": "Highway traffic jams become severe every holiday season.",
+      "notes": "停滯 (Sino-Korean: stop + stagnate). Collocations: 정체가 심하다, 정체되다. Related: 교통 정체."
     },
     {
       "korean": "우회도로",
       "english": "bypass road; detour; alternate route",
       "example": "공사 중이라 우회도로로 돌아가야 해서 30분이 더 걸렸다.",
-      "example_en": "Due to construction, we had to take a detour, which added 30 minutes."
+      "example_en": "Due to construction, we had to take a detour, which added 30 minutes.",
+      "notes": "Detour + road. Collocations: 우회도로로 가다, 우회도로를 이용하다. Related: 돌아가다."
     },
     {
       "korean": "물류",
       "english": "logistics; distribution; freight",
       "example": "전자상거래의 성장으로 물류 산업이 급속도로 발전하고 있다.",
-      "example_en": "With the growth of e-commerce, the logistics industry is developing rapidly."
+      "example_en": "With the growth of e-commerce, the logistics industry is developing rapidly.",
+      "notes": "物流 (Sino-Korean: things + flow). Collocations: 물류 산업, 물류 센터. Related: 유통."
     },
     {
       "korean": "컨테이너",
       "english": "container; shipping container",
       "example": "부산항에는 하루에 수만 개의 컨테이너가 오간다.",
-      "example_en": "Tens of thousands of containers pass through Busan Port daily."
+      "example_en": "Tens of thousands of containers pass through Busan Port daily.",
+      "notes": "Container (loanword). Collocations: 컨테이너 선박, 컨테이너 터미널. Related: 화물."
     },
     {
       "korean": "화물",
       "english": "freight; cargo; goods",
       "example": "화물 트럭의 과적이 도로 파손의 주요 원인이다.",
-      "example_en": "Overloading of freight trucks is a major cause of road damage."
+      "example_en": "Overloading of freight trucks is a major cause of road damage.",
+      "notes": "貨物 (Sino-Korean: goods + goods). Collocations: 화물 차량, 화물 운송. Related: 짐, 물건."
     },
     {
       "korean": "항만",
       "english": "port; harbor; seaport",
       "example": "인천 항만은 수도권 물류의 핵심 거점이다.",
-      "example_en": "Incheon port is a key hub for logistics in the metropolitan area."
+      "example_en": "Incheon port is a key hub for logistics in the metropolitan area.",
+      "notes": "港灣 (Sino-Korean: harbor + bay). Collocations: 항만 시설, 항만 운영. Related: 항구, 포구."
     },
     {
       "korean": "하역",
       "english": "unloading; loading and unloading (cargo)",
       "example": "항구에서 하역 작업이 끝나기까지 꼬박 이틀이 걸렸다.",
-      "example_en": "It took a full two days for the unloading work at the port to be completed."
+      "example_en": "It took a full two days for the unloading work at the port to be completed.",
+      "notes": "荷役 (Sino-Korean: cargo + work). Collocations: 하역 작업, 하역 비용. Related: 짐을 싣다/내리다."
     },
     {
       "korean": "택배",
       "english": "delivery service; parcel delivery; courier",
       "example": "한국의 택배 시스템은 당일 배송까지 가능할 정도로 빠르다.",
-      "example_en": "Korea's delivery system is so fast that same-day delivery is possible."
+      "example_en": "Korea's delivery system is so fast that same-day delivery is possible.",
+      "notes": "擇配 (Sino-Korean: select + distribute). Collocations: 택배를 보내다, 택배 서비스. Related: 배송, 배달."
     },
     {
       "korean": "운송",
       "english": "transport; shipping; conveyance",
       "example": "냉장 운송 기술 발달로 신선식품의 전국 배송이 가능해졌다.",
-      "example_en": "With advances in refrigerated transport technology, nationwide delivery of fresh food became possible."
+      "example_en": "With advances in refrigerated transport technology, nationwide delivery of fresh food became possible.",
+      "notes": "運送 (Sino-Korean: transport + convey). Collocations: 운송 수단, 냉장 운송. Related: 배송, 배달."
     },
     {
       "korean": "수출입",
       "english": "import and export; trade",
       "example": "부산항은 한국 수출입 화물의 70% 이상을 처리한다.",
-      "example_en": "Busan Port handles more than 70% of Korea's import and export cargo."
+      "example_en": "Busan Port handles more than 70% of Korea's import and export cargo.",
+      "notes": "輸出入 (Sino-Korean: convey + out + in). Collocations: 수출입 화물, 수출입 관세. Related: 국제 무역."
     },
     {
       "korean": "유통",
       "english": "distribution; circulation (of goods)",
       "example": "중간 유통 단계를 줄이면 소비자 가격을 낮출 수 있다.",
-      "example_en": "Reducing intermediate distribution stages can lower consumer prices."
+      "example_en": "Reducing intermediate distribution stages can lower consumer prices.",
+      "notes": "流通 (Sino-Korean: flow + circulation). Collocations: 유통 단계, 유통 경로. Related: 배급, 분배."
     },
     {
       "korean": "공급망",
       "english": "supply chain",
       "example": "코로나 이후 글로벌 공급망 재편이 가속화되고 있다.",
-      "example_en": "Reorganization of the global supply chain has been accelerating since COVID."
+      "example_en": "Reorganization of the global supply chain has been accelerating since COVID.",
+      "notes": "Supply + chain. Modern term. Collocations: 공급망 재편, 글로벌 공급망. Related: 공급, 수요."
     },
     {
       "korean": "교통사고",
       "english": "traffic accident; car crash",
       "example": "교통사고 사망자 수가 10년 전에 비해 절반으로 줄었다.",
-      "example_en": "The number of traffic accident fatalities has been halved compared to 10 years ago."
+      "example_en": "The number of traffic accident fatalities has been halved compared to 10 years ago.",
+      "notes": "Traffic + accident. Collocations: 교통사고가 발생하다, 교통사고로 다치다. Related: 사건, 사고."
     },
     {
       "korean": "추돌",
       "english": "rear-end collision; tailgating crash",
       "example": "안개가 짙은 날 고속도로에서 연쇄 추돌 사고가 발생했다.",
-      "example_en": "A chain rear-end collision occurred on the highway on a foggy day."
+      "example_en": "A chain rear-end collision occurred on the highway on a foggy day.",
+      "notes": "追突 (Sino-Korean: follow + strike). Rear-end collision. Collocations: 추돌 사고, 연쇄 추돌."
     },
     {
       "korean": "접촉사고",
       "english": "fender bender; minor collision",
       "example": "주차장에서 접촉사고가 나서 보험 처리를 했다.",
-      "example_en": "I had a fender bender in the parking lot and filed an insurance claim."
+      "example_en": "I had a fender bender in the parking lot and filed an insurance claim.",
+      "notes": "Contact + accident. Minor collision. Collocations: 접촉사고를 내다, 접촉사고 처리."
     },
     {
       "korean": "블랙박스",
       "english": "dashcam; black box (vehicle camera)",
       "example": "블랙박스 영상 덕분에 사고 과실 비율을 정확히 판단할 수 있었다.",
-      "example_en": "Thanks to the dashcam footage, the fault ratio for the accident could be determined accurately."
+      "example_en": "Thanks to the dashcam footage, the fault ratio for the accident could be determined accurately.",
+      "notes": "Black box (loanword). Vehicle dashcam. Collocations: 블랙박스 영상, 블랙박스 조회."
     },
     {
       "korean": "신호위반",
       "english": "running a red light; traffic signal violation",
       "example": "신호위반으로 적발되면 벌점 15점이 부과된다.",
-      "example_en": "If caught running a red light, 15 demerit points are imposed."
+      "example_en": "If caught running a red light, 15 demerit points are imposed.",
+      "notes": "Signal + violation. Collocations: 신호위반으로 적발되다, 신호위반 벌금. Related: 빨간불 무시."
     },
     {
       "korean": "뺑소니",
       "english": "hit-and-run (accident)",
       "example": "뺑소니 사고 후 도주한 운전자가 CCTV를 통해 검거됐다.",
-      "example_en": "The driver who fled after the hit-and-run was caught through CCTV."
+      "example_en": "The driver who fled after the hit-and-run was caught through CCTV.",
+      "notes": "Native Korean onomatopoeia for hit-and-run. Collocations: 뺑소니를 저지르다, 뺑소니 피해."
     },
     {
       "korean": "보행자",
       "english": "pedestrian; person on foot",
       "example": "횡단보도에서는 항상 보행자가 우선이다.",
-      "example_en": "At crosswalks, pedestrians always have the right of way."
+      "example_en": "At crosswalks, pedestrians always have the right of way.",
+      "notes": "步行者 (Sino-Korean: walk + person). Collocations: 보행자 우선, 보행자 신호. Related: 행인."
     },
     {
       "korean": "견인",
       "english": "towing; vehicle towing",
       "example": "불법 주차 차량이 견인되면 반환 수수료를 내야 한다.",
-      "example_en": "If an illegally parked vehicle is towed, you have to pay a retrieval fee."
+      "example_en": "If an illegally parked vehicle is towed, you have to pay a retrieval fee.",
+      "notes": "牽引 (Sino-Korean: lead + pull). Vehicle towing. Collocations: 견인되다, 견인차, 견인 비용."
     },
     {
       "korean": "보험료",
       "english": "insurance premium (vehicle/accident)",
       "example": "무사고 기간이 길어질수록 자동차 보험료가 할인된다.",
-      "example_en": "The longer your accident-free period, the more your car insurance premium is discounted."
+      "example_en": "The longer your accident-free period, the more your car insurance premium is discounted.",
+      "notes": "Insurance + fee. Collocations: 보험료를 내다, 보험료 할인. Related: 보험, 요금."
     },
     {
       "korean": "사각지대",
       "english": "blind spot; dead zone (traffic)",
       "example": "대형 차량의 사각지대에서 발생하는 사고가 매년 증가하고 있다.",
-      "example_en": "Accidents occurring in the blind spots of large vehicles are increasing every year."
+      "example_en": "Accidents occurring in the blind spots of large vehicles are increasing every year.",
+      "notes": "四角地帯 (Sino-Korean: four corners + zone). Blind spot. Collocations: 사각지대에 있다, 사각지대 사고."
     }
   ],
   "주제별 단어 — 농업 (Topic: Agriculture)": [
@@ -30634,6 +30954,1322 @@
       "english": "ethical standard",
       "example": "조직의 윤리 기준이 명확해야 직원들이 지킬 수 있다.",
       "example_en": "Clear ethical standards allow employees to follow them."
+    }
+  ],
+  "주제별 단어 — 신화/전설 (Topic: Mythology & Legends)": [
+    {
+      "korean": "신화",
+      "english": "mythology",
+      "example": "그리스 신화는 서양 문화에 깊은 영향을 미쳤다.",
+      "example_en": "Greek mythology has had a profound influence on Western culture."
+    },
+    {
+      "korean": "전설",
+      "english": "legend",
+      "example": "단군의 건국 전설은 한국 역사의 시작을 나타낸다.",
+      "example_en": "The legend of Dangun's founding represents the beginning of Korean history."
+    },
+    {
+      "korean": "민담",
+      "english": "folklore",
+      "example": "할머니가 들려준 민담들은 아이들의 상상력을 자극했다.",
+      "example_en": "The folklore stories told by grandmother sparked children's imagination."
+    },
+    {
+      "korean": "신",
+      "english": "deity; god",
+      "example": "고대 한국 사람들은 산신과 물의 신을 숭배했다.",
+      "example_en": "Ancient Koreans worshipped mountain deities and water gods."
+    },
+    {
+      "korean": "여신",
+      "english": "goddess",
+      "example": "달의 여신은 밤하늘의 수호자로 여겨진다.",
+      "example_en": "The moon goddess is regarded as the guardian of the night sky."
+    },
+    {
+      "korean": "반신반인",
+      "english": "demigod",
+      "example": "헤라클레스는 그리스 신화의 유명한 반신반인 영웅이다.",
+      "example_en": "Hercules is a famous demigod hero in Greek mythology."
+    },
+    {
+      "korean": "영혼",
+      "english": "spirit; soul",
+      "example": "그 집의 영혼이 떠도는 것 같다는 소문이 돌았다.",
+      "example_en": "There was a rumor that the spirit of that house was wandering."
+    },
+    {
+      "korean": "신령",
+      "english": "divine spirit; sacred spirit",
+      "example": "마을 사람들은 산의 신령에게 풍작을 빌었다.",
+      "example_en": "The villagers prayed to the mountain's divine spirit for a good harvest."
+    },
+    {
+      "korean": "귀신",
+      "english": "ghost; specter",
+      "example": "어린이들이 귀신 이야기를 들으며 밤새 깨어있었다.",
+      "example_en": "The children stayed up all night listening to ghost stories."
+    },
+    {
+      "korean": "용",
+      "english": "dragon",
+      "example": "용왕은 바다를 다스리는 신선하고 강력한 존재로 묘사된다.",
+      "example_en": "The dragon king is depicted as a powerful immortal being who rules the sea."
+    },
+    {
+      "korean": "호랑이 영",
+      "english": "tiger spirit",
+      "example": "산에는 옛날부터 호랑이 영이 나타난다는 전설이 전해 내려온다.",
+      "example_en": "There has been a legend passed down that a tiger spirit appears in the mountains."
+    },
+    {
+      "korean": "도깨비",
+      "english": "goblin; trickster spirit",
+      "example": "옛날 사람들은 도깨비가 밤에 마을을 돌아다닌다고 믿었다.",
+      "example_en": "People long ago believed that goblins wandered the village at night."
+    },
+    {
+      "korean": "구미호",
+      "english": "nine-tailed fox",
+      "example": "한국 민화에서 구미호는 인간을 속이는 것으로 유명하다.",
+      "example_en": "In Korean folklore, the nine-tailed fox is famous for deceiving humans."
+    },
+    {
+      "korean": "저승",
+      "english": "underworld; afterlife",
+      "example": "저승길은 지옥과 천국으로 나뉜다고 전해진다.",
+      "example_en": "The path to the afterlife is said to be divided into hell and heaven."
+    },
+    {
+      "korean": "사신",
+      "english": "grim reaper; messenger of death",
+      "example": "동양 신화에서 사신은 죽은 자의 영혼을 저승으로 인도한다.",
+      "example_en": "In Eastern mythology, the grim reaper guides the spirits of the dead to the afterlife."
+    },
+    {
+      "korean": "무술",
+      "english": "shamanism; shamanistic practice",
+      "example": "한국의 무술은 오랜 세월 동안 사람들의 정신적 위로를 제공해왔다.",
+      "example_en": "Korean shamanism has provided spiritual comfort to people for a long time."
+    },
+    {
+      "korean": "점",
+      "english": "divination; fortune-telling",
+      "example": "할머니는 타로 카드로 점을 본다.",
+      "example_en": "Grandmother tells fortunes using tarot cards."
+    },
+    {
+      "korean": "점술사",
+      "english": "fortune teller; diviner",
+      "example": "점술사는 손금을 읽어서 미래를 예언한다고 주장했다.",
+      "example_en": "The fortune teller claimed to predict the future by reading palm lines."
+    },
+    {
+      "korean": "제단",
+      "english": "altar",
+      "example": "신전의 제단 위에 여신의 금상이 놓여있다.",
+      "example_en": "On the altar of the temple sits a golden statue of the goddess."
+    },
+    {
+      "korean": "부적",
+      "english": "talisman; amulet",
+      "example": "목걸이에 달린 부적이 악한 영혼으로부터 보호해준다고 믿어진다.",
+      "example_en": "It is believed that the amulet hanging from a necklace protects from evil spirits."
+    },
+    {
+      "korean": "저주",
+      "english": "curse",
+      "example": "옛날 전설에 따르면 그 무덤에 저주가 걸려있다고 한다.",
+      "example_en": "According to an old legend, a curse is said to be placed on that tomb."
+    },
+    {
+      "korean": "축복",
+      "english": "blessing; benediction",
+      "example": "신부는 신자들을 위해 축복의 말씀을 전했다.",
+      "example_en": "The priest gave a blessing for his congregation."
+    },
+    {
+      "korean": "예언",
+      "english": "prophecy; prediction",
+      "example": "고대 예언자의 예언이 2000년이 지난 지금 현실이 되었다.",
+      "example_en": "The prophecy of the ancient prophet has become reality 2000 years later."
+    },
+    {
+      "korean": "신탁",
+      "english": "oracle; divine revelation",
+      "example": "델포이의 신탁은 고대 그리스인들의 운명을 좌우했다.",
+      "example_en": "The oracle of Delphi influenced the fate of ancient Greeks."
+    },
+    {
+      "korean": "기적",
+      "english": "miracle; wondrous act",
+      "example": "그 성인의 기적은 수천 명의 병자를 낫게 했다고 전해진다.",
+      "example_en": "It is said that the saint's miracle healed thousands of sick people."
+    },
+    {
+      "korean": "초자연적",
+      "english": "supernatural; otherworldly",
+      "example": "그 괴기한 사건들은 모두 초자연적인 원인으로 설명되었다.",
+      "example_en": "All of those strange incidents were explained by supernatural causes."
+    },
+    {
+      "korean": "환상",
+      "english": "fantasy; illusion; apparition",
+      "example": "밤중에 본 그 여인이 환상이었는지 현실이었는지 알 수 없었다.",
+      "example_en": "It was unclear whether the woman he saw in the middle of the night was an illusion or reality."
+    },
+    {
+      "korean": "마법",
+      "english": "magic; enchantment",
+      "example": "마술사의 마법은 관객들을 완전히 매료시켰다.",
+      "example_en": "The magician's magic completely captivated the audience."
+    },
+    {
+      "korean": "마법사",
+      "english": "magician; sorcerer; wizard",
+      "example": "중세 유럽에서는 마법사를 마녀사냥의 대상으로 삼았다.",
+      "example_en": "In medieval Europe, sorcerers were targeted for witch hunts."
+    },
+    {
+      "korean": "영웅",
+      "english": "hero; legendary warrior",
+      "example": "그 영웅은 자신의 목숨을 바쳐 나라를 구했다.",
+      "example_en": "That hero saved the country by sacrificing his own life."
+    },
+    {
+      "korean": "영웅담",
+      "english": "heroic tale; legend of a hero",
+      "example": "아르투르 왕의 영웅담은 중세 유럽 문학의 핵심을 이룬다.",
+      "example_en": "The legend of King Arthur forms the core of medieval European literature."
+    },
+    {
+      "korean": "서사시",
+      "english": "epic; epic poem",
+      "example": "호메로스의 일리아드는 고대 그리스의 위대한 서사시이다.",
+      "example_en": "Homer's Iliad is a great epic of ancient Greece."
+    },
+    {
+      "korean": "승리",
+      "english": "victory; triumph",
+      "example": "영웅의 승리는 오래 세월이 지난 후에도 노래되고 기억된다.",
+      "example_en": "The hero's victory is sung and remembered even after many years have passed."
+    },
+    {
+      "korean": "성인",
+      "english": "sage; saint; holy person",
+      "example": "성인들의 가르침은 종교적 신앙의 기초가 되었다.",
+      "example_en": "The teachings of saints became the foundation of religious faith."
+    },
+    {
+      "korean": "수호신",
+      "english": "guardian deity; patron saint",
+      "example": "각 마을마다 그 지역을 보호하는 수호신이 있다고 믿어진다.",
+      "example_en": "It is believed that each village has a guardian deity that protects the area."
+    }
+  ],
+  "주제별 단어 — 인테리어 (Topic: Interior Design)": [
+    {
+      "korean": "리노베이션",
+      "english": "renovation",
+      "example": "낡은 빅토리아 양식 주택을 리노베이션해서 현대식으로 탈바꿈했다.",
+      "example_en": "We renovated the old Victorian house and transformed it into a modern home."
+    },
+    {
+      "korean": "벽지",
+      "english": "wallpaper",
+      "example": "거실 벽지를 밝은 베이지 톤으로 변경했다.",
+      "example_en": "I changed the living room wallpaper to a bright beige tone."
+    },
+    {
+      "korean": "벽지 시공",
+      "english": "wallpaper installation",
+      "example": "전문가에게 벽지 시공을 의뢰했더니 비용이 꽤 들었다.",
+      "example_en": "Having a professional install the wallpaper was quite expensive."
+    },
+    {
+      "korean": "타일 무늬",
+      "english": "tile pattern",
+      "example": "기하학적 타일 무늬가 모던한 분위기를 살려준다.",
+      "example_en": "Geometric tile patterns bring out a modern atmosphere."
+    },
+    {
+      "korean": "대리석",
+      "english": "marble",
+      "example": "주방 조리대를 대리석으로 마감했다.",
+      "example_en": "We finished the kitchen countertop with marble."
+    },
+    {
+      "korean": "대리석 무늬",
+      "english": "marble pattern/veining",
+      "example": "우아한 대리석 무늬가 거실을 고급스럽게 만들어준다.",
+      "example_en": "The elegant marble veining makes the living room look luxurious."
+    },
+    {
+      "korean": "목재 무늬",
+      "english": "wood grain",
+      "example": "목재 무늬가 살아있는 원목 가구를 선택했다.",
+      "example_en": "I chose solid wood furniture with vivid wood grain."
+    },
+    {
+      "korean": "천장",
+      "english": "ceiling",
+      "example": "천장 높이를 높여서 공간감을 극대화했다.",
+      "example_en": "We raised the ceiling height to maximize the sense of space."
+    },
+    {
+      "korean": "천장 마감",
+      "english": "ceiling finishing",
+      "example": "노출 콘크리트 천장 마감으로 산업풍 분위기를 연출했다.",
+      "example_en": "We created an industrial atmosphere with exposed concrete ceiling finishing."
+    },
+    {
+      "korean": "가구 배치",
+      "english": "furniture arrangement",
+      "example": "가구 배치를 다시 구성해서 동선을 개선했다.",
+      "example_en": "We reconfigured the furniture arrangement to improve the traffic flow."
+    },
+    {
+      "korean": "색상 계획",
+      "english": "color planning",
+      "example": "전체 색상 계획을 세워서 일관된 느낌을 유지했다.",
+      "example_en": "We made a comprehensive color plan to maintain a consistent feel."
+    },
+    {
+      "korean": "미니멀리즘",
+      "english": "minimalism",
+      "example": "미니멀리즘 철학으로 불필요한 물건을 정리했다.",
+      "example_en": "Following minimalism, I removed unnecessary items."
+    },
+    {
+      "korean": "미니멀한",
+      "english": "minimalist",
+      "example": "미니멀한 디자인의 가구가 현대식 거실에 잘 어울렸다.",
+      "example_en": "The minimalist design furniture matched the modern living room well."
+    },
+    {
+      "korean": "공간 계획",
+      "english": "space planning",
+      "example": "공간 계획 단계에서 생활 동선을 고려했다.",
+      "example_en": "During space planning, we considered the living traffic flow."
+    },
+    {
+      "korean": "커튼",
+      "english": "curtain",
+      "example": "두터운 커튼으로 자외선을 차단했다.",
+      "example_en": "We blocked UV rays with thick curtains."
+    },
+    {
+      "korean": "블라인드",
+      "english": "blinds",
+      "example": "롤 블라인드는 청소가 쉽고 현대적이다.",
+      "example_en": "Roll blinds are easy to clean and look modern."
+    },
+    {
+      "korean": "직물",
+      "english": "fabric/textile",
+      "example": "고급 직물로 소파 덮개를 만들었다.",
+      "example_en": "I made sofa covers with premium fabric."
+    },
+    {
+      "korean": "실내 장식",
+      "english": "interior decoration",
+      "example": "실내 장식을 할 때 문화적 요소를 반영했다.",
+      "example_en": "When decorating the interior, I reflected cultural elements."
+    },
+    {
+      "korean": "환기",
+      "english": "ventilation",
+      "example": "환기 시스템을 개선해서 공기질을 높였다.",
+      "example_en": "We improved air quality by upgrading the ventilation system."
+    },
+    {
+      "korean": "방음재",
+      "english": "soundproofing material",
+      "example": "벽 안쪽에 방음재를 설치했더니 소음이 많이 줄어들었다.",
+      "example_en": "After installing soundproofing material inside the walls, noise was greatly reduced."
+    },
+    {
+      "korean": "단열",
+      "english": "insulation",
+      "example": "단열 성능을 강화하여 에너지 비용을 절감했다.",
+      "example_en": "We reduced energy costs by improving insulation performance."
+    },
+    {
+      "korean": "몰딩",
+      "english": "molding/trim",
+      "example": "천장 몰딩은 클래식한 분위기를 연출한다.",
+      "example_en": "Ceiling molding creates a classic atmosphere."
+    },
+    {
+      "korean": "베이스보드",
+      "english": "baseboard",
+      "example": "베이스보드를 설치해서 벽과 바닥의 경계를 정리했다.",
+      "example_en": "We installed baseboards to clean up the boundary between wall and floor."
+    },
+    {
+      "korean": "페인트 색상",
+      "english": "paint color",
+      "example": "페인트 색상 샘플을 여러 개 받아서 비교했다.",
+      "example_en": "I received several paint color samples and compared them."
+    },
+    {
+      "korean": "채광",
+      "english": "natural light",
+      "example": "큰 창문으로 채광을 충분히 확보했다.",
+      "example_en": "We secured adequate natural light through large windows."
+    },
+    {
+      "korean": "스타일",
+      "english": "style",
+      "example": "스캔디나비안 스타일의 인테리어를 선호한다.",
+      "example_en": "I prefer Scandinavian-style interiors."
+    },
+    {
+      "korean": "컨셉",
+      "english": "concept/theme",
+      "example": "자연을 테마로 한 컨셉으로 전체 공간을 설계했다.",
+      "example_en": "I designed the entire space with a nature-themed concept."
+    }
+  ],
+  "주제별 단어 — 우편/택배 (Topic: Postal & Delivery)": [
+    {
+      "korean": "등기우편",
+      "english": "registered mail",
+      "example": "중요한 서류는 반드시 등기우편으로 보내야 합니다.",
+      "example_en": "Important documents must always be sent by registered mail."
+    },
+    {
+      "korean": "특급배송",
+      "english": "express delivery",
+      "example": "내일 오전에 받아야 하면 특급배송을 신청하세요.",
+      "example_en": "If you need to receive it by tomorrow morning, request express delivery."
+    },
+    {
+      "korean": "추적번호",
+      "english": "tracking number",
+      "example": "추적번호를 입력하면 배송 상황을 실시간으로 확인할 수 있습니다.",
+      "example_en": "You can check the shipping status in real-time by entering the tracking number."
+    },
+    {
+      "korean": "우편요금",
+      "english": "postage",
+      "example": "국제 우편요금은 무게와 지역에 따라 달라집니다.",
+      "example_en": "International postage rates vary by weight and region."
+    },
+    {
+      "korean": "소포",
+      "english": "parcel / package",
+      "example": "이 소포는 3일 안에 배달될 예정입니다.",
+      "example_en": "This parcel is expected to be delivered within 3 days."
+    },
+    {
+      "korean": "택배기사",
+      "english": "courier / delivery driver",
+      "example": "택배기사가 오후 2시쯤 올 것 같으니 집에 있으세요.",
+      "example_en": "The courier will arrive around 2 PM, so please stay home."
+    },
+    {
+      "korean": "반품배송",
+      "english": "return shipment",
+      "example": "반품배송은 무료로 진행되므로 걱정하지 않으셔도 됩니다.",
+      "example_en": "Return shipping is free, so you don't need to worry."
+    },
+    {
+      "korean": "착불",
+      "english": "COD / cash on delivery",
+      "example": "착불로 보내면 받는 사람이 배송료를 지불해야 합니다.",
+      "example_en": "If sent COD, the recipient must pay the shipping fee."
+    },
+    {
+      "korean": "국제배송",
+      "english": "international shipping",
+      "example": "국제배송은 일반 배송보다 3배 이상 오래 걸립니다.",
+      "example_en": "International shipping takes more than 3 times longer than domestic delivery."
+    },
+    {
+      "korean": "무게제한",
+      "english": "weight limit",
+      "example": "항공사 규정상 무게제한을 초과할 수 없습니다.",
+      "example_en": "The airline's weight limit cannot be exceeded."
+    },
+    {
+      "korean": "깨지기 쉬움",
+      "english": "fragile",
+      "example": "상자에 \"깨지기 쉬움\" 표시가 되어 있으므로 조심스럽게 다루세요.",
+      "example_en": "The box is marked 'fragile,' so handle it carefully."
+    },
+    {
+      "korean": "배송증명",
+      "english": "delivery confirmation",
+      "example": "배송증명을 받으려면 서명을 해주셔야 합니다.",
+      "example_en": "You must sign to receive delivery confirmation."
+    },
+    {
+      "korean": "사서함",
+      "english": "PO box / post office box",
+      "example": "정기적으로 소포를 받으므로 사서함을 임대하기로 했습니다.",
+      "example_en": "Since I receive packages regularly, I decided to rent a PO box."
+    },
+    {
+      "korean": "최후배송",
+      "english": "last-mile delivery",
+      "example": "최후배송 비용이 전체 물류 비용의 절반을 차지합니다.",
+      "example_en": "Last-mile delivery costs account for half of the total logistics costs."
+    },
+    {
+      "korean": "인증우편",
+      "english": "certified mail",
+      "example": "법적 효력이 있으려면 반드시 인증우편으로 보내야 합니다.",
+      "example_en": "It must be sent as certified mail to have legal validity."
+    },
+    {
+      "korean": "일반배송",
+      "english": "standard shipping",
+      "example": "일반배송은 보통 1주일 정도 소요됩니다.",
+      "example_en": "Standard shipping typically takes about a week."
+    },
+    {
+      "korean": "빠른배송",
+      "english": "fast delivery",
+      "example": "빠른배송 옵션을 선택하면 추가 요금이 부과됩니다.",
+      "example_en": "An additional fee is charged if you select the fast delivery option."
+    },
+    {
+      "korean": "수령확인",
+      "english": "receipt confirmation",
+      "example": "수령확인을 위해 서명 또는 핸드폰 인증이 필요합니다.",
+      "example_en": "Signature or mobile phone verification is required for receipt confirmation."
+    },
+    {
+      "korean": "배송상태",
+      "english": "delivery status",
+      "example": "앱에서 실시간으로 배송상태를 추적할 수 있습니다.",
+      "example_en": "You can track the delivery status in real-time on the app."
+    },
+    {
+      "korean": "배송주소",
+      "english": "delivery address",
+      "example": "배송주소를 잘못 입력하면 반송될 수 있습니다.",
+      "example_en": "If you enter the delivery address incorrectly, it may be returned."
+    },
+    {
+      "korean": "배송예정일",
+      "english": "estimated delivery date",
+      "example": "현재 배송예정일은 3월 20일입니다.",
+      "example_en": "The current estimated delivery date is March 20th."
+    },
+    {
+      "korean": "배송지연",
+      "english": "delivery delay",
+      "example": "악천후로 인한 배송지연이 발생했습니다.",
+      "example_en": "A delivery delay has occurred due to bad weather."
+    },
+    {
+      "korean": "배송보험",
+      "english": "shipping insurance",
+      "example": "고가 물품은 배송보험에 가입하는 것이 안전합니다.",
+      "example_en": "It's safer to get shipping insurance for expensive items."
+    },
+    {
+      "korean": "택배사",
+      "english": "courier company",
+      "example": "이 택배사는 빠른 배송 속도로 유명합니다.",
+      "example_en": "This courier company is known for fast delivery speeds."
+    },
+    {
+      "korean": "에어메일",
+      "english": "airmail",
+      "example": "급할 때는 에어메일로 보내면 일주일 안에 도착합니다.",
+      "example_en": "When urgent, sending by airmail ensures arrival within a week."
+    },
+    {
+      "korean": "선박배송",
+      "english": "sea shipping / ocean freight",
+      "example": "대량의 화물은 비용 절감을 위해 선박배송을 이용합니다.",
+      "example_en": "Large quantities of cargo use sea shipping to save costs."
+    },
+    {
+      "korean": "부피",
+      "english": "volume / size",
+      "example": "배송료는 무게뿐 아니라 상품의 부피도 고려합니다.",
+      "example_en": "Shipping fees consider both weight and the size of the item."
+    },
+    {
+      "korean": "내용물",
+      "english": "contents / contents declaration",
+      "example": "세관 신고를 위해 내용물을 정확하게 기입해야 합니다.",
+      "example_en": "You must accurately declare the contents for customs reporting."
+    },
+    {
+      "korean": "추적",
+      "english": "tracking",
+      "example": "실시간 추적 기능으로 소포의 정확한 위치를 알 수 있습니다.",
+      "example_en": "The real-time tracking feature lets you know the exact location of the package."
+    },
+    {
+      "korean": "서명",
+      "english": "signature",
+      "example": "고가 물품은 수령 시 서명이 필수입니다.",
+      "example_en": "Signature is required upon receipt of valuable items."
+    },
+    {
+      "korean": "반송",
+      "english": "return / send back",
+      "example": "주소 오류로 인해 소포가 반송되었습니다.",
+      "example_en": "The package was returned due to an address error."
+    }
+  ],
+  "주제별 단어 — 통계 (Topic: Statistics & Data Analysis)": [
+    {
+      "korean": "모집단",
+      "english": "population",
+      "example": "전체 모집단의 특성을 파악하기 위해서는 대표성 있는 표본이 필요하다.",
+      "example_en": "To understand the characteristics of the entire population, a representative sample is necessary."
+    },
+    {
+      "korean": "상관계수",
+      "english": "correlation coefficient",
+      "example": "두 변수 간의 상관계수가 0.85로 매우 높게 나타났다.",
+      "example_en": "The correlation coefficient between the two variables was very high at 0.85."
+    },
+    {
+      "korean": "회귀분석",
+      "english": "regression analysis",
+      "example": "회귀분석을 통해 소비량에 영향을 미치는 주요 요인들을 확인했다.",
+      "example_en": "Through regression analysis, we identified key factors affecting consumption."
+    },
+    {
+      "korean": "가설 검정",
+      "english": "hypothesis testing",
+      "example": "가설 검정 결과, 두 집단 간에 통계적으로 유의미한 차이가 있었다.",
+      "example_en": "The hypothesis test showed a statistically significant difference between the two groups."
+    },
+    {
+      "korean": "유의성",
+      "english": "significance",
+      "example": "결과의 유의성을 판단하기 위해 p값을 0.05 수준에서 확인했다.",
+      "example_en": "We checked the p-value at the 0.05 level to determine the significance of the results."
+    },
+    {
+      "korean": "p값",
+      "english": "p-value",
+      "example": "p값이 0.03으로 나와 귀무가설을 기각할 수 있다.",
+      "example_en": "With a p-value of 0.03, we can reject the null hypothesis."
+    },
+    {
+      "korean": "신뢰도 구간",
+      "english": "confidence interval",
+      "example": "95% 신뢰도 구간에서 평균은 50에서 60 사이로 추정된다.",
+      "example_en": "At a 95% confidence interval, the mean is estimated to be between 50 and 60."
+    },
+    {
+      "korean": "중앙값",
+      "english": "median",
+      "example": "극단값의 영향을 받지 않으려면 평균보다는 중앙값을 사용하는 것이 좋다.",
+      "example_en": "To avoid the influence of extreme values, it's better to use the median rather than the mean."
+    },
+    {
+      "korean": "최빈값",
+      "english": "mode",
+      "example": "판매 데이터에서 최빈값은 가장 많이 팔린 상품의 가격이다.",
+      "example_en": "In the sales data, the mode is the price of the most frequently sold product."
+    },
+    {
+      "korean": "정규분포",
+      "english": "normal distribution",
+      "example": "대부분의 자연현상은 정규분포를 따르는 경향이 있다.",
+      "example_en": "Most natural phenomena tend to follow a normal distribution."
+    },
+    {
+      "korean": "왜도",
+      "english": "skewness",
+      "example": "이 데이터의 왜도가 양수인 것은 오른쪽으로 치우쳐 있다는 뜻이다.",
+      "example_en": "The positive skewness of this data means it's skewed to the right."
+    },
+    {
+      "korean": "첨도",
+      "english": "kurtosis",
+      "example": "높은 첨도는 데이터의 꼬리 부분에 극단값이 많이 있다는 것을 나타낸다.",
+      "example_en": "High kurtosis indicates that there are many extreme values in the tails of the data."
+    },
+    {
+      "korean": "이상치",
+      "english": "outlier",
+      "example": "분석 전에 이상치를 제거하거나 따로 처리해야 한다.",
+      "example_en": "Outliers should be removed or treated separately before analysis."
+    },
+    {
+      "korean": "표본오차",
+      "english": "sampling error",
+      "example": "표본오차를 줄이려면 표본의 크기를 늘려야 한다.",
+      "example_en": "To reduce sampling error, the sample size must be increased."
+    },
+    {
+      "korean": "모수",
+      "english": "parameter",
+      "example": "모집단의 모수를 정확하게 추정하는 것이 통계학의 주요 목표다.",
+      "example_en": "Accurately estimating the parameters of the population is a major goal of statistics."
+    },
+    {
+      "korean": "추정량",
+      "english": "estimator",
+      "example": "표본 평균은 모집단 평균의 좋은 추정량이다.",
+      "example_en": "The sample mean is a good estimator of the population mean."
+    },
+    {
+      "korean": "조사",
+      "english": "survey",
+      "example": "소비자 만족도 조사에 따르면 제품 평가가 매우 긍정적이다.",
+      "example_en": "According to the consumer satisfaction survey, product ratings are very positive."
+    },
+    {
+      "korean": "인구조사",
+      "english": "census",
+      "example": "2020년 인구조사 결과, 전국의 인구가 감소 추세를 보였다.",
+      "example_en": "The 2020 census showed a declining trend in the national population."
+    },
+    {
+      "korean": "데이터 시각화",
+      "english": "data visualization",
+      "example": "데이터 시각화를 통해 복잡한 패턴을 쉽게 파악할 수 있다.",
+      "example_en": "Data visualization allows us to easily identify complex patterns."
+    },
+    {
+      "korean": "히스토그램",
+      "english": "histogram",
+      "example": "히스토그램은 연속 데이터의 분포를 보여주는 막대 그래프다.",
+      "example_en": "A histogram is a bar graph that shows the distribution of continuous data."
+    },
+    {
+      "korean": "산점도",
+      "english": "scatter plot",
+      "example": "두 변수의 관계를 파악하기 위해 산점도를 그렸다.",
+      "example_en": "We created a scatter plot to understand the relationship between two variables."
+    },
+    {
+      "korean": "상자 그림",
+      "english": "box plot",
+      "example": "상자 그림을 보면 데이터의 사분위수와 이상치를 한눈에 볼 수 있다.",
+      "example_en": "The box plot shows quartiles and outliers at a glance."
+    },
+    {
+      "korean": "귀무가설",
+      "english": "null hypothesis",
+      "example": "귀무가설은 두 집단 간에 차이가 없다는 가정이다.",
+      "example_en": "The null hypothesis assumes there is no difference between the two groups."
+    },
+    {
+      "korean": "대립가설",
+      "english": "alternative hypothesis",
+      "example": "대립가설이 참이면 귀무가설을 기각해야 한다.",
+      "example_en": "If the alternative hypothesis is true, we must reject the null hypothesis."
+    },
+    {
+      "korean": "유의 수준",
+      "english": "significance level",
+      "example": "유의 수준을 0.05로 설정하여 가설 검정을 수행했다.",
+      "example_en": "The hypothesis test was conducted with a significance level of 0.05."
+    },
+    {
+      "korean": "검정력",
+      "english": "statistical power",
+      "example": "표본 크기가 클수록 검정력이 높아진다.",
+      "example_en": "The larger the sample size, the higher the statistical power."
+    },
+    {
+      "korean": "신뢰수준",
+      "english": "confidence level",
+      "example": "신뢰수준이 높을수록 신뢰도 구간의 폭이 넓어진다.",
+      "example_en": "The higher the confidence level, the wider the confidence interval."
+    },
+    {
+      "korean": "분포",
+      "english": "distribution",
+      "example": "이항분포, 포아송분포 등 다양한 확률분포가 있다.",
+      "example_en": "There are various probability distributions such as binomial distribution and Poisson distribution."
+    },
+    {
+      "korean": "조건부 확률",
+      "english": "conditional probability",
+      "example": "조건부 확률은 특정 조건이 주어졌을 때 사건이 일어날 확률이다.",
+      "example_en": "Conditional probability is the probability of an event given a specific condition."
+    },
+    {
+      "korean": "기댓값",
+      "english": "expected value",
+      "example": "이 게임의 기댓값이 음수라는 것은 장기적으로 손해를 본다는 의미다.",
+      "example_en": "A negative expected value for this game means long-term losses."
+    },
+    {
+      "korean": "사분위수",
+      "english": "quartile",
+      "example": "데이터를 4등분하는 지점을 사분위수라고 한다.",
+      "example_en": "The points that divide data into four equal parts are called quartiles."
+    },
+    {
+      "korean": "백분위수",
+      "english": "percentile",
+      "example": "그 학생의 시험 점수는 90 백분위수에 속한다.",
+      "example_en": "The student's test score is at the 90th percentile."
+    },
+    {
+      "korean": "교차검증",
+      "english": "cross-validation",
+      "example": "머신러닝 모델의 성능을 평가하기 위해 k-겹 교차검증을 사용했다.",
+      "example_en": "We used k-fold cross-validation to evaluate the machine learning model's performance."
+    },
+    {
+      "korean": "코호트 분석",
+      "english": "cohort analysis",
+      "example": "코호트 분석을 통해 연령대별 사용자 행동 패턴을 파악했다.",
+      "example_en": "Through cohort analysis, we identified user behavior patterns by age group."
+    },
+    {
+      "korean": "시계열 분석",
+      "english": "time series analysis",
+      "example": "경제 지표의 시계열 분석으로 미래 추세를 예측할 수 있다.",
+      "example_en": "Time series analysis of economic indicators can predict future trends."
+    }
+  ],
+  "주제별 단어 — 수의학 (Topic: Veterinary Medicine)": [
+    {
+      "korean": "중성화",
+      "english": "neutering/spaying",
+      "example": "중성화 수술은 반려동물의 건강과 복지를 위해 중요하다.",
+      "example_en": "Neutering is important for the health and welfare of pets."
+    },
+    {
+      "korean": "켄넬 기침",
+      "english": "kennel cough",
+      "example": "켄넬 기침은 강아지들이 함께 있는 환경에서 쉽게 전파된다.",
+      "example_en": "Kennel cough easily spreads in environments where dogs are together."
+    },
+    {
+      "korean": "개 디스템퍼",
+      "english": "canine distemper",
+      "example": "개 디스템퍼는 생명을 위협하는 바이러스 감염이다.",
+      "example_en": "Canine distemper is a life-threatening viral infection."
+    },
+    {
+      "korean": "광견병",
+      "english": "rabies",
+      "example": "광견병은 매우 위험하므로 정기적인 예방접종이 필수다.",
+      "example_en": "Rabies is very dangerous, so regular vaccination is essential."
+    },
+    {
+      "korean": "고양이 백혈병",
+      "english": "feline leukemia",
+      "example": "고양이 백혈병은 주로 감염된 고양이의 체액을 통해 전파된다.",
+      "example_en": "Feline leukemia is mainly transmitted through bodily fluids of infected cats."
+    },
+    {
+      "korean": "엑스레이",
+      "english": "X-ray",
+      "example": "수의사는 골절 여부를 확인하기 위해 엑스레이를 촬영했다.",
+      "example_en": "The veterinarian took an X-ray to check for fractures."
+    },
+    {
+      "korean": "혈액 검사",
+      "english": "blood test",
+      "example": "정기적인 혈액 검사는 질병을 조기에 발견하는 데 도움이 된다.",
+      "example_en": "Regular blood tests help detect diseases early."
+    },
+    {
+      "korean": "격리",
+      "english": "quarantine",
+      "example": "새로운 반려동물을 들이기 전에 2주간 격리하는 것이 좋다.",
+      "example_en": "It's good to quarantine a new pet for 2 weeks before introducing it."
+    },
+    {
+      "korean": "안락사",
+      "english": "euthanasia",
+      "example": "말기 질환을 앓는 반려동물의 경우 수의사와 안락사에 대해 상담한다.",
+      "example_en": "For pets suffering from terminal illness, owners consult with the veterinarian about euthanasia."
+    },
+    {
+      "korean": "마이크로칩",
+      "english": "microchip",
+      "example": "마이크로칩 삽입은 반려동물을 잃어버렸을 때 찾는 데 도움이 된다.",
+      "example_en": "Microchip implantation helps locate lost pets."
+    },
+    {
+      "korean": "청진기",
+      "english": "stethoscope",
+      "example": "수의사는 청진기로 개의 심장 음을 들었다.",
+      "example_en": "The veterinarian listened to the dog's heart sounds with a stethoscope."
+    },
+    {
+      "korean": "재활 치료",
+      "english": "rehabilitation therapy",
+      "example": "수술 후 재활 치료는 회복 속도를 높인다.",
+      "example_en": "Rehabilitation therapy after surgery speeds up recovery."
+    },
+    {
+      "korean": "호스피스 케어",
+      "english": "hospice care",
+      "example": "생명이 남아있는 동안 호스피스 케어로 통증을 완화할 수 있다.",
+      "example_en": "Hospice care can alleviate pain while the animal's life remains."
+    },
+    {
+      "korean": "동물 복지",
+      "english": "animal welfare",
+      "example": "동물 복지는 수의사의 중요한 책임 중 하나다.",
+      "example_en": "Animal welfare is one of the veterinarian's important responsibilities."
+    },
+    {
+      "korean": "예방약",
+      "english": "preventive medication",
+      "example": "월별 예방약으로 기생충과 벼룩을 방지할 수 있다.",
+      "example_en": "Monthly preventive medication can prevent parasites and fleas."
+    },
+    {
+      "korean": "항염증제",
+      "english": "anti-inflammatory",
+      "example": "관절염으로 인한 통증을 줄이기 위해 항염증제를 투여한다.",
+      "example_en": "Anti-inflammatory medication is administered to reduce pain from arthritis."
+    },
+    {
+      "korean": "진정제",
+      "english": "sedative",
+      "example": "불안한 반려동물을 안정시키기 위해 진정제를 사용할 수 있다.",
+      "example_en": "Sedatives can be used to calm anxious pets."
+    },
+    {
+      "korean": "화학 치료",
+      "english": "chemotherapy",
+      "example": "종양 제거 후 화학 치료를 진행하기도 한다.",
+      "example_en": "Chemotherapy may be performed after tumor removal."
+    },
+    {
+      "korean": "임상 검사",
+      "english": "clinical examination",
+      "example": "정기적인 임상 검사는 건강 문제를 조기에 발견한다.",
+      "example_en": "Regular clinical examinations detect health problems early."
+    },
+    {
+      "korean": "전문의",
+      "english": "specialist",
+      "example": "복잡한 수술의 경우 동물 전문의의 진료를 받는 것이 좋다.",
+      "example_en": "For complex surgeries, it's good to consult with an animal specialist."
+    },
+    {
+      "korean": "신경학적 검사",
+      "english": "neurological examination",
+      "example": "신경 손상이 의심될 때 신경학적 검사를 수행한다.",
+      "example_en": "A neurological examination is performed when nerve damage is suspected."
+    },
+    {
+      "korean": "피부 질환",
+      "english": "dermatological condition",
+      "example": "지속적인 가려움증은 피부 질환의 신호일 수 있다.",
+      "example_en": "Persistent itching can be a sign of a dermatological condition."
+    },
+    {
+      "korean": "안과 검사",
+      "english": "ophthalmologic examination",
+      "example": "안과 검사로 각막 궤양이 발견되었다.",
+      "example_en": "An ophthalmologic examination revealed a corneal ulcer."
+    },
+    {
+      "korean": "치과 청소",
+      "english": "dental cleaning",
+      "example": "나이 든 강아지는 정기적인 치과 청소가 필요하다.",
+      "example_en": "Older dogs need regular dental cleaning."
+    },
+    {
+      "korean": "알레르기 검사",
+      "english": "allergy testing",
+      "example": "반복되는 피부 문제는 알레르기 검사로 원인을 파악할 수 있다.",
+      "example_en": "Recurring skin problems can be diagnosed through allergy testing."
+    },
+    {
+      "korean": "식이 관리",
+      "english": "dietary management",
+      "example": "특정 질환이 있는 반려동물은 식이 관리가 중요하다.",
+      "example_en": "Dietary management is important for pets with certain conditions."
+    },
+    {
+      "korean": "재발 방지",
+      "english": "recurrence prevention",
+      "example": "질병의 재발 방지를 위해 정기적인 검진이 필수다.",
+      "example_en": "Regular check-ups are essential for recurrence prevention."
+    },
+    {
+      "korean": "임상 증상",
+      "english": "clinical symptom",
+      "example": "임상 증상이 나타나기 전에 질병을 발견하는 것이 이상적이다.",
+      "example_en": "Detecting disease before clinical symptoms appear is ideal."
+    }
+  ],
+  "주제별 단어 — 소셜미디어 (Topic: Social Media & Internet)": [
+    {
+      "korean": "수익화",
+      "english": "monetization; to monetize content",
+      "example": "유튜브 채널을 충분히 성장시켜야 수익화를 시작할 수 있어.",
+      "example_en": "You need to grow your YouTube channel enough before you can start monetization."
+    },
+    {
+      "korean": "노출도",
+      "english": "reach; visibility; impressions",
+      "example": "인스타그램 게시물의 노출도를 높이려면 해시태그를 잘 써야 한다.",
+      "example_en": "To increase the reach of your Instagram posts, you need to use hashtags effectively."
+    },
+    {
+      "korean": "참여도",
+      "english": "engagement rate; user engagement",
+      "example": "좋아요와 댓글이 많을수록 참여도가 높은 콘텐츠로 간주된다.",
+      "example_en": "Content with more likes and comments is considered to have higher engagement."
+    },
+    {
+      "korean": "클릭베이트",
+      "english": "clickbait; sensational headline",
+      "example": "그 뉴스 기사는 명백한 클릭베이트야. 제목이 과장되어 있어.",
+      "example_en": "That news article is obvious clickbait. The headline is exaggerated."
+    },
+    {
+      "korean": "트롤링",
+      "english": "trolling; online provocation",
+      "example": "소셜 미디어에서 트롤링을 하는 사람들은 처벌받아야 한다.",
+      "example_en": "People who engage in trolling on social media should face consequences."
+    },
+    {
+      "korean": "사이버폭력",
+      "english": "cyberbullying; online harassment",
+      "example": "청소년들이 사이버폭력으로 인한 심각한 피해를 입고 있다.",
+      "example_en": "Teenagers are suffering serious damage from cyberbullying."
+    },
+    {
+      "korean": "디지털 발자국",
+      "english": "digital footprint",
+      "example": "당신이 온라인에서 남긴 디지털 발자국은 영원히 남을 수 있다.",
+      "example_en": "Your digital footprint left online can remain forever."
+    },
+    {
+      "korean": "개인정보 설정",
+      "english": "privacy settings",
+      "example": "새로운 소셜 미디어 계정을 만들면 항상 개인정보 설정을 확인해야 한다.",
+      "example_en": "When you create a new social media account, you should always check the privacy settings."
+    },
+    {
+      "korean": "취소 문화",
+      "english": "cancel culture; call-out culture",
+      "example": "유명인이 실언을 하면 취소 문화에 의해 큰 타격을 입을 수 있다.",
+      "example_en": "If a celebrity makes an offensive remark, they can suffer greatly from cancel culture."
+    },
+    {
+      "korean": "필터 버블",
+      "english": "filter bubble; algorithmic echo chamber",
+      "example": "알고리즘의 필터 버블 때문에 사람들은 자신과 비슷한 의견만 보게 된다.",
+      "example_en": "Because of the filter bubble from algorithms, people only see opinions similar to their own."
+    },
+    {
+      "korean": "에코 챔버",
+      "english": "echo chamber; filter bubble",
+      "example": "소셜 미디어의 에코 챔버는 극단주의를 심화시킬 수 있다.",
+      "example_en": "The echo chamber of social media can deepen extremism."
+    },
+    {
+      "korean": "가짜뉴스",
+      "english": "fake news; misinformation",
+      "example": "우리는 온라인에서 가짜뉴스를 구분하는 능력을 길러야 한다.",
+      "example_en": "We need to develop the ability to distinguish fake news online."
+    },
+    {
+      "korean": "팩트체킹",
+      "english": "fact-checking; verification",
+      "example": "신뢰할 수 있는 뉴스를 읽기 위해서는 팩트체킹이 필수적이다.",
+      "example_en": "Fact-checking is essential for reading trustworthy news."
+    },
+    {
+      "korean": "정보유출",
+      "english": "data breach; information leak",
+      "example": "그 회사의 정보유출 사건으로 인해 수백만 명의 개인정보가 노출되었다.",
+      "example_en": "Due to the data breach at that company, millions of people's personal information was exposed."
+    },
+    {
+      "korean": "이용약관",
+      "english": "terms of service; terms of use",
+      "example": "대부분의 사용자는 이용약관을 읽지 않고 동의 버튼을 클릭한다.",
+      "example_en": "Most users click the agree button without reading the terms of service."
+    },
+    {
+      "korean": "커뮤니티 가이드라인",
+      "english": "community guidelines; community standards",
+      "example": "페이스북의 커뮤니티 가이드라인을 위반하면 계정이 정지될 수 있다.",
+      "example_en": "If you violate Facebook's community guidelines, your account can be suspended."
+    },
+    {
+      "korean": "바이럴 콘텐츠",
+      "english": "viral content",
+      "example": "그 짧은 동영상은 바이럴 콘텐츠가 되어 며칠 만에 천만 뷰를 넘었다.",
+      "example_en": "That short video became viral content and exceeded ten million views in just a few days."
+    },
+    {
+      "korean": "딥페이크",
+      "english": "deepfake; AI-generated fake video",
+      "example": "딥페이크 기술은 정치 선거에 악영향을 미칠 수 있다는 우려가 있다.",
+      "example_en": "There are concerns that deepfake technology could negatively impact political elections."
+    },
+    {
+      "korean": "봇",
+      "english": "bot; automated account",
+      "example": "그 계정은 봇일 가능성이 높아. 게시물을 올리지 않는데 자꾸 팔로우를 하거든.",
+      "example_en": "That account is likely a bot. It keeps following me without posting anything."
+    },
+    {
+      "korean": "신상털기",
+      "english": "doxxing; revealing someone's personal information",
+      "example": "신상털기는 심각한 범죄이며 사이버폭력의 한 형태다.",
+      "example_en": "Doxxing is a serious crime and a form of cyberstalking."
+    },
+    {
+      "korean": "댓글 수사",
+      "english": "comment investigation; scrolling through past comments",
+      "example": "유명인이 논란에 휘말리면 사람들이 과거 댓글 수사를 시작한다.",
+      "example_en": "When a celebrity gets caught in controversy, people start investigating their past comments."
+    },
+    {
+      "korean": "좋아요 폭탄",
+      "english": "like bombing; mass liking campaign",
+      "example": "팬들이 그 가수의 새 앨범에 좋아요 폭탄을 퍼부었다.",
+      "example_en": "Fans bombarded the singer's new album with likes."
+    },
+    {
+      "korean": "팬 활동",
+      "english": "fan activity; fandom engagement",
+      "example": "한국 아이돌의 팬 활동은 세계적으로 가장 활발한 것으로 알려져 있다.",
+      "example_en": "Korean idol fan activities are known to be the most active in the world."
+    },
+    {
+      "korean": "해시태그",
+      "english": "hashtag",
+      "example": "인스타그램에 사진을 올릴 때 관련된 해시태그를 여러 개 사용하는 것이 좋다.",
+      "example_en": "When posting photos on Instagram, it's good to use multiple relevant hashtags."
+    },
+    {
+      "korean": "트렌드",
+      "english": "trending; trend",
+      "example": "트위터의 트렌드 섹션을 보면 지금 세계에서 무슨 일이 일어나고 있는지 알 수 있다.",
+      "example_en": "By looking at Twitter's trending section, you can see what's happening in the world right now."
+    },
+    {
+      "korean": "팔로우 백",
+      "english": "follow back",
+      "example": "그 사람이 나를 팔로우했으니 나도 팔로우 백을 해야지.",
+      "example_en": "Since that person followed me, I should follow them back."
+    },
+    {
+      "korean": "팔로워 확대",
+      "english": "follower growth",
+      "example": "콘텐츠 크리에이터들은 지속적인 팔로워 확대를 위해 노력한다.",
+      "example_en": "Content creators work hard for continuous follower growth."
+    },
+    {
+      "korean": "인생샷",
+      "english": "picture of a lifetime; aesthetically perfect shot",
+      "example": "그 유명한 카페는 인생샷을 찍을 수 있어서 항상 붐빈다.",
+      "example_en": "That famous café is always crowded because you can take amazing photos there."
+    },
+    {
+      "korean": "인증샷",
+      "english": "authentication shot; selfie proof of attendance",
+      "example": "콘서트에 다녀왔다는 인증샷을 SNS에 올렸어.",
+      "example_en": "I posted a proof photo of attending the concert on SNS."
+    },
+    {
+      "korean": "스팸",
+      "english": "spam; unwanted messages",
+      "example": "이 계정의 댓글은 스팸으로만 가득 찼다.",
+      "example_en": "This account's comments are filled with nothing but spam."
+    },
+    {
+      "korean": "차단",
+      "english": "block; to block a user",
+      "example": "계속 괴롭히면 나는 너를 차단하겠어.",
+      "example_en": "If you keep harassing me, I'll block you."
+    },
+    {
+      "korean": "뮤트",
+      "english": "mute; to silence notifications",
+      "example": "그 계정을 팔로우는 하되 뮤트해서 게시물이 안 보이게 했어.",
+      "example_en": "I followed the account but muted it so I don't see their posts."
+    },
+    {
+      "korean": "프라이빗 계정",
+      "english": "private account",
+      "example": "그녀는 프라이빗 계정을 운영해서 승인 받은 사람만 자신의 게시물을 볼 수 있다.",
+      "example_en": "She runs a private account so only approved people can see her posts."
+    },
+    {
+      "korean": "인스타그래머블",
+      "english": "instagrammable; photo-worthy",
+      "example": "그 식당은 매우 인스타그래머블해서 젊은 사람들 사이에서 인기다.",
+      "example_en": "That restaurant is very instagrammable and popular among young people."
+    },
+    {
+      "korean": "휴면 계정",
+      "english": "inactive account; dormant account",
+      "example": "오랫동안 로그인하지 않은 휴면 계정은 삭제될 수 있다.",
+      "example_en": "Inactive accounts that haven't been logged into for a long time can be deleted."
+    },
+    {
+      "korean": "게시글 삭제",
+      "english": "post deletion; removing a post",
+      "example": "실언을 했다면 빨리 게시글 삭제를 하는 것이 나을 수도 있다.",
+      "example_en": "If you made an offensive post, it might be better to delete it quickly."
+    }
+  ],
+  "주제별 단어 — 정신건강 (Topic: Mental Health)": [
+    {
+      "korean": "회복력",
+      "english": "resilience",
+      "example": "어려운 상황에서도 긍정적인 태도를 유지하는 것이 회복력의 핵심이다.",
+      "example_en": "Maintaining a positive attitude even in difficult situations is key to resilience."
+    },
+    {
+      "korean": "대처 방법",
+      "english": "coping mechanism",
+      "example": "스트레스를 효과적으로 관리하기 위해 건강한 대처 방법을 배우는 것이 중요하다.",
+      "example_en": "It's important to learn healthy coping mechanisms to manage stress effectively."
+    },
+    {
+      "korean": "자기 관리",
+      "english": "self-care",
+      "example": "정신 건강을 위해서는 규칙적인 운동과 충분한 수면 같은 자기 관리가 필수다.",
+      "example_en": "Self-care like regular exercise and adequate sleep is essential for mental health."
+    },
+    {
+      "korean": "마음챙김",
+      "english": "mindfulness",
+      "example": "마음챙김 명상은 불안과 스트레스를 줄이는 데 효과적이다.",
+      "example_en": "Mindfulness meditation is effective at reducing anxiety and stress."
+    },
+    {
+      "korean": "외상 후 스트레스 장애",
+      "english": "PTSD",
+      "example": "전쟁 참전자들은 외상 후 스트레스 장애로 고통받기도 한다.",
+      "example_en": "War veterans sometimes suffer from PTSD."
+    },
+    {
+      "korean": "공황 발작",
+      "english": "panic attack",
+      "example": "공황 발작 중에는 심장이 빠르게 뛰고 호흡이 어려워진다.",
+      "example_en": "During a panic attack, the heart races and breathing becomes difficult."
+    },
+    {
+      "korean": "사회 불안",
+      "english": "social anxiety",
+      "example": "사회 불안이 심한 사람들은 대중 앞에서 발표하기를 두려워한다.",
+      "example_en": "People with severe social anxiety fear speaking in front of crowds."
+    },
+    {
+      "korean": "강박 장애",
+      "english": "OCD (obsessive-compulsive disorder)",
+      "example": "강박 장애가 있는 사람들은 반복적인 행동을 통제하기 어려워한다.",
+      "example_en": "People with OCD have difficulty controlling repetitive behaviors."
+    },
+    {
+      "korean": "양극성 장애",
+      "english": "bipolar disorder",
+      "example": "양극성 장애는 극단적인 기분 변화가 특징이다.",
+      "example_en": "Bipolar disorder is characterized by extreme mood swings."
+    },
+    {
+      "korean": "정신분열증",
+      "english": "schizophrenia",
+      "example": "정신분열증은 현실 감각을 잃게 하는 심각한 정신 질환이다.",
+      "example_en": "Schizophrenia is a serious mental illness that causes loss of touch with reality."
+    },
+    {
+      "korean": "섭식 장애",
+      "english": "eating disorder",
+      "example": "섭식 장애는 신체 이미지에 대한 왜곡된 생각에서 비롯되는 경우가 많다.",
+      "example_en": "Eating disorders often stem from distorted body image thoughts."
+    },
+    {
+      "korean": "애도 상담",
+      "english": "grief counseling",
+      "example": "애도 상담은 사랑하는 사람을 잃은 사람들이 슬픔을 처리하는 것을 돕는다.",
+      "example_en": "Grief counseling helps people who have lost loved ones process their sadness."
+    },
+    {
+      "korean": "지지 집단",
+      "english": "support group",
+      "example": "지지 집단에서 비슷한 경험을 한 사람들과 만나는 것이 치유에 도움이 된다.",
+      "example_en": "Meeting others with similar experiences in a support group aids healing."
+    },
+    {
+      "korean": "낙인",
+      "english": "stigma",
+      "example": "정신 질환에 대한 사회적 낙인은 환자들이 도움을 구하는 것을 방해한다.",
+      "example_en": "Social stigma about mental illness prevents patients from seeking help."
+    },
+    {
+      "korean": "약물 치료",
+      "english": "medication / drug therapy",
+      "example": "약물 치료는 정신 질환의 증상을 관리하는 데 중요한 역할을 한다.",
+      "example_en": "Medication plays an important role in managing mental illness symptoms."
+    },
+    {
+      "korean": "재발",
+      "english": "relapse",
+      "example": "중독에서 회복 중인 사람들은 재발의 위험을 항상 고려해야 한다.",
+      "example_en": "People recovering from addiction must always be aware of the risk of relapse."
+    },
+    {
+      "korean": "회복",
+      "english": "recovery",
+      "example": "정신 건강의 회복은 시간이 걸리지만 불가능하지는 않다.",
+      "example_en": "Recovery from mental health issues takes time but is not impossible."
+    },
+    {
+      "korean": "웰니스",
+      "english": "wellness",
+      "example": "종합적인 웰니스는 신체, 정서, 정신 건강을 모두 포함한다.",
+      "example_en": "Comprehensive wellness includes physical, emotional, and mental health."
+    },
+    {
+      "korean": "정서 조절",
+      "english": "emotional regulation",
+      "example": "어린이들은 정서 조절 능력을 배우는 데 성인의 도움이 필요하다.",
+      "example_en": "Children need adult help to learn emotional regulation skills."
+    },
+    {
+      "korean": "스트레스 관리",
+      "english": "stress management",
+      "example": "효과적인 스트레스 관리는 신체와 정신 건강을 보호한다.",
+      "example_en": "Effective stress management protects both physical and mental health."
+    },
+    {
+      "korean": "중독",
+      "english": "addiction",
+      "example": "알코올 중독은 개인뿐만 아니라 가족 전체에 영향을 미친다.",
+      "example_en": "Alcohol addiction affects not just the individual but the entire family."
+    },
+    {
+      "korean": "수면제",
+      "english": "sleeping pill / sedative",
+      "example": "심한 불면증이 있을 때 의사의 처방으로 수면제를 복용할 수 있다.",
+      "example_en": "Sleeping pills can be taken by prescription when experiencing severe insomnia."
+    },
+    {
+      "korean": "정신과 의사",
+      "english": "psychiatrist",
+      "example": "정신과 의사는 약물 치료와 정신 질환 진단을 담당한다.",
+      "example_en": "Psychiatrists handle medication and diagnosis of mental illness."
+    },
+    {
+      "korean": "심리 치료사",
+      "english": "therapist / psychologist",
+      "example": "심리 치료사는 대화를 통해 환자의 심리적 문제를 해결하도록 돕는다.",
+      "example_en": "A therapist helps patients resolve psychological issues through conversation."
+    },
+    {
+      "korean": "인지 왜곡",
+      "english": "cognitive distortion",
+      "example": "부정적인 생각의 패턴인 인지 왜곡은 CBT를 통해 수정할 수 있다.",
+      "example_en": "Cognitive distortions, patterns of negative thinking, can be corrected through CBT."
     }
   ]
 }
