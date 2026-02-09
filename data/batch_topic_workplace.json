@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 직장 (Topic: Workplace)": [
+    {
+      "korean": "출퇴근",
+      "english": "commuting (to and from work)",
+      "example": "출퇴근 시간이 왕복 두 시간이라 체력 소모가 크다.",
+      "example_en": "My commute is two hours round-trip, so it drains a lot of energy."
+    },
+    {
+      "korean": "업무 분장",
+      "english": "division of duties; task allocation",
+      "example": "팀장이 신규 프로젝트의 업무 분장을 정리해서 공유했다.",
+      "example_en": "The team leader organized and shared the task allocation for the new project."
+    },
+    {
+      "korean": "결재를 올리다",
+      "english": "to submit for approval",
+      "example": "지출 보고서를 작성해서 부장님께 결재를 올렸다.",
+      "example_en": "I wrote the expense report and submitted it to the department head for approval."
+    },
+    {
+      "korean": "품의서",
+      "english": "approval request form; expenditure request",
+      "example": "비품 구매 전에 품의서부터 작성해야 합니다.",
+      "example_en": "You need to fill out an approval request form before purchasing supplies."
+    },
+    {
+      "korean": "야근하다",
+      "english": "to work overtime; to work late",
+      "example": "프로젝트 마감이 다가와서 이번 주 내내 야근했다.",
+      "example_en": "The project deadline is approaching, so I worked late all week."
+    },
+    {
+      "korean": "회의록",
+      "english": "meeting minutes; meeting notes",
+      "example": "회의록을 정리해서 참석자 전원에게 메일로 보내 주세요.",
+      "example_en": "Please organize the meeting minutes and email them to all attendees."
+    },
+    {
+      "korean": "전결",
+      "english": "delegated approval (approving on behalf of a superior)",
+      "example": "팀장 부재 시에는 과장이 전결할 수 있다.",
+      "example_en": "When the team leader is absent, the section chief can give delegated approval."
+    },
+    {
+      "korean": "상신하다",
+      "english": "to report upward; to submit to a superior",
+      "example": "인사이동 관련 의견을 본부장에게 상신했다.",
+      "example_en": "I submitted my opinion regarding the personnel transfer to the division head."
+    },
+    {
+      "korean": "보고 드리다",
+      "english": "to report (humble); to give a report to a superior",
+      "example": "진행 상황을 이사님께 보고 드리겠습니다.",
+      "example_en": "I will report the progress to the director."
+    },
+    {
+      "korean": "비품",
+      "english": "office supplies; fixtures",
+      "example": "사무실 비품이 부족하면 총무팀에 요청하세요.",
+      "example_en": "If office supplies are running low, request them from the general affairs team."
+    },
+    {
+      "korean": "승진하다",
+      "english": "to be promoted",
+      "example": "5년 만에 대리에서 과장으로 승진했다.",
+      "example_en": "After five years, I was promoted from assistant manager to section chief."
+    },
+    {
+      "korean": "인사고과",
+      "english": "performance evaluation; personnel review",
+      "example": "연말 인사고과 결과에 따라 성과급이 달라진다.",
+      "example_en": "The bonus varies depending on the year-end performance evaluation results."
+    },
+    {
+      "korean": "발령나다",
+      "english": "to receive a transfer order; to be assigned",
+      "example": "부산 지사로 발령나서 다음 달에 이사해야 한다.",
+      "example_en": "I received a transfer to the Busan branch and have to move next month."
+    },
+    {
+      "korean": "경력직",
+      "english": "experienced hire; mid-career recruit",
+      "example": "이번에 경력직으로 입사한 분이 실력이 뛰어나다.",
+      "example_en": "The person who joined as an experienced hire this time is very skilled."
+    },
+    {
+      "korean": "역량",
+      "english": "competency; capability",
+      "example": "리더십 역량을 강화하기 위해 외부 교육을 받았다.",
+      "example_en": "I took external training to strengthen my leadership competency."
+    },
+    {
+      "korean": "직급 체계",
+      "english": "rank system; job grade structure",
+      "example": "우리 회사는 최근 직급 체계를 단순화했다.",
+      "example_en": "Our company recently simplified its rank system."
+    },
+    {
+      "korean": "성과급",
+      "english": "performance-based bonus; incentive pay",
+      "example": "올해 성과급이 작년보다 줄어서 직원들 불만이 크다.",
+      "example_en": "Employees are unhappy because this year's performance bonus decreased compared to last year."
+    },
+    {
+      "korean": "연봉 협상",
+      "english": "salary negotiation",
+      "example": "연봉 협상 시즌이 되면 사무실 분위기가 묘해진다.",
+      "example_en": "When salary negotiation season comes, the office atmosphere gets awkward."
+    },
+    {
+      "korean": "발탁되다",
+      "english": "to be handpicked; to be singled out for promotion",
+      "example": "입사 3년 차에 팀장으로 발탁되어 화제가 됐다.",
+      "example_en": "Being handpicked as team leader in the third year became a hot topic."
+    },
+    {
+      "korean": "보직",
+      "english": "appointed position; post",
+      "example": "이번 인사에서 새로운 보직을 맡게 됐다.",
+      "example_en": "I was assigned a new position in this round of personnel changes."
+    },
+    {
+      "korean": "사내 정치",
+      "english": "office politics",
+      "example": "실력보다 사내 정치가 승진에 영향을 미치는 경우가 많다.",
+      "example_en": "Office politics often affects promotions more than actual ability."
+    },
+    {
+      "korean": "눈치를 보다",
+      "english": "to read the room; to watch someone's reaction cautiously",
+      "example": "팀장 눈치를 보느라 먼저 퇴근하는 사람이 없다.",
+      "example_en": "Nobody leaves work first because they're busy reading the team leader's mood."
+    },
+    {
+      "korean": "뒷담화",
+      "english": "talking behind someone's back; gossip",
+      "example": "뒷담화가 심한 직장은 분위기가 금방 나빠진다.",
+      "example_en": "A workplace with a lot of gossip quickly develops a bad atmosphere."
+    },
+    {
+      "korean": "업무 인수인계",
+      "english": "work handover; transition of duties",
+      "example": "퇴사 전에 후임자에게 업무 인수인계를 철저히 해야 한다.",
+      "example_en": "Before leaving the company, you must thoroughly hand over your duties to your successor."
+    },
+    {
+      "korean": "팀워크",
+      "english": "teamwork; team cohesion",
+      "example": "워크숍을 통해 팀워크를 다지는 시간을 가졌다.",
+      "example_en": "We had a workshop to build our teamwork."
+    },
+    {
+      "korean": "갈등을 빚다",
+      "english": "to create conflict; to cause friction",
+      "example": "업무 방식 차이로 동료와 갈등을 빚었다.",
+      "example_en": "I had friction with a colleague due to differences in work style."
+    },
+    {
+      "korean": "상사에게 찍히다",
+      "english": "to get on a superior's bad side; to be marked negatively",
+      "example": "회의에서 반박했다가 상사에게 찍혔다.",
+      "example_en": "I talked back in the meeting and got on my boss's bad side."
+    },
+    {
+      "korean": "회식",
+      "english": "company dinner; team dinner (often with drinks)",
+      "example": "요즘은 회식 문화가 많이 줄어들었다.",
+      "example_en": "These days, the company dinner culture has decreased a lot."
+    },
+    {
+      "korean": "선후배 사이",
+      "english": "senior-junior relationship (at work)",
+      "example": "선후배 사이가 좋으면 업무 효율도 올라간다.",
+      "example_en": "When the senior-junior relationship is good, work efficiency also improves."
+    },
+    {
+      "korean": "소통이 안 되다",
+      "english": "to have a communication breakdown; to not get through",
+      "example": "경영진과 현장 직원 사이에 소통이 안 되고 있다.",
+      "example_en": "There is a communication breakdown between management and the field staff."
+    },
+    {
+      "korean": "워라밸",
+      "english": "work-life balance (shortened Korean form)",
+      "example": "요즘 구직자들은 연봉보다 워라밸을 중시한다.",
+      "example_en": "These days, job seekers value work-life balance more than salary."
+    },
+    {
+      "korean": "칼퇴하다",
+      "english": "to leave work right on time (lit. 'knife-leave')",
+      "example": "오늘은 약속이 있어서 꼭 칼퇴해야 한다.",
+      "example_en": "I have plans today, so I absolutely must leave right on time."
+    },
+    {
+      "korean": "번아웃",
+      "english": "burnout (from overwork)",
+      "example": "3년간 쉬지 않고 일했더니 번아웃이 왔다.",
+      "example_en": "After working nonstop for three years, I experienced burnout."
+    },
+    {
+      "korean": "유연근무제",
+      "english": "flexible work schedule; flextime system",
+      "example": "유연근무제 덕분에 아이 등원 시간에 맞출 수 있다.",
+      "example_en": "Thanks to the flexible work schedule, I can match my child's daycare drop-off time."
+    },
+    {
+      "korean": "재택근무",
+      "english": "remote work; working from home",
+      "example": "팬데믹 이후 재택근무가 일상이 됐다.",
+      "example_en": "Remote work became routine after the pandemic."
+    },
+    {
+      "korean": "연차를 쓰다",
+      "english": "to use annual leave; to take a day off",
+      "example": "눈치 보지 말고 연차를 쓰세요.",
+      "example_en": "Don't worry about others' reactions — just use your annual leave."
+    },
+    {
+      "korean": "주 52시간제",
+      "english": "the 52-hour workweek system",
+      "example": "주 52시간제 시행 이후 야근이 줄었다.",
+      "example_en": "Overtime decreased after the 52-hour workweek system was implemented."
+    },
+    {
+      "korean": "안식휴가",
+      "english": "sabbatical leave",
+      "example": "근속 10년 이상 직원에게 안식휴가가 주어진다.",
+      "example_en": "Employees with over 10 years of service are given a sabbatical leave."
+    },
+    {
+      "korean": "과로사",
+      "english": "death from overwork (karoshi)",
+      "example": "과로사 문제가 사회적 이슈로 떠올랐다.",
+      "example_en": "Death from overwork has emerged as a social issue."
+    },
+    {
+      "korean": "정시 퇴근",
+      "english": "leaving work on time",
+      "example": "정시 퇴근이 당연한 문화가 자리 잡아야 한다.",
+      "example_en": "A culture where leaving on time is normal needs to take root."
+    }
+  ]
+}

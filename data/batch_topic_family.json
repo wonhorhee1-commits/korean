@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 가족 (Topic: Family)": [
+    {
+      "korean": "시댁",
+      "english": "husband's family home; in-laws (wife's perspective)",
+      "example": "명절마다 시댁에 가는 것이 부담스러울 수 있다.",
+      "example_en": "Going to the in-laws every holiday can be stressful."
+    },
+    {
+      "korean": "친정",
+      "english": "wife's family home; maternal home",
+      "example": "아이를 낳고 한 달간 친정에서 산후조리를 했다.",
+      "example_en": "After giving birth, I recovered at my parents' home for a month."
+    },
+    {
+      "korean": "사돈",
+      "english": "in-law (the other family connected by marriage)",
+      "example": "사돈 간에 예의를 갖추는 것이 중요하다.",
+      "example_en": "It's important to be courteous between in-law families."
+    },
+    {
+      "korean": "며느리",
+      "english": "daughter-in-law",
+      "example": "시어머니와 며느리 관계가 예전보다 수평적으로 변했다.",
+      "example_en": "The mother-in-law and daughter-in-law relationship has become more equal than before."
+    },
+    {
+      "korean": "사위",
+      "english": "son-in-law",
+      "example": "장모님이 사위에게 유독 잘해 주신다.",
+      "example_en": "My mother-in-law is especially kind to her son-in-law."
+    },
+    {
+      "korean": "처남",
+      "english": "wife's brother (husband's perspective)",
+      "example": "처남이 군대에서 제대하고 취직 준비를 하고 있다.",
+      "example_en": "My wife's brother was discharged from the military and is preparing to find a job."
+    },
+    {
+      "korean": "형수",
+      "english": "older brother's wife (man's perspective)",
+      "example": "형수가 조카를 데리고 우리 집에 놀러 왔다.",
+      "example_en": "My sister-in-law came to visit with my nephew."
+    },
+    {
+      "korean": "도련님",
+      "english": "husband's unmarried younger brother (traditional/honorific)",
+      "example": "시어머니가 도련님도 같이 데리고 오라고 하셨다.",
+      "example_en": "My mother-in-law said to bring the younger brother-in-law along too."
+    },
+    {
+      "korean": "큰집",
+      "english": "the eldest son's household; the main family house",
+      "example": "명절에는 큰집에 모여서 제사를 지낸다.",
+      "example_en": "On holidays, we gather at the eldest son's house for ancestral rites."
+    },
+    {
+      "korean": "항렬",
+      "english": "generational rank (in Korean clan system)",
+      "example": "같은 항렬이면 나이 차이가 나도 같은 세대이다.",
+      "example_en": "If you're the same generational rank, you're the same generation regardless of age difference."
+    },
+    {
+      "korean": "혼인 신고",
+      "english": "marriage registration",
+      "example": "결혼식 전에 먼저 혼인 신고를 했다.",
+      "example_en": "We filed the marriage registration before the wedding ceremony."
+    },
+    {
+      "korean": "예단",
+      "english": "wedding gifts (from bride's family to groom's family)",
+      "example": "요즘은 예단 문화가 많이 간소화되었다.",
+      "example_en": "These days, the wedding gift-giving culture has been greatly simplified."
+    },
+    {
+      "korean": "함 들어간다",
+      "english": "the ham (dowry box) is coming (wedding tradition)",
+      "example": "결혼 전날 밤에 '함 사세요!' 소리가 들렸다.",
+      "example_en": "The night before the wedding, we heard the shout 'Buy the ham box!'"
+    },
+    {
+      "korean": "폐백",
+      "english": "traditional post-wedding ceremony (bowing to in-laws)",
+      "example": "폐백 때 시부모님께 대추와 밤을 드렸다.",
+      "example_en": "During the paebaek, we offered jujubes and chestnuts to the in-laws."
+    },
+    {
+      "korean": "신혼생활",
+      "english": "newlywed life",
+      "example": "신혼생활 초반에는 사소한 것도 어색할 수 있다.",
+      "example_en": "In the early days of newlywed life, even small things can feel awkward."
+    },
+    {
+      "korean": "혼수",
+      "english": "wedding trousseau; things prepared for marriage",
+      "example": "혼수 비용을 어떻게 나눌지 양가가 상의했다.",
+      "example_en": "Both families discussed how to split the wedding trousseau costs."
+    },
+    {
+      "korean": "상견례",
+      "english": "formal meeting between both families (before wedding)",
+      "example": "상견례 날짜를 잡느라 양가 일정을 조율했다.",
+      "example_en": "We coordinated both families' schedules to set the date for the formal meeting."
+    },
+    {
+      "korean": "청첩장",
+      "english": "wedding invitation",
+      "example": "청첩장을 돌릴 때 직장 동료도 빠짐없이 보냈다.",
+      "example_en": "When sending out wedding invitations, I made sure to include all my work colleagues."
+    },
+    {
+      "korean": "축의금",
+      "english": "congratulatory money (given at weddings)",
+      "example": "축의금을 얼마 내야 할지 항상 고민된다.",
+      "example_en": "I always agonize over how much congratulatory money to give."
+    },
+    {
+      "korean": "결혼 적령기",
+      "english": "marriageable age (socially expected)",
+      "example": "결혼 적령기라는 개념 자체가 바뀌고 있다.",
+      "example_en": "The very concept of a marriageable age is changing."
+    },
+    {
+      "korean": "육아 휴직",
+      "english": "parental leave",
+      "example": "남성의 육아 휴직 사용률이 점점 높아지고 있다.",
+      "example_en": "The rate of men taking parental leave is gradually increasing."
+    },
+    {
+      "korean": "태교",
+      "english": "prenatal education/care",
+      "example": "태교로 클래식 음악을 듣고 좋은 생각을 하려 했다.",
+      "example_en": "For prenatal care, I tried listening to classical music and thinking good thoughts."
+    },
+    {
+      "korean": "산후조리",
+      "english": "postpartum recovery care",
+      "example": "산후조리원에서 2주간 몸을 회복했다.",
+      "example_en": "I recovered for two weeks at a postpartum care center."
+    },
+    {
+      "korean": "돌잔치",
+      "english": "first birthday celebration",
+      "example": "돌잔치에서 아이가 실을 잡아서 장수할 거라고 했다.",
+      "example_en": "At the first birthday party, the child grabbed the thread, meaning longevity."
+    },
+    {
+      "korean": "훈육하다",
+      "english": "to discipline; to teach (a child) proper behavior",
+      "example": "아이를 훈육할 때는 일관성이 중요하다.",
+      "example_en": "Consistency is important when disciplining a child."
+    },
+    {
+      "korean": "사교육",
+      "english": "private education; hagwon/tutoring",
+      "example": "사교육비 부담이 출산율 저하의 원인 중 하나이다.",
+      "example_en": "The burden of private education costs is one cause of the declining birth rate."
+    },
+    {
+      "korean": "맞벌이",
+      "english": "dual-income (both spouses working)",
+      "example": "맞벌이 부부는 육아 분담이 필수이다.",
+      "example_en": "For dual-income couples, sharing childcare responsibilities is essential."
+    },
+    {
+      "korean": "조기 교육",
+      "english": "early education (for young children)",
+      "example": "조기 교육이 과연 아이에게 좋은지 논란이 많다.",
+      "example_en": "There is much debate over whether early education is actually good for children."
+    },
+    {
+      "korean": "과잉 보호",
+      "english": "overprotection; helicopter parenting",
+      "example": "과잉 보호는 아이의 자립심을 약화시킨다.",
+      "example_en": "Overprotection weakens a child's independence."
+    },
+    {
+      "korean": "양육비",
+      "english": "child-rearing costs; child support",
+      "example": "양육비가 해마다 올라서 가계에 부담이 크다.",
+      "example_en": "Child-rearing costs rise every year, putting a big burden on household finances."
+    },
+    {
+      "korean": "세대 갈등",
+      "english": "generational conflict",
+      "example": "가치관 차이로 인한 세대 갈등이 심화되고 있다.",
+      "example_en": "Generational conflict due to differing values is intensifying."
+    },
+    {
+      "korean": "효도하다",
+      "english": "to show filial piety; to be dutiful to parents",
+      "example": "부모님이 살아 계실 때 효도해야 한다는 걸 깨달았다.",
+      "example_en": "I realized you should show filial piety while your parents are still alive."
+    },
+    {
+      "korean": "가장 노릇",
+      "english": "the role of head of household; breadwinner duties",
+      "example": "가장 노릇이 힘들어도 내색하지 않으셨다.",
+      "example_en": "Even though being the breadwinner was hard, he never showed it."
+    },
+    {
+      "korean": "장자 상속",
+      "english": "primogeniture; eldest son inheritance",
+      "example": "장자 상속 관행은 현대에 와서 많이 사라졌다.",
+      "example_en": "The custom of eldest son inheritance has largely disappeared in modern times."
+    },
+    {
+      "korean": "명절 증후군",
+      "english": "holiday syndrome (stress from family gatherings)",
+      "example": "명절 증후군으로 병원을 찾는 사람이 해마다 늘고 있다.",
+      "example_en": "Every year, more people visit the hospital due to holiday syndrome."
+    },
+    {
+      "korean": "가풍",
+      "english": "family tradition; household customs",
+      "example": "우리 집 가풍은 식사 시간에 모두 함께 모이는 것이다.",
+      "example_en": "Our family tradition is for everyone to gather together at mealtimes."
+    },
+    {
+      "korean": "대를 잇다",
+      "english": "to carry on the family line",
+      "example": "대를 잇는다는 관념이 점점 약해지고 있다.",
+      "example_en": "The notion of carrying on the family line is gradually weakening."
+    },
+    {
+      "korean": "가계도",
+      "english": "family tree; genealogy chart",
+      "example": "할아버지가 가계도를 직접 그려서 보여 주셨다.",
+      "example_en": "My grandfather drew the family tree himself and showed it to us."
+    },
+    {
+      "korean": "분가하다",
+      "english": "to set up a separate household (from the main family)",
+      "example": "결혼 후 분가해서 부모님과 따로 살고 있다.",
+      "example_en": "After getting married, I set up a separate household and live apart from my parents."
+    },
+    {
+      "korean": "집안 어른",
+      "english": "family elder",
+      "example": "중요한 결정은 집안 어른들과 상의해야 한다.",
+      "example_en": "Important decisions should be discussed with the family elders."
+    }
+  ]
+}

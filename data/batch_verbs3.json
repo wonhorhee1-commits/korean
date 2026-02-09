@@ -1,0 +1,244 @@
+{
+  "고급 동사 (Advanced Verbs)": [
+    {
+      "korean": "공소하다",
+      "english": "to prosecute; to file a public indictment",
+      "example": "검찰이 피의자를 사기 혐의로 공소했다.",
+      "example_en": "The prosecution filed an indictment against the suspect on fraud charges."
+    },
+    {
+      "korean": "구인하다",
+      "english": "to issue a warrant for arrest; to apprehend",
+      "example": "법원이 도주한 피의자에 대해 구인장을 발부했다.",
+      "example_en": "The court issued a warrant to apprehend the suspect who fled."
+    },
+    {
+      "korean": "기탁하다",
+      "english": "to deposit/entrust (officially); to donate in trust",
+      "example": "기부금을 적십자사에 기탁했다.",
+      "example_en": "The donation was entrusted to the Red Cross."
+    },
+    {
+      "korean": "갱신하다",
+      "english": "to renew (a contract, license, record)",
+      "example": "계약 만료 전에 반드시 갱신해야 한다.",
+      "example_en": "You must renew before the contract expires."
+    },
+    {
+      "korean": "송달하다",
+      "english": "to serve (legal documents officially)",
+      "example": "소장이 피고에게 정식으로 송달되었다.",
+      "example_en": "The complaint was officially served to the defendant."
+    },
+    {
+      "korean": "추인하다",
+      "english": "to ratify retroactively; to give subsequent approval",
+      "example": "무권대리 행위를 본인이 추인하면 유효하다.",
+      "example_en": "If the principal ratifies an unauthorized agent's act, it becomes valid."
+    },
+    {
+      "korean": "위촉하다",
+      "english": "to appoint/commission (an expert, advisor)",
+      "example": "외부 전문가를 자문위원으로 위촉했다.",
+      "example_en": "An outside expert was commissioned as an advisory member."
+    },
+    {
+      "korean": "고시하다",
+      "english": "to publicly announce/notify (by official gazette)",
+      "example": "정부가 새로운 토지 가격을 고시했다.",
+      "example_en": "The government publicly announced the new land prices."
+    },
+    {
+      "korean": "각하하다",
+      "english": "to dismiss (a case, petition) without ruling on merits",
+      "example": "법원은 형식 요건 미비를 이유로 소를 각하했다.",
+      "example_en": "The court dismissed the case due to failure to meet formal requirements."
+    },
+    {
+      "korean": "소환하다",
+      "english": "to summon (to court or investigation)",
+      "example": "검찰이 핵심 참고인을 소환했다.",
+      "example_en": "The prosecution summoned the key witness."
+    },
+    {
+      "korean": "처치하다",
+      "english": "to treat/administer medical care; to perform a procedure",
+      "example": "응급실에서 신속하게 처치를 받았다.",
+      "example_en": "Emergency treatment was administered quickly."
+    },
+    {
+      "korean": "절제하다",
+      "english": "to excise/remove surgically (a tumor, organ)",
+      "example": "종양을 완전히 절제하는 데 성공했다.",
+      "example_en": "The tumor was successfully excised completely."
+    },
+    {
+      "korean": "투여하다",
+      "english": "to administer (medication, dosage)",
+      "example": "환자에게 항생제를 정맥으로 투여했다.",
+      "example_en": "Antibiotics were administered to the patient intravenously."
+    },
+    {
+      "korean": "봉합하다",
+      "english": "to suture; to stitch up (a wound)",
+      "example": "의사가 열상 부위를 깨끗하게 봉합했다.",
+      "example_en": "The doctor cleanly sutured the laceration."
+    },
+    {
+      "korean": "진찰하다",
+      "english": "to examine (a patient medically)",
+      "example": "의사가 환자의 상태를 면밀히 진찰했다.",
+      "example_en": "The doctor thoroughly examined the patient's condition."
+    },
+    {
+      "korean": "소독하다",
+      "english": "to disinfect/sterilize",
+      "example": "상처 부위를 깨끗이 소독한 후 붕대를 감았다.",
+      "example_en": "The wound was thoroughly disinfected before wrapping it with a bandage."
+    },
+    {
+      "korean": "마비되다",
+      "english": "to become paralyzed/numb",
+      "example": "신경 손상으로 하반신이 마비되었다.",
+      "example_en": "The lower body became paralyzed due to nerve damage."
+    },
+    {
+      "korean": "재발하다",
+      "english": "to relapse; to recur (disease)",
+      "example": "완치된 줄 알았던 암이 재발했다.",
+      "example_en": "The cancer that was thought to be cured has recurred."
+    },
+    {
+      "korean": "호전되다",
+      "english": "to improve/get better (medical condition)",
+      "example": "치료 후 환자의 상태가 눈에 띄게 호전되었다.",
+      "example_en": "After treatment, the patient's condition improved noticeably."
+    },
+    {
+      "korean": "의뢰하다",
+      "english": "to refer (a patient to a specialist); to request (a medical opinion)",
+      "example": "주치의가 정밀 검사를 위해 대학병원에 의뢰했다.",
+      "example_en": "The primary doctor referred the case to a university hospital for detailed testing."
+    },
+    {
+      "korean": "갈구하다",
+      "english": "to crave; to yearn desperately for",
+      "example": "인정을 갈구하는 마음이 그를 지치게 했다.",
+      "example_en": "The desperate yearning for recognition exhausted him."
+    },
+    {
+      "korean": "매몰되다",
+      "english": "to be consumed by; to be buried in (figuratively)",
+      "example": "일에 매몰되어 가족과의 시간을 잃었다.",
+      "example_en": "Consumed by work, I lost time with my family."
+    },
+    {
+      "korean": "전율하다",
+      "english": "to shudder/tremble (from fear, awe, or excitement)",
+      "example": "그 연주를 듣는 순간 온몸이 전율했다.",
+      "example_en": "The moment I heard the performance, my whole body trembled."
+    },
+    {
+      "korean": "체감하다",
+      "english": "to feel/perceive firsthand; to sense viscerally",
+      "example": "외국에서 살아 보니 문화 차이를 체감했다.",
+      "example_en": "Living abroad, I perceived the cultural differences firsthand."
+    },
+    {
+      "korean": "처연하다",
+      "english": "to feel desolate and sad; to be forlorn",
+      "example": "빈 집을 바라보니 처연한 마음이 들었다.",
+      "example_en": "Looking at the empty house, I felt desolate and sad."
+    },
+    {
+      "korean": "회의하다",
+      "english": "to doubt; to feel skepticism toward",
+      "example": "반복되는 실패에 자신의 능력을 회의하게 되었다.",
+      "example_en": "Repeated failures made me doubt my own abilities."
+    },
+    {
+      "korean": "미혹되다",
+      "english": "to be beguiled/misled; to be led astray",
+      "example": "달콤한 말에 미혹되어 잘못된 선택을 했다.",
+      "example_en": "Beguiled by sweet words, I made the wrong choice."
+    },
+    {
+      "korean": "노여워하다",
+      "english": "to be angry/wrathful; to feel indignation",
+      "example": "부당한 대우에 그는 크게 노여워했다.",
+      "example_en": "He was greatly angered by the unfair treatment."
+    },
+    {
+      "korean": "여미다",
+      "english": "to collect/compose oneself (emotionally); to straighten (clothing, composure)",
+      "example": "흐트러진 마음을 여미고 다시 출발했다.",
+      "example_en": "I composed my scattered feelings and set off again."
+    },
+    {
+      "korean": "연모하다",
+      "english": "to be lovesick for; to yearn for romantically",
+      "example": "오랫동안 마음속으로 그를 연모해 왔다.",
+      "example_en": "For a long time, I had been yearning for him in my heart."
+    },
+    {
+      "korean": "메마르다",
+      "english": "to dry up; to become parched/barren",
+      "example": "장기간 가뭄으로 저수지가 메말랐다.",
+      "example_en": "The reservoir dried up due to the prolonged drought."
+    },
+    {
+      "korean": "범람하다",
+      "english": "to overflow; to flood (river, information)",
+      "example": "폭우로 하천이 범람하여 마을이 침수되었다.",
+      "example_en": "The river overflowed due to heavy rain, and the village was flooded."
+    },
+    {
+      "korean": "서식하다",
+      "english": "to inhabit; to live in (a habitat)",
+      "example": "이 습지에는 희귀한 조류가 서식하고 있다.",
+      "example_en": "Rare birds inhabit this wetland."
+    },
+    {
+      "korean": "풍화되다",
+      "english": "to weather; to erode (by natural elements)",
+      "example": "오랜 세월에 걸쳐 바위가 풍화되어 모래가 되었다.",
+      "example_en": "Over long years, the rocks weathered and became sand."
+    },
+    {
+      "korean": "번식하다",
+      "english": "to breed; to propagate/reproduce",
+      "example": "따뜻한 기후 덕분에 해충이 빠르게 번식했다.",
+      "example_en": "Thanks to the warm climate, the pests bred rapidly."
+    },
+    {
+      "korean": "고사하다",
+      "english": "to wither and die (plants, trees)",
+      "example": "산성비의 영향으로 숲의 나무들이 고사하고 있다.",
+      "example_en": "Trees in the forest are withering and dying due to the effects of acid rain."
+    },
+    {
+      "korean": "퇴적되다",
+      "english": "to be deposited/sedimented (geological process)",
+      "example": "수만 년에 걸쳐 퇴적된 지층이 발견되었다.",
+      "example_en": "Geological strata deposited over tens of thousands of years were discovered."
+    },
+    {
+      "korean": "용솟음치다",
+      "english": "to gush/surge upward (water, lava, energy)",
+      "example": "지열 에너지가 땅속에서 용솟음쳤다.",
+      "example_en": "Geothermal energy surged up from underground."
+    },
+    {
+      "korean": "표류하다",
+      "english": "to drift (on water/current)",
+      "example": "해류를 따라 쓰레기가 수천 킬로미터를 표류했다.",
+      "example_en": "Trash drifted thousands of kilometers along the ocean current."
+    },
+    {
+      "korean": "동면하다",
+      "english": "to hibernate",
+      "example": "곰은 겨울이 되면 굴속에서 동면한다.",
+      "example_en": "Bears hibernate in their dens when winter comes."
+    }
+  ]
+}

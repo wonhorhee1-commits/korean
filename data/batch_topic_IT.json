@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — IT (Topic: IT)": [
+    {
+      "korean": "원천 기술",
+      "english": "core/source technology",
+      "example": "원천 기술 없이는 글로벌 경쟁에서 살아남기 어렵다.",
+      "example_en": "It's hard to survive in global competition without core technology."
+    },
+    {
+      "korean": "개발 환경",
+      "english": "development environment",
+      "example": "개발 환경을 먼저 세팅해야 코딩을 시작할 수 있다.",
+      "example_en": "You need to set up the development environment before you can start coding."
+    },
+    {
+      "korean": "소스 코드",
+      "english": "source code",
+      "example": "소스 코드를 공개하면 누구나 기여할 수 있다.",
+      "example_en": "If you open the source code, anyone can contribute."
+    },
+    {
+      "korean": "배포하다",
+      "english": "to deploy; to release (software)",
+      "example": "새 버전을 금요일에 배포하면 주말에 문제가 터질 수 있다.",
+      "example_en": "If you deploy the new version on Friday, issues could pop up over the weekend."
+    },
+    {
+      "korean": "오류를 잡다",
+      "english": "to fix a bug; to debug",
+      "example": "하루 종일 오류를 잡느라 다른 작업을 못 했다.",
+      "example_en": "I spent all day debugging and couldn't do any other work."
+    },
+    {
+      "korean": "유지 보수",
+      "english": "maintenance (of software/systems)",
+      "example": "유지 보수 비용이 개발 비용보다 더 클 수 있다.",
+      "example_en": "Maintenance costs can be greater than development costs."
+    },
+    {
+      "korean": "확장성",
+      "english": "scalability",
+      "example": "확장성을 고려하지 않으면 나중에 구조를 다시 짜야 한다.",
+      "example_en": "If you don't consider scalability, you'll have to restructure later."
+    },
+    {
+      "korean": "의존성",
+      "english": "dependency (software library)",
+      "example": "외부 라이브러리 의존성이 너무 많으면 관리가 복잡해진다.",
+      "example_en": "Too many external library dependencies make management complicated."
+    },
+    {
+      "korean": "병목 현상",
+      "english": "bottleneck (performance)",
+      "example": "데이터베이스 조회가 병목 현상을 일으키고 있다.",
+      "example_en": "Database queries are causing a bottleneck."
+    },
+    {
+      "korean": "리팩토링",
+      "english": "refactoring (code restructuring)",
+      "example": "기능 추가 전에 기존 코드 리팩토링부터 해야 한다.",
+      "example_en": "Before adding features, you need to refactor the existing code first."
+    },
+    {
+      "korean": "취약점",
+      "english": "vulnerability (security)",
+      "example": "정기적으로 취약점 점검을 해야 해킹을 막을 수 있다.",
+      "example_en": "Regular vulnerability checks are needed to prevent hacking."
+    },
+    {
+      "korean": "보안 패치",
+      "english": "security patch",
+      "example": "보안 패치가 나오면 즉시 적용하는 것이 원칙이다.",
+      "example_en": "The principle is to apply security patches immediately when they come out."
+    },
+    {
+      "korean": "침해 사고",
+      "english": "security breach; intrusion incident",
+      "example": "대규모 침해 사고로 수백만 명의 개인정보가 유출됐다.",
+      "example_en": "Millions of people's personal information was leaked in a large-scale security breach."
+    },
+    {
+      "korean": "복호화",
+      "english": "decryption",
+      "example": "암호화된 데이터를 복호화하려면 올바른 키가 필요하다.",
+      "example_en": "You need the correct key to decrypt encrypted data."
+    },
+    {
+      "korean": "암호화",
+      "english": "encryption",
+      "example": "개인정보는 반드시 암호화해서 저장해야 한다.",
+      "example_en": "Personal information must be stored encrypted."
+    },
+    {
+      "korean": "접근 권한",
+      "english": "access permission; authorization",
+      "example": "불필요한 접근 권한을 줄여야 보안이 강화된다.",
+      "example_en": "Reducing unnecessary access permissions strengthens security."
+    },
+    {
+      "korean": "이중 인증",
+      "english": "two-factor authentication (2FA)",
+      "example": "이중 인증을 설정하면 계정 도용 위험이 크게 줄어든다.",
+      "example_en": "Setting up two-factor authentication greatly reduces the risk of account theft."
+    },
+    {
+      "korean": "악성 코드",
+      "english": "malware; malicious code",
+      "example": "의심스러운 첨부 파일을 열면 악성 코드에 감염될 수 있다.",
+      "example_en": "Opening suspicious attachments can lead to malware infection."
+    },
+    {
+      "korean": "방화벽",
+      "english": "firewall",
+      "example": "방화벽 설정을 잘못하면 외부 공격에 노출된다.",
+      "example_en": "Misconfiguring the firewall exposes the system to external attacks."
+    },
+    {
+      "korean": "피싱",
+      "english": "phishing",
+      "example": "최근 피싱 수법이 점점 정교해지고 있다.",
+      "example_en": "Phishing techniques are becoming increasingly sophisticated recently."
+    },
+    {
+      "korean": "정형 데이터",
+      "english": "structured data",
+      "example": "정형 데이터는 표 형태로 깔끔하게 정리된 데이터를 말한다.",
+      "example_en": "Structured data refers to data neatly organized in tabular form."
+    },
+    {
+      "korean": "비정형 데이터",
+      "english": "unstructured data",
+      "example": "이미지, 영상, 텍스트 등은 비정형 데이터에 해당한다.",
+      "example_en": "Images, video, text, etc. fall under unstructured data."
+    },
+    {
+      "korean": "학습 모델",
+      "english": "trained model; learning model (AI/ML)",
+      "example": "학습 모델의 정확도를 높이려면 양질의 데이터가 필요하다.",
+      "example_en": "High-quality data is needed to improve the accuracy of a learning model."
+    },
+    {
+      "korean": "과적합",
+      "english": "overfitting (machine learning)",
+      "example": "과적합이 발생하면 새로운 데이터에 대한 예측력이 떨어진다.",
+      "example_en": "When overfitting occurs, predictive power on new data decreases."
+    },
+    {
+      "korean": "편향",
+      "english": "bias (in data/AI)",
+      "example": "학습 데이터에 편향이 있으면 결과도 왜곡된다.",
+      "example_en": "If there is bias in the training data, the results are also distorted."
+    },
+    {
+      "korean": "자연어 처리",
+      "english": "natural language processing (NLP)",
+      "example": "자연어 처리 기술 덕분에 기계가 사람 말을 이해할 수 있다.",
+      "example_en": "Thanks to NLP technology, machines can understand human language."
+    },
+    {
+      "korean": "생성형 인공지능",
+      "english": "generative AI",
+      "example": "생성형 인공지능이 글, 그림, 음악까지 만들어 내고 있다.",
+      "example_en": "Generative AI is producing text, images, and even music."
+    },
+    {
+      "korean": "딥러닝",
+      "english": "deep learning",
+      "example": "딥러닝 기반 번역이 기존 방식보다 자연스럽다.",
+      "example_en": "Deep learning-based translation is more natural than conventional methods."
+    },
+    {
+      "korean": "강화 학습",
+      "english": "reinforcement learning",
+      "example": "강화 학습으로 훈련한 AI가 바둑에서 인간을 이겼다.",
+      "example_en": "An AI trained with reinforcement learning beat humans in Go."
+    },
+    {
+      "korean": "전처리",
+      "english": "preprocessing (data)",
+      "example": "분석 전에 데이터 전처리 과정이 반드시 필요하다.",
+      "example_en": "A data preprocessing step is essential before analysis."
+    },
+    {
+      "korean": "디지털 문해력",
+      "english": "digital literacy",
+      "example": "디지털 문해력은 현대 사회의 필수 역량이다.",
+      "example_en": "Digital literacy is an essential competency in modern society."
+    },
+    {
+      "korean": "개인정보 유출",
+      "english": "personal data leak",
+      "example": "개인정보 유출 사고가 반복되면서 불신이 커졌다.",
+      "example_en": "Repeated personal data leaks have increased distrust."
+    },
+    {
+      "korean": "전자 서명",
+      "english": "digital signature; electronic signature",
+      "example": "계약서에 전자 서명을 하면 종이 문서가 필요 없다.",
+      "example_en": "If you use a digital signature on contracts, paper documents are unnecessary."
+    },
+    {
+      "korean": "클라우드 저장소",
+      "english": "cloud storage",
+      "example": "클라우드 저장소에 백업해 두면 기기 분실에도 안전하다.",
+      "example_en": "If you back up to cloud storage, you're safe even if you lose the device."
+    },
+    {
+      "korean": "사물 인터넷",
+      "english": "Internet of Things (IoT)",
+      "example": "사물 인터넷으로 집 밖에서도 가전을 제어할 수 있다.",
+      "example_en": "With IoT, you can control home appliances from outside the house."
+    },
+    {
+      "korean": "가상 현실",
+      "english": "virtual reality (VR)",
+      "example": "가상 현실 기술이 교육 분야에서 활용되고 있다.",
+      "example_en": "Virtual reality technology is being used in the education sector."
+    },
+    {
+      "korean": "증강 현실",
+      "english": "augmented reality (AR)",
+      "example": "증강 현실 앱으로 가구 배치를 미리 확인할 수 있다.",
+      "example_en": "You can preview furniture placement using an augmented reality app."
+    },
+    {
+      "korean": "자동화",
+      "english": "automation",
+      "example": "반복 작업의 자동화로 업무 효율이 크게 올랐다.",
+      "example_en": "Work efficiency greatly improved through the automation of repetitive tasks."
+    },
+    {
+      "korean": "알고리즘 편향",
+      "english": "algorithmic bias",
+      "example": "알고리즘 편향이 채용 과정에서 차별을 유발할 수 있다.",
+      "example_en": "Algorithmic bias can cause discrimination in the hiring process."
+    },
+    {
+      "korean": "디지털 격차",
+      "english": "digital divide",
+      "example": "노인 세대의 디지털 격차가 사회적 문제로 대두되고 있다.",
+      "example_en": "The digital divide among the elderly generation is emerging as a social issue."
+    }
+  ]
+}
