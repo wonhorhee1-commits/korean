@@ -425,6 +425,20 @@ h1 {
   font-size: 1.05em;
 }
 
+.your-guess {
+  color: var(--dim);
+  font-size: 0.95em;
+  margin: 10px 0;
+  padding: 10px 14px;
+  background: var(--surface2);
+  border-radius: 8px;
+}
+
+.your-guess span {
+  color: var(--text);
+  font-weight: bold;
+}
+
 .hidden { display: none; }
 
 /* Keyboard shortcuts hint */
@@ -443,7 +457,19 @@ h1 {
   .rating button { min-width: unset; }
   h1 { font-size: 1.5em; }
 }
+.sync-status {
+  text-align: center;
+  font-size: 0.8em;
+  color: var(--dim);
+  margin-bottom: 5px;
+}
+.sync-status.synced { color: var(--green); }
+.sync-status.syncing { color: var(--yellow); }
+.sync-status.offline { color: var(--dim); }
 </style>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
 </head>
 <body>
 
@@ -509,6 +535,7 @@ class SRSEngine {
 
   save() {
     localStorage.setItem('korean_coach_srs', JSON.stringify(this.cards));
+    pushToFirestore(); // async, non-blocking
   }
 
   getCard(id) {
@@ -547,6 +574,83 @@ class SRSEngine {
   }
 }
 
+// ===== FIREBASE SYNC =====
+const FIREBASE_CONFIG = {
+  // PASTE YOUR FIREBASE CONFIG HERE (see README)
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
+};
+
+let db = null, userId = null, syncEnabled = false;
+
+async function initFirebase() {
+  if (!FIREBASE_CONFIG.apiKey) return; // Skip if not configured
+  try {
+    firebase.initializeApp(FIREBASE_CONFIG);
+    db = firebase.firestore();
+    const auth = firebase.auth();
+    const cred = await auth.signInAnonymously();
+    userId = cred.user.uid;
+    // Persist anonymous user across sessions
+    localStorage.setItem('korean_coach_uid', userId);
+    syncEnabled = true;
+    updateSyncStatus('synced', 'Synced');
+    // Pull remote data on login
+    await pullFromFirestore();
+  } catch(e) {
+    console.warn('Firebase init failed, using local only:', e);
+    updateSyncStatus('offline', 'Local only');
+  }
+}
+
+async function pushToFirestore() {
+  if (!syncEnabled || !db || !userId) return;
+  try {
+    updateSyncStatus('syncing', 'Syncing...');
+    const data = JSON.parse(localStorage.getItem('korean_coach_srs') || '{}');
+    // Firestore doc size limit is 1MB, split into chunks if needed
+    await db.collection('users').doc(userId).set({
+      srs: JSON.stringify(data),
+      updated: firebase.firestore.FieldValue.serverTimestamp()
+    });
+    updateSyncStatus('synced', 'Synced');
+  } catch(e) {
+    console.warn('Firestore push failed:', e);
+    updateSyncStatus('offline', 'Sync failed');
+  }
+}
+
+async function pullFromFirestore() {
+  if (!syncEnabled || !db || !userId) return;
+  try {
+    const doc = await db.collection('users').doc(userId).get();
+    if (doc.exists && doc.data().srs) {
+      const remote = JSON.parse(doc.data().srs);
+      const local = JSON.parse(localStorage.getItem('korean_coach_srs') || '{}');
+      // Merge: keep whichever card has the later last_review
+      const merged = {...local};
+      for (const [id, rCard] of Object.entries(remote)) {
+        if (!merged[id] || (rCard.last_review || 0) > (merged[id].last_review || 0)) {
+          merged[id] = rCard;
+        }
+      }
+      localStorage.setItem('korean_coach_srs', JSON.stringify(merged));
+      srs._load(); // Reload SRS engine from updated localStorage
+    }
+  } catch(e) {
+    console.warn('Firestore pull failed:', e);
+  }
+}
+
+function updateSyncStatus(cls, text) {
+  const el = document.getElementById('sync-status');
+  if (el) { el.className = 'sync-status ' + cls; el.textContent = text; }
+}
+
 // ===== APP =====
 const app = document.getElementById('app');
 const srs = new SRSEngine();
@@ -577,9 +681,14 @@ function showMenu() {
       Accuracy: <span>${Math.round(stats.accuracy * 100)}%</span>
     </div>` : '';
 
+  const syncHtml = syncEnabled ? '<div id="sync-status" class="sync-status synced">Synced</div>'
+    : FIREBASE_CONFIG.apiKey ? '<div id="sync-status" class="sync-status offline">Connecting...</div>'
+    : '<div id="sync-status" class="sync-status offline">Local only</div>';
+
   app.innerHTML = `
     <h1>한국어 코치</h1>
     <p class="subtitle">Korean Coach — Advanced Fluency Trainer</p>
+    ${syncHtml}
     ${statsHtml}
     <div class="menu">
       <button onclick="showCategorySelect('vocab')"><span class="num">1</span> Vocabulary Drill</button>
@@ -689,22 +798,25 @@ function runSession(cards) {
     const input = app.querySelector('.answer-input');
     input.focus();
     input.onkeydown = e => {
-      if (e.key === 'Enter') revealVocab(id, cat, entry, answer, progress, pct);
+      if (e.key === 'Enter') revealVocab(id, cat, entry, answer, input.value.trim(), progress, pct);
       if (e.key === 'Escape') showMenu();
     };
   }
 
-  function revealVocab(id, cat, entry, answer, progress, pct) {
+  function revealVocab(id, cat, entry, answer, guess, progress, pct) {
     let extra = '';
     if (entry.breakdown) extra += `<div class="breakdown">${escHtml(entry.breakdown)}</div>`;
     if (entry.notes) extra += `<div class="reveal-notes">${escHtml(entry.notes)}</div>`;
     if (entry.example) extra += `<div class="example"><div class="example-kr">${escHtml(entry.example)}</div>
       ${entry.example_en ? `<div class="example-en">${escHtml(entry.example_en)}</div>` : ''}</div>`;
 
+    const guessHtml = guess ? `<div class="your-guess">Your answer: <span>${escHtml(guess)}</span></div>` : '';
+
     app.innerHTML = `
       <button class="back-btn" onclick="showMenu()">← Quit</button>
       <div class="counter">${escHtml(cat)} &nbsp; ${progress}</div>
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${guessHtml}
       <div class="reveal"><div class="reveal-answer">${escHtml(answer).replace(/\n/g,'<br>')}</div>${extra}</div>
       ${ratingButtons()}`;
     setupRating(id);
@@ -722,12 +834,12 @@ function runSession(cards) {
     const input = app.querySelector('.answer-input');
     input.focus();
     input.onkeydown = e => {
-      if (e.key === 'Enter') revealGrammar(id, cat, entry, progress, pct);
+      if (e.key === 'Enter') revealGrammar(id, cat, entry, input.value.trim(), progress, pct);
       if (e.key === 'Escape') showMenu();
     };
   }
 
-  function revealGrammar(id, cat, entry, progress, pct) {
+  function revealGrammar(id, cat, entry, guess, progress, pct) {
     let examplesHtml = '';
     for (const ex of (entry.examples || [])) {
       examplesHtml += `<div class="example"><div class="example-kr">${escHtml(ex.korean)}</div>
@@ -743,10 +855,13 @@ function runSession(cards) {
         <div id="drill-result" class="hidden"></div>`;
     }
 
+    const guessHtml = guess ? `<div class="your-guess">Your answer: <span>${escHtml(guess)}</span></div>` : '';
+
     app.innerHTML = `
       <button class="back-btn" onclick="showMenu()">← Quit</button>
       <div class="counter">${escHtml(cat)} &nbsp; ${progress}</div>
       <div class="progress-bar"><div class="progress-fill" style="width:${((idx)/cards.length*100).toFixed(0)}%"></div></div>
+      ${guessHtml}
       <div class="reveal">
         <div class="reveal-answer">${escHtml(entry.meaning)}</div>
         <div class="reveal-notes">${escHtml(entry.explanation)}</div>
@@ -882,7 +997,6 @@ async function init() {
     vocabData = await vResp.json();
     grammarData = await gResp.json();
   } catch(e) {
-    // Try relative paths for local dev
     try {
       const [vResp, gResp] = await Promise.all([
         fetch('../data/vocab.json'),
@@ -895,6 +1009,7 @@ async function init() {
       return;
     }
   }
+  await initFirebase();
   showMenu();
 }
 
