@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 의학 (Topic: Medicine)": [
+    {
+      "korean": "두통",
+      "english": "headache",
+      "example": "편두통이 심해서 두통약을 먹었는데도 잘 낫지 않았다.",
+      "example_en": "The migraine was so bad that even after taking headache medicine, it didn't get better."
+    },
+    {
+      "korean": "어지럼증",
+      "english": "dizziness; vertigo",
+      "example": "갑자기 어지럼증이 생겨서 잠깐 앉아서 쉬어야 했다.",
+      "example_en": "I suddenly felt dizzy and had to sit down and rest for a moment."
+    },
+    {
+      "korean": "구토",
+      "english": "vomiting; nausea and vomiting",
+      "example": "식중독에 걸려서 하루 종일 구토가 멈추지 않았다.",
+      "example_en": "I got food poisoning and couldn't stop vomiting all day."
+    },
+    {
+      "korean": "설사",
+      "english": "diarrhea",
+      "example": "상한 음식을 먹은 후 심한 설사 증세가 나타났다.",
+      "example_en": "After eating spoiled food, severe diarrhea symptoms appeared."
+    },
+    {
+      "korean": "부종",
+      "english": "swelling; edema",
+      "example": "다리에 부종이 심해져서 신장 검사를 받아 보기로 했다.",
+      "example_en": "The swelling in my legs got worse, so I decided to get a kidney exam."
+    },
+    {
+      "korean": "오한",
+      "english": "chills; shivering (from fever)",
+      "example": "고열과 함께 오한이 심하게 나서 이불을 덮어도 춥게 느껴졌다.",
+      "example_en": "I had severe chills along with a high fever and felt cold even under the blankets."
+    },
+    {
+      "korean": "발진",
+      "english": "rash; skin eruption",
+      "example": "새로운 약을 먹은 후 온몸에 발진이 돋았다.",
+      "example_en": "After taking the new medicine, a rash broke out all over my body."
+    },
+    {
+      "korean": "가려움증",
+      "english": "itching; pruritus",
+      "example": "알레르기 반응으로 피부에 가려움증이 생겼다.",
+      "example_en": "An allergic reaction caused itching on my skin."
+    },
+    {
+      "korean": "호흡곤란",
+      "english": "difficulty breathing; dyspnea",
+      "example": "천식 환자는 미세먼지가 심한 날에 호흡곤란을 겪을 수 있다.",
+      "example_en": "Asthma patients can experience difficulty breathing on days with heavy fine dust."
+    },
+    {
+      "korean": "피로감",
+      "english": "fatigue; feeling of tiredness",
+      "example": "만성적인 피로감이 계속되면 빈혈 검사를 받아 보는 게 좋다.",
+      "example_en": "If chronic fatigue persists, it's a good idea to get tested for anemia."
+    },
+    {
+      "korean": "폐",
+      "english": "lungs",
+      "example": "흡연은 폐에 직접적인 손상을 주는 가장 큰 원인이다.",
+      "example_en": "Smoking is the biggest cause of direct damage to the lungs."
+    },
+    {
+      "korean": "간",
+      "english": "liver (organ)",
+      "example": "과도한 음주는 간에 지방이 축적되는 지방간을 유발한다.",
+      "example_en": "Excessive drinking causes fatty liver, where fat accumulates in the liver."
+    },
+    {
+      "korean": "신장",
+      "english": "kidney",
+      "example": "신장 기능이 저하되면 노폐물이 제대로 배출되지 않는다.",
+      "example_en": "When kidney function declines, waste products are not properly excreted."
+    },
+    {
+      "korean": "위장",
+      "english": "stomach; gastrointestinal tract",
+      "example": "스트레스가 쌓이면 위장 장애가 생기기 쉽다.",
+      "example_en": "When stress builds up, gastrointestinal problems are likely to occur."
+    },
+    {
+      "korean": "대장",
+      "english": "large intestine; colon",
+      "example": "50세 이상이면 대장 내시경 검사를 정기적으로 받아야 한다.",
+      "example_en": "If you're over 50, you should get regular colonoscopy screenings."
+    },
+    {
+      "korean": "척추",
+      "english": "spine; vertebral column",
+      "example": "장시간 잘못된 자세로 앉으면 척추에 무리가 간다.",
+      "example_en": "Sitting in a bad posture for long periods puts strain on the spine."
+    },
+    {
+      "korean": "골수",
+      "english": "bone marrow",
+      "example": "백혈병 치료를 위해 골수 이식이 필요한 경우가 있다.",
+      "example_en": "In some cases, a bone marrow transplant is needed to treat leukemia."
+    },
+    {
+      "korean": "혈관",
+      "english": "blood vessel",
+      "example": "고혈압이 지속되면 혈관 벽이 손상되어 동맥경화가 올 수 있다.",
+      "example_en": "If high blood pressure persists, blood vessel walls can be damaged, leading to arteriosclerosis."
+    },
+    {
+      "korean": "림프절",
+      "english": "lymph node",
+      "example": "목 주위의 림프절이 부으면 감염이 의심된다.",
+      "example_en": "If the lymph nodes around the neck are swollen, an infection is suspected."
+    },
+    {
+      "korean": "갑상선",
+      "english": "thyroid gland",
+      "example": "갑상선 기능 항진증이 있으면 심장이 빨리 뛰고 체중이 줄어든다.",
+      "example_en": "With hyperthyroidism, the heart beats fast and weight decreases."
+    },
+    {
+      "korean": "항생제",
+      "english": "antibiotic",
+      "example": "항생제는 반드시 처방된 기간만큼 끝까지 복용해야 한다.",
+      "example_en": "Antibiotics must be taken for the full prescribed duration without stopping early."
+    },
+    {
+      "korean": "내시경",
+      "english": "endoscopy; endoscope",
+      "example": "위 내시경 검사를 하려면 전날 밤부터 금식해야 한다.",
+      "example_en": "To get a stomach endoscopy, you need to fast from the night before."
+    },
+    {
+      "korean": "봉합",
+      "english": "suturing; stitching (a wound)",
+      "example": "상처가 깊어서 여덟 바늘을 봉합해야 했다.",
+      "example_en": "The wound was deep, so eight stitches were needed to suture it."
+    },
+    {
+      "korean": "방사선 치료",
+      "english": "radiation therapy; radiotherapy",
+      "example": "암 환자가 수술 후 방사선 치료를 병행하는 경우가 많다.",
+      "example_en": "Many cancer patients undergo radiation therapy in conjunction with surgery."
+    },
+    {
+      "korean": "수혈",
+      "english": "blood transfusion",
+      "example": "수술 중 출혈이 심해서 긴급 수혈이 필요했다.",
+      "example_en": "Bleeding was severe during surgery, so an emergency blood transfusion was needed."
+    },
+    {
+      "korean": "물리치료",
+      "english": "physical therapy; physiotherapy",
+      "example": "무릎 수술 후에 꾸준히 물리치료를 받아야 회복이 빠르다.",
+      "example_en": "After knee surgery, consistent physical therapy is needed for a fast recovery."
+    },
+    {
+      "korean": "접종",
+      "english": "vaccination; inoculation",
+      "example": "매년 가을에 독감 예방 접종을 맞는 것이 권장된다.",
+      "example_en": "It is recommended to get a flu vaccination every autumn."
+    },
+    {
+      "korean": "절개",
+      "english": "incision; surgical cut",
+      "example": "최소 절개 수술은 회복 기간이 짧고 흉터가 작다.",
+      "example_en": "Minimally invasive surgery has a shorter recovery period and smaller scars."
+    },
+    {
+      "korean": "생검",
+      "english": "biopsy",
+      "example": "조직 생검 결과가 나오기까지 일주일 정도 걸린다고 했다.",
+      "example_en": "They said it would take about a week for the biopsy results to come out."
+    },
+    {
+      "korean": "투석",
+      "english": "dialysis",
+      "example": "신장 기능이 많이 떨어져서 일주일에 세 번 투석을 받고 있다.",
+      "example_en": "My kidney function has declined significantly, so I'm receiving dialysis three times a week."
+    },
+    {
+      "korean": "어디가 불편하세요?",
+      "english": "What seems to be the problem? (lit. Where are you uncomfortable?)",
+      "example": "접수를 마치고 진료실에 들어가자 의사가 \"어디가 불편하세요?\"라고 물었다.",
+      "example_en": "After checking in and entering the exam room, the doctor asked, \"What seems to be the problem?\""
+    },
+    {
+      "korean": "경과를 지켜보다",
+      "english": "to monitor the progress; to observe how things develop",
+      "example": "당장 수술할 단계는 아니니 한 달간 경과를 지켜보기로 했다.",
+      "example_en": "It's not at the stage requiring immediate surgery, so we decided to monitor the progress for a month."
+    },
+    {
+      "korean": "정밀 검사를 받다",
+      "english": "to undergo a detailed examination; to get further testing",
+      "example": "건강 검진에서 이상 소견이 나와서 정밀 검사를 받으러 대학 병원에 갔다.",
+      "example_en": "An abnormality was found during the health checkup, so I went to a university hospital for further testing."
+    },
+    {
+      "korean": "금식",
+      "english": "fasting (before a medical procedure)",
+      "example": "내시경 검사 전에 최소 8시간 금식을 지켜야 합니다.",
+      "example_en": "You must fast for at least 8 hours before an endoscopy."
+    },
+    {
+      "korean": "소견서",
+      "english": "medical opinion letter; doctor's written assessment",
+      "example": "보험 청구를 위해 담당 의사에게 소견서를 발급받았다.",
+      "example_en": "I got a medical opinion letter issued by my doctor for the insurance claim."
+    },
+    {
+      "korean": "회진을 돌다",
+      "english": "to make hospital rounds (doctor visiting patients)",
+      "example": "담당 교수님이 매일 아침 회진을 돌며 환자 상태를 확인한다.",
+      "example_en": "The attending professor makes rounds every morning to check on patients' conditions."
+    },
+    {
+      "korean": "퇴원 수속을 밟다",
+      "english": "to go through discharge procedures (from hospital)",
+      "example": "상태가 호전되어 내일 퇴원 수속을 밟기로 했다.",
+      "example_en": "My condition improved, so we decided to go through the discharge procedures tomorrow."
+    },
+    {
+      "korean": "재진 예약을 잡다",
+      "english": "to schedule a follow-up appointment",
+      "example": "이번 치료 후 2주 뒤에 재진 예약을 잡으라고 하셨다.",
+      "example_en": "The doctor told me to schedule a follow-up appointment for two weeks after this treatment."
+    },
+    {
+      "korean": "입원 절차",
+      "english": "hospital admission procedures",
+      "example": "응급실에서 상태를 확인한 후 바로 입원 절차를 진행했다.",
+      "example_en": "After checking the condition in the emergency room, we proceeded with the hospital admission procedures right away."
+    },
+    {
+      "korean": "처방전을 받다",
+      "english": "to receive a prescription",
+      "example": "진료를 마치고 약국에 제출할 처방전을 받았다.",
+      "example_en": "After the appointment, I received a prescription to submit to the pharmacy."
+    }
+  ]
+}

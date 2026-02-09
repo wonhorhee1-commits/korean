@@ -1,0 +1,244 @@
+{
+  "고급 형용사 (Advanced Adjectives)": [
+    {
+      "korean": "까칠하다",
+      "english": "prickly, irritable; describes someone whose demeanor is rough and easily annoyed",
+      "example": "그 사람이 까칠해 보여도 알고 보면 속은 따뜻해요.",
+      "example_en": "He may look prickly, but once you get to know him, he's warm inside."
+    },
+    {
+      "korean": "다소곳하다",
+      "english": "demure, gentle and reserved; quietly modest in manner",
+      "example": "그녀는 다소곳한 태도로 인사를 건넸다.",
+      "example_en": "She greeted them in a demure and gentle manner."
+    },
+    {
+      "korean": "도도하다",
+      "english": "aloof, proudly elegant; carries oneself with cool self-assurance",
+      "example": "그녀는 도도한 분위기를 풍기지만 친해지면 정이 많다.",
+      "example_en": "She gives off an aloof vibe, but she's very affectionate once you get close."
+    },
+    {
+      "korean": "싹싹하다",
+      "english": "friendly and sociable; pleasant and accommodating in social situations",
+      "example": "새로 온 동료가 싹싹해서 금방 팀에 녹아들었다.",
+      "example_en": "The new colleague was so friendly that they quickly blended into the team."
+    },
+    {
+      "korean": "점잖다",
+      "english": "dignified, composed; behaving with calm propriety befitting one's status or age",
+      "example": "아버지는 항상 점잖은 말투로 조언을 해주셨다.",
+      "example_en": "My father always gave advice in a dignified tone."
+    },
+    {
+      "korean": "치사하다",
+      "english": "petty, cheap; describes behavior that is beneath one's dignity or meanly calculating",
+      "example": "몇 백 원 가지고 따지다니 너무 치사하지 않아?",
+      "example_en": "Isn't it too petty to argue over a few hundred won?"
+    },
+    {
+      "korean": "너그럽다",
+      "english": "magnanimous, broad-minded; generously forgiving of others' faults",
+      "example": "그분은 실수에 대해 항상 너그럽게 넘어가 주신다.",
+      "example_en": "That person always magnanimously lets mistakes slide."
+    },
+    {
+      "korean": "우직하다",
+      "english": "stubbornly sincere, doggedly honest; straightforward to the point of seeming simple",
+      "example": "그는 우직한 성격 덕분에 주변 사람들의 신뢰를 얻었다.",
+      "example_en": "His stubbornly sincere character earned the trust of those around him."
+    },
+    {
+      "korean": "진중하다",
+      "english": "serious and composed; thoughtfully deliberate, not rash",
+      "example": "중요한 결정일수록 진중한 태도가 필요하다.",
+      "example_en": "The more important the decision, the more a composed and deliberate attitude is needed."
+    },
+    {
+      "korean": "교활하다",
+      "english": "cunning, sly; deceptively clever in a manipulative way",
+      "example": "그 정치인은 교활한 수법으로 여론을 자기편으로 돌렸다.",
+      "example_en": "The politician used cunning tactics to sway public opinion in his favor."
+    },
+    {
+      "korean": "을씨년스럽다",
+      "english": "dreary, bleak; describes a scene or atmosphere that feels desolately cold and gloomy",
+      "example": "가을비가 내리니 거리가 을씨년스러워졌다.",
+      "example_en": "With the autumn rain falling, the streets became dreary and bleak."
+    },
+    {
+      "korean": "음산하다",
+      "english": "eerie, gloomy; giving off a dark, unsettling atmosphere",
+      "example": "안개가 자욱한 산길이 음산한 느낌을 줬다.",
+      "example_en": "The fog-shrouded mountain path gave off an eerie feeling."
+    },
+    {
+      "korean": "화기애애하다",
+      "english": "warm and harmonious; describes a pleasantly friendly and peaceful atmosphere",
+      "example": "명절에 온 가족이 모여 화기애애한 분위기 속에서 식사를 했다.",
+      "example_en": "During the holiday, the whole family gathered and ate in a warm, harmonious atmosphere."
+    },
+    {
+      "korean": "삭막하다",
+      "english": "desolate, barren; lacking warmth or vitality, emotionally or physically bleak",
+      "example": "고층 빌딩만 가득한 도심이 삭막하게 느껴졌다.",
+      "example_en": "The downtown area, filled only with high-rises, felt desolate."
+    },
+    {
+      "korean": "어수선하다",
+      "english": "chaotic, disorderly; describes a scene or situation that is messy and unsettled",
+      "example": "사건 직후 사무실 분위기가 매우 어수선했다.",
+      "example_en": "The office atmosphere was very chaotic right after the incident."
+    },
+    {
+      "korean": "적막하다",
+      "english": "silent and desolate; an almost oppressive quietness with no signs of life",
+      "example": "새벽 두 시, 도시 전체가 적막한 정적에 잠겨 있었다.",
+      "example_en": "At two in the morning, the entire city was submerged in desolate silence."
+    },
+    {
+      "korean": "스산하다",
+      "english": "chilly and bleak; a cold, forlorn atmosphere that makes one uneasy",
+      "example": "겨울바람이 불어 폐공장 주변이 스산한 분위기였다.",
+      "example_en": "The winter wind blew, creating a chilly, bleak atmosphere around the abandoned factory."
+    },
+    {
+      "korean": "흉흉하다",
+      "english": "unsettling, ominous; describes a tense social atmosphere full of anxiety or rumors",
+      "example": "연쇄 사건 이후 동네 분위기가 흉흉해졌다.",
+      "example_en": "After the string of incidents, the neighborhood atmosphere became unsettling."
+    },
+    {
+      "korean": "번잡하다",
+      "english": "bustling, crowded and noisy; hectic with too many people or things going on",
+      "example": "명동 거리는 주말마다 관광객으로 번잡하다.",
+      "example_en": "Myeongdong streets are bustling with tourists every weekend."
+    },
+    {
+      "korean": "훈훈하다",
+      "english": "heartwarming; also literally warm and cozy, used for feel-good stories or atmospheres",
+      "example": "낯선 사람이 할머니의 짐을 들어주는 훈훈한 장면이 화제가 됐다.",
+      "example_en": "The heartwarming scene of a stranger carrying the elderly woman's bags became a hot topic."
+    },
+    {
+      "korean": "탁월하다",
+      "english": "outstanding, excellent; far surpassing others in ability or quality",
+      "example": "그 연구원은 탁월한 분석력으로 문제의 원인을 짚어냈다.",
+      "example_en": "The researcher pinpointed the cause of the problem with outstanding analytical skills."
+    },
+    {
+      "korean": "미흡하다",
+      "english": "insufficient, inadequate; falling short of what is needed or expected",
+      "example": "이번 대응은 국민의 기대에 미흡했다는 평가를 받았다.",
+      "example_en": "This response was evaluated as falling short of public expectations."
+    },
+    {
+      "korean": "출중하다",
+      "english": "distinguished, exceptional; standing out noticeably above the rest",
+      "example": "출중한 외모와 실력을 겸비한 배우가 주목받고 있다.",
+      "example_en": "An actor who possesses both exceptional looks and skill is drawing attention."
+    },
+    {
+      "korean": "노골적이다",
+      "english": "blatant, overt; shamelessly unconcealed, with no attempt to hide intentions",
+      "example": "상대 팀의 노골적인 시간 끌기에 관중들이 야유를 보냈다.",
+      "example_en": "The crowd booed the opposing team's blatant time-wasting."
+    },
+    {
+      "korean": "미비하다",
+      "english": "incomplete, deficient; lacking necessary elements or preparation",
+      "example": "법적 장치가 미비하여 피해자 보호가 제대로 이루어지지 않았다.",
+      "example_en": "Due to deficient legal safeguards, victim protection was not properly carried out."
+    },
+    {
+      "korean": "치졸하다",
+      "english": "crude, clumsy; lacking sophistication, especially in schemes or execution",
+      "example": "치졸한 거짓말은 오히려 신뢰를 무너뜨릴 뿐이다.",
+      "example_en": "Crude lies only end up destroying trust."
+    },
+    {
+      "korean": "방대하다",
+      "english": "vast, enormous in scale; used for data, content, or scope that is immensely large",
+      "example": "방대한 양의 자료를 분석하는 데 몇 달이 걸렸다.",
+      "example_en": "It took several months to analyze the vast amount of data."
+    },
+    {
+      "korean": "조잡하다",
+      "english": "crude, sloppy; poorly made or lacking refinement in quality",
+      "example": "디자인이 조잡해서 소비자들의 외면을 받았다.",
+      "example_en": "The design was so sloppy that consumers turned away from it."
+    },
+    {
+      "korean": "현저하다",
+      "english": "remarkable, conspicuous; noticeably prominent, often used with differences or changes",
+      "example": "두 집단 간 학업 성취도에 현저한 차이가 나타났다.",
+      "example_en": "A conspicuous difference in academic achievement appeared between the two groups."
+    },
+    {
+      "korean": "어처구니없다",
+      "english": "absurd, preposterous; so ridiculous that one is left speechless",
+      "example": "어처구니없는 실수로 승진 기회를 날려 버렸다.",
+      "example_en": "An absurd mistake cost him his chance at promotion."
+    },
+    {
+      "korean": "숭고하다",
+      "english": "sublime, noble; exalted to the highest moral or spiritual level",
+      "example": "자신을 희생하여 남을 구한 숭고한 행동에 모두 숙연해졌다.",
+      "example_en": "Everyone was humbled by the sublime act of sacrificing oneself to save others."
+    },
+    {
+      "korean": "심오하다",
+      "english": "profound, deep; intellectually deep and not easily grasped on the surface",
+      "example": "그 철학자의 사상은 심오하여 한 번에 이해하기 어렵다.",
+      "example_en": "That philosopher's ideas are so profound that they are hard to understand at once."
+    },
+    {
+      "korean": "오묘하다",
+      "english": "subtle, mysteriously intricate; delicately complex in a way that defies easy explanation",
+      "example": "자연의 오묘한 질서 앞에서 인간은 겸허해진다.",
+      "example_en": "Before the mysteriously intricate order of nature, humans become humble."
+    },
+    {
+      "korean": "덧없다",
+      "english": "fleeting, transient; passing quickly and leaving nothing behind",
+      "example": "젊음이 이토록 덧없을 줄은 몰랐다.",
+      "example_en": "I never knew youth could be this fleeting."
+    },
+    {
+      "korean": "무상하다",
+      "english": "impermanent, transient; nothing in the world lasts — a Buddhist-tinged philosophical term",
+      "example": "인생이 무상하다는 걸 깨달은 후 하루하루에 감사하게 됐다.",
+      "example_en": "After realizing that life is impermanent, I became grateful for each day."
+    },
+    {
+      "korean": "자명하다",
+      "english": "self-evident, obvious; so clear that no proof or explanation is needed",
+      "example": "준비 없이 성공할 수 없다는 건 자명한 사실이다.",
+      "example_en": "It is a self-evident fact that one cannot succeed without preparation."
+    },
+    {
+      "korean": "피상적이다",
+      "english": "superficial; remaining on the surface without deeper understanding or engagement",
+      "example": "피상적인 분석으로는 문제의 본질을 파악할 수 없다.",
+      "example_en": "A superficial analysis cannot grasp the essence of the problem."
+    },
+    {
+      "korean": "근원적이다",
+      "english": "fundamental, root-level; pertaining to the deepest origin or cause of something",
+      "example": "사회 불평등의 근원적인 해결책을 모색해야 한다.",
+      "example_en": "We must seek a fundamental solution to social inequality."
+    },
+    {
+      "korean": "필연적이다",
+      "english": "inevitable, necessary; bound to happen as a logical or natural consequence",
+      "example": "기술이 발전하면 산업 구조의 변화는 필연적이다.",
+      "example_en": "As technology advances, changes in industrial structure are inevitable."
+    },
+    {
+      "korean": "모호하다",
+      "english": "ambiguous, vague; unclear in meaning or boundaries, open to multiple interpretations",
+      "example": "정부의 모호한 입장 때문에 국민들의 혼란이 가중되었다.",
+      "example_en": "The government's ambiguous stance deepened public confusion."
+    }
+  ]
+}

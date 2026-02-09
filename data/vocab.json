@@ -6897,5 +6897,1457 @@
       "example": "나도 제 코가 석 자라 남을 도와줄 여유가 없다.",
       "example_en": "I'm too swamped with my own problems to have any room to help others."
     }
+  ],
+  "연어 (Collocations)": [
+    {
+      "korean": "결정을 내리다",
+      "english": "to make a decision",
+      "example": "더 이상 미룰 수 없어서 오늘 안에 결정을 내리기로 했다.",
+      "example_en": "I couldn't put it off any longer, so I decided to make a decision by today."
+    },
+    {
+      "korean": "조치를 취하다",
+      "english": "to take measures/action",
+      "example": "문제가 커지기 전에 빠르게 조치를 취해야 한다.",
+      "example_en": "We need to take action quickly before the problem gets worse."
+    },
+    {
+      "korean": "책임을 지다",
+      "english": "to bear/take responsibility",
+      "example": "팀장으로서 이번 실패에 대해 책임을 지겠습니다.",
+      "example_en": "As the team leader, I will take responsibility for this failure."
+    },
+    {
+      "korean": "결론을 내리다",
+      "english": "to reach/draw a conclusion",
+      "example": "몇 시간 동안 토론한 끝에 드디어 결론을 내렸다.",
+      "example_en": "After debating for several hours, we finally reached a conclusion."
+    },
+    {
+      "korean": "결심을 굳히다",
+      "english": "to firm up one's resolve",
+      "example": "여러 번 고민한 끝에 유학을 가겠다는 결심을 굳혔다.",
+      "example_en": "After agonizing over it many times, I firmed up my resolve to study abroad."
+    },
+    {
+      "korean": "행동에 옮기다",
+      "english": "to put into action; to act on something",
+      "example": "계획만 세우지 말고 이제 행동에 옮길 때다.",
+      "example_en": "Stop just making plans — it's time to put them into action."
+    },
+    {
+      "korean": "대책을 세우다",
+      "english": "to devise countermeasures; to come up with a plan",
+      "example": "홍수 피해를 줄이기 위해 정부가 대책을 세우고 있다.",
+      "example_en": "The government is devising countermeasures to reduce flood damage."
+    },
+    {
+      "korean": "발판을 마련하다",
+      "english": "to lay the groundwork; to create a stepping stone",
+      "example": "이번 프로젝트가 해외 진출의 발판을 마련해 줄 것이다.",
+      "example_en": "This project will lay the groundwork for expanding overseas."
+    },
+    {
+      "korean": "계획을 세우다",
+      "english": "to make/draw up a plan",
+      "example": "새해가 되면 항상 거창한 계획을 세우지만 작심삼일로 끝난다.",
+      "example_en": "Every New Year I draw up grand plans, but they never last more than three days."
+    },
+    {
+      "korean": "목표를 세우다",
+      "english": "to set a goal",
+      "example": "올해는 현실적인 목표를 세우고 꾸준히 실천하려고 한다.",
+      "example_en": "This year I plan to set realistic goals and follow through consistently."
+    },
+    {
+      "korean": "화를 삭이다",
+      "english": "to swallow/suppress one's anger",
+      "example": "회의 중에 화가 났지만 꾹 참고 화를 삭였다.",
+      "example_en": "I got angry during the meeting, but I held it in and suppressed my anger."
+    },
+    {
+      "korean": "감정을 추스르다",
+      "english": "to collect/compose one's emotions",
+      "example": "나쁜 소식을 듣고 한참 동안 감정을 추스르지 못했다.",
+      "example_en": "After hearing the bad news, I couldn't compose my emotions for a long time."
+    },
+    {
+      "korean": "눈물을 참다",
+      "english": "to hold back tears",
+      "example": "졸업식에서 눈물을 참으려고 했는데 결국 울고 말았다.",
+      "example_en": "I tried to hold back tears at the graduation ceremony, but I ended up crying."
+    },
+    {
+      "korean": "마음을 먹다",
+      "english": "to make up one's mind; to set one's heart on",
+      "example": "마음을 먹으면 뭐든 해내는 사람이라 걱정 안 해.",
+      "example_en": "She's the type who accomplishes anything once she sets her mind to it, so I'm not worried."
+    },
+    {
+      "korean": "한숨을 쉬다",
+      "english": "to let out a sigh",
+      "example": "월급 명세서를 보고 나도 모르게 한숨을 쉬었다.",
+      "example_en": "I looked at my pay stub and let out a sigh without realizing it."
+    },
+    {
+      "korean": "속을 끓이다",
+      "english": "to be inwardly troubled; to stew with worry",
+      "example": "아이가 늦게까지 안 들어와서 부모님이 속을 끓이고 계셨다.",
+      "example_en": "The parents were stewing with worry because the child hadn't come home late into the night."
+    },
+    {
+      "korean": "울분을 토하다",
+      "english": "to vent one's pent-up frustration/rage",
+      "example": "부당하게 해고된 직원들이 기자회견에서 울분을 토했다.",
+      "example_en": "The unfairly fired employees vented their rage at the press conference."
+    },
+    {
+      "korean": "용기를 내다",
+      "english": "to muster/summon courage",
+      "example": "떨리는 마음을 누르고 용기를 내서 고백했다.",
+      "example_en": "I pushed down my trembling heart, mustered my courage, and confessed."
+    },
+    {
+      "korean": "마음을 잡다",
+      "english": "to pull oneself together; to get a grip",
+      "example": "방황하다가 서른이 넘어서야 마음을 잡고 공부를 시작했다.",
+      "example_en": "After drifting aimlessly, I finally pulled myself together and started studying past thirty."
+    },
+    {
+      "korean": "기분을 풀다",
+      "english": "to cheer up; to shake off a bad mood",
+      "example": "기분을 풀려고 친구랑 맛있는 거 먹으러 나갔다.",
+      "example_en": "I went out to eat something good with a friend to cheer myself up."
+    },
+    {
+      "korean": "실력을 쌓다",
+      "english": "to build up one's skills/competence",
+      "example": "지름길은 없다 — 매일 꾸준히 해야 실력을 쌓을 수 있다.",
+      "example_en": "There are no shortcuts — you can only build your skills by practicing steadily every day."
+    },
+    {
+      "korean": "경력을 쌓다",
+      "english": "to build up one's career/experience",
+      "example": "대기업에서 5년간 경력을 쌓은 뒤 창업에 도전했다.",
+      "example_en": "After building up five years of experience at a large company, I took the plunge and started my own business."
+    },
+    {
+      "korean": "자리를 잡다",
+      "english": "to settle in; to establish oneself",
+      "example": "이민 간 지 3년 만에 겨우 자리를 잡았다.",
+      "example_en": "It took three years after immigrating to finally get settled."
+    },
+    {
+      "korean": "야근을 하다",
+      "english": "to work overtime (at night)",
+      "example": "이번 주 내내 야근을 해서 몸이 축나는 게 느껴진다.",
+      "example_en": "I've been working overtime all week and I can feel my body wearing down."
+    },
+    {
+      "korean": "사표를 내다",
+      "english": "to submit one's resignation",
+      "example": "더 이상 버틸 수 없어서 결국 사표를 냈다.",
+      "example_en": "I couldn't take it anymore, so I finally submitted my resignation."
+    },
+    {
+      "korean": "성과를 거두다",
+      "english": "to achieve results; to reap outcomes",
+      "example": "6개월간의 노력 끝에 눈에 띄는 성과를 거두었다.",
+      "example_en": "After six months of effort, we achieved noticeable results."
+    },
+    {
+      "korean": "일을 맡다",
+      "english": "to take on a task/duty",
+      "example": "이번에 신입이 들어와서 내가 교육하는 일을 맡게 됐다.",
+      "example_en": "A new hire joined, so I was assigned the task of training them."
+    },
+    {
+      "korean": "직장을 구하다",
+      "english": "to look for/find a job",
+      "example": "졸업하고 6개월 동안 직장을 구하느라 정신이 없었다.",
+      "example_en": "For six months after graduating, I was frantic trying to find a job."
+    },
+    {
+      "korean": "인정을 받다",
+      "english": "to gain recognition; to be acknowledged",
+      "example": "묵묵히 일한 덕분에 드디어 상사에게 인정을 받았다.",
+      "example_en": "Thanks to working quietly and diligently, I was finally recognized by my boss."
+    },
+    {
+      "korean": "실수를 만회하다",
+      "english": "to make up for a mistake; to recover from an error",
+      "example": "프레젠테이션에서 실수를 했지만 질의응답에서 만회했다.",
+      "example_en": "I made a mistake during the presentation, but I made up for it during the Q&A."
+    },
+    {
+      "korean": "사이가 벌어지다",
+      "english": "to grow apart; for a rift to develop",
+      "example": "사소한 오해가 쌓이면서 둘 사이가 점점 벌어졌다.",
+      "example_en": "As small misunderstandings piled up, the two gradually grew apart."
+    },
+    {
+      "korean": "관계를 맺다",
+      "english": "to form/establish a relationship",
+      "example": "거래처와 신뢰를 바탕으로 좋은 관계를 맺는 게 중요하다.",
+      "example_en": "It's important to form a good relationship with clients based on trust."
+    },
+    {
+      "korean": "인연을 맺다",
+      "english": "to form a bond/connection (often fateful)",
+      "example": "대학교 동아리에서 인연을 맺은 친구와 아직도 연락하고 지낸다.",
+      "example_en": "I still keep in touch with a friend I formed a bond with in a college club."
+    },
+    {
+      "korean": "사이가 틀어지다",
+      "english": "to have a falling out; for a relationship to sour",
+      "example": "돈 문제로 10년 지기 친구와 사이가 틀어졌다.",
+      "example_en": "I had a falling out with a friend of ten years over a money issue."
+    },
+    {
+      "korean": "마음을 열다",
+      "english": "to open one's heart; to let someone in",
+      "example": "처음에는 경계했지만 시간이 지나면서 서서히 마음을 열었다.",
+      "example_en": "At first I was guarded, but as time passed I gradually opened my heart."
+    },
+    {
+      "korean": "연락을 끊다",
+      "english": "to cut off contact",
+      "example": "헤어진 뒤로 깔끔하게 연락을 끊었다.",
+      "example_en": "After the breakup, I cut off contact cleanly."
+    },
+    {
+      "korean": "약속을 지키다",
+      "english": "to keep a promise",
+      "example": "아무리 사소해도 약속을 지키는 사람이 진짜 믿을 만하다.",
+      "example_en": "A person who keeps promises, no matter how small, is truly trustworthy."
+    },
+    {
+      "korean": "오해를 풀다",
+      "english": "to clear up a misunderstanding",
+      "example": "직접 만나서 이야기하니까 금방 오해를 풀 수 있었다.",
+      "example_en": "Once we met in person and talked, we were able to clear up the misunderstanding quickly."
+    },
+    {
+      "korean": "신뢰를 쌓다",
+      "english": "to build trust",
+      "example": "신뢰를 쌓는 데는 오래 걸리지만 무너지는 건 한순간이다.",
+      "example_en": "Building trust takes a long time, but it can crumble in an instant."
+    },
+    {
+      "korean": "소식을 전하다",
+      "english": "to deliver/share news",
+      "example": "고향에 계신 부모님께 합격 소식을 전하니 많이 기뻐하셨다.",
+      "example_en": "When I shared the news of my acceptance with my parents back home, they were overjoyed."
+    }
+  ],
+  "구어체 (Colloquial)": [
+    {
+      "korean": "헐",
+      "english": "Expression of shock or disbelief, like 'whoa' or 'oh my god.' Used when something unexpected or absurd happens.",
+      "example": "헐, 걔가 회사 그만뒀다고? 입사한 지 일주일밖에 안 됐잖아.",
+      "example_en": "Whoa, he quit the company? It's only been a week since he started."
+    },
+    {
+      "korean": "아이고",
+      "english": "Versatile exclamation expressing frustration, exhaustion, sympathy, or mild pain. Used across all ages and situations.",
+      "example": "아이고, 허리야. 하루 종일 앉아 있었더니 온몸이 쑤셔.",
+      "example_en": "Oh my, my back. I've been sitting all day and my whole body aches."
+    },
+    {
+      "korean": "어머",
+      "english": "Exclamation of surprise (slightly feminine). Used for unexpected discoveries or mild shock.",
+      "example": "어머, 이게 누구야! 여기서 만날 줄이야.",
+      "example_en": "Oh my, who is this! I never expected to run into you here."
+    },
+    {
+      "korean": "세상에",
+      "english": "'Good heavens' or 'oh my goodness.' Expresses strong surprise or disbelief at something remarkable.",
+      "example": "세상에, 십 년 만에 연락이 오다니. 너무 반갑다.",
+      "example_en": "Good heavens, getting a call after ten years. I'm so glad to hear from you."
+    },
+    {
+      "korean": "말도 안 돼",
+      "english": "'That's absurd' or 'no way.' Used when something seems impossible or unbelievable.",
+      "example": "그 식당 웨이팅이 세 시간이래. 말도 안 돼, 그냥 다른 데 가자.",
+      "example_en": "They say the wait at that restaurant is three hours. That's absurd, let's just go somewhere else."
+    },
+    {
+      "korean": "웬일이야",
+      "english": "'What brings you here?' or 'what a rare occasion.' Used when someone does something unexpected or out of character.",
+      "example": "네가 아침에 일찍 일어나다니, 웬일이야? 무슨 일 있어?",
+      "example_en": "You're up early in the morning — what's the occasion? Is something going on?"
+    },
+    {
+      "korean": "그럴 리가",
+      "english": "'That can't be' or 'no way.' Expresses disbelief or denial that something is true.",
+      "example": "시험에 떨어졌다고? 그럴 리가. 네가 얼마나 열심히 했는데.",
+      "example_en": "You failed the exam? That can't be. You worked so hard for it."
+    },
+    {
+      "korean": "어쩜 이렇게",
+      "english": "'How can it be like this?' Expresses admiration, surprise, or sometimes frustration at an extreme quality.",
+      "example": "어쩜 이렇게 맛있지? 이 집 비빔밥은 진짜 예술이다.",
+      "example_en": "How can it be this good? The bibimbap here is truly a work of art."
+    },
+    {
+      "korean": "뭐야 이게",
+      "english": "'What is this?' Reaction of confusion, disgust, or disbelief at something right in front of you.",
+      "example": "뭐야 이게, 택배가 완전히 찌그러져서 왔네. 항의해야겠다.",
+      "example_en": "What is this — the package arrived completely crushed. I need to file a complaint."
+    },
+    {
+      "korean": "어이가 없다",
+      "english": "'I'm dumbfounded' or 'I can't believe this.' Stronger than simple surprise; implies the situation is absurd or outrageous.",
+      "example": "내가 줄 서 있었는데 새치기를 하더라. 진짜 어이가 없어서 말이 안 나왔어.",
+      "example_en": "I was standing in line and someone cut in front of me. I was so dumbfounded I couldn't even speak."
+    },
+    {
+      "korean": "좀 그렇다",
+      "english": "Euphemistic way to say something is uncomfortable, awkward, or not great. Used to soften refusals or negative opinions.",
+      "example": "그 날 약속은 좀 그런데, 다른 날은 안 될까?",
+      "example_en": "That day is a bit difficult for me — would another day work?"
+    },
+    {
+      "korean": "글쎄요",
+      "english": "'Hmm, well...' or 'I'm not so sure.' Non-committal response when you don't want to give a definite answer.",
+      "example": "\"이번 프로젝트 성공할 수 있을까요?\" \"글쎄요, 아직 변수가 많아서 뭐라 말하기 어렵네요.\"",
+      "example_en": "\"Do you think this project can succeed?\" \"Well... there are still a lot of variables, so it's hard to say.\""
+    },
+    {
+      "korean": "그렇긴 한데",
+      "english": "'That's true, but...' Acknowledges someone's point while signaling disagreement or a reservation is coming.",
+      "example": "그렇긴 한데, 현실적으로 그게 가능할까? 예산도 부족하잖아.",
+      "example_en": "That's true, but is it realistically possible? We don't even have the budget."
+    },
+    {
+      "korean": "말이 좀 그런데",
+      "english": "'This might sound weird/rude, but...' Preface before saying something potentially awkward or blunt.",
+      "example": "말이 좀 그런데, 그 사람이랑 같이 일하기 좀 힘들지 않아?",
+      "example_en": "This might sound a bit off, but isn't it kind of hard working with that person?"
+    },
+    {
+      "korean": "어떻게 보면",
+      "english": "'Depending on how you look at it' or 'in a way.' Used to offer an alternative perspective or soften a statement.",
+      "example": "어떻게 보면 오히려 잘된 거야. 그 회사 얼마 후에 망했잖아.",
+      "example_en": "In a way, it actually worked out for the better. That company went under not long after."
+    },
+    {
+      "korean": "뭐 그럴 수도 있지",
+      "english": "'Well, I suppose that's possible' or 'that can happen.' Casual acceptance or concession, sometimes reluctant.",
+      "example": "실수한 거에 대해 사과했대. 뭐 그럴 수도 있지, 누구나 실수하니까.",
+      "example_en": "He said he apologized for the mistake. Well, that can happen — everyone makes mistakes."
+    },
+    {
+      "korean": "솔직히 말하면",
+      "english": "'To be honest' or 'frankly speaking.' Used before delivering a candid opinion, often one the listener might not want to hear.",
+      "example": "솔직히 말하면 나도 별로 기대 안 했는데, 의외로 재밌더라.",
+      "example_en": "To be honest, I wasn't expecting much either, but it was surprisingly fun."
+    },
+    {
+      "korean": "내가 보기엔",
+      "english": "'The way I see it' or 'in my opinion.' Introduces a personal assessment, slightly hedged to avoid sounding too assertive.",
+      "example": "내가 보기엔 아직 준비가 덜 된 것 같아. 조금 더 다듬는 게 어때?",
+      "example_en": "The way I see it, it doesn't seem quite ready yet. How about polishing it a bit more?"
+    },
+    {
+      "korean": "괜히",
+      "english": "'For no good reason' or 'unnecessarily.' Expresses regret about a pointless action or an inexplicable feeling.",
+      "example": "괜히 말했나 봐. 분위기가 갑자기 어색해졌어.",
+      "example_en": "I guess I shouldn't have said anything. The mood suddenly got awkward."
+    },
+    {
+      "korean": "말하기 좀 뭐하지만",
+      "english": "'It's a bit awkward to say this, but...' Polite preface before saying something delicate or potentially unwelcome.",
+      "example": "말하기 좀 뭐하지만, 네 발표 자료에 오타가 좀 많아.",
+      "example_en": "It's a bit awkward to say this, but there are quite a few typos in your presentation materials."
+    },
+    {
+      "korean": "죽겠다",
+      "english": "'I'm dying (of...).' Hyperbolic suffix expressing an extreme state — hunger, tiredness, boredom, heat, etc.",
+      "example": "배고파 죽겠다. 점심 안 먹었더니 정말 쓰러질 것 같아.",
+      "example_en": "I'm starving to death. I skipped lunch and I feel like I'm going to collapse."
+    },
+    {
+      "korean": "장난 아니다",
+      "english": "'It's no joke' or 'it's seriously intense.' Emphasizes that something is extreme in degree — positively or negatively.",
+      "example": "오늘 추위 장난 아니다. 나가자마자 후회했어.",
+      "example_en": "The cold today is no joke. I regretted it the moment I stepped outside."
+    },
+    {
+      "korean": "미치겠다",
+      "english": "'It's driving me crazy.' Expresses overwhelming frustration, stress, or sometimes excitement.",
+      "example": "옆집에서 새벽 두 시까지 노래를 불러. 미치겠다, 진짜.",
+      "example_en": "The neighbors are singing until 2 AM. It's driving me insane, honestly."
+    },
+    {
+      "korean": "끝내주다",
+      "english": "'It's amazing' or 'unbeatable.' Strong compliment meaning something is exceptionally good.",
+      "example": "이 집 갈비탕 끝내준다. 여기 자주 와야겠다.",
+      "example_en": "The galbitang here is incredible. I should come here more often."
+    },
+    {
+      "korean": "한두 번이 아니다",
+      "english": "'It's not just once or twice.' Emphasizes that something has happened repeatedly, implying frustration or a pattern.",
+      "example": "그 사람이 약속을 어긴 게 한두 번이 아니야. 이제 못 믿겠어.",
+      "example_en": "It's not just once or twice that he's broken promises. I can't trust him anymore."
+    },
+    {
+      "korean": "말이 되냐",
+      "english": "'Does that even make sense?' Rhetorical question expressing that something is completely unreasonable.",
+      "example": "월급은 그대로인데 일만 두 배로 늘었어. 이게 말이 되냐?",
+      "example_en": "My salary is the same but the workload doubled. Does that even make sense?"
+    },
+    {
+      "korean": "얼마나 ~는지 모르다",
+      "english": "'You have no idea how much...' Emphasizes an extreme degree of something that's hard to convey.",
+      "example": "그 소식 듣고 얼마나 기뻤는지 몰라. 눈물이 날 뻔했어.",
+      "example_en": "You have no idea how happy I was to hear that news. I almost cried."
+    },
+    {
+      "korean": "정신이 없다",
+      "english": "'I'm overwhelmed' or 'I can't think straight.' Describes being so busy or chaotic that you lose track of things.",
+      "example": "이사 준비하느라 요즘 정신이 없어. 뭐가 어디 있는지도 모르겠어.",
+      "example_en": "I've been so overwhelmed preparing for the move. I don't even know where anything is."
+    },
+    {
+      "korean": "뭐가 이렇게 많아",
+      "english": "'Why is there so much of this?' Exclamation of exasperation at an excessive quantity of something.",
+      "example": "서류가 뭐가 이렇게 많아, 이걸 언제 다 처리해?",
+      "example_en": "Why is there so much paperwork? When am I supposed to get through all of this?"
+    },
+    {
+      "korean": "어디 ~뿐이겠어",
+      "english": "'It's not just...' / 'And that's not even the only thing.' Rhetorical expression meaning the problem goes far beyond what was mentioned.",
+      "example": "돈 문제가 어디 그것뿐이겠어. 시간도 없고 사람도 부족해.",
+      "example_en": "The money issue is not even the half of it. There's no time and not enough people either."
+    },
+    {
+      "korean": "있잖아",
+      "english": "'You know what' or 'so listen.' Conversation opener to get someone's attention before introducing a topic.",
+      "example": "있잖아, 나 요즘 고민이 하나 있는데 얘기 좀 해도 돼?",
+      "example_en": "Hey, so listen — I've been worried about something lately. Can I talk to you about it?"
+    },
+    {
+      "korean": "그러니까",
+      "english": "'Exactly' or 'that's what I'm saying.' Used to strongly agree with someone, or as a filler meaning 'so' or 'I mean.'",
+      "example": "\"이번 일은 좀 심하지 않아?\" \"그러니까, 나도 그 말을 하고 싶었어.\"",
+      "example_en": "\"Isn't this going a bit too far?\" \"Exactly — that's what I wanted to say.\""
+    },
+    {
+      "korean": "아 맞다",
+      "english": "'Oh right' or 'that reminds me.' Used when you suddenly remember something mid-conversation.",
+      "example": "아 맞다, 내일 회의 시간 바뀐 거 알지? 두 시로 옮겨졌어.",
+      "example_en": "Oh right, you know the meeting time changed tomorrow, right? It moved to 2 o'clock."
+    },
+    {
+      "korean": "그게 아니라",
+      "english": "'That's not what I mean' or 'no, actually.' Used to correct a misunderstanding or redirect the conversation.",
+      "example": "그게 아니라, 내 말은 아예 안 된다는 게 아니고 좀 더 생각해 보자는 거야.",
+      "example_en": "That's not what I mean — I'm not saying it's impossible, I'm saying let's think about it more."
+    },
+    {
+      "korean": "뭐랄까",
+      "english": "'How should I put it' or 'what's the word.' Filler used while searching for the right expression.",
+      "example": "그 영화가, 뭐랄까, 슬프면서도 따뜻한 느낌이었어.",
+      "example_en": "That movie was, how should I put it, sad but warm at the same time."
+    },
+    {
+      "korean": "그건 그렇고",
+      "english": "'That aside' or 'anyway.' Used to acknowledge a point then shift to a different topic.",
+      "example": "그건 그렇고, 주말에 시간 있어? 같이 밥 먹자.",
+      "example_en": "That aside, are you free this weekend? Let's grab a meal."
+    },
+    {
+      "korean": "그나저나",
+      "english": "'By the way' or 'anyway' (topic pivot). Used to change the subject naturally in casual conversation.",
+      "example": "그나저나 너 요즘 운동 시작했다며? 몸이 달라진 것 같은데.",
+      "example_en": "By the way, I heard you started working out recently? You look like you've changed."
+    },
+    {
+      "korean": "하긴",
+      "english": "'Come to think of it' or 'well, you have a point.' Concedes that the other person's argument is valid after initial resistance.",
+      "example": "하긴, 네 말도 맞아. 서두르면 오히려 실수할 수 있지.",
+      "example_en": "Come to think of it, you're right. If we rush, we might make mistakes instead."
+    },
+    {
+      "korean": "그래 가지고",
+      "english": "'And so' or 'and then.' Casual connective used in storytelling to link events. More spoken than written.",
+      "example": "버스를 놓쳤어. 그래 가지고 택시를 탔는데 택시비가 장난 아니더라.",
+      "example_en": "I missed the bus. And so I took a taxi, and the fare was no joke."
+    },
+    {
+      "korean": "아니 근데",
+      "english": "'But wait' or 'hold on though.' Used to interject with a new thought, mild objection, or shift in direction.",
+      "example": "아니 근데, 그 사람이 왜 거기 있었어? 출장 간다고 하지 않았어?",
+      "example_en": "But wait, why was he there? Didn't he say he was going on a business trip?"
+    }
+  ],
+  "고급 동사 (Advanced Verbs)": [
+    {
+      "korean": "추론하다",
+      "english": "to infer; to deduce; to reason",
+      "example": "주어진 단서만으로 범인의 동기를 추론하기는 쉽지 않았다.",
+      "example_en": "It was not easy to infer the culprit's motive from the given clues alone."
+    },
+    {
+      "korean": "간파하다",
+      "english": "to see through; to penetrate; to discern the truth of",
+      "example": "그녀는 상대방의 거짓말을 단번에 간파했다.",
+      "example_en": "She saw through the other person's lie at once."
+    },
+    {
+      "korean": "숙고하다",
+      "english": "to deliberate; to ponder deeply; to give careful thought to",
+      "example": "중대한 결정을 앞두고 며칠간 숙고한 끝에 사직서를 냈다.",
+      "example_en": "After deliberating for days before a major decision, he submitted his resignation."
+    },
+    {
+      "korean": "반추하다",
+      "english": "to reflect on; to ruminate; to look back and reconsider",
+      "example": "지난 실패를 반추하며 같은 실수를 되풀이하지 않겠다고 다짐했다.",
+      "example_en": "Reflecting on past failures, she resolved not to repeat the same mistakes."
+    },
+    {
+      "korean": "탐구하다",
+      "english": "to explore; to investigate; to inquire deeply into",
+      "example": "이 책은 인간 본성의 어두운 면을 깊이 탐구한다.",
+      "example_en": "This book deeply explores the dark side of human nature."
+    },
+    {
+      "korean": "사색하다",
+      "english": "to contemplate; to meditate; to engage in deep thought",
+      "example": "삶의 의미에 대해 홀로 사색하는 시간이 그에게는 꼭 필요했다.",
+      "example_en": "He needed time alone to contemplate the meaning of life."
+    },
+    {
+      "korean": "변별하다",
+      "english": "to discern; to distinguish; to differentiate",
+      "example": "진실과 거짓을 변별하는 능력은 비판적 사고의 핵심이다.",
+      "example_en": "The ability to discern truth from falsehood is at the core of critical thinking."
+    },
+    {
+      "korean": "착안하다",
+      "english": "to conceive an idea from; to be inspired by; to hit upon",
+      "example": "자연 현상에서 착안하여 혁신적인 소재를 개발했다.",
+      "example_en": "Inspired by natural phenomena, they developed an innovative material."
+    },
+    {
+      "korean": "응용하다",
+      "english": "to apply (knowledge or theory); to put into practice",
+      "example": "대학에서 배운 이론을 실무에 응용하는 것은 별개의 문제이다.",
+      "example_en": "Applying theories learned in college to actual work is a separate matter entirely."
+    },
+    {
+      "korean": "유추하다",
+      "english": "to analogize; to infer by analogy; to extrapolate",
+      "example": "과거 사례로부터 유추하면 이번에도 비슷한 결과가 나올 가능성이 높다.",
+      "example_en": "Extrapolating from past cases, there is a high chance of a similar outcome this time."
+    },
+    {
+      "korean": "사무치다",
+      "english": "to pierce one's heart; to cut deep emotionally; to be heartrending",
+      "example": "고향을 떠난 지 십 년이 지나자 그리움이 뼛속까지 사무쳤다.",
+      "example_en": "After ten years away from home, longing pierced him to the bone."
+    },
+    {
+      "korean": "자책하다",
+      "english": "to blame oneself; to reproach oneself; to feel guilty",
+      "example": "친구를 도와주지 못한 자신을 끊임없이 자책했다.",
+      "example_en": "He endlessly blamed himself for not being able to help his friend."
+    },
+    {
+      "korean": "분개하다",
+      "english": "to be indignant; to be outraged; to burn with righteous anger",
+      "example": "시민들은 권력자의 부정부패에 분개하여 거리로 나섰다.",
+      "example_en": "Citizens, outraged by the corruption of those in power, took to the streets."
+    },
+    {
+      "korean": "상심하다",
+      "english": "to be deeply hurt; to be heartbroken; to be crestfallen",
+      "example": "오랜 연인과의 이별에 크게 상심하여 한동안 아무것도 할 수 없었다.",
+      "example_en": "Deeply heartbroken by the breakup with his long-time partner, he couldn't do anything for a while."
+    },
+    {
+      "korean": "격앙되다",
+      "english": "to become agitated; to get worked up; to be inflamed",
+      "example": "토론이 진행될수록 양측의 감정이 격앙되어 고성이 오갔다.",
+      "example_en": "As the debate progressed, emotions on both sides became inflamed and voices were raised."
+    },
+    {
+      "korean": "한탄하다",
+      "english": "to lament; to deplore; to bemoan",
+      "example": "세상이 각박해진 것을 한탄하며 옛 시절을 그리워했다.",
+      "example_en": "He lamented how harsh the world had become and longed for the old days."
+    },
+    {
+      "korean": "경외하다",
+      "english": "to revere; to stand in awe of; to hold in deep respect",
+      "example": "그의 학문적 업적 앞에서 누구나 경외하지 않을 수 없었다.",
+      "example_en": "No one could help but stand in awe before his academic achievements."
+    },
+    {
+      "korean": "매료되다",
+      "english": "to be captivated; to be fascinated; to be utterly charmed",
+      "example": "처음 한국에 왔을 때 전통 음악의 깊은 울림에 완전히 매료되었다.",
+      "example_en": "When I first came to Korea, I was completely captivated by the deep resonance of traditional music."
+    },
+    {
+      "korean": "통곡하다",
+      "english": "to wail; to cry out in grief; to weep bitterly",
+      "example": "장례식장에서 유가족들이 통곡하는 소리가 끊이지 않았다.",
+      "example_en": "The sound of the bereaved family wailing at the funeral hall never ceased."
+    },
+    {
+      "korean": "감격하다",
+      "english": "to be deeply moved; to be overwhelmed with emotion",
+      "example": "수십 년 만에 고향 땅을 밟자 감격하여 눈물이 쏟아졌다.",
+      "example_en": "Upon setting foot on his homeland after decades, he was so deeply moved that tears poured down."
+    },
+    {
+      "korean": "관통하다",
+      "english": "to penetrate; to pierce through; to run through",
+      "example": "터널이 산맥을 관통하여 양쪽 도시의 이동 시간이 절반으로 줄었다.",
+      "example_en": "The tunnel pierced through the mountain range, cutting travel time between the two cities in half."
+    },
+    {
+      "korean": "봉쇄하다",
+      "english": "to blockade; to seal off; to lock down",
+      "example": "경찰이 시위 현장 주변 도로를 전면 봉쇄했다.",
+      "example_en": "Police completely sealed off the roads around the protest site."
+    },
+    {
+      "korean": "강탈하다",
+      "english": "to seize by force; to plunder; to rob",
+      "example": "식민 지배 세력은 현지인의 토지와 자원을 강탈했다.",
+      "example_en": "The colonial rulers seized the locals' land and resources by force."
+    },
+    {
+      "korean": "질주하다",
+      "english": "to sprint; to dash; to race at full speed",
+      "example": "결승선을 향해 질주하는 선수의 표정에는 비장함이 서려 있었다.",
+      "example_en": "The face of the athlete sprinting toward the finish line was filled with fierce determination."
+    },
+    {
+      "korean": "난무하다",
+      "english": "to run rampant; to fly about in chaos; to swirl wildly",
+      "example": "근거 없는 소문이 온라인에서 난무하여 사회적 혼란을 부추겼다.",
+      "example_en": "Groundless rumors ran rampant online, fueling social chaos."
+    },
+    {
+      "korean": "유린하다",
+      "english": "to trample on; to violate; to desecrate",
+      "example": "독재 정권은 국민의 기본권을 조직적으로 유린했다.",
+      "example_en": "The dictatorship systematically trampled on the people's fundamental rights."
+    },
+    {
+      "korean": "해부하다",
+      "english": "to dissect; to anatomize; to analyze in fine detail",
+      "example": "평론가는 그 영화의 서사 구조를 날카롭게 해부했다.",
+      "example_en": "The critic sharply dissected the film's narrative structure."
+    },
+    {
+      "korean": "도약하다",
+      "english": "to leap forward; to make a breakthrough; to take a big step",
+      "example": "반도체 기술의 발전으로 한국 경제가 한 단계 더 도약했다.",
+      "example_en": "Advances in semiconductor technology allowed the Korean economy to leap forward another level."
+    },
+    {
+      "korean": "소탕하다",
+      "english": "to wipe out; to mop up; to eradicate",
+      "example": "군 당국은 산악 지대에 은거하던 잔여 세력을 소탕했다.",
+      "example_en": "Military authorities wiped out the remaining forces hiding in the mountainous region."
+    },
+    {
+      "korean": "천착하다",
+      "english": "to delve deeply into; to dig into; to devote oneself to studying",
+      "example": "그 학자는 평생 동아시아 고대사에 천착해 왔다.",
+      "example_en": "That scholar has spent his entire life delving deeply into ancient East Asian history."
+    },
+    {
+      "korean": "회유하다",
+      "english": "to appease; to win over; to conciliate",
+      "example": "정부는 강경 대응 대신 반대 세력을 회유하는 전략을 택했다.",
+      "example_en": "Instead of a hardline response, the government chose a strategy of appeasing the opposition."
+    },
+    {
+      "korean": "사주하다",
+      "english": "to instigate; to put someone up to something; to abet",
+      "example": "검찰은 배후에서 범행을 사주한 인물을 추적하고 있다.",
+      "example_en": "The prosecution is tracking down the person who instigated the crime from behind the scenes."
+    },
+    {
+      "korean": "매도하다",
+      "english": "to denounce; to condemn; to vilify",
+      "example": "언론이 확인도 없이 그를 범죄자로 매도하는 것은 부당하다.",
+      "example_en": "It is unjust for the media to denounce him as a criminal without verification."
+    },
+    {
+      "korean": "중재하다",
+      "english": "to mediate; to arbitrate; to act as intermediary",
+      "example": "양국 간의 분쟁을 중재하기 위해 유엔이 특사를 파견했다.",
+      "example_en": "The UN dispatched a special envoy to mediate the dispute between the two countries."
+    },
+    {
+      "korean": "포섭하다",
+      "english": "to co-opt; to recruit to one's side; to bring into one's fold",
+      "example": "야당은 무소속 의원들을 포섭하여 과반 의석을 확보하려 했다.",
+      "example_en": "The opposition party tried to recruit independent lawmakers to secure a majority of seats."
+    },
+    {
+      "korean": "옹호하다",
+      "english": "to advocate; to defend; to champion",
+      "example": "그녀는 소수자의 권리를 옹호하는 데 앞장서 왔다.",
+      "example_en": "She has been at the forefront of advocating for minority rights."
+    },
+    {
+      "korean": "참견하다",
+      "english": "to meddle; to interfere; to butt in",
+      "example": "남의 가정사에 함부로 참견하면 오히려 관계만 나빠진다.",
+      "example_en": "If you carelessly meddle in someone else's family affairs, it only worsens the relationship."
+    },
+    {
+      "korean": "응대하다",
+      "english": "to attend to; to deal with; to respond to (a person or situation)",
+      "example": "고객의 불만에 성의 있게 응대하는 것이 서비스업의 기본이다.",
+      "example_en": "Sincerely attending to customer complaints is the foundation of the service industry."
+    },
+    {
+      "korean": "순응하다",
+      "english": "to conform; to comply; to adapt oneself to",
+      "example": "변화하는 시대에 무조건 순응하기보다는 주체적으로 판단해야 한다.",
+      "example_en": "Rather than blindly conforming to a changing era, one should make independent judgments."
+    },
+    {
+      "korean": "견제하다",
+      "english": "to keep in check; to restrain; to counterbalance",
+      "example": "삼권분립은 권력 기관이 서로를 견제하도록 설계된 제도이다.",
+      "example_en": "The separation of powers is a system designed so that branches of government keep each other in check."
+    }
+  ],
+  "고급 형용사 (Advanced Adjectives)": [
+    {
+      "korean": "까칠하다",
+      "english": "prickly, irritable; describes someone whose demeanor is rough and easily annoyed",
+      "example": "그 사람이 까칠해 보여도 알고 보면 속은 따뜻해요.",
+      "example_en": "He may look prickly, but once you get to know him, he's warm inside."
+    },
+    {
+      "korean": "다소곳하다",
+      "english": "demure, gentle and reserved; quietly modest in manner",
+      "example": "그녀는 다소곳한 태도로 인사를 건넸다.",
+      "example_en": "She greeted them in a demure and gentle manner."
+    },
+    {
+      "korean": "도도하다",
+      "english": "aloof, proudly elegant; carries oneself with cool self-assurance",
+      "example": "그녀는 도도한 분위기를 풍기지만 친해지면 정이 많다.",
+      "example_en": "She gives off an aloof vibe, but she's very affectionate once you get close."
+    },
+    {
+      "korean": "싹싹하다",
+      "english": "friendly and sociable; pleasant and accommodating in social situations",
+      "example": "새로 온 동료가 싹싹해서 금방 팀에 녹아들었다.",
+      "example_en": "The new colleague was so friendly that they quickly blended into the team."
+    },
+    {
+      "korean": "점잖다",
+      "english": "dignified, composed; behaving with calm propriety befitting one's status or age",
+      "example": "아버지는 항상 점잖은 말투로 조언을 해주셨다.",
+      "example_en": "My father always gave advice in a dignified tone."
+    },
+    {
+      "korean": "치사하다",
+      "english": "petty, cheap; describes behavior that is beneath one's dignity or meanly calculating",
+      "example": "몇 백 원 가지고 따지다니 너무 치사하지 않아?",
+      "example_en": "Isn't it too petty to argue over a few hundred won?"
+    },
+    {
+      "korean": "너그럽다",
+      "english": "magnanimous, broad-minded; generously forgiving of others' faults",
+      "example": "그분은 실수에 대해 항상 너그럽게 넘어가 주신다.",
+      "example_en": "That person always magnanimously lets mistakes slide."
+    },
+    {
+      "korean": "우직하다",
+      "english": "stubbornly sincere, doggedly honest; straightforward to the point of seeming simple",
+      "example": "그는 우직한 성격 덕분에 주변 사람들의 신뢰를 얻었다.",
+      "example_en": "His stubbornly sincere character earned the trust of those around him."
+    },
+    {
+      "korean": "진중하다",
+      "english": "serious and composed; thoughtfully deliberate, not rash",
+      "example": "중요한 결정일수록 진중한 태도가 필요하다.",
+      "example_en": "The more important the decision, the more a composed and deliberate attitude is needed."
+    },
+    {
+      "korean": "교활하다",
+      "english": "cunning, sly; deceptively clever in a manipulative way",
+      "example": "그 정치인은 교활한 수법으로 여론을 자기편으로 돌렸다.",
+      "example_en": "The politician used cunning tactics to sway public opinion in his favor."
+    },
+    {
+      "korean": "을씨년스럽다",
+      "english": "dreary, bleak; describes a scene or atmosphere that feels desolately cold and gloomy",
+      "example": "가을비가 내리니 거리가 을씨년스러워졌다.",
+      "example_en": "With the autumn rain falling, the streets became dreary and bleak."
+    },
+    {
+      "korean": "음산하다",
+      "english": "eerie, gloomy; giving off a dark, unsettling atmosphere",
+      "example": "안개가 자욱한 산길이 음산한 느낌을 줬다.",
+      "example_en": "The fog-shrouded mountain path gave off an eerie feeling."
+    },
+    {
+      "korean": "화기애애하다",
+      "english": "warm and harmonious; describes a pleasantly friendly and peaceful atmosphere",
+      "example": "명절에 온 가족이 모여 화기애애한 분위기 속에서 식사를 했다.",
+      "example_en": "During the holiday, the whole family gathered and ate in a warm, harmonious atmosphere."
+    },
+    {
+      "korean": "삭막하다",
+      "english": "desolate, barren; lacking warmth or vitality, emotionally or physically bleak",
+      "example": "고층 빌딩만 가득한 도심이 삭막하게 느껴졌다.",
+      "example_en": "The downtown area, filled only with high-rises, felt desolate."
+    },
+    {
+      "korean": "어수선하다",
+      "english": "chaotic, disorderly; describes a scene or situation that is messy and unsettled",
+      "example": "사건 직후 사무실 분위기가 매우 어수선했다.",
+      "example_en": "The office atmosphere was very chaotic right after the incident."
+    },
+    {
+      "korean": "적막하다",
+      "english": "silent and desolate; an almost oppressive quietness with no signs of life",
+      "example": "새벽 두 시, 도시 전체가 적막한 정적에 잠겨 있었다.",
+      "example_en": "At two in the morning, the entire city was submerged in desolate silence."
+    },
+    {
+      "korean": "스산하다",
+      "english": "chilly and bleak; a cold, forlorn atmosphere that makes one uneasy",
+      "example": "겨울바람이 불어 폐공장 주변이 스산한 분위기였다.",
+      "example_en": "The winter wind blew, creating a chilly, bleak atmosphere around the abandoned factory."
+    },
+    {
+      "korean": "흉흉하다",
+      "english": "unsettling, ominous; describes a tense social atmosphere full of anxiety or rumors",
+      "example": "연쇄 사건 이후 동네 분위기가 흉흉해졌다.",
+      "example_en": "After the string of incidents, the neighborhood atmosphere became unsettling."
+    },
+    {
+      "korean": "번잡하다",
+      "english": "bustling, crowded and noisy; hectic with too many people or things going on",
+      "example": "명동 거리는 주말마다 관광객으로 번잡하다.",
+      "example_en": "Myeongdong streets are bustling with tourists every weekend."
+    },
+    {
+      "korean": "훈훈하다",
+      "english": "heartwarming; also literally warm and cozy, used for feel-good stories or atmospheres",
+      "example": "낯선 사람이 할머니의 짐을 들어주는 훈훈한 장면이 화제가 됐다.",
+      "example_en": "The heartwarming scene of a stranger carrying the elderly woman's bags became a hot topic."
+    },
+    {
+      "korean": "탁월하다",
+      "english": "outstanding, excellent; far surpassing others in ability or quality",
+      "example": "그 연구원은 탁월한 분석력으로 문제의 원인을 짚어냈다.",
+      "example_en": "The researcher pinpointed the cause of the problem with outstanding analytical skills."
+    },
+    {
+      "korean": "미흡하다",
+      "english": "insufficient, inadequate; falling short of what is needed or expected",
+      "example": "이번 대응은 국민의 기대에 미흡했다는 평가를 받았다.",
+      "example_en": "This response was evaluated as falling short of public expectations."
+    },
+    {
+      "korean": "출중하다",
+      "english": "distinguished, exceptional; standing out noticeably above the rest",
+      "example": "출중한 외모와 실력을 겸비한 배우가 주목받고 있다.",
+      "example_en": "An actor who possesses both exceptional looks and skill is drawing attention."
+    },
+    {
+      "korean": "노골적이다",
+      "english": "blatant, overt; shamelessly unconcealed, with no attempt to hide intentions",
+      "example": "상대 팀의 노골적인 시간 끌기에 관중들이 야유를 보냈다.",
+      "example_en": "The crowd booed the opposing team's blatant time-wasting."
+    },
+    {
+      "korean": "미비하다",
+      "english": "incomplete, deficient; lacking necessary elements or preparation",
+      "example": "법적 장치가 미비하여 피해자 보호가 제대로 이루어지지 않았다.",
+      "example_en": "Due to deficient legal safeguards, victim protection was not properly carried out."
+    },
+    {
+      "korean": "치졸하다",
+      "english": "crude, clumsy; lacking sophistication, especially in schemes or execution",
+      "example": "치졸한 거짓말은 오히려 신뢰를 무너뜨릴 뿐이다.",
+      "example_en": "Crude lies only end up destroying trust."
+    },
+    {
+      "korean": "방대하다",
+      "english": "vast, enormous in scale; used for data, content, or scope that is immensely large",
+      "example": "방대한 양의 자료를 분석하는 데 몇 달이 걸렸다.",
+      "example_en": "It took several months to analyze the vast amount of data."
+    },
+    {
+      "korean": "조잡하다",
+      "english": "crude, sloppy; poorly made or lacking refinement in quality",
+      "example": "디자인이 조잡해서 소비자들의 외면을 받았다.",
+      "example_en": "The design was so sloppy that consumers turned away from it."
+    },
+    {
+      "korean": "현저하다",
+      "english": "remarkable, conspicuous; noticeably prominent, often used with differences or changes",
+      "example": "두 집단 간 학업 성취도에 현저한 차이가 나타났다.",
+      "example_en": "A conspicuous difference in academic achievement appeared between the two groups."
+    },
+    {
+      "korean": "어처구니없다",
+      "english": "absurd, preposterous; so ridiculous that one is left speechless",
+      "example": "어처구니없는 실수로 승진 기회를 날려 버렸다.",
+      "example_en": "An absurd mistake cost him his chance at promotion."
+    },
+    {
+      "korean": "숭고하다",
+      "english": "sublime, noble; exalted to the highest moral or spiritual level",
+      "example": "자신을 희생하여 남을 구한 숭고한 행동에 모두 숙연해졌다.",
+      "example_en": "Everyone was humbled by the sublime act of sacrificing oneself to save others."
+    },
+    {
+      "korean": "심오하다",
+      "english": "profound, deep; intellectually deep and not easily grasped on the surface",
+      "example": "그 철학자의 사상은 심오하여 한 번에 이해하기 어렵다.",
+      "example_en": "That philosopher's ideas are so profound that they are hard to understand at once."
+    },
+    {
+      "korean": "오묘하다",
+      "english": "subtle, mysteriously intricate; delicately complex in a way that defies easy explanation",
+      "example": "자연의 오묘한 질서 앞에서 인간은 겸허해진다.",
+      "example_en": "Before the mysteriously intricate order of nature, humans become humble."
+    },
+    {
+      "korean": "덧없다",
+      "english": "fleeting, transient; passing quickly and leaving nothing behind",
+      "example": "젊음이 이토록 덧없을 줄은 몰랐다.",
+      "example_en": "I never knew youth could be this fleeting."
+    },
+    {
+      "korean": "무상하다",
+      "english": "impermanent, transient; nothing in the world lasts — a Buddhist-tinged philosophical term",
+      "example": "인생이 무상하다는 걸 깨달은 후 하루하루에 감사하게 됐다.",
+      "example_en": "After realizing that life is impermanent, I became grateful for each day."
+    },
+    {
+      "korean": "자명하다",
+      "english": "self-evident, obvious; so clear that no proof or explanation is needed",
+      "example": "준비 없이 성공할 수 없다는 건 자명한 사실이다.",
+      "example_en": "It is a self-evident fact that one cannot succeed without preparation."
+    },
+    {
+      "korean": "피상적이다",
+      "english": "superficial; remaining on the surface without deeper understanding or engagement",
+      "example": "피상적인 분석으로는 문제의 본질을 파악할 수 없다.",
+      "example_en": "A superficial analysis cannot grasp the essence of the problem."
+    },
+    {
+      "korean": "근원적이다",
+      "english": "fundamental, root-level; pertaining to the deepest origin or cause of something",
+      "example": "사회 불평등의 근원적인 해결책을 모색해야 한다.",
+      "example_en": "We must seek a fundamental solution to social inequality."
+    },
+    {
+      "korean": "필연적이다",
+      "english": "inevitable, necessary; bound to happen as a logical or natural consequence",
+      "example": "기술이 발전하면 산업 구조의 변화는 필연적이다.",
+      "example_en": "As technology advances, changes in industrial structure are inevitable."
+    },
+    {
+      "korean": "모호하다",
+      "english": "ambiguous, vague; unclear in meaning or boundaries, open to multiple interpretations",
+      "example": "정부의 모호한 입장 때문에 국민들의 혼란이 가중되었다.",
+      "example_en": "The government's ambiguous stance deepened public confusion."
+    }
+  ],
+  "고급 부사 (Advanced Adverbs)": [
+    {
+      "korean": "슬쩍",
+      "english": "sneakily, stealthily; doing something discreetly so others won't notice",
+      "example": "그는 회의 중에 슬쩍 자리를 빠져나갔다.",
+      "example_en": "He sneaked out of his seat during the meeting."
+    },
+    {
+      "korean": "넌지시",
+      "english": "subtly, in a roundabout way; hinting without being direct",
+      "example": "그녀는 넌지시 이직할 생각이 있다고 내비쳤다.",
+      "example_en": "She subtly hinted that she was thinking of changing jobs."
+    },
+    {
+      "korean": "기꺼이",
+      "english": "willingly, gladly; with genuine pleasure or readiness",
+      "example": "도움이 필요하시면 기꺼이 도와드리겠습니다.",
+      "example_en": "If you need help, I will gladly assist you."
+    },
+    {
+      "korean": "거침없이",
+      "english": "without hesitation, boldly; speaking or acting freely without holding back",
+      "example": "그는 거침없이 자기 의견을 쏟아냈다.",
+      "example_en": "He poured out his opinions without hesitation."
+    },
+    {
+      "korean": "묵묵히",
+      "english": "silently, without complaint; enduring or working steadily without a word",
+      "example": "아버지는 평생 묵묵히 가족을 위해 일하셨다.",
+      "example_en": "My father worked silently for his family his entire life."
+    },
+    {
+      "korean": "태연히",
+      "english": "calmly, nonchalantly; maintaining composure in a tense or awkward situation",
+      "example": "거짓말이 들통났는데도 그는 태연히 웃고 있었다.",
+      "example_en": "Even after his lie was exposed, he was smiling nonchalantly."
+    },
+    {
+      "korean": "서슴없이",
+      "english": "unhesitatingly, readily; doing something bold without a moment's pause",
+      "example": "그녀는 서슴없이 수백만 원짜리 기부를 결정했다.",
+      "example_en": "She unhesitatingly decided to donate several million won."
+    },
+    {
+      "korean": "빈틈없이",
+      "english": "flawlessly, without gaps; thoroughly with no room for error",
+      "example": "보안팀이 행사장을 빈틈없이 점검했다.",
+      "example_en": "The security team inspected the venue thoroughly without any gaps."
+    },
+    {
+      "korean": "고스란히",
+      "english": "entirely, intact; remaining completely as-is without loss or change",
+      "example": "어머니가 보내주신 반찬이 고스란히 남아 있었다.",
+      "example_en": "The side dishes my mother sent remained entirely untouched."
+    },
+    {
+      "korean": "더듬더듬",
+      "english": "fumblingly, haltingly; speaking or acting clumsily while searching for the right words or way",
+      "example": "그는 한국어를 더듬더듬 말했지만 의미는 충분히 전달됐다.",
+      "example_en": "He spoke Korean haltingly, but his meaning came across well enough."
+    },
+    {
+      "korean": "턱없이",
+      "english": "absurdly, ridiculously; to an unreasonable degree, typically describing insufficiency",
+      "example": "이 프로젝트에 배정된 예산은 턱없이 부족하다.",
+      "example_en": "The budget allocated for this project is absurdly insufficient."
+    },
+    {
+      "korean": "한결",
+      "english": "noticeably, considerably; a clear degree of improvement or change",
+      "example": "운동을 시작하고 나서 몸이 한결 가벼워졌다.",
+      "example_en": "After starting to exercise, my body felt noticeably lighter."
+    },
+    {
+      "korean": "유독",
+      "english": "particularly, uniquely; standing out from the rest in a distinctive way",
+      "example": "올해는 유독 겨울이 길게 느껴진다.",
+      "example_en": "This year, winter feels particularly long."
+    },
+    {
+      "korean": "한층",
+      "english": "a notch more, even further; indicating a step-up in degree or intensity",
+      "example": "새 안경을 쓰니 세상이 한층 선명하게 보인다.",
+      "example_en": "With my new glasses, the world looks even clearer."
+    },
+    {
+      "korean": "미처",
+      "english": "(not) yet, (not) in time; failing to do something before the moment passes (used with negatives)",
+      "example": "급하게 나오느라 우산을 미처 챙기지 못했다.",
+      "example_en": "I left in such a hurry that I didn't manage to grab my umbrella in time."
+    },
+    {
+      "korean": "자못",
+      "english": "quite, considerably; more than expected (slightly literary tone)",
+      "example": "그의 연설은 자못 진지한 분위기 속에서 이루어졌다.",
+      "example_en": "His speech took place in a quite serious atmosphere."
+    },
+    {
+      "korean": "그지없이",
+      "english": "boundlessly, infinitely; to an extreme degree with no limit",
+      "example": "합격 소식을 듣고 그지없이 기뻤다.",
+      "example_en": "I was boundlessly happy when I heard the news that I passed."
+    },
+    {
+      "korean": "차마",
+      "english": "(cannot) bring oneself to; unable to do something due to moral weight or emotional difficulty",
+      "example": "그 사진을 차마 눈 뜨고 볼 수가 없었다.",
+      "example_en": "I couldn't bring myself to look at that photo with my eyes open."
+    },
+    {
+      "korean": "여간",
+      "english": "(not) ordinary, (not) easy; emphasizing that something is no small matter (used with negatives)",
+      "example": "이번 시험은 여간 어려운 게 아니었다.",
+      "example_en": "This exam was no ordinary level of difficult."
+    },
+    {
+      "korean": "도무지",
+      "english": "(not) at all, absolutely (not); complete inability to understand or do something",
+      "example": "설명을 들어도 도무지 이해가 안 된다.",
+      "example_en": "Even after hearing the explanation, I can't understand it at all."
+    },
+    {
+      "korean": "이따금",
+      "english": "occasionally, from time to time; at irregular but infrequent intervals",
+      "example": "이따금 고향 친구에게서 연락이 온다.",
+      "example_en": "From time to time, I get a call from a friend back home."
+    },
+    {
+      "korean": "더러",
+      "english": "sometimes, once in a while; occasionally and somewhat randomly",
+      "example": "아무리 꼼꼼한 사람도 더러 실수를 하기 마련이다.",
+      "example_en": "Even the most meticulous person makes mistakes once in a while."
+    },
+    {
+      "korean": "줄곧",
+      "english": "continuously, all along; without interruption from start to present",
+      "example": "그는 입사한 이후로 줄곧 같은 부서에서 일해 왔다.",
+      "example_en": "He has been working in the same department continuously since he joined the company."
+    },
+    {
+      "korean": "이내",
+      "english": "soon after, before long; something happening shortly after a preceding event",
+      "example": "비가 잠깐 내리더니 이내 그쳤다.",
+      "example_en": "It rained briefly and then stopped before long."
+    },
+    {
+      "korean": "진즉에",
+      "english": "earlier, long ago; expressing regret that something should have been done sooner",
+      "example": "진즉에 말했으면 이렇게까지 안 됐을 텐데.",
+      "example_en": "If you had said something earlier, it wouldn't have come to this."
+    },
+    {
+      "korean": "여태껏",
+      "english": "until now, all this time; emphasizing the length of time something has continued",
+      "example": "여태껏 그 사실을 모르고 있었다니 믿기지 않는다.",
+      "example_en": "I can't believe I didn't know that fact all this time."
+    },
+    {
+      "korean": "문득",
+      "english": "suddenly, out of the blue; a thought or feeling arising unexpectedly",
+      "example": "길을 걷다가 문득 어릴 적 기억이 떠올랐다.",
+      "example_en": "While walking down the street, a childhood memory suddenly came to mind."
+    },
+    {
+      "korean": "간간이",
+      "english": "here and there, at intervals; sporadically with gaps in between",
+      "example": "흐린 하늘 사이로 간간이 햇살이 비쳤다.",
+      "example_en": "Sunlight peeked through the cloudy sky here and there."
+    },
+    {
+      "korean": "느지막이",
+      "english": "rather late, toward the late end; at a somewhat delayed time",
+      "example": "주말이라 느지막이 일어나서 브런치를 먹었다.",
+      "example_en": "Since it was the weekend, I got up rather late and had brunch."
+    },
+    {
+      "korean": "이윽고",
+      "english": "after a while, presently; following a pause or passage of time (literary/narrative tone)",
+      "example": "긴 침묵이 흐른 뒤 이윽고 그가 입을 열었다.",
+      "example_en": "After a long silence, he finally opened his mouth."
+    },
+    {
+      "korean": "굳이",
+      "english": "insistently, going out of one's way; doing something unnecessary or despite it being inadvisable",
+      "example": "안 해도 될 일을 굳이 왜 하려고 해?",
+      "example_en": "Why are you insisting on doing something you don't even need to do?"
+    },
+    {
+      "korean": "어차피",
+      "english": "anyway, in any case; the outcome remains the same regardless",
+      "example": "어차피 늦은 거 서두를 필요 없어.",
+      "example_en": "We're late anyway, so there's no need to rush."
+    },
+    {
+      "korean": "하물며",
+      "english": "let alone, much less; if even the easier case is difficult, the harder one goes without saying",
+      "example": "어른도 힘든 일인데 하물며 아이가 할 수 있겠어?",
+      "example_en": "It's hard even for adults, let alone a child -- how could they manage?"
+    },
+    {
+      "korean": "정작",
+      "english": "when it actually comes down to it; contrasting preparation or talk with the actual moment",
+      "example": "평소에는 할 말이 많더니 정작 발표할 때는 아무 말도 못 했다.",
+      "example_en": "He usually had a lot to say, but when it actually came time to present, he couldn't say a word."
+    },
+    {
+      "korean": "애당초",
+      "english": "from the very beginning, in the first place; the root cause or starting point of a situation",
+      "example": "애당초 계획 자체가 무리였다는 걸 이제야 깨달았다.",
+      "example_en": "I only now realize that the plan itself was unreasonable from the very beginning."
+    },
+    {
+      "korean": "괜스레",
+      "english": "for no reason, without cause; feeling or doing something without a clear basis",
+      "example": "오랜만에 그 노래를 들으니 괜스레 눈물이 났다.",
+      "example_en": "Hearing that song after a long time, tears came for no particular reason."
+    },
+    {
+      "korean": "으레",
+      "english": "customarily, as a matter of course; something expected or habitual",
+      "example": "명절이면 으레 고향을 찾는 사람들로 도로가 막힌다.",
+      "example_en": "During holidays, the roads are invariably jammed with people heading to their hometowns."
+    },
+    {
+      "korean": "기필코",
+      "english": "at all costs, by all means; a strong resolve to accomplish something no matter what",
+      "example": "이번에는 기필코 합격하겠다는 각오로 공부했다.",
+      "example_en": "I studied with the determination to pass at all costs this time."
+    },
+    {
+      "korean": "공연히",
+      "english": "for no good reason, needlessly; doing something pointless that only causes trouble",
+      "example": "공연히 참견했다가 오히려 욕만 먹었다.",
+      "example_en": "I needlessly meddled and only ended up getting scolded."
+    },
+    {
+      "korean": "하마터면",
+      "english": "almost, nearly; narrowly avoiding a negative outcome (always implies relief)",
+      "example": "하마터면 기차를 놓칠 뻔했다.",
+      "example_en": "I almost missed the train."
+    }
+  ],
+  "주제별 단어 — 의학 (Topic: Medicine)": [
+    {
+      "korean": "두통",
+      "english": "headache",
+      "example": "편두통이 심해서 두통약을 먹었는데도 잘 낫지 않았다.",
+      "example_en": "The migraine was so bad that even after taking headache medicine, it didn't get better."
+    },
+    {
+      "korean": "어지럼증",
+      "english": "dizziness; vertigo",
+      "example": "갑자기 어지럼증이 생겨서 잠깐 앉아서 쉬어야 했다.",
+      "example_en": "I suddenly felt dizzy and had to sit down and rest for a moment."
+    },
+    {
+      "korean": "구토",
+      "english": "vomiting; nausea and vomiting",
+      "example": "식중독에 걸려서 하루 종일 구토가 멈추지 않았다.",
+      "example_en": "I got food poisoning and couldn't stop vomiting all day."
+    },
+    {
+      "korean": "설사",
+      "english": "diarrhea",
+      "example": "상한 음식을 먹은 후 심한 설사 증세가 나타났다.",
+      "example_en": "After eating spoiled food, severe diarrhea symptoms appeared."
+    },
+    {
+      "korean": "부종",
+      "english": "swelling; edema",
+      "example": "다리에 부종이 심해져서 신장 검사를 받아 보기로 했다.",
+      "example_en": "The swelling in my legs got worse, so I decided to get a kidney exam."
+    },
+    {
+      "korean": "오한",
+      "english": "chills; shivering (from fever)",
+      "example": "고열과 함께 오한이 심하게 나서 이불을 덮어도 춥게 느껴졌다.",
+      "example_en": "I had severe chills along with a high fever and felt cold even under the blankets."
+    },
+    {
+      "korean": "발진",
+      "english": "rash; skin eruption",
+      "example": "새로운 약을 먹은 후 온몸에 발진이 돋았다.",
+      "example_en": "After taking the new medicine, a rash broke out all over my body."
+    },
+    {
+      "korean": "가려움증",
+      "english": "itching; pruritus",
+      "example": "알레르기 반응으로 피부에 가려움증이 생겼다.",
+      "example_en": "An allergic reaction caused itching on my skin."
+    },
+    {
+      "korean": "호흡곤란",
+      "english": "difficulty breathing; dyspnea",
+      "example": "천식 환자는 미세먼지가 심한 날에 호흡곤란을 겪을 수 있다.",
+      "example_en": "Asthma patients can experience difficulty breathing on days with heavy fine dust."
+    },
+    {
+      "korean": "피로감",
+      "english": "fatigue; feeling of tiredness",
+      "example": "만성적인 피로감이 계속되면 빈혈 검사를 받아 보는 게 좋다.",
+      "example_en": "If chronic fatigue persists, it's a good idea to get tested for anemia."
+    },
+    {
+      "korean": "폐",
+      "english": "lungs",
+      "example": "흡연은 폐에 직접적인 손상을 주는 가장 큰 원인이다.",
+      "example_en": "Smoking is the biggest cause of direct damage to the lungs."
+    },
+    {
+      "korean": "간",
+      "english": "liver (organ)",
+      "example": "과도한 음주는 간에 지방이 축적되는 지방간을 유발한다.",
+      "example_en": "Excessive drinking causes fatty liver, where fat accumulates in the liver."
+    },
+    {
+      "korean": "신장",
+      "english": "kidney",
+      "example": "신장 기능이 저하되면 노폐물이 제대로 배출되지 않는다.",
+      "example_en": "When kidney function declines, waste products are not properly excreted."
+    },
+    {
+      "korean": "위장",
+      "english": "stomach; gastrointestinal tract",
+      "example": "스트레스가 쌓이면 위장 장애가 생기기 쉽다.",
+      "example_en": "When stress builds up, gastrointestinal problems are likely to occur."
+    },
+    {
+      "korean": "대장",
+      "english": "large intestine; colon",
+      "example": "50세 이상이면 대장 내시경 검사를 정기적으로 받아야 한다.",
+      "example_en": "If you're over 50, you should get regular colonoscopy screenings."
+    },
+    {
+      "korean": "척추",
+      "english": "spine; vertebral column",
+      "example": "장시간 잘못된 자세로 앉으면 척추에 무리가 간다.",
+      "example_en": "Sitting in a bad posture for long periods puts strain on the spine."
+    },
+    {
+      "korean": "골수",
+      "english": "bone marrow",
+      "example": "백혈병 치료를 위해 골수 이식이 필요한 경우가 있다.",
+      "example_en": "In some cases, a bone marrow transplant is needed to treat leukemia."
+    },
+    {
+      "korean": "혈관",
+      "english": "blood vessel",
+      "example": "고혈압이 지속되면 혈관 벽이 손상되어 동맥경화가 올 수 있다.",
+      "example_en": "If high blood pressure persists, blood vessel walls can be damaged, leading to arteriosclerosis."
+    },
+    {
+      "korean": "림프절",
+      "english": "lymph node",
+      "example": "목 주위의 림프절이 부으면 감염이 의심된다.",
+      "example_en": "If the lymph nodes around the neck are swollen, an infection is suspected."
+    },
+    {
+      "korean": "갑상선",
+      "english": "thyroid gland",
+      "example": "갑상선 기능 항진증이 있으면 심장이 빨리 뛰고 체중이 줄어든다.",
+      "example_en": "With hyperthyroidism, the heart beats fast and weight decreases."
+    },
+    {
+      "korean": "항생제",
+      "english": "antibiotic",
+      "example": "항생제는 반드시 처방된 기간만큼 끝까지 복용해야 한다.",
+      "example_en": "Antibiotics must be taken for the full prescribed duration without stopping early."
+    },
+    {
+      "korean": "내시경",
+      "english": "endoscopy; endoscope",
+      "example": "위 내시경 검사를 하려면 전날 밤부터 금식해야 한다.",
+      "example_en": "To get a stomach endoscopy, you need to fast from the night before."
+    },
+    {
+      "korean": "봉합",
+      "english": "suturing; stitching (a wound)",
+      "example": "상처가 깊어서 여덟 바늘을 봉합해야 했다.",
+      "example_en": "The wound was deep, so eight stitches were needed to suture it."
+    },
+    {
+      "korean": "방사선 치료",
+      "english": "radiation therapy; radiotherapy",
+      "example": "암 환자가 수술 후 방사선 치료를 병행하는 경우가 많다.",
+      "example_en": "Many cancer patients undergo radiation therapy in conjunction with surgery."
+    },
+    {
+      "korean": "수혈",
+      "english": "blood transfusion",
+      "example": "수술 중 출혈이 심해서 긴급 수혈이 필요했다.",
+      "example_en": "Bleeding was severe during surgery, so an emergency blood transfusion was needed."
+    },
+    {
+      "korean": "물리치료",
+      "english": "physical therapy; physiotherapy",
+      "example": "무릎 수술 후에 꾸준히 물리치료를 받아야 회복이 빠르다.",
+      "example_en": "After knee surgery, consistent physical therapy is needed for a fast recovery."
+    },
+    {
+      "korean": "접종",
+      "english": "vaccination; inoculation",
+      "example": "매년 가을에 독감 예방 접종을 맞는 것이 권장된다.",
+      "example_en": "It is recommended to get a flu vaccination every autumn."
+    },
+    {
+      "korean": "절개",
+      "english": "incision; surgical cut",
+      "example": "최소 절개 수술은 회복 기간이 짧고 흉터가 작다.",
+      "example_en": "Minimally invasive surgery has a shorter recovery period and smaller scars."
+    },
+    {
+      "korean": "생검",
+      "english": "biopsy",
+      "example": "조직 생검 결과가 나오기까지 일주일 정도 걸린다고 했다.",
+      "example_en": "They said it would take about a week for the biopsy results to come out."
+    },
+    {
+      "korean": "투석",
+      "english": "dialysis",
+      "example": "신장 기능이 많이 떨어져서 일주일에 세 번 투석을 받고 있다.",
+      "example_en": "My kidney function has declined significantly, so I'm receiving dialysis three times a week."
+    },
+    {
+      "korean": "어디가 불편하세요?",
+      "english": "What seems to be the problem? (lit. Where are you uncomfortable?)",
+      "example": "접수를 마치고 진료실에 들어가자 의사가 \"어디가 불편하세요?\"라고 물었다.",
+      "example_en": "After checking in and entering the exam room, the doctor asked, \"What seems to be the problem?\""
+    },
+    {
+      "korean": "경과를 지켜보다",
+      "english": "to monitor the progress; to observe how things develop",
+      "example": "당장 수술할 단계는 아니니 한 달간 경과를 지켜보기로 했다.",
+      "example_en": "It's not at the stage requiring immediate surgery, so we decided to monitor the progress for a month."
+    },
+    {
+      "korean": "정밀 검사를 받다",
+      "english": "to undergo a detailed examination; to get further testing",
+      "example": "건강 검진에서 이상 소견이 나와서 정밀 검사를 받으러 대학 병원에 갔다.",
+      "example_en": "An abnormality was found during the health checkup, so I went to a university hospital for further testing."
+    },
+    {
+      "korean": "금식",
+      "english": "fasting (before a medical procedure)",
+      "example": "내시경 검사 전에 최소 8시간 금식을 지켜야 합니다.",
+      "example_en": "You must fast for at least 8 hours before an endoscopy."
+    },
+    {
+      "korean": "소견서",
+      "english": "medical opinion letter; doctor's written assessment",
+      "example": "보험 청구를 위해 담당 의사에게 소견서를 발급받았다.",
+      "example_en": "I got a medical opinion letter issued by my doctor for the insurance claim."
+    },
+    {
+      "korean": "회진을 돌다",
+      "english": "to make hospital rounds (doctor visiting patients)",
+      "example": "담당 교수님이 매일 아침 회진을 돌며 환자 상태를 확인한다.",
+      "example_en": "The attending professor makes rounds every morning to check on patients' conditions."
+    },
+    {
+      "korean": "퇴원 수속을 밟다",
+      "english": "to go through discharge procedures (from hospital)",
+      "example": "상태가 호전되어 내일 퇴원 수속을 밟기로 했다.",
+      "example_en": "My condition improved, so we decided to go through the discharge procedures tomorrow."
+    },
+    {
+      "korean": "재진 예약을 잡다",
+      "english": "to schedule a follow-up appointment",
+      "example": "이번 치료 후 2주 뒤에 재진 예약을 잡으라고 하셨다.",
+      "example_en": "The doctor told me to schedule a follow-up appointment for two weeks after this treatment."
+    },
+    {
+      "korean": "입원 절차",
+      "english": "hospital admission procedures",
+      "example": "응급실에서 상태를 확인한 후 바로 입원 절차를 진행했다.",
+      "example_en": "After checking the condition in the emergency room, we proceeded with the hospital admission procedures right away."
+    },
+    {
+      "korean": "처방전을 받다",
+      "english": "to receive a prescription",
+      "example": "진료를 마치고 약국에 제출할 처방전을 받았다.",
+      "example_en": "After the appointment, I received a prescription to submit to the pharmacy."
+    }
   ]
 }
