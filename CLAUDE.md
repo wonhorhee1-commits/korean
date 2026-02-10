@@ -9,11 +9,11 @@ Korean learning tool for an intermediate/advanced speaker targeting full fluency
 - `docs/index.html` — Single-file web app (HTML/CSS/JS, no build step)
 - `docs/data/*.json` — Data served by GitHub Pages
 - `data/*.json` — Source of truth for all data
-- `data/batch_*.json` — Intermediate batch files from expansion runs
-- `data/enriched_*.json` — Intermediate enrichment files (notes added to entries)
 - `merge_data.py` — Merges batch files into main data, syncs to `docs/data/`
+- `docs/sw.js` — Service worker for offline support
 - SM-2 spaced repetition algorithm (same as Anki)
 - Firebase anonymous auth + Firestore for cross-device sync (config in index.html)
+- Offline mode via service worker (caches all data for offline use)
 
 ## Data Files
 
@@ -26,10 +26,10 @@ Korean learning tool for an intermediate/advanced speaker targeting full fluency
 ### Fluency Drill Data
 | File | Description | Count |
 |---|---|---|
-| `data/error_drills.json` | Error correction drills (find & fix grammar mistakes) | 107 drills |
-| `data/grammar_context.json` | Grammar in context (pick correct pattern for paragraph) | 95 drills |
-| `data/reading_drills.json` | Reading comprehension (passages + questions) | 31 passages |
-| `data/register_drills.json` | Register switching (반말/해요체/격식체 conversion) | 77 drills |
+| `data/error_drills.json` | Error correction drills (find & fix grammar mistakes) | 157 drills |
+| `data/grammar_context.json` | Grammar in context (pick correct pattern for paragraph) | 125 drills |
+| `data/reading_drills.json` | Reading comprehension (passages + questions) | 56 passages |
+| `data/register_drills.json` | Register switching (반말/해요체/격식체 conversion) | 107 drills |
 
 ### Vocab Categories & Required Fields
 | Category | Fields |
@@ -95,8 +95,7 @@ Each drill: given, given_register, target_register, correct, explanation, diffic
 ## Current Stats
 - Vocab: 5005 entries across 104 categories (all enriched with notes)
 - Grammar: 101 patterns across 8 categories
-- Fluency drills: 107 error correction + 95 grammar context + 31 reading + 77 register = 310 total
-- Target: expand reading drills to 50+, continue enriching and expanding drill content
+- Fluency drills: 157 error correction + 125 grammar context + 56 reading + 107 register = 445 total
 
 ## Key Design Decisions
 - Self-rated flashcards (Anki-style reveal + rate), NOT auto-graded (except grammar fill-in-the-blank and grammar context)

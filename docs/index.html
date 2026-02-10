@@ -669,6 +669,18 @@ h1 {
 .sync-status.synced { color: var(--green); }
 .sync-status.syncing { color: var(--yellow); }
 .sync-status.offline { color: var(--dim); }
+
+.offline-banner {
+  background: rgba(251,146,60,0.15);
+  color: var(--orange);
+  text-align: center;
+  padding: 8px;
+  font-size: 0.85em;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  display: none;
+}
+.offline-banner.visible { display: block; }
 </style>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
@@ -905,6 +917,7 @@ function showMenu() {
   app.innerHTML = `
     <h1>한국어 코치</h1>
     <p class="subtitle">Korean Coach — Advanced Fluency Trainer</p>
+    <div id="offline-banner" class="offline-banner${isOffline ? ' visible' : ''}">${isOffline ? 'Offline — using cached data' : ''}</div>
     ${syncHtml}
     ${statsHtml}
     <div class="menu">
@@ -1770,6 +1783,25 @@ async function init() {
   }
   await initFirebase();
   showMenu();
+}
+
+// ===== OFFLINE MODE =====
+let isOffline = !navigator.onLine;
+
+function updateOfflineBanner() {
+  const banner = document.getElementById('offline-banner');
+  if (banner) {
+    banner.classList.toggle('visible', isOffline);
+    banner.textContent = isOffline ? 'Offline — using cached data' : '';
+  }
+}
+
+window.addEventListener('online', () => { isOffline = false; updateOfflineBanner(); updateSyncStatus('synced', 'Back online'); pushToFirestore(); });
+window.addEventListener('offline', () => { isOffline = true; updateOfflineBanner(); updateSyncStatus('offline', 'Offline'); });
+
+// Register service worker for offline support
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(() => {});
 }
 
 init();
