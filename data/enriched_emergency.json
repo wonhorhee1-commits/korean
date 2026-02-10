@@ -1,0 +1,277 @@
+{
+  "주제별 단어 — 소방/재난 (Topic: Emergency)": [
+    {
+      "korean": "화재",
+      "english": "fire",
+      "example": "건물에서 대규모 화재가 발생했다.",
+      "example_en": "A large fire broke out in the building.",
+      "notes": "Fire; 화재 진압, 화재 예방. Core emergency term. Etymology: 火(화) = fire."
+    },
+    {
+      "korean": "소방관",
+      "english": "firefighter",
+      "example": "용감한 소방관들이 불을 진압했다.",
+      "example_en": "Brave firefighters extinguished the fire.",
+      "notes": "Firefighter; 소방관 구조, 소방관 훈련. Related: 소방사."
+    },
+    {
+      "korean": "구조대",
+      "english": "rescue team",
+      "example": "산악 구조대가 실종자를 찾아냈다.",
+      "example_en": "The mountain rescue team found the missing person.",
+      "notes": "Rescue team; 소방 구조대, 구조대 출동. Related: 119."
+    },
+    {
+      "korean": "대피",
+      "english": "evacuation",
+      "example": "경보가 울리자 전 직원이 즉시 대피했다.",
+      "example_en": "When the alarm went off, all employees evacuated immediately.",
+      "notes": "Evacuation; 대피 경로, 대피소. Orderly exit. Related: 피난."
+    },
+    {
+      "korean": "피난",
+      "english": "refuge/evacuation",
+      "example": "주민들이 산으로 피난을 갔다.",
+      "example_en": "The residents took refuge in the mountains.",
+      "notes": "Evacuation/refuge; 피난처, 피난 시설. Related: 대피."
+    },
+    {
+      "korean": "비상탈출",
+      "english": "emergency exit",
+      "example": "비상탈출로를 막아두면 안 된다.",
+      "example_en": "You must not block the emergency exit.",
+      "notes": "Emergency exit; 비상탈출 경로, 비상탈출 구조. Related: 비상구."
+    },
+    {
+      "korean": "화염",
+      "english": "flame",
+      "example": "붉은 화염이 하늘로 치솟았다.",
+      "example_en": "Red flames shot up to the sky.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "연기",
+      "english": "smoke",
+      "example": "연기 때문에 시야가 좋지 않았다.",
+      "example_en": "The visibility was poor due to the smoke.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "소화기",
+      "english": "fire extinguisher",
+      "example": "사무실 곳곳에 소화기가 비치되어 있다.",
+      "example_en": "Fire extinguishers are placed throughout the office.",
+      "notes": "Fire extinguisher; 소화기 사용법, 소화기 위치. Related: 소화 장비."
+    },
+    {
+      "korean": "스프링클러",
+      "english": "sprinkler system",
+      "example": "스프링클러가 자동으로 작동했다.",
+      "example_en": "The sprinkler system activated automatically.",
+      "notes": "Sprinkler system; 스프링클러 설치, 스프링클러 점검. Related: 자동 소화."
+    },
+    {
+      "korean": "홍수",
+      "english": "flood",
+      "example": "집중호우로 인한 홍수가 마을을 덮쳤다.",
+      "example_en": "Flooding from heavy rain inundated the village.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "지진",
+      "english": "earthquake",
+      "example": "밤 중에 강한 지진이 발생했다.",
+      "example_en": "A strong earthquake occurred in the middle of the night.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "쓰나미",
+      "english": "tsunami",
+      "example": "쓰나미 경보가 발령되었다.",
+      "example_en": "A tsunami warning was issued.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "토네이도",
+      "english": "tornado",
+      "example": "토네이도가 마을을 지나가며 많은 피해를 입혔다.",
+      "example_en": "The tornado caused significant damage as it passed through the town.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "태풍",
+      "english": "typhoon",
+      "example": "태풍으로 인해 학교가 폐쇄되었다.",
+      "example_en": "The school closed due to the typhoon.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "눈사태",
+      "english": "avalanche",
+      "example": "산에서 눈사태가 일어나 등산로가 막혔다.",
+      "example_en": "An avalanche on the mountain blocked the hiking trail.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "산사태",
+      "english": "landslide",
+      "example": "폭우로 인한 산사태가 도로를 파괴했다.",
+      "example_en": "A landslide caused by heavy rain destroyed the road.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "폭발",
+      "english": "explosion",
+      "example": "공장에서 폭발 사건이 발생했다.",
+      "example_en": "An explosion occurred at the factory.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "응급상황",
+      "english": "emergency situation",
+      "example": "응급상황이 발생하면 119에 신고하세요.",
+      "example_en": "If an emergency situation occurs, please call 119.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "구급차",
+      "english": "ambulance",
+      "example": "구급차가 사이렌을 울리며 달려갔다.",
+      "example_en": "The ambulance rushed away with its siren blaring.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "응급실",
+      "english": "emergency room",
+      "example": "심한 부상자가 응급실로 옮겨졌다.",
+      "example_en": "The severely injured patient was taken to the emergency room.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "대피소",
+      "english": "shelter",
+      "example": "주민들이 체육관 대피소에 머물렀다.",
+      "example_en": "The residents stayed in the gymnasium shelter.",
+      "notes": "Shelter; 대피소 지정, 대피소 준비. Related: 피난처."
+    },
+    {
+      "korean": "경보",
+      "english": "alarm/warning",
+      "example": "화재 경보가 울렸다.",
+      "example_en": "The fire alarm went off.",
+      "notes": "Alarm/alert system; 화재 경보, 경보 울림. Related: 신호."
+    },
+    {
+      "korean": "긴급 신호",
+      "english": "emergency signal/SOS",
+      "example": "배에서 긴급 신호를 보냈다.",
+      "example_en": "The ship sent out a distress signal.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "구출",
+      "english": "rescue",
+      "example": "소방관들이 갇힌 사람들을 구출했다.",
+      "example_en": "The firefighters rescued the trapped people.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "수색",
+      "english": "search",
+      "example": "실종자를 찾기 위한 수색 작업이 진행 중이다.",
+      "example_en": "Search operations are ongoing to find the missing person.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "구호",
+      "english": "relief",
+      "example": "재난 지역에 구호품을 보냈다.",
+      "example_en": "Relief supplies were sent to the disaster area.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "재해",
+      "english": "disaster",
+      "example": "자연 재해로부터 보호하기 위해 방책을 세워야 한다.",
+      "example_en": "We must establish measures to protect ourselves from natural disasters.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "재난",
+      "english": "calamity/disaster",
+      "example": "국가적 재난이 선포되었다.",
+      "example_en": "A national disaster was declared.",
+      "notes": "Disaster/emergency; 자연 재난, 인위 재난. Related: 사고."
+    },
+    {
+      "korean": "비상용",
+      "english": "for emergency/temporary",
+      "example": "이 출구는 비상용으로만 사용해야 한다.",
+      "example_en": "This exit should be used for emergency only.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "안전지대",
+      "english": "safe zone",
+      "example": "모든 사람이 안전지대로 이동했다.",
+      "example_en": "Everyone moved to the safe zone.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "소방차",
+      "english": "fire truck",
+      "example": "소방차들이 현장에 도착했다.",
+      "example_en": "The fire trucks arrived at the scene.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "사다리차",
+      "english": "ladder truck",
+      "example": "사다리차가 높은 건물 화재를 진압하는 데 사용되었다.",
+      "example_en": "The ladder truck was used to extinguish the high-rise fire.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "헬리콥터",
+      "english": "helicopter",
+      "example": "헬리콥터가 고립된 주민들을 구조했다.",
+      "example_en": "The helicopter rescued the isolated residents.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "구명보트",
+      "english": "lifeboat",
+      "example": "승객들이 구명보트에 탔다.",
+      "example_en": "The passengers boarded the lifeboat.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "방독면",
+      "english": "gas mask",
+      "example": "위험한 화학 물질로부터 보호하기 위해 방독면을 착용했다.",
+      "example_en": "We put on gas masks to protect ourselves from dangerous chemicals.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "안전모",
+      "english": "safety helmet",
+      "example": "건설 현장에서는 반드시 안전모를 써야 한다.",
+      "example_en": "You must wear a safety helmet at the construction site.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "응급처치",
+      "english": "first aid",
+      "example": "부상자에게 응급처치를 제공했다.",
+      "example_en": "We provided first aid to the injured person.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    },
+    {
+      "korean": "인명구조",
+      "english": "life-saving rescue",
+      "example": "인명구조 활동이 계속되고 있다.",
+      "example_en": "Life-saving rescue operations are ongoing.",
+      "notes": "Emergency-related term in 소방/재난 (Topic: Emergency). Collocates and usage available in examples."
+    }
+  ]
+}

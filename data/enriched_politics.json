@@ -1,0 +1,284 @@
+{
+  "주제별 단어 — 정치 (Topic: Politics)": [
+    {
+      "korean": "투표",
+      "english": "voting; casting a ballot",
+      "example": "이번 대선에서 투표율이 역대 최고를 기록했다.",
+      "example_en": "The voter turnout in this presidential election set an all-time record.",
+      "notes": "Collocates with 하다, 율 (turnout), 용지 (ballot). Related: 기권 (abstention), 무효표 (invalid vote). Civic participation term."
+    },
+    {
+      "korean": "후보",
+      "english": "candidate",
+      "example": "세 명의 후보가 당 대표 자리를 놓고 경쟁하고 있다.",
+      "example_en": "Three candidates are competing for the party leadership position.",
+      "notes": "Collocates with 자, 지명하다, 등록하다. Compounds: 후보자, 대선 후보, 유력 후보 (frontrunner). Election vocabulary staple."
+    },
+    {
+      "korean": "당선",
+      "english": "winning an election; being elected",
+      "example": "그녀는 압도적인 표 차이로 시장에 당선되었다.",
+      "example_en": "She was elected mayor by an overwhelming margin.",
+      "notes": "Opposite: 낙선. Collocates with 되다, 확정되다. Related: 당선인 (president-elect), 당선 소감 (acceptance speech)."
+    },
+    {
+      "korean": "낙선",
+      "english": "losing an election; failing to be elected",
+      "example": "낙선한 후보는 결과에 승복하겠다는 입장을 밝혔다.",
+      "example_en": "The defeated candidate announced that he would accept the results.",
+      "notes": "Opposite: 당선. Collocates with 하다, 후보. Related: 낙선 운동 (campaign to defeat a candidate). Election vocabulary."
+    },
+    {
+      "korean": "출마",
+      "english": "running for office; candidacy",
+      "example": "현직 의원이 차기 대선 출마를 공식 선언했다.",
+      "example_en": "The incumbent lawmaker officially declared his candidacy for the next presidential election.",
+      "notes": "Collocates with 선언하다, 의사. Related: 입후보 (candidacy, more formal), 불출마 (decision not to run). Election term."
+    },
+    {
+      "korean": "유권자",
+      "english": "voter; eligible voter",
+      "example": "유권자들의 관심사는 경제 문제에 집중되어 있다.",
+      "example_en": "Voters' concerns are focused on economic issues.",
+      "notes": "Compound: 유 (have) + 권 (right) + 자 (person). Collocates with 등록, 의식. Related: 선거권 (right to vote)."
+    },
+    {
+      "korean": "개표",
+      "english": "vote counting; ballot counting",
+      "example": "개표가 진행될수록 두 후보의 격차가 좁혀졌다.",
+      "example_en": "As the vote count progressed, the gap between the two candidates narrowed.",
+      "notes": "Opposite process of 투표 (voting). Collocates with 진행되다, 결과, 방송. Related: 출구조사 (exit poll). Election night term."
+    },
+    {
+      "korean": "선거구",
+      "english": "electoral district; constituency",
+      "example": "이번 선거구 획정에 대해 논란이 일고 있다.",
+      "example_en": "There is controversy over the redistricting of electoral districts.",
+      "notes": "Collocates with 획정 (demarcation), 지역구. Related: 비례대표 (proportional representation), 게리맨더링 (gerrymandering)."
+    },
+    {
+      "korean": "재선",
+      "english": "re-election",
+      "example": "대통령이 재선에 성공하려면 경제 실적이 뒷받침되어야 한다.",
+      "example_en": "For the president to win re-election, economic performance must back it up.",
+      "notes": "Compound: 재 (again) + 선 (election). Collocates with 성공하다, 도전하다. Related: 3선 (third term), 연임 (consecutive terms)."
+    },
+    {
+      "korean": "사전투표",
+      "english": "early voting; advance voting",
+      "example": "사전투표 제도 덕분에 투표 접근성이 크게 향상되었다.",
+      "example_en": "Thanks to the early voting system, access to voting has greatly improved.",
+      "notes": "Introduced in Korea in 2014. Collocates with 기간, 참여율. Any voter can use it at any 사전투표소 nationwide."
+    },
+    {
+      "korean": "국무총리",
+      "english": "prime minister",
+      "example": "국무총리가 국회에 출석하여 현안에 대해 답변했다.",
+      "example_en": "The prime minister attended the National Assembly and responded to pending issues.",
+      "notes": "Korea's PM, appointed by president with National Assembly consent. Collocates with 임명하다. Related: 부총리 (deputy PM)."
+    },
+    {
+      "korean": "내각",
+      "english": "cabinet (of a government)",
+      "example": "새 대통령은 취임 직후 내각을 대폭 개편했다.",
+      "example_en": "The new president reshuffled the cabinet significantly right after inauguration.",
+      "notes": "Collocates with 개편, 구성하다. Related: 국무회의 (cabinet meeting), 각료 (cabinet member). Executive branch vocabulary."
+    },
+    {
+      "korean": "장관",
+      "english": "minister (government)",
+      "example": "외교부 장관이 긴급 기자회견을 열었다.",
+      "example_en": "The Minister of Foreign Affairs held an emergency press conference.",
+      "notes": "Collocates with 임명, 후보자. Departments: 외교부, 국방부, 기획재정부 etc. Related: 차관 (vice minister)."
+    },
+    {
+      "korean": "지방자치",
+      "english": "local autonomy; local self-governance",
+      "example": "지방자치 시대가 열리면서 지역 주민의 목소리가 커졌다.",
+      "example_en": "As the era of local autonomy began, the voices of local residents grew louder.",
+      "notes": "Abbreviated 지자체 (local government). Collocates with 단체, 제도. Related: 시장 (mayor), 도지사 (governor)."
+    },
+    {
+      "korean": "국정감사",
+      "english": "parliamentary audit; government inspection",
+      "example": "국정감사에서 여야 의원들이 장관을 상대로 날카로운 질의를 했다.",
+      "example_en": "During the parliamentary audit, lawmakers from both parties posed sharp questions to the minister.",
+      "notes": "Annual audit of government by National Assembly, unique to Korea. Collocates with 기간, 증인. Held every autumn."
+    },
+    {
+      "korean": "본회의",
+      "english": "plenary session (of parliament)",
+      "example": "법안이 본회의에서 가결되어 시행을 앞두고 있다.",
+      "example_en": "The bill passed the plenary session and is set to be implemented.",
+      "notes": "Collocates with 상정하다, 통과하다. Related: 위원회 (committee), 표결 (vote). The full assembly where laws are finally passed."
+    },
+    {
+      "korean": "상임위원회",
+      "english": "standing committee (of parliament)",
+      "example": "해당 법안은 먼저 소관 상임위원회의 심사를 거쳐야 한다.",
+      "example_en": "The bill must first undergo review by the relevant standing committee.",
+      "notes": "Abbreviated 상임위. Bills go through committee before 본회의. Collocates with 소속, 위원장. Related: 특별위원회 (special committee)."
+    },
+    {
+      "korean": "삼권분립",
+      "english": "separation of powers (legislative, executive, judicial)",
+      "example": "삼권분립은 민주주의의 핵심 원칙 중 하나이다.",
+      "example_en": "The separation of powers is one of the core principles of democracy.",
+      "notes": "Three branches: 입법 (legislative), 행정 (executive), 사법 (judicial). Core constitutional principle. Collocates with 원칙."
+    },
+    {
+      "korean": "관료",
+      "english": "bureaucrat; government official",
+      "example": "고위 관료들의 부정부패가 사회적 불신을 키웠다.",
+      "example_en": "Corruption among high-ranking bureaucrats has fueled public distrust.",
+      "notes": "Collocates with 주의 (bureaucratism), 체제, 고위. Related: 공무원 (civil servant, neutral tone). 관료 has a formal/critical nuance."
+    },
+    {
+      "korean": "정권",
+      "english": "regime; administration; political power",
+      "example": "정권이 교체될 때마다 주요 정책의 방향이 바뀌곤 한다.",
+      "example_en": "Major policy directions tend to shift every time the administration changes.",
+      "notes": "Collocates with 교체, 잡다, 유지하다. Related: 집권 (being in power), 야당 (opposition party). Common in political discourse."
+    },
+    {
+      "korean": "수교",
+      "english": "establishment of diplomatic relations",
+      "example": "두 나라가 수교를 맺은 지 올해로 30주년이 된다.",
+      "example_en": "This year marks the 30th anniversary of the two countries establishing diplomatic relations.",
+      "notes": "Collocates with 맺다, 정상화. Opposite: 단교 (severing relations). Related: 국교 (diplomatic relations). Diplomatic vocabulary."
+    },
+    {
+      "korean": "조약",
+      "english": "treaty",
+      "example": "양국은 핵 비확산 조약에 서명했다.",
+      "example_en": "Both countries signed the nuclear non-proliferation treaty.",
+      "notes": "Collocates with 체결하다, 비준하다. Related: 협정 (agreement, less formal), 의정서 (protocol). International law term."
+    },
+    {
+      "korean": "정상회담",
+      "english": "summit meeting; summit talks",
+      "example": "한미 정상회담에서 안보 협력 방안이 논의되었다.",
+      "example_en": "Security cooperation measures were discussed at the Korea-U.S. summit.",
+      "notes": "Compound: 정상 (heads of state) + 회담 (talks). Collocates with 개최하다, 한미/남북. Related: 외교 (diplomacy)."
+    },
+    {
+      "korean": "대사관",
+      "english": "embassy",
+      "example": "해외에서 긴급 상황이 발생하면 가까운 대사관에 연락해야 한다.",
+      "example_en": "In an emergency abroad, you should contact the nearest embassy.",
+      "notes": "Compound: 대사 (ambassador) + 관 (building). Collocates with 방문하다, 연락하다. Related: 영사관 (consulate), 공관 (mission)."
+    },
+    {
+      "korean": "영사관",
+      "english": "consulate",
+      "example": "비자 발급은 영사관에서 처리할 수 있다.",
+      "example_en": "Visa issuance can be handled at the consulate.",
+      "notes": "Handles visas and citizen services; smaller than 대사관. Collocates with 업무, 관할. Related: 영사 (consul)."
+    },
+    {
+      "korean": "국교",
+      "english": "diplomatic relations (between countries)",
+      "example": "분쟁이 격화되면서 양국은 국교를 단절했다.",
+      "example_en": "As the conflict intensified, the two countries severed diplomatic relations.",
+      "notes": "Collocates with 수립, 단절. Related: 수교 (establishing relations), 단교 (breaking relations). Diplomatic vocabulary."
+    },
+    {
+      "korean": "비준",
+      "english": "ratification (of a treaty or agreement)",
+      "example": "국회의 비준 동의 없이 조약은 효력을 발휘할 수 없다.",
+      "example_en": "A treaty cannot take effect without ratification by the National Assembly.",
+      "notes": "Collocates with 동의, 절차, 받다. The domestic ratification step after signing an international treaty. Related: 국회 동의."
+    },
+    {
+      "korean": "협정",
+      "english": "accord; agreement; pact",
+      "example": "양국은 자유무역협정을 체결하여 관세를 대폭 낮추었다.",
+      "example_en": "The two countries signed a free trade agreement and significantly lowered tariffs.",
+      "notes": "Collocates with 체결하다, 발효되다. Less formal than 조약. Compounds: 자유무역협정 FTA, 휴전 협정 (armistice agreement)."
+    },
+    {
+      "korean": "다자외교",
+      "english": "multilateral diplomacy",
+      "example": "한국은 다자외교를 통해 국제 사회에서의 입지를 강화하고 있다.",
+      "example_en": "Korea is strengthening its standing in the international community through multilateral diplomacy.",
+      "notes": "Compound: 다자 (multilateral) + 외교 (diplomacy). Opposite: 양자외교 (bilateral). Collocates with 무대, 강화하다."
+    },
+    {
+      "korean": "국익",
+      "english": "national interest",
+      "example": "외교 정책은 국익을 최우선으로 고려해야 한다.",
+      "example_en": "Foreign policy must prioritize national interests above all.",
+      "notes": "Compound: 국 (nation) + 익 (benefit). Collocates with 우선, 보호하다, 침해하다. Related: 공익 (public interest)."
+    },
+    {
+      "korean": "시위",
+      "english": "demonstration; protest",
+      "example": "시민들이 광장에 모여 대규모 시위를 벌였다.",
+      "example_en": "Citizens gathered in the plaza and held a large-scale demonstration.",
+      "notes": "Collocates with 벌이다, 참여하다. Related: 집회 (rally), 농성 (sit-in protest), 행진 (march). Social movement term."
+    },
+    {
+      "korean": "청원",
+      "english": "petition",
+      "example": "국민 청원 게시판에 20만 명 이상이 동의한 글이 올라왔다.",
+      "example_en": "A post on the national petition board received over 200,000 signatures of agreement.",
+      "notes": "Collocates with 제출하다, 동의하다. Korea's 국민청원 system was very popular. Related: 탄원 (plea), 진정 (petition)."
+    },
+    {
+      "korean": "집회",
+      "english": "rally; assembly; gathering",
+      "example": "헌법은 집회의 자유를 기본권으로 보장하고 있다.",
+      "example_en": "The constitution guarantees the freedom of assembly as a fundamental right.",
+      "notes": "Collocates with 자유, 허가, 신고. Related: 시위 (demonstration), 결사 (association). Constitutional right in Korea."
+    },
+    {
+      "korean": "국민투표",
+      "english": "referendum; national vote",
+      "example": "헌법 개정안은 국민투표를 통해 최종 확정된다.",
+      "example_en": "Constitutional amendments are finalized through a national referendum.",
+      "notes": "Collocates with 실시하다, 부치다. Used for constitutional amendments in Korea. Related: 찬반 투표 (yes/no vote)."
+    },
+    {
+      "korean": "공청회",
+      "english": "public hearing",
+      "example": "정부는 새 정책에 대한 의견을 수렴하기 위해 공청회를 개최했다.",
+      "example_en": "The government held a public hearing to gather opinions on the new policy.",
+      "notes": "Collocates with 개최하다, 열다, 의견. Related: 간담회 (forum), 토론회 (debate forum). Policy-making process term."
+    },
+    {
+      "korean": "시민단체",
+      "english": "civic organization; NGO",
+      "example": "여러 시민단체가 환경 보호를 위한 공동 성명을 발표했다.",
+      "example_en": "Several civic organizations issued a joint statement for environmental protection.",
+      "notes": "Collocates with 활동, 참여. Related: NGO, 비영리 단체 (nonprofit), 환경 단체. Active in Korean civil society."
+    },
+    {
+      "korean": "주민소환",
+      "english": "recall (of an elected official by residents)",
+      "example": "주민소환 투표가 성립하려면 일정 비율 이상의 투표율이 필요하다.",
+      "example_en": "A recall vote requires a turnout above a certain threshold to be valid.",
+      "notes": "Collocates with 투표, 청구하다. Requires a minimum voter turnout to be valid. Related: 탄핵 (impeachment). Direct democracy tool."
+    },
+    {
+      "korean": "참정권",
+      "english": "suffrage; right to participate in politics",
+      "example": "만 18세 이상 국민에게 참정권이 부여된다.",
+      "example_en": "The right to political participation is granted to citizens aged 18 and older.",
+      "notes": "Compound: 참정 (political participation) + 권 (right). Collocates with 부여하다, 행사하다. Related: 선거권, 피선거권."
+    },
+    {
+      "korean": "서명운동",
+      "english": "signature campaign; petition drive",
+      "example": "시민들이 법 개정을 요구하며 서명운동을 펼치고 있다.",
+      "example_en": "Citizens are conducting a signature campaign demanding a revision of the law.",
+      "notes": "Collocates with 벌이다, 동참하다. Related: 청원 (petition), 온라인 서명 (online petition). Grassroots activism method."
+    },
+    {
+      "korean": "인권",
+      "english": "human rights",
+      "example": "국제 사회는 북한의 인권 상황에 대해 지속적으로 우려를 표명하고 있다.",
+      "example_en": "The international community continues to express concern over the human rights situation in North Korea.",
+      "notes": "Collocates with 침해, 보호, 존중. Compounds: 인권 단체, 인권 운동가 (activist). Related: 기본권 (fundamental rights)."
+    }
+  ]
+}

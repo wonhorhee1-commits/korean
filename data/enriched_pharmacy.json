@@ -1,0 +1,277 @@
+{
+  "주제별 단어 — 약학 (Topic: Pharmacy)": [
+    {
+      "korean": "처방약",
+      "english": "prescription drug",
+      "example": "의사가 처방약을 3일분 처방했다.",
+      "example_en": "The doctor prescribed medication for 3 days.",
+      "notes": "Related: 처방 약물, 의약품. Requires doctor's prescription; 약 대기."
+    },
+    {
+      "korean": "일반의약품",
+      "english": "over-the-counter drug (OTC)",
+      "example": "감기약은 약국에서 일반의약품으로 판매된다.",
+      "example_en": "Cold medicine is sold as an OTC drug at pharmacies.",
+      "notes": "Related: OTC, 약국 판매. Over-the-counter; 상비약."
+    },
+    {
+      "korean": "부작용",
+      "english": "side effect",
+      "example": "이 약의 부작용으로 현기증이 있을 수 있다.",
+      "example_en": "Dizziness can be a side effect of this medication.",
+      "notes": "Related: 부작용 증상, 이상 반응. Side effects; 부작용이 나타나다."
+    },
+    {
+      "korean": "약리작용",
+      "english": "pharmacological action/mechanism of action",
+      "example": "이 약의 약리작용은 신경전달물질을 차단한다.",
+      "example_en": "This drug's mechanism of action blocks neurotransmitters.",
+      "notes": "Related: 메커니즘, 작용 원리. Mechanism of action; 약리 과정."
+    },
+    {
+      "korean": "복용량",
+      "english": "dosage",
+      "example": "성인의 복용량은 하루에 3번 한 정씩이다.",
+      "example_en": "The adult dosage is one tablet three times daily.",
+      "notes": "Related: 용량 조절, 투여량. Dosage amount; Sino-Korean: 服(복)用(용)."
+    },
+    {
+      "korean": "복용법",
+      "english": "how to take (instructions)",
+      "example": "식후에 복용법을 지켜 먹어야 한다.",
+      "example_en": "You must follow the instructions and take it after meals.",
+      "notes": "Related: 복용 방법, 투여 방법. How to take; 식전/식후 복용."
+    },
+    {
+      "korean": "약물상호작용",
+      "english": "drug interaction",
+      "example": "알코올과의 약물상호작용으로 인해 졸음이 올 수 있다.",
+      "example_en": "Drug interaction with alcohol may cause drowsiness.",
+      "notes": "Related: 약물 상호작용, 병용 금지. Drug interaction; important for safety."
+    },
+    {
+      "korean": "항생제",
+      "english": "antibiotic",
+      "example": "세균 감염은 항생제로 치료한다.",
+      "example_en": "Bacterial infections are treated with antibiotics.",
+      "notes": "Related: 항생물질, 페니실린. Antibiotic; 항생제 남용 문제."
+    },
+    {
+      "korean": "진통제",
+      "english": "pain reliever/analgesic",
+      "example": "두통이 있으면 진통제를 복용하세요.",
+      "example_en": "If you have a headache, take a pain reliever.",
+      "notes": "Related: 통증 완화, 지통제. Pain reliever; 진통 효과."
+    },
+    {
+      "korean": "소염제",
+      "english": "anti-inflammatory",
+      "example": "염증을 줄이기 위해 소염제를 처방했다.",
+      "example_en": "I prescribed an anti-inflammatory to reduce inflammation.",
+      "notes": "Related: 항염제, 염증 억제. Anti-inflammatory; 소염 효과."
+    },
+    {
+      "korean": "감기약",
+      "english": "cold medicine",
+      "example": "감기약을 복용한 후 증상이 나아졌다.",
+      "example_en": "After taking cold medicine, the symptoms improved.",
+      "notes": "Related: 감기 치료, 종합감기약. Cold medicine; 감기약 복용."
+    },
+    {
+      "korean": "소화제",
+      "english": "digestive aid",
+      "example": "과식했을 때는 소화제를 먹는 것이 좋다.",
+      "example_en": "When you overeat, it's good to take a digestive aid.",
+      "notes": "Related: 소화 개선, 장내 미생물. Digestive aid; 소화 촉진."
+    },
+    {
+      "korean": "장용정",
+      "english": "enteric-coated tablet",
+      "example": "이 약은 장용정으로 코팅되어 위산을 견딜 수 있다.",
+      "example_en": "This pill is enteric-coated to withstand stomach acid.",
+      "notes": "Related: 장용 코팅, 위산 보호. Enteric-coated for stomach acid protection."
+    },
+    {
+      "korean": "시럽제",
+      "english": "syrup form",
+      "example": "어린이를 위해 약을 시럽제로 처방했다.",
+      "example_en": "The medicine was prescribed in syrup form for children.",
+      "notes": "Related: 액제, 어린이용. Liquid form; easier for children."
+    },
+    {
+      "korean": "주사제",
+      "english": "injection",
+      "example": "심한 염증은 주사제로 직접 투여한다.",
+      "example_en": "Severe inflammation is treated with direct injection.",
+      "notes": "Related: 주입, 직접 투여. Injection form; 근육 주사, 정맥 주사."
+    },
+    {
+      "korean": "연고",
+      "english": "ointment/salve",
+      "example": "피부질환은 항생제 연고로 치료할 수 있다.",
+      "example_en": "Skin conditions can be treated with antibiotic ointment.",
+      "notes": "Related: 연고 도포, 외용약. Topical ointment; 상처 연고."
+    },
+    {
+      "korean": "유효기한",
+      "english": "expiration date",
+      "example": "약을 사기 전에 유효기한을 확인해야 한다.",
+      "example_en": "You must check the expiration date before buying medicine.",
+      "notes": "Related: 만료일, 유효 기간. Expiration date; 유효기한 확인."
+    },
+    {
+      "korean": "금기사항",
+      "english": "contraindication",
+      "example": "임신 중에는 이 약의 금기사항이 있다.",
+      "example_en": "There is a contraindication for this drug during pregnancy.",
+      "notes": "Related: 금기 조건, 사용 금지. Contraindication; 임신 중 금기."
+    },
+    {
+      "korean": "알레르기 반응",
+      "english": "allergic reaction",
+      "example": "이 약으로 인한 알레르기 반응이 나타났다.",
+      "example_en": "An allergic reaction to this medication appeared.",
+      "notes": "Related: 알레르기 증상, 과민 반응. Allergic reaction; 심한 알레르기."
+    },
+    {
+      "korean": "약물 남용",
+      "english": "drug abuse",
+      "example": "진통제의 약물 남용은 매우 위험하다.",
+      "example_en": "Drug abuse with painkillers is very dangerous.",
+      "notes": "Related: 약물 오용, 과다 복용. Drug abuse; serious health risk."
+    },
+    {
+      "korean": "약효",
+      "english": "drug efficacy/effectiveness",
+      "example": "이 약의 약효는 30분 후부터 나타난다.",
+      "example_en": "This drug's effectiveness begins to appear after 30 minutes.",
+      "notes": "Related: 약 효과, 효과 발현. Drug efficacy; 약효가 나타나다."
+    },
+    {
+      "korean": "생물학적동등성",
+      "english": "bioequivalence",
+      "example": "제네릭 약은 원본 약과 생물학적동등성을 가져야 한다.",
+      "example_en": "Generic drugs must have bioequivalence with the original drug.",
+      "notes": "Related: 제네릭 동등성, 생동성. Bioequivalence for generic drugs."
+    },
+    {
+      "korean": "흡수",
+      "english": "absorption",
+      "example": "음식과 함께 복용하면 약의 흡수가 달라질 수 있다.",
+      "example_en": "Taking it with food can change the drug's absorption.",
+      "notes": "Related: 흡수율, 음식 영향. Absorption; 음식과 함께 복용하면 흡수가 달라진다."
+    },
+    {
+      "korean": "대사",
+      "english": "metabolism",
+      "example": "간에서 약물의 대사가 일어난다.",
+      "example_en": "Drug metabolism occurs in the liver.",
+      "notes": "Related: 신진대사, 간 대사. Metabolism; 약물 대사 속도."
+    },
+    {
+      "korean": "배설",
+      "english": "excretion",
+      "example": "약물의 배설은 주로 신장을 통해 이루어진다.",
+      "example_en": "Drug excretion mainly occurs through the kidneys.",
+      "notes": "Related: 신장 배설, 소변 배출. Excretion through kidneys."
+    },
+    {
+      "korean": "약물 의존성",
+      "english": "drug dependence",
+      "example": "수면제의 지속적인 사용은 약물 의존성을 초래할 수 있다.",
+      "example_en": "Continuous use of sleeping pills can lead to drug dependence.",
+      "notes": "Related: 의존성 위험, 중독. Drug dependence risk; 습관성 약물."
+    },
+    {
+      "korean": "증상 완화",
+      "english": "symptom relief",
+      "example": "이 약은 증상 완화에 효과적이다.",
+      "example_en": "This drug is effective for symptom relief.",
+      "notes": "Related: 증상 감소, 증상 개선. Symptom relief; 증상을 완화하다."
+    },
+    {
+      "korean": "치료 기간",
+      "english": "treatment duration",
+      "example": "항생제의 치료 기간은 보통 5일에서 7일이다.",
+      "example_en": "The treatment duration for antibiotics is usually 5 to 7 days.",
+      "notes": "Related: 투여 기간, 복용 기간. Treatment duration; 5-7일 권장."
+    },
+    {
+      "korean": "적응증",
+      "english": "indication (medical use)",
+      "example": "이 약의 적응증은 고혈압과 협심증이다.",
+      "example_en": "This drug is indicated for hypertension and angina.",
+      "notes": "Related: 의약품 용도, 병증. Medical indication for use."
+    },
+    {
+      "korean": "용량 조절",
+      "english": "dose adjustment",
+      "example": "신장 기능이 낮으면 용량 조절이 필요하다.",
+      "example_en": "Dose adjustment is necessary if kidney function is low.",
+      "notes": "Related: 맞춤형 용량, 부족/과다. Dose adjustment; 신장 기능에 따른."
+    },
+    {
+      "korean": "혼합 투여",
+      "english": "combination therapy",
+      "example": "암 치료는 여러 약물의 혼합 투여로 진행된다.",
+      "example_en": "Cancer treatment is conducted with combination therapy.",
+      "notes": "Related: 병용 투여, 복합 요법. Combination therapy."
+    },
+    {
+      "korean": "피부 자극",
+      "english": "skin irritation",
+      "example": "이 연고로 인한 피부 자극이 있을 수 있다.",
+      "example_en": "Skin irritation from this ointment is possible.",
+      "notes": "Related: 피부 반응, 자극 증상. Skin irritation from topicals."
+    },
+    {
+      "korean": "약국",
+      "english": "pharmacy",
+      "example": "처방전을 들고 약국에 가야 한다.",
+      "example_en": "I need to go to the pharmacy with the prescription.",
+      "notes": "Related: 약사, 처방약 판매처. Pharmacy; 약국에 가다."
+    },
+    {
+      "korean": "약사",
+      "english": "pharmacist",
+      "example": "약사가 약의 복용법을 설명해주었다.",
+      "example_en": "The pharmacist explained how to take the medicine.",
+      "notes": "Related: 약학, 의료 전문가. Pharmacist; 약사와 상담."
+    },
+    {
+      "korean": "처방전",
+      "english": "prescription",
+      "example": "의사로부터 처방전을 받았다.",
+      "example_en": "I received a prescription from the doctor.",
+      "notes": "Related: 의사 처방, 약국 제출. Prescription; 처방전을 들고 가다."
+    },
+    {
+      "korean": "제네릭",
+      "english": "generic (drug)",
+      "example": "제네릭 약은 원본 약보다 저렴하다.",
+      "example_en": "Generic drugs are cheaper than brand-name drugs.",
+      "notes": "Related: 제네릭 약품, 복제약. Generic drug; 제네릭 버전."
+    },
+    {
+      "korean": "단회 투여",
+      "english": "single dose",
+      "example": "이 약은 단회 투여로 충분하다.",
+      "example_en": "A single dose of this drug is sufficient.",
+      "notes": "Related: 1회 투여, 일회용. Single dose; 편리한 단회 투여."
+    },
+    {
+      "korean": "연속 투여",
+      "english": "continuous administration",
+      "example": "이 질환은 연속 투여가 필요하다.",
+      "example_en": "This condition requires continuous administration.",
+      "notes": "Related: 계속 복용, 지속 투여. Continuous administration."
+    },
+    {
+      "korean": "약물 축적",
+      "english": "drug accumulation",
+      "example": "신장 기능이 낮으면 약물 축적이 발생할 수 있다.",
+      "example_en": "Drug accumulation can occur if kidney function is low.",
+      "notes": "Related: 축적 현상, 독성 축적. Drug accumulation risk."
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "주제별 단어 — 예술 (Topic: Art)": [
+    {
+      "korean": "화풍",
+      "english": "painting style; artistic style",
+      "example": "인상주의 화풍은 빛의 변화를 포착하는 데 집중한다.",
+      "example_en": "The Impressionist painting style focuses on capturing changes in light.",
+      "notes": "Sino-Korean (畫風: painting + style). Collocations: 고전 화풍, 현대 화풍, 독특한 화풍. Related: 미술 사조, 예술 경향."
+    },
+    {
+      "korean": "붓놀림",
+      "english": "brushwork; brush strokes",
+      "example": "거친 붓놀림이 오히려 생동감을 준다.",
+      "example_en": "The rough brushwork actually gives it a sense of vitality.",
+      "notes": "Pure Korean compound (붓 brush + 놀림 play/movement). Collocations: 거친 붓놀림, 세밀한 붓놀림. Related: 터치, 필법."
+    },
+    {
+      "korean": "색채",
+      "english": "color; coloring; chromatic quality",
+      "example": "이 작품은 따뜻한 색채가 인상적이다.",
+      "example_en": "The warm coloring of this piece is impressive.",
+      "notes": "Sino-Korean (色彩: color + quality). Collocations: 따뜻한/차가운 색채, 색채감. Related: 색상, 톤."
+    },
+    {
+      "korean": "구도",
+      "english": "composition (of a painting/photo)",
+      "example": "대각선 구도가 화면에 긴장감을 더해 준다.",
+      "example_en": "The diagonal composition adds tension to the frame.",
+      "notes": "Sino-Korean (構圖: construct + diagram). Collocations: 대각선 구도, 구도를 짜다. Usage: Common in visual arts criticism."
+    },
+    {
+      "korean": "조형미",
+      "english": "formative beauty; sculptural beauty",
+      "example": "한옥의 지붕선에서 독특한 조형미를 느낄 수 있다.",
+      "example_en": "You can feel a unique formative beauty in the roofline of a hanok.",
+      "notes": "Sino-Korean (造形美: form + beauty). Collocations: 독특한 조형미, 조형미가 뛰어나다. Related: 조형 예술, 미적 가치."
+    },
+    {
+      "korean": "수묵화",
+      "english": "ink wash painting",
+      "example": "수묵화는 먹의 농담으로 깊이를 표현한다.",
+      "example_en": "Ink wash painting expresses depth through the shading of ink.",
+      "notes": "Sino-Korean (水墨畫: water + ink + painting). Usage: Traditional East Asian art form. Related: 먹 drawing, 동양화, 수묵 예술."
+    },
+    {
+      "korean": "전시회를 열다",
+      "english": "to hold an exhibition",
+      "example": "신진 작가가 첫 개인 전시회를 열었다.",
+      "example_en": "The emerging artist held their first solo exhibition.",
+      "notes": "전시회 (展示會: exhibit + meeting). Collocations: 전시회를 열다/개최하다, 개인 전시회, 단체 전시회. Related: 기획전, 특별전."
+    },
+    {
+      "korean": "소장하다",
+      "english": "to collect; to hold in one's collection",
+      "example": "이 미술관은 인상주의 작품을 다수 소장하고 있다.",
+      "example_en": "This museum holds a large number of Impressionist works in its collection.",
+      "notes": "Sino-Korean (所藏: place + treasure). Collocations: 다수 소장하다, 귀중한 작품을 소장하다. Usage: Formal, used for museums/collectors."
+    },
+    {
+      "korean": "추상화",
+      "english": "abstract painting",
+      "example": "추상화는 감상자의 해석에 따라 의미가 달라진다.",
+      "example_en": "The meaning of an abstract painting changes depending on the viewer's interpretation.",
+      "notes": "Sino-Korean (抽象畫: extract/abstract + painting). Collocations: 비구상화와 비교, 추상화 운동. Related: 추상미술, 구상화."
+    },
+    {
+      "korean": "도예",
+      "english": "ceramic art; pottery",
+      "example": "도예 수업에서 직접 그릇을 빚어 봤다.",
+      "example_en": "I tried making a bowl myself in a ceramics class.",
+      "notes": "Sino-Korean (陶藝: pottery + art). Collocations: 도예 수업, 도예가. Usage: Refers to the traditional craft and fine art."
+    },
+    {
+      "korean": "선율",
+      "english": "melody; tune",
+      "example": "귀에 맴도는 선율이 하루 종일 머릿속에 남았다.",
+      "example_en": "The lingering melody stayed in my head all day.",
+      "notes": "Sino-Korean (旋律: revolve + rate). Collocations: 아름다운 선율, 선율감. Related: 멜로디, 곡조."
+    },
+    {
+      "korean": "화성",
+      "english": "harmony (in music)",
+      "example": "화성의 기초를 모르면 작곡이 어렵다.",
+      "example_en": "Composing is difficult without knowing the basics of harmony.",
+      "notes": "Sino-Korean (和聲: harmony + sound). Collocations: 화성 구조, 화성 진행, 화성감. Related: 음악 이론, 성악 화음."
+    },
+    {
+      "korean": "음색",
+      "english": "timbre; tone color",
+      "example": "첼로의 깊은 음색이 마음을 울린다.",
+      "example_en": "The deep timbre of the cello moves the heart.",
+      "notes": "Sino-Korean (音色: sound + color). Collocations: 따뜻한 음색, 맑은 음색, 음색감. Related: 음향, 톤 퀄리티."
+    },
+    {
+      "korean": "즉흥 연주",
+      "english": "improvisation; impromptu performance",
+      "example": "재즈의 매력은 즉흥 연주에 있다.",
+      "example_en": "The charm of jazz lies in improvisation.",
+      "notes": "Sino-Korean (即興: at once + flourish). Collocations: 즉흥 연주를 하다, 즉흥성. Usage: Core to jazz music traditions."
+    },
+    {
+      "korean": "합주하다",
+      "english": "to play in an ensemble; to perform together",
+      "example": "오케스트라 단원들이 함께 합주하며 호흡을 맞췄다.",
+      "example_en": "The orchestra members rehearsed together and synchronized their playing.",
+      "notes": "Sino-Korean (合奏: join + play). Collocations: 합주하다, 합주 능력. Related: 앙상블, 단체 연주."
+    },
+    {
+      "korean": "관현악",
+      "english": "orchestral music",
+      "example": "관현악 공연을 보러 예술의전당에 갔다.",
+      "example_en": "I went to the Seoul Arts Center to see an orchestral performance.",
+      "notes": "Sino-Korean (管絃樂: wind instruments + strings + music). Collocations: 관현악 공연, 관현악 음악. Related: 교향악, 오케스트라."
+    },
+    {
+      "korean": "작곡가",
+      "english": "composer",
+      "example": "윤이상은 한국이 낳은 세계적 작곡가이다.",
+      "example_en": "Yun Isang is a world-class composer born in Korea.",
+      "notes": "Sino-Korean (作曲家: compose + person). Collocations: 세계적 작곡가, 유명한 작곡가. Related: 음악가, 지휘자."
+    },
+    {
+      "korean": "악보",
+      "english": "musical score; sheet music",
+      "example": "악보를 보지 않고 연주할 수 있을 만큼 연습했다.",
+      "example_en": "I practiced enough to play without looking at the score.",
+      "notes": "Sino-Korean (樂譜: music + score). Collocations: 악보를 읽다, 악보를 연주하다. Related: 스코어, 악곡."
+    },
+    {
+      "korean": "가사",
+      "english": "lyrics (of a song)",
+      "example": "이 노래의 가사가 마음에 와닿았다.",
+      "example_en": "The lyrics of this song resonated with me.",
+      "notes": "Sino-Korean (歌詞: song + words). Collocations: 가사가 좋다, 가사를 쓰다. Related: 작사, 가사 의미."
+    },
+    {
+      "korean": "박자",
+      "english": "beat; rhythm; meter",
+      "example": "박자를 놓치면 전체 합주가 흐트러진다.",
+      "example_en": "If you miss the beat, the entire ensemble falls apart.",
+      "notes": "Sino-Korean (拍子: beat + child/meter). Collocations: 박자감, 박자를 맞추다, 4/4 박자. Related: 리듬, 타이밍."
+    },
+    {
+      "korean": "서사",
+      "english": "narrative; storytelling",
+      "example": "이 소설은 탄탄한 서사로 독자를 끌어당긴다.",
+      "example_en": "This novel draws readers in with its solid narrative.",
+      "notes": "Sino-Korean (敍事: tell + matter). Collocations: 탄탄한 서사, 서사 구조. Related: 이야기, 플롯."
+    },
+    {
+      "korean": "문체",
+      "english": "writing style; literary style",
+      "example": "그 작가의 문체는 간결하면서도 울림이 있다.",
+      "example_en": "That author's writing style is concise yet resonant.",
+      "notes": "Sino-Korean (文體: literature + body/form). Collocations: 고전 문체, 문체를 구사하다. Related: 필체, 창작 스타일."
+    },
+    {
+      "korean": "은유",
+      "english": "metaphor",
+      "example": "'인생은 여행이다'는 대표적인 은유이다.",
+      "example_en": "'Life is a journey' is a classic metaphor.",
+      "notes": "Sino-Korean (隱喩: hide + suggest). Collocations: 은유적 표현, 은유를 사용하다. Related: 직유, 상징."
+    },
+    {
+      "korean": "행간을 읽다",
+      "english": "to read between the lines",
+      "example": "시를 감상하려면 행간을 읽는 능력이 필요하다.",
+      "example_en": "Appreciating poetry requires the ability to read between the lines.",
+      "notes": "행간 (行間: line + space). Collocations: 행간을 읽다, 행간의 의미. Usage: Metaphorical — implies reading implied meaning."
+    },
+    {
+      "korean": "퇴고하다",
+      "english": "to revise (a manuscript); to polish writing",
+      "example": "좋은 글은 여러 번 퇴고를 거쳐 완성된다.",
+      "example_en": "Good writing is completed through multiple rounds of revision.",
+      "notes": "Sino-Korean (推敲: push + knock). Collocations: 여러 번 퇴고하다, 퇴고 과정. Usage: Literary/editorial context."
+    },
+    {
+      "korean": "산문",
+      "english": "prose",
+      "example": "그는 시보다 산문에 더 재능이 있다.",
+      "example_en": "He has more talent for prose than poetry.",
+      "notes": "Sino-Korean (散文: scatter + writing). Collocations: 산문과 시, 산문 작가. Related: 수필, 소설."
+    },
+    {
+      "korean": "서정적",
+      "english": "lyrical; poetic",
+      "example": "가을 풍경을 서정적으로 묘사한 수필이다.",
+      "example_en": "It is an essay that lyrically depicts the autumn landscape.",
+      "notes": "Sino-Korean (抒情的: express + emotion + adjective). Collocations: 서정적 표현, 서정적 분위기. Related: 감정적, 낭만적."
+    },
+    {
+      "korean": "풍자",
+      "english": "satire",
+      "example": "그 소설은 사회 부조리를 날카롭게 풍자한다.",
+      "example_en": "The novel sharply satirizes social absurdities.",
+      "notes": "Sino-Korean (風刺: wind/manner + prick). Collocations: 날카로운 풍자, 풍자 문학. Related: 비판, 조롱."
+    },
+    {
+      "korean": "필력",
+      "english": "writing prowess; power of the pen",
+      "example": "필력이 대단해서 짧은 문장에도 깊은 여운이 남는다.",
+      "example_en": "The writing prowess is remarkable — even short sentences leave a deep impression.",
+      "notes": "Sino-Korean (筆力: pen + strength). Collocations: 뛰어난 필력, 필력을 발휘하다. Related: 표현력, 문학적 능력."
+    },
+    {
+      "korean": "원작",
+      "english": "original work (source material)",
+      "example": "영화가 워낙 유명해서 원작 소설을 찾아 읽었다.",
+      "example_en": "The movie was so famous that I sought out and read the original novel.",
+      "notes": "Sino-Korean (原作: origin + work). Collocations: 원작 소설, 원작을 기반으로. Related: 각색, 개작."
+    },
+    {
+      "korean": "연출",
+      "english": "direction; staging (film/theater)",
+      "example": "감독의 섬세한 연출이 관객의 몰입도를 높였다.",
+      "example_en": "The director's delicate staging heightened the audience's immersion.",
+      "notes": "Sino-Korean (演出: perform + bring out). Collocations: 섬세한 연출, 연출하다. Related: 감독, 제작."
+    },
+    {
+      "korean": "각본",
+      "english": "screenplay; script",
+      "example": "이 영화는 각본이 탄탄해서 몰입감이 뛰어나다.",
+      "example_en": "This film has a solid screenplay, making it highly immersive.",
+      "notes": "Sino-Korean (脚本: leg/foundation + book). Collocations: 각본가, 각본이 좋다, 각본을 쓰다. Related: 시나리오, 대사."
+    },
+    {
+      "korean": "무대 장치",
+      "english": "stage set; stage design",
+      "example": "화려한 무대 장치가 뮤지컬의 완성도를 높였다.",
+      "example_en": "The elaborate stage design elevated the quality of the musical.",
+      "notes": "무대 (舞台: dance + platform). Collocations: 화려한 무대 장치, 무대 장치를 설계하다. Related: 세트, 무대미술."
+    },
+    {
+      "korean": "독백",
+      "english": "monologue; soliloquy",
+      "example": "주인공의 독백 장면이 가장 인상적이었다.",
+      "example_en": "The protagonist's monologue scene was the most impressive.",
+      "notes": "Sino-Korean (獨白: alone + speak). Collocations: 감정적 독백, 독백 장면. Related: 대사, 내레이션."
+    },
+    {
+      "korean": "관객 호응",
+      "english": "audience response; audience engagement",
+      "example": "관객 호응이 좋아서 공연 기간이 연장되었다.",
+      "example_en": "The audience response was so positive that the show's run was extended.",
+      "notes": "호응 (呼應: call + respond). Collocations: 관객 호응이 좋다, 적극적인 호응. Related: 반응, 박수."
+    },
+    {
+      "korean": "촬영 기법",
+      "english": "cinematography technique; filming method",
+      "example": "롱테이크 촬영 기법이 긴장감을 극대화했다.",
+      "example_en": "The long-take filming technique maximized the tension.",
+      "notes": "촬영 (撮影: take/shoot + shadow/picture). Collocations: 롱테이크, 오버헤드 촬영. Related: 카메라 앵글, 영상미."
+    },
+    {
+      "korean": "흥행하다",
+      "english": "to be a box-office hit; to do well commercially",
+      "example": "저예산 영화가 예상을 깨고 크게 흥행했다.",
+      "example_en": "The low-budget film defied expectations and became a huge hit.",
+      "notes": "Sino-Korean (興行: prosper + conduct/line). Collocations: 크게 흥행하다, 흥행 성공. Related: 박스오피스, 관객 수."
+    },
+    {
+      "korean": "배역을 맡다",
+      "english": "to take on a role; to be cast as",
+      "example": "신인 배우가 주인공 배역을 맡아 화제가 됐다.",
+      "example_en": "A rookie actor taking on the lead role became a hot topic.",
+      "notes": "배역 (配役: arrange + role). Collocations: 주인공 배역, 배역을 맡다/나누다. Related: 캐스팅, 역할."
+    },
+    {
+      "korean": "앙코르",
+      "english": "encore",
+      "example": "관객의 뜨거운 박수에 앙코르 무대가 이어졌다.",
+      "example_en": "The enthusiastic applause from the audience led to an encore performance.",
+      "notes": "French loanword (encore = again). Collocations: 앙코르 무대, 앙코르를 하다. Usage: Concert/performance contexts."
+    },
+    {
+      "korean": "막이 오르다",
+      "english": "for the curtain to rise; for the show to begin",
+      "example": "드디어 막이 오르자 객석이 숨을 죽였다.",
+      "example_en": "When the curtain finally rose, the audience held its breath.",
+      "notes": "Pure Korean (막 = curtain, 오르다 = rise). Collocations: 막이 오르다/내리다, 막을 올리다. Related: 공연 시작."
+    }
+  ]
+}

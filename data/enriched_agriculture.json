@@ -1,0 +1,284 @@
+{
+  "주제별 단어 — 농업 (Topic: Agriculture)": [
+    {
+      "korean": "논",
+      "english": "rice paddy, rice field",
+      "example": "할아버지는 매년 봄에 논에 물을 댄다.",
+      "example_en": "Grandfather floods the rice paddies every spring.",
+      "notes": "Collocations: 논농사 (rice farming), 논둑 (paddy ridge). Related: 벼 (rice plant)."
+    },
+    {
+      "korean": "밭",
+      "english": "field, dry field (for crops other than rice)",
+      "example": "이 밭에는 옥수수와 콩을 재배한다.",
+      "example_en": "Corn and soybeans are grown in this field.",
+      "notes": "Native Korean; general field. Collocations: 밭일 (field work). Opposite: 논."
+    },
+    {
+      "korean": "농사",
+      "english": "farming, agriculture",
+      "example": "농사가 잘되려면 날씨가 중요하다.",
+      "example_en": "Good weather is important for farming to succeed.",
+      "notes": "Sino-Korean: 農事. Collocations: 농사가 잘되다, 농사짓다. Related: 농업, 경작."
+    },
+    {
+      "korean": "경작",
+      "english": "cultivation, tilling",
+      "example": "이 땅을 경작하는 데 오래 걸린다.",
+      "example_en": "It takes a long time to till this land.",
+      "notes": "Etymology: 耕作; formal term for cultivation. Collocations: 경작지 (cultivated land)."
+    },
+    {
+      "korean": "곡물",
+      "english": "grain, cereal crops",
+      "example": "곡물 값이 올해 많이 올랐다.",
+      "example_en": "Grain prices have risen significantly this year.",
+      "notes": "Sino-Korean: 穀物. Grain crops. Collocations: 곡물 생산, 곡물 가격. Related: 주곡."
+    },
+    {
+      "korean": "벼",
+      "english": "rice (the plant)",
+      "example": "벼가 누렇게 익어갈 때가 가을이다.",
+      "example_en": "Autumn comes when rice turns golden and ripens.",
+      "notes": "Native Korean; rice plant (growing). Different from 쌀 (rice grain)."
+    },
+    {
+      "korean": "보리",
+      "english": "barley",
+      "example": "보리쌀로 밥을 지어 먹는 전통이 있다.",
+      "example_en": "There is a tradition of cooking barley rice.",
+      "notes": "Native Korean; barley. Also 겨울보리 (winter barley)."
+    },
+    {
+      "korean": "옥수수",
+      "english": "corn, maize",
+      "example": "옥수수는 여름에 수확한다.",
+      "example_en": "Corn is harvested in summer.",
+      "notes": "Native Korean; corn. Related: 콩 (beans)."
+    },
+    {
+      "korean": "감자",
+      "english": "potato",
+      "example": "감자는 토양이 좋지 않아도 잘 자란다.",
+      "example_en": "Potatoes grow well even in poor soil.",
+      "notes": "Native Korean; potato. Collocations: 감자밭 (potato field)."
+    },
+    {
+      "korean": "고구마",
+      "english": "sweet potato",
+      "example": "고구마는 가을에 캔다.",
+      "example_en": "Sweet potatoes are dug up in autumn.",
+      "notes": "Native Korean; sweet potato. Related: 호박 (squash)."
+    },
+    {
+      "korean": "콩",
+      "english": "bean, soybean",
+      "example": "이 지역은 콩 생산으로 유명하다.",
+      "example_en": "This region is famous for soybean production.",
+      "notes": "Native Korean; soybean. Collocations: 콩 농사, 콩농장. Related: 두부, 간장."
+    },
+    {
+      "korean": "쌀",
+      "english": "rice (the grain)",
+      "example": "우리 집은 우리 밭에서 생산한 쌀을 먹는다.",
+      "example_en": "Our family eats rice produced from our own field.",
+      "notes": "Native Korean; rice grain. Different from 벼 (rice plant). Collocations: 쌀 생산, 쌀값. Related: 백미, 현미."
+    },
+    {
+      "korean": "수확",
+      "english": "harvest, harvesting",
+      "example": "수확 시기가 되면 온 마을이 바빠진다.",
+      "example_en": "When harvest time comes, the whole village gets busy.",
+      "notes": "Etymology: 收穫; harvest season. Collocations: 수확량 (harvest yield)."
+    },
+    {
+      "korean": "파종",
+      "english": "sowing, seeding",
+      "example": "봄 파종을 잘못하면 가을 수확이 힘들다.",
+      "example_en": "Poor spring seeding makes autumn harvest difficult.",
+      "notes": "Etymology: 播種; means sowing seeds. Related: 종자 (seed)."
+    },
+    {
+      "korean": "농사꾼",
+      "english": "farmer (a person who farms)",
+      "example": "그 농사꾼은 50년을 같은 땅에서 살았다.",
+      "example_en": "That farmer has lived on the same land for 50 years.",
+      "notes": "Native compound: 농사 (farming) + 꾼 (person). Collocations: 농사꾼의 일과. Related: 농부."
+    },
+    {
+      "korean": "농민",
+      "english": "farmer, peasant, agricultural worker",
+      "example": "농민들의 생활 환경을 개선하는 것이 과제다.",
+      "example_en": "Improving farmers' living conditions is a priority.",
+      "notes": "Sino-Korean: 農民. More formal than 농사꾼. Collocations: 농민 생활, 농민 운동. Related: 소작농."
+    },
+    {
+      "korean": "소",
+      "english": "cattle, cow, ox",
+      "example": "이 농장에는 100마리의 소가 있다.",
+      "example_en": "This farm has 100 head of cattle.",
+      "notes": "Native Korean; cattle. Collocations: 소 축사, 소떼. Related: 축산, 한우."
+    },
+    {
+      "korean": "돼지",
+      "english": "pig, pork",
+      "example": "돼지는 번식이 빠르다.",
+      "example_en": "Pigs breed quickly.",
+      "notes": "Native Korean; pig. Collocations: 돼지감자. Related: 돈육, 돼지고기."
+    },
+    {
+      "korean": "닭",
+      "english": "chicken",
+      "example": "닭이 울면서 아침이 시작된다.",
+      "example_en": "Morning starts with roosters crowing.",
+      "notes": "Native Korean; chicken. Collocations: 닭장, 닭싸움. Related: 계란, 닭고기."
+    },
+    {
+      "korean": "양",
+      "english": "sheep",
+      "example": "양을 치는 것은 힘든 일이다.",
+      "example_en": "Herding sheep is hard work.",
+      "notes": "Native Korean; sheep. Collocations: 양털, 양 떼. Related: 양고기, 양목업."
+    },
+    {
+      "korean": "말",
+      "english": "horse",
+      "example": "옛날에는 농사에 말을 많이 썼다.",
+      "example_en": "In the past, horses were widely used for farming.",
+      "notes": "Native Korean; horse. Collocations: 말 타기, 말사료. Related: 마필, 기마."
+    },
+    {
+      "korean": "염소",
+      "english": "goat",
+      "example": "염소는 풀을 먹으며 산을 다닌다.",
+      "example_en": "Goats graze and roam the mountains.",
+      "notes": "Native Korean; goat. Collocations: 염소 젖, 염소 털. Related: 산양."
+    },
+    {
+      "korean": "축산",
+      "english": "livestock farming, animal husbandry",
+      "example": "축산업이 이 지역의 주요 산업이다.",
+      "example_en": "Livestock farming is the main industry of this region.",
+      "notes": "Etymology: 畜産; livestock/animal husbandry. Broader term."
+    },
+    {
+      "korean": "목초",
+      "english": "pasture grass, hay",
+      "example": "겨울 동안 소들을 위해 목초를 준비한다.",
+      "example_en": "During winter, hay is prepared for cattle.",
+      "notes": "Sino-Korean: 牧草. Pasture grass. Collocations: 목초 재배, 건초. Related: 사료, 풀."
+    },
+    {
+      "korean": "비료",
+      "english": "fertilizer, manure",
+      "example": "거름을 주면 작물이 더 잘 자란다.",
+      "example_en": "Crops grow better when fertilizer is applied.",
+      "notes": "Etymology: 肥料; fertilizer. Collocations: 화학비료 (chemical fertilizer), 유기비료 (organic fertilizer)."
+    },
+    {
+      "korean": "흙",
+      "english": "soil, earth, dirt",
+      "example": "이 흙은 영양분이 풍부하다.",
+      "example_en": "This soil is rich in nutrients.",
+      "notes": "Native Korean; soil. Collocations: 흙 속, 흙 냄새. Related: 토양, 대지."
+    },
+    {
+      "korean": "거름",
+      "english": "manure, compost",
+      "example": "동물의 거름은 좋은 비료가 된다.",
+      "example_en": "Animal manure makes good fertilizer.",
+      "notes": "Native Korean; manure/compost. Related: 퇴비 (compost)."
+    },
+    {
+      "korean": "물을 대다",
+      "english": "to irrigate, to supply water",
+      "example": "여름에는 자주 물을 대야 한다.",
+      "example_en": "In summer, you have to irrigate frequently.",
+      "notes": "Native verb phrase: 물 (water) + 대다 (to supply). Collocations: 자주 물을 대다. Related: 관개, 수로."
+    },
+    {
+      "korean": "김을 매다",
+      "english": "to weed",
+      "example": "밭의 김을 매는 것이 힘든 일이다.",
+      "example_en": "Weeding the field is hard work.",
+      "notes": "Native verb phrase: 김 (weeds) + 매다 (to pull). Collocations: 밭의 김을 매다. Related: 제초, 잡초."
+    },
+    {
+      "korean": "곡간",
+      "english": "grain storage, granary",
+      "example": "곡간에 곡식을 보관한다.",
+      "example_en": "Grain is stored in the granary.",
+      "notes": "Sino-Korean: 穀間. Granary. Collocations: 곡간 저장. Related: 창고, 저장소."
+    },
+    {
+      "korean": "연장",
+      "english": "agricultural tool, implement",
+      "example": "농사에 필요한 연장들을 정리했다.",
+      "example_en": "I organized the agricultural tools needed for farming.",
+      "notes": "Sino-Korean: (tool). Agricultural tool. Collocations: 농사 연장. Related: 농기구."
+    },
+    {
+      "korean": "쟁기",
+      "english": "plow",
+      "example": "쟁기로 땅을 깊숙이 갈아야 한다.",
+      "example_en": "The land must be plowed deeply with a plow.",
+      "notes": "Native Korean; plow. Collocations: 쟁기질, 쟁기로 갈다. Related: 경운, 곡식."
+    },
+    {
+      "korean": "호미",
+      "english": "hoe",
+      "example": "호미로 흙을 고르게 만든다.",
+      "example_en": "A hoe is used to level the soil.",
+      "notes": "Native Korean; hoe. Collocations: 호미질, 호미로 고르기. Related: 괭이, 정리."
+    },
+    {
+      "korean": "낫",
+      "english": "sickle, scythe",
+      "example": "낫으로 벼를 베면 위험하다.",
+      "example_en": "It's dangerous to cut rice with a sickle.",
+      "notes": "Native Korean; sickle. Collocations: 낫질, 낫으로 베다. Related: 수확, 베기."
+    },
+    {
+      "korean": "삽",
+      "english": "spade, shovel",
+      "example": "삽으로 나무를 심는다.",
+      "example_en": "Trees are planted with a spade.",
+      "notes": "Native Korean; spade/shovel. Collocations: 삽질, 삽으로 파다. Related: 굴착."
+    },
+    {
+      "korean": "고랑",
+      "english": "furrow, ridge (in field)",
+      "example": "고랑을 곧게 그으면 물이 잘 흐른다.",
+      "example_en": "If furrows are drawn straight, water flows well.",
+      "notes": "Native Korean; furrow/ditch in field. Related: 이랑 (row)."
+    },
+    {
+      "korean": "모종",
+      "english": "seedling, young plant",
+      "example": "모종을 옮겨 심을 때가 됐다.",
+      "example_en": "It's time to transplant the seedlings.",
+      "notes": "Sino-Korean: 苗種. Seedling. Collocations: 모종 옮겨심기, 농협 모종. Related: 묘판."
+    },
+    {
+      "korean": "가지",
+      "english": "branch, twig",
+      "example": "나무의 가지를 쳐내면 새 가지가 자란다.",
+      "example_en": "If branches are pruned, new branches grow.",
+      "notes": "Native Korean; branch. Collocations: 나무 가지, 가지 치기. Related: 순, 줄기."
+    },
+    {
+      "korean": "열매",
+      "english": "fruit, crop yield",
+      "example": "올해 사과의 열매가 많이 달렸다.",
+      "example_en": "Apple trees bore abundant fruit this year.",
+      "notes": "Native Korean; fruit/crop. Collocations: 열매 맺다, 수확 열매. Related: 결실, 생산량."
+    },
+    {
+      "korean": "시골",
+      "english": "countryside, rural area, village",
+      "example": "시골에 가면 도시의 스트레스를 풀 수 있다.",
+      "example_en": "Going to the countryside relieves city stress.",
+      "notes": "Native Korean; countryside. Collocations: 시골 마을, 시골 생활. Related: 농촌, 산골."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{"주제별 단어 — 개별 스포츠 (Topic: Individual Sports)": [
+  {
+    "korean": "복싱",
+    "english": "boxing",
+    "example": "복싱은 신체 전체를 사용하는 고강도 운동이다.",
+    "example_en": "Boxing is a high-intensity exercise that uses your entire body."
+  },
+  {
+    "korean": "킥복싱",
+    "english": "kickboxing",
+    "example": "킥복싱 트레이닝을 통해 심폐 지구력과 근력을 동시에 기를 수 있다.",
+    "example_en": "Through kickboxing training, you can develop both cardiopulmonary endurance and muscle strength."
+  },
+  {
+    "korean": "유도",
+    "english": "judo",
+    "example": "유도는 상대방의 무게 중심을 이용해 승리하는 전술이 중요하다.",
+    "example_en": "In judo, the tactic of using the opponent's center of gravity is important for victory."
+  },
+  {
+    "korean": "검도",
+    "english": "kendo (Japanese sword martial art)",
+    "example": "검도 수련을 통해 정신 수양과 신체 단련을 동시에 달성한다.",
+    "example_en": "Through kendo training, one achieves both spiritual cultivation and physical conditioning."
+  },
+  {
+    "korean": "테니스",
+    "english": "tennis",
+    "example": "테니스는 빠른 발놀림과 정확한 타이밍이 경쟁력의 핵심이다.",
+    "example_en": "In tennis, quick footwork and precise timing are the keys to competitiveness."
+  },
+  {
+    "korean": "배드민턴",
+    "english": "badminton",
+    "example": "배드민턴 래킷의 무게가 가벼워서 초보자도 쉽게 배울 수 있다.",
+    "example_en": "Badminton rackets are light, so beginners can learn easily."
+  },
+  {
+    "korean": "탁구",
+    "english": "table tennis; ping-pong",
+    "example": "탁구는 순간의 반사신경과 발상의 전환이 승패를 좌우한다.",
+    "example_en": "In table tennis, instant reflexes and quick tactical changes determine victory."
+  },
+  {
+    "korean": "스키",
+    "english": "skiing",
+    "example": "알프스 스키 리조트에서 경기를 치르는 선수들의 기량은 정말 뛰어나다.",
+    "example_en": "The skill of athletes competing at Alpine ski resorts is truly extraordinary."
+  },
+  {
+    "korean": "스케이팅",
+    "english": "skating; ice skating",
+    "example": "피겨 스케이팅 선수는 예술성과 기술력을 모두 갖춰야 한다.",
+    "example_en": "Figure skaters must possess both artistry and technical skill."
+  },
+  {
+    "korean": "자전거",
+    "english": "cycling; bicycle",
+    "example": "산악 자전거 경주는 험한 지형에서의 균형감각과 체력을 시험한다.",
+    "example_en": "Mountain biking races test balance and endurance on rough terrain."
+  },
+  {
+    "korean": "수상스키",
+    "english": "water skiing",
+    "example": "수상스키는 빠른 속도와 물 위에서의 균형이 필요한 극한 스포츠다.",
+    "example_en": "Water skiing is an extreme sport requiring high speed and balance on water."
+  },
+  {
+    "korean": "스쿠버다이빙",
+    "english": "scuba diving",
+    "example": "스쿠버다이빙은 엄격한 안전 교육을 받은 후에 시작할 수 있다.",
+    "example_en": "Scuba diving can only be started after receiving strict safety training."
+  },
+  {
+    "korean": "다이빙",
+    "english": "diving",
+    "example": "올림픽 다이빙 경기에서 선수들은 공중에서 여러 회전을 해야 한다.",
+    "example_en": "In Olympic diving competitions, athletes must perform multiple somersaults in mid-air."
+  },
+  {
+    "korean": "볼링",
+    "english": "bowling",
+    "example": "볼링은 비교적 쉬워 보이지만 정확도와 구속감각이 매우 중요한 스포츠다.",
+    "example_en": "Although bowling seems simple, accuracy and ball control are crucial."
+  },
+  {
+    "korean": "골프",
+    "english": "golf",
+    "example": "골프는 정신 집중력과 정밀한 기술을 요구하는 紳士 스포츠다.",
+    "example_en": "Golf is a gentleman's sport that demands mental focus and precise technique."
+  },
+  {
+    "korean": "아이스하키",
+    "english": "ice hockey",
+    "example": "아이스하키는 빙판 위에서의 고속 움직임과 강한 신체 접촉이 특징이다.",
+    "example_en": "Ice hockey is characterized by high-speed movement and intense physical contact on ice."
+  },
+  {
+    "korean": "스노보드",
+    "english": "snowboarding",
+    "example": "스노보드 선수들은 반파이프에서 공중 묘기를 펼치며 관중을 매료시킨다.",
+    "example_en": "Snowboarders captivate audiences with aerial tricks in the halfpipe."
+  },
+  {
+    "korean": "보디빌딩",
+    "english": "bodybuilding",
+    "example": "보디빌딩 대회에서 선수들은 근육의 크기와 대칭성을 겨룬다.",
+    "example_en": "In bodybuilding competitions, athletes compete on muscle size and symmetry."
+  },
+  {
+    "korean": "역도",
+    "english": "weightlifting",
+    "example": "역도 선수는 폭발적인 힘과 완벽한 기술 조화를 이루어야 한다.",
+    "example_en": "Weightlifters must achieve a harmony of explosive power and perfect technique."
+  },
+  {
+    "korean": "체조",
+    "english": "gymnastics",
+    "example": "체조 선수들은 어릴 때부터 집중적인 훈련을 거쳐야 한다.",
+    "example_en": "Gymnasts must undergo intensive training from childhood."
+  },
+  {
+    "korean": "리듬체조",
+    "english": "rhythmic gymnastics",
+    "example": "리듬체조는 음악에 맞춰 리본과 공을 자유롭게 다루는 예술이다.",
+    "example_en": "Rhythmic gymnastics is an art of freely manipulating ribbons and balls to music."
+  },
+  {
+    "korean": "기계체조",
+    "english": "apparatus gymnastics",
+    "example": "기계체조는 철봉, 평균대, 뜀틀 등 여러 기구에서 기술을 겨룬다.",
+    "example_en": "Apparatus gymnastics involves demonstrating skills on various equipment like bars and vault."
+  },
+  {
+    "korean": "양궁",
+    "english": "archery",
+    "example": "양궁은 집중력과 일관된 동작이 정확도를 결정한다.",
+    "example_en": "In archery, concentration and consistent form determine accuracy."
+  },
+  {
+    "korean": "사격",
+    "english": "shooting; marksmanship",
+    "example": "사격 선수는 호흡과 심박 조절을 통해 최고의 정확도를 추구한다.",
+    "example_en": "Shooters achieve maximum accuracy by controlling breathing and heart rate."
+  },
+  {
+    "korean": "승마",
+    "english": "equestrian sports; horse riding",
+    "example": "승마는 인간과 말의 완벽한 호흡이 경기력을 좌우한다.",
+    "example_en": "In equestrian sports, perfect harmony between rider and horse determines performance."
+  },
+  {
+    "korean": "펜싱",
+    "english": "fencing",
+    "example": "펜싱은 빠른 움직임과 전술적 판단력이 중요한 스포츠다.",
+    "example_en": "Fencing is a sport where quick movement and tactical judgment are crucial."
+  },
+  {
+    "korean": "번지점프",
+    "english": "bungee jumping",
+    "example": "번지점프는 탄성있는 줄로 하강하는 극단적 스포츠다.",
+    "example_en": "Bungee jumping is an extreme sport involving descent with an elastic cord."
+  },
+  {
+    "korean": "암벽등반",
+    "english": "rock climbing",
+    "example": "암벽등반은 신체의 유연성과 문제 해결 능력을 모두 필요로 한다.",
+    "example_en": "Rock climbing requires both physical flexibility and problem-solving skills."
+  },
+  {
+    "korean": "스포츠 클라이밍",
+    "english": "sport climbing",
+    "example": "스포츠 클라이밍은 높이 정해진 인공 암벽에서 속도를 겨루는 종목이다.",
+    "example_en": "Sport climbing is a competition on artificial walls where athletes race for speed."
+  },
+  {
+    "korean": "롤러스케이트",
+    "english": "roller skating",
+    "example": "롤러스케이트는 빠른 속도 조절과 안정적인 균형감각이 필요하다.",
+    "example_en": "Roller skating requires good speed control and stable balance."
+  },
+  {
+    "korean": "보드스포츠",
+    "english": "board sports",
+    "example": "서핑, 웨이크보드, 스케이트보드 등 보드스포츠는 젊은 세대에게 인기가 높다.",
+    "example_en": "Board sports like surfing, wakeboarding, and skateboarding are popular with younger generations."
+  },
+  {
+    "korean": "마라톤",
+    "english": "marathon",
+    "example": "마라톤은 42.195km를 달리는 장거리 경주로, 강한 정신력을 요구한다.",
+    "example_en": "A marathon is a 42.195km race requiring strong mental power."
+  },
+  {
+    "korean": "핸드볼",
+    "english": "handball",
+    "example": "핸드볼은 축구 경기장 절반 크기의 코트에서 이루어지는 단체 스포츠다.",
+    "example_en": "Handball is a team sport played on a court half the size of a soccer field."
+  },
+  {
+    "korean": "컬링",
+    "english": "curling",
+    "example": "컬링은 빙판 위에서 스톤을 미끄러뜨려 타겟에 가까이 놓는 경기다.",
+    "example_en": "Curling is a game where stones are slid across ice to land near a target."
+  },
+  {
+    "korean": "스키점프",
+    "english": "ski jumping",
+    "example": "스키점프 선수는 가파른 슬로프에서 미끄러져 내려와 공중으로 비약한다.",
+    "example_en": "Ski jumpers slide down a steep slope and take off into the air."
+  },
+  {
+    "korean": "바이애슬론",
+    "english": "biathlon",
+    "example": "바이애슬론은 스키와 사격을 결합한 겨울 스포츠다.",
+    "example_en": "Biathlon is a winter sport combining skiing and shooting."
+  },
+  {
+    "korean": "보디보드",
+    "english": "bodyboarding",
+    "example": "보디보드는 몸만 사용해 파도를 타는 서핑의 간편한 변형이다.",
+    "example_en": "Bodyboarding is a simplified version of surfing using only your body to ride waves."
+  },
+  {
+    "korean": "래프팅",
+    "english": "white water rafting",
+    "example": "래프팅은 급류를 따라 보트를 조종하는 수상 스포츠다.",
+    "example_en": "Rafting is a water sport where you navigate a boat through rapids."
+  },
+  {
+    "korean": "카약",
+    "english": "kayaking",
+    "example": "카약은 단일 패들로 좁은 물을 헤치며 나아가는 수상 스포츠다.",
+    "example_en": "Kayaking is a water sport where you propel a narrow vessel with a single paddle."
+  },
+  {
+    "korean": "핸글라이딩",
+    "english": "hang gliding",
+    "example": "핸글라이딩은 산 위에서 이착륙하며 하늘을 나는 익스트림 스포츠다.",
+    "example_en": "Hang gliding is an extreme sport where you take off and land on mountains while flying."
+  }
+]}

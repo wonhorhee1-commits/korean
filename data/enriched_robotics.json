@@ -1,0 +1,242 @@
+{
+  "주제별 단어 — 자동화/로봇 (Topic: Automation & Robotics)": [
+    {
+      "korean": "로봇",
+      "english": "robot",
+      "example": "이 로봇은 매일 수천 개의 부품을 처리할 수 있다.",
+      "example_en": "This robot can process thousands of parts every day.",
+      "notes": "Related: 산업용 로봇(industrial robot), 협동 로봇(collaborative robot). Etymology: Loanword from robot."
+    },
+    {
+      "korean": "센서",
+      "english": "sensor",
+      "example": "온도 센서가 시스템의 안정성을 유지한다.",
+      "example_en": "Temperature sensors maintain system stability.",
+      "notes": "Related: 피드백(feedback), 제어(control). Collocations: 온도 센서(temperature sensor), 센서 데이터(sensor data)."
+    },
+    {
+      "korean": "구동기",
+      "english": "actuator",
+      "example": "전기 구동기가 로봇 팔의 움직임을 제어한다.",
+      "example_en": "Electric actuators control the robot arm's movement.",
+      "notes": "Related: 모터(motor), 제어(control). Etymology: Loanword meaning actuator/driver."
+    },
+    {
+      "korean": "제어",
+      "english": "control",
+      "example": "정밀한 제어가 부품의 정확한 배치를 보장한다.",
+      "example_en": "Precise control ensures accurate component placement.",
+      "notes": "Related: 피드백(feedback), 정밀도(precision). Etymology: 制御 (control-govern), Sino-Korean root."
+    },
+    {
+      "korean": "피드백",
+      "english": "feedback",
+      "example": "실시간 피드백을 통해 시스템이 자동으로 조정된다.",
+      "example_en": "The system automatically adjusts through real-time feedback.",
+      "notes": "Related: 제어(control), 모니터링(monitoring). Collocations: 실시간 피드백(real-time feedback), 자동 조정(automatic adjustment)."
+    },
+    {
+      "korean": "정밀도",
+      "english": "precision",
+      "example": "이 로봇의 정밀도는 0.1밀리미터 이내다.",
+      "example_en": "This robot's precision is within 0.1 millimeter.",
+      "notes": "Related: 반복성(repeatability), 오차(error). Etymology: 精密度 (precise-secret-degree), Sino-Korean root."
+    },
+    {
+      "korean": "반복성",
+      "english": "repeatability",
+      "example": "로봇의 높은 반복성으로 일관된 품질을 보장한다.",
+      "example_en": "The robot's high repeatability ensures consistent quality.",
+      "notes": "Related: 정밀도(precision), 일관성(consistency). Etymology: 反復性 (repeat-repeat-nature), Sino-Korean root."
+    },
+    {
+      "korean": "머신러닝",
+      "english": "machine learning",
+      "example": "머신러닝을 통해 로봇이 새로운 작업을 자동으로 배운다.",
+      "example_en": "Robots learn new tasks automatically through machine learning.",
+      "notes": "Related: 신경망(neural network), 알고리즘(algorithm). Etymology: Loanword from machine learning."
+    },
+    {
+      "korean": "신경망",
+      "english": "neural network",
+      "example": "인공 신경망은 복잡한 패턴을 인식할 수 있다.",
+      "example_en": "Artificial neural networks can recognize complex patterns.",
+      "notes": "Related: 머신러닝(machine learning), AI(artificial intelligence). Etymology: 神經網 (nerve-network)."
+    },
+    {
+      "korean": "알고리즘",
+      "english": "algorithm",
+      "example": "이 알고리즘은 가장 효율적인 작업 순서를 찾는다.",
+      "example_en": "This algorithm finds the most efficient order of tasks.",
+      "notes": "Related: 패턴 인식(pattern recognition), 최적화(optimization). Etymology: Loanword from algorithm."
+    },
+    {
+      "korean": "패턴 인식",
+      "english": "pattern recognition",
+      "example": "패턴 인식으로 결함 있는 제품을 자동으로 검출한다.",
+      "example_en": "Pattern recognition automatically detects defective products.",
+      "notes": "Related: 머신러닝(machine learning), 분류(classification). Used in quality control and vision systems."
+    },
+    {
+      "korean": "훈련 데이터",
+      "english": "training data",
+      "example": "훈련 데이터의 양과 질이 모델의 성능을 결정한다.",
+      "example_en": "The quantity and quality of training data determines model performance.",
+      "notes": "Related: 머신러닝(machine learning), 모델 성능(model performance). Critical for AI system accuracy."
+    },
+    {
+      "korean": "산업용 로봇",
+      "english": "industrial robot",
+      "example": "산업용 로봇이 위험한 용접 작업을 대신한다.",
+      "example_en": "Industrial robots perform dangerous welding work instead.",
+      "notes": "Related: 자동화(automation), 용접(welding). Collocations: 산업용 로봇 팔(robot arm), 산업용 로봇 위험."
+    },
+    {
+      "korean": "협동 로봇",
+      "english": "collaborative robot",
+      "example": "협동 로봇은 인간과 함께 안전하게 작업할 수 있다.",
+      "example_en": "Collaborative robots can work safely alongside humans.",
+      "notes": "Related: 인간-로봇 협업(human-robot collaboration), 안전(safety). Collocations: 협동 로봇 작업(collaborative work)."
+    },
+    {
+      "korean": "그리퍼",
+      "english": "gripper",
+      "example": "로봇의 그리퍼가 섬세하게 정밀 부품을 집는다.",
+      "example_en": "The robot's gripper gently grasps precision components.",
+      "notes": "Related: 로봇 팔(robot arm), 파지(grasping). Etymology: Loanword from gripper."
+    },
+    {
+      "korean": "스마트 팩토리",
+      "english": "smart factory",
+      "example": "스마트 팩토리에서 모든 기계가 네트워크로 연결되어 있다.",
+      "example_en": "In a smart factory, all machines are connected via network.",
+      "notes": "Related: 자동화(automation), 사물인터넷(IoT). Etymology: 스마트(smart) + 팩토리(factory), Industry 4.0 concept."
+    },
+    {
+      "korean": "생산 라인",
+      "english": "production line",
+      "example": "생산 라인의 각 단계가 자동으로 진행된다.",
+      "example_en": "Each stage of the production line proceeds automatically.",
+      "notes": "Related: 컨베이어(conveyor), 자동화(automation). Etymology: 生産 (produce) + 라인(line)."
+    },
+    {
+      "korean": "작업 셀",
+      "english": "work cell",
+      "example": "각 작업 셀은 특정한 제조 작업에 최적화되어 있다.",
+      "example_en": "Each work cell is optimized for a specific manufacturing task.",
+      "notes": "Related: 생산 라인(production line), 최적화(optimization). Etymology: 作業 (work) + 셀(cell)."
+    },
+    {
+      "korean": "팔레타이징",
+      "english": "palletizing",
+      "example": "팔레타이징 로봇이 박스를 효율적으로 쌓는다.",
+      "example_en": "A palletizing robot efficiently stacks boxes.",
+      "notes": "Related: 자동 창고(automated warehouse), 효율성(efficiency). Etymology: Loanword from palletizing."
+    },
+    {
+      "korean": "자동 창고",
+      "english": "automated warehouse",
+      "example": "자동 창고 시스템이 재고를 효율적으로 관리한다.",
+      "example_en": "The automated warehouse system efficiently manages inventory.",
+      "notes": "Related: 로봇 저장(robotic storage), 재고 관리(inventory management). Etymology: 自動 (automatic) + 창고(warehouse)."
+    },
+    {
+      "korean": "컨베이어 벨트",
+      "english": "conveyor belt",
+      "example": "컨베이어 벨트가 부품을 다음 생산 단계로 운반한다.",
+      "example_en": "The conveyor belt transports parts to the next production stage.",
+      "notes": "Related: 생산 라인(production line), 운반(transportation). Etymology: 컨베이어(conveyor) + 벨트(belt)."
+    },
+    {
+      "korean": "공정 최적화",
+      "english": "process optimization",
+      "example": "데이터 분석을 통한 공정 최적화로 비용을 줄인다.",
+      "example_en": "Process optimization through data analysis reduces costs.",
+      "notes": "Related: 데이터 분석(data analysis), 효율성(efficiency). Etymology: 工程 (process) + 最適 (optimal)."
+    },
+    {
+      "korean": "품질 관리",
+      "english": "quality control",
+      "example": "품질 관리 시스템이 결함 제품을 사전에 차단한다.",
+      "example_en": "The quality control system prevents defective products in advance.",
+      "notes": "Related: 품질 검사(quality inspection), 결함 검출(defect detection). Etymology: 品質 (quality) + 管理 (management)."
+    },
+    {
+      "korean": "머신 비전",
+      "english": "machine vision",
+      "example": "머신 비전 카메라가 제품의 미세한 결함을 검출한다.",
+      "example_en": "Machine vision cameras detect minute defects in products.",
+      "notes": "Related: 카메라(camera), 패턴 인식(pattern recognition). Etymology: 머신(machine) + 비전(vision)."
+    },
+    {
+      "korean": "센서 융합",
+      "english": "sensor fusion",
+      "example": "센서 융합으로 더 정확한 환경 인식이 가능하다.",
+      "example_en": "Sensor fusion enables more accurate environmental awareness.",
+      "notes": "Related: 센서(sensor), 데이터 처리(data processing). Etymology: 센서(sensor) + 融合 (fusion/integration)."
+    },
+    {
+      "korean": "위치 결정",
+      "english": "positioning",
+      "example": "GPS와 센서를 이용한 정확한 위치 결정이 필수다.",
+      "example_en": "Accurate positioning using GPS and sensors is essential.",
+      "notes": "Related: GPS(GPS), 측위(positioning). Etymology: 位置 (position) + 決定 (determination)."
+    },
+    {
+      "korean": "드론",
+      "english": "drone",
+      "example": "드론은 넓은 영역의 감시와 매핑에 사용된다.",
+      "example_en": "Drones are used for surveillance and mapping of wide areas.",
+      "notes": "Related: 무인항공기(unmanned aerial vehicle), 매핑(mapping). Etymology: Loanword from drone."
+    },
+    {
+      "korean": "사물인터넷",
+      "english": "Internet of Things",
+      "example": "사물인터넷 기술으로 모든 기계가 실시간으로 연결된다.",
+      "example_en": "With IoT technology, all machines are connected in real time.",
+      "notes": "Related: IoT(Internet of Things), 연결성(connectivity). Etymology: 事物 (things) + 인터넷(Internet)."
+    },
+    {
+      "korean": "실시간 모니터링",
+      "english": "real-time monitoring",
+      "example": "실시간 모니터링으로 생산 상황을 항상 파악할 수 있다.",
+      "example_en": "Real-time monitoring allows constant awareness of production status.",
+      "notes": "Related: 클라우드(cloud), 데이터(data). Etymology: 實時間 (real-time) + 監視 (monitoring)."
+    },
+    {
+      "korean": "클라우드 컴퓨팅",
+      "english": "cloud computing",
+      "example": "클라우드 기반 시스템으로 어디서나 데이터에 접근할 수 있다.",
+      "example_en": "Cloud-based systems allow data access from anywhere.",
+      "notes": "Related: 데이터 저장(data storage), 접근성(accessibility). Etymology: 클라우드(cloud) + 컴퓨팅(computing)."
+    },
+    {
+      "korean": "엣지 컴퓨팅",
+      "english": "edge computing",
+      "example": "엣지 컴퓨팅으로 지연 시간을 최소화한다.",
+      "example_en": "Edge computing minimizes latency.",
+      "notes": "Related: 클라우드(cloud), 지연 시간(latency). Etymology: 엣지(edge) + 컴퓨팅(computing)."
+    },
+    {
+      "korean": "시뮬레이션",
+      "english": "simulation",
+      "example": "실제 작업을 시작하기 전에 시뮬레이션을 실행한다.",
+      "example_en": "Simulation is run before starting the actual task.",
+      "notes": "Related: 테스트(testing), 최적화(optimization). Etymology: Loanword from simulation."
+    },
+    {
+      "korean": "예측 유지보수",
+      "english": "predictive maintenance",
+      "example": "예측 유지보수로 로봇의 가동 시간을 최대화한다.",
+      "example_en": "Predictive maintenance maximizes robot uptime.",
+      "notes": "Related term in 자동화/로봇 (Topic: Automation & Robotics)."
+    },
+    {
+      "korean": "사이버보안",
+      "english": "cybersecurity",
+      "example": "스마트 팩토리의 사이버보안은 매우 중요한 과제다.",
+      "example_en": "Cybersecurity is a very important challenge for smart factories.",
+      "notes": "Related term in 자동화/로봇 (Topic: Automation & Robotics)."
+    }
+  ]
+}

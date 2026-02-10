@@ -1,0 +1,238 @@
+{
+  "주제별 단어 — 건설 (Topic: Construction)": [
+    {
+      "korean": "시멘트",
+      "english": "cement",
+      "example": "건설 현장에서 시멘트를 섞어 콘크리트를 만든다.",
+      "example_en": "At the construction site, cement is mixed to make concrete."
+    },
+    {
+      "korean": "벽돌",
+      "english": "brick",
+      "example": "오래된 건물의 벽은 붉은 벽돌로 지어졌다.",
+      "example_en": "The walls of the old building were built with red bricks."
+    },
+    {
+      "korean": "목재",
+      "english": "lumber; timber",
+      "example": "지붕을 짓기 위해 질 좋은 목재를 선택해야 한다.",
+      "example_en": "Good quality lumber must be selected to build the roof."
+    },
+    {
+      "korean": "강철",
+      "english": "steel",
+      "example": "고층 건물의 뼈대는 강철로 만들어진다.",
+      "example_en": "The skeleton of high-rise buildings is made of steel."
+    },
+    {
+      "korean": "단열재",
+      "english": "insulation material",
+      "example": "겨울에 따뜻함을 유지하려면 좋은 단열재가 필요하다.",
+      "example_en": "Good insulation material is needed to maintain warmth in winter."
+    },
+    {
+      "korean": "타일",
+      "english": "tile",
+      "example": "욕실 바닥에 미끄럼 방지 타일을 붙였다.",
+      "example_en": "Non-slip tiles were installed on the bathroom floor."
+    },
+    {
+      "korean": "콘크리트",
+      "english": "concrete",
+      "example": "기초 공사에는 높은 강도의 콘크리트가 사용된다.",
+      "example_en": "High-strength concrete is used in foundation work."
+    },
+    {
+      "korean": "아스팔트",
+      "english": "asphalt",
+      "example": "도로는 검은 아스팔트로 포장되었다.",
+      "example_en": "The road was paved with black asphalt."
+    },
+    {
+      "korean": "유리",
+      "english": "glass",
+      "example": "건물의 창에는 강화 유리가 사용된다.",
+      "example_en": "Tempered glass is used in building windows."
+    },
+    {
+      "korean": "페인트",
+      "english": "paint",
+      "example": "벽을 새 페인트로 칠했더니 훨씬 밝아졌다.",
+      "example_en": "After painting the wall with new paint, it became much brighter."
+    },
+    {
+      "korean": "망치",
+      "english": "hammer",
+      "example": "목수가 망치로 못을 박았다.",
+      "example_en": "The carpenter drove the nail with a hammer."
+    },
+    {
+      "korean": "톱",
+      "english": "saw",
+      "example": "목재를 톱으로 잘라서 길이를 맞췄다.",
+      "example_en": "The lumber was cut with a saw to fit the length."
+    },
+    {
+      "korean": "삽",
+      "english": "shovel",
+      "example": "흙을 삽으로 파서 모래를 섞는다.",
+      "example_en": "Soil is shoveled and mixed with sand."
+    },
+    {
+      "korean": "렌치",
+      "english": "wrench",
+      "example": "렌치로 볼트를 조여서 부품을 고정했다.",
+      "example_en": "The wrench was used to tighten the bolt and secure the part."
+    },
+    {
+      "korean": "드릴",
+      "english": "drill",
+      "example": "벽에 구멍을 뚫기 위해 전동 드릴을 사용했다.",
+      "example_en": "An electric drill was used to bore a hole in the wall."
+    },
+    {
+      "korean": "줄자",
+      "english": "measuring tape",
+      "example": "건설 현장에서 줄자로 거리를 정확히 측정한다.",
+      "example_en": "Measuring tape is used to precisely measure distance on the construction site."
+    },
+    {
+      "korean": "수준기",
+      "english": "spirit level",
+      "example": "선반이 수평인지 확인하기 위해 수준기를 사용했다.",
+      "example_en": "A spirit level was used to check if the shelf was horizontal."
+    },
+    {
+      "korean": "콘크리트 믹서",
+      "english": "concrete mixer",
+      "example": "콘크리트 믹서가 회전하면서 시멘트와 모래를 섞는다.",
+      "example_en": "The concrete mixer rotates while mixing cement and sand."
+    },
+    {
+      "korean": "사다리",
+      "english": "ladder",
+      "example": "높은 곳에 올라가기 위해 튼튼한 사다리를 사용한다.",
+      "example_en": "A sturdy ladder is used to climb to high places."
+    },
+    {
+      "korean": "스크루 드라이버",
+      "english": "screwdriver",
+      "example": "작은 나사는 스크루 드라이버로 조였다.",
+      "example_en": "Small screws were tightened with a screwdriver."
+    },
+    {
+      "korean": "안전모",
+      "english": "hard hat; safety helmet",
+      "example": "모든 작업자는 건설 현장에서 안전모를 써야 한다.",
+      "example_en": "All workers must wear hard hats at the construction site."
+    },
+    {
+      "korean": "안전대",
+      "english": "safety belt; harness",
+      "example": "높은 곳에서 일할 때는 반드시 안전대를 착용해야 한다.",
+      "example_en": "A safety belt must be worn when working at heights."
+    },
+    {
+      "korean": "안전화",
+      "english": "safety shoes; work boots",
+      "example": "무거운 물건이 떨어질 수 있으므로 안전화를 신는다.",
+      "example_en": "Safety shoes are worn because heavy objects may fall."
+    },
+    {
+      "korean": "장갑",
+      "english": "gloves",
+      "example": "거친 일을 할 때는 보호 장갑을 끼운다.",
+      "example_en": "Protective gloves are worn when doing rough work."
+    },
+    {
+      "korean": "보안경",
+      "english": "safety goggles",
+      "example": "용접할 때 눈을 보호하기 위해 보안경을 쓴다.",
+      "example_en": "Safety goggles are worn to protect the eyes while welding."
+    },
+    {
+      "korean": "사고",
+      "english": "accident",
+      "example": "안전 규칙을 지키지 않으면 사고가 날 수 있다.",
+      "example_en": "An accident can happen if safety rules are not followed."
+    },
+    {
+      "korean": "기초",
+      "english": "foundation",
+      "example": "건물이 튼튼하려면 견고한 기초가 필요하다.",
+      "example_en": "A strong foundation is needed for a solid building."
+    },
+    {
+      "korean": "구조",
+      "english": "structure",
+      "example": "건축가가 건물의 구조를 설계했다.",
+      "example_en": "The architect designed the structure of the building."
+    },
+    {
+      "korean": "하중",
+      "english": "load; weight",
+      "example": "이 기둥은 매우 높은 하중을 견딜 수 있다.",
+      "example_en": "This column can withstand very high loads."
+    },
+    {
+      "korean": "강도",
+      "english": "strength; rigidity",
+      "example": "콘크리트의 강도는 시멘트의 양에 따라 결정된다.",
+      "example_en": "The strength of concrete is determined by the amount of cement."
+    },
+    {
+      "korean": "지반",
+      "english": "ground; soil",
+      "example": "건설 전에 지반을 철저히 조사해야 한다.",
+      "example_en": "The ground must be thoroughly surveyed before construction."
+    },
+    {
+      "korean": "보(보 구조)",
+      "english": "beam",
+      "example": "천장을 지탱하기 위해 튼튼한 보가 설치되었다.",
+      "example_en": "A strong beam was installed to support the ceiling."
+    },
+    {
+      "korean": "기둥",
+      "english": "column; pillar",
+      "example": "건물의 기둥은 건물 전체의 무게를 견딘다.",
+      "example_en": "Building columns support the entire weight of the structure."
+    },
+    {
+      "korean": "공사",
+      "english": "construction; project",
+      "example": "새로운 도로 공사가 내일부터 시작된다.",
+      "example_en": "The new road construction will start tomorrow."
+    },
+    {
+      "korean": "시공",
+      "english": "construction work; execution",
+      "example": "설계가 완료되면 시공이 시작된다.",
+      "example_en": "After the design is completed, construction work begins."
+    },
+    {
+      "korean": "건설 현장",
+      "english": "construction site",
+      "example": "건설 현장에는 많은 기계와 노동자들이 있다.",
+      "example_en": "There are many machines and workers at the construction site."
+    },
+    {
+      "korean": "비계",
+      "english": "scaffolding",
+      "example": "높은 건물을 짓기 위해 임시 비계를 설치한다.",
+      "example_en": "Temporary scaffolding is installed to build tall buildings."
+    },
+    {
+      "korean": "도면",
+      "english": "blueprint; plan",
+      "example": "건축가의 도면에 따라 건설이 진행된다.",
+      "example_en": "Construction proceeds according to the architect's blueprint."
+    },
+    {
+      "korean": "검사",
+      "english": "inspection",
+      "example": "공사 완료 후에는 철저한 검사가 필요하다.",
+      "example_en": "A thorough inspection is necessary after construction is completed."
+    }
+  ]
+}

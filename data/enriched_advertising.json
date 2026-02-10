@@ -1,0 +1,277 @@
+{
+  "주제별 단어 — 광고 (Topic: Advertising)": [
+    {
+      "korean": "캠페인",
+      "english": "campaign",
+      "example": "이번 여름 캠페인의 타겟 고객층은 20대 직장인이다.",
+      "example_en": "This summer campaign targets young office workers in their 20s.",
+      "notes": "Related: 광고 캠페인, 마케팅 캠페인. Often collocates with 론칭하다, 시작하다."
+    },
+    {
+      "korean": "브랜드",
+      "english": "brand",
+      "example": "우리 브랜드의 가치는 신뢰성과 혁신성이다.",
+      "example_en": "Our brand values are reliability and innovation.",
+      "notes": "Related: 브랜드 이미지, 브랜드 가치. Derived from English 'brand'; widely used in marketing."
+    },
+    {
+      "korean": "타겟팅",
+      "english": "targeting",
+      "example": "광고 타겟팅을 정확하게 설정해야 광고 비용이 절감된다.",
+      "example_en": "Precise ad targeting helps reduce advertising costs.",
+      "notes": "Related: 오디언스 타겟팅, 세분화. Technical term; collocates with 정확하게, 효과적으로."
+    },
+    {
+      "korean": "광고 예산",
+      "english": "advertising budget",
+      "example": "올해 광고 예산은 지난해보다 30% 증가했다.",
+      "example_en": "This year's advertising budget increased 30% from last year.",
+      "notes": "Related: 예산 배분, 비용 최적화. Common phrase in 마케팅 회의."
+    },
+    {
+      "korean": "미디어 구매",
+      "english": "media buying",
+      "example": "미디어 구매 팀이 TV와 디지털 채널 전체를 관리한다.",
+      "example_en": "The media buying team manages all TV and digital channels.",
+      "notes": "Related: 미디어 플래닝, 채널 선택. Key role in advertising agencies."
+    },
+    {
+      "korean": "노출",
+      "english": "impression",
+      "example": "이 광고는 첫 주에만 100만 노출을 기록했다.",
+      "example_en": "This ad reached 1 million impressions in just the first week.",
+      "notes": "Related: 노출 빈도, 노출량. Technical term from advertising metrics; 광고 노출."
+    },
+    {
+      "korean": "클릭률",
+      "english": "click-through rate (CTR)",
+      "example": "우리 배너 광고의 클릭률은 업계 평균 2배다.",
+      "example_en": "Our banner ad CTR is twice the industry average.",
+      "notes": "Related: 클릭, CTR. Abbreviation widely used in digital marketing."
+    },
+    {
+      "korean": "전환율",
+      "english": "conversion rate",
+      "example": "웹사이트 개선 후 전환율이 15%에서 22%로 올랐다.",
+      "example_en": "After website improvements, conversion rate rose from 15% to 22%.",
+      "notes": "Related: 전환 깔때기, 구매 전환. Key performance metric in e-commerce."
+    },
+    {
+      "korean": "고객 확보 비용",
+      "english": "customer acquisition cost (CAC)",
+      "example": "고객 확보 비용을 낮추기 위해 알고리즘을 최적화했다.",
+      "example_en": "We optimized the algorithm to lower customer acquisition costs.",
+      "notes": "Related: CAC, 고객 생명주기 가치. Measures efficiency of marketing spending."
+    },
+    {
+      "korean": "광고주",
+      "english": "advertiser",
+      "example": "이번 분기에는 새로운 광고주 5곳과 계약했다.",
+      "example_en": "This quarter we signed contracts with 5 new advertisers.",
+      "notes": "Related: 광고주와 대행사, 을과 을 관계. Agent noun from 광고 + 주(者)."
+    },
+    {
+      "korean": "광고 대행사",
+      "english": "advertising agency",
+      "example": "서울의 유명한 광고 대행사가 이 캠페인을 기획했다.",
+      "example_en": "A renowned Seoul advertising agency planned this campaign.",
+      "notes": "Related: 4대 대행사, 광고 기획. Major Korean agencies: Cheil, Innocean, etc."
+    },
+    {
+      "korean": "크리에이티브",
+      "english": "creative",
+      "example": "이번 크리에이티브는 감정 호소보다 논리적 설득에 중점을 뒀다.",
+      "example_en": "This creative focuses on logical persuasion rather than emotional appeal.",
+      "notes": "Related: 광고 아이디어, 창의성. Sometimes called 크리에이티브 디렉터."
+    },
+    {
+      "korean": "콘셉트",
+      "english": "concept",
+      "example": "광고 콘셉트는 '자연과의 조화'를 중심으로 전개된다.",
+      "example_en": "The ad concept centers on 'harmony with nature.'",
+      "notes": "Related: 광고 콘셉트, 주제 설정. Often used in brainstorming (브레인스토밍)."
+    },
+    {
+      "korean": "메시지",
+      "english": "message",
+      "example": "핵심 메시지를 명확하게 전달하는 것이 광고의 첫 번째 과제다.",
+      "example_en": "Clearly communicating the core message is the ad's first task.",
+      "notes": "Related: 핵심 메시지, 메시지 프레이밍. Central to 커뮤니케이션 전략."
+    },
+    {
+      "korean": "포지셔닝",
+      "english": "positioning",
+      "example": "프리미엄 시장에서의 포지셔닝이 우리의 경쟁 전략이다.",
+      "example_en": "Positioning in the premium market is our competitive strategy.",
+      "notes": "Related: 시장 포지셔닝, 차별화. Strategic term from 포지션 + -ing."
+    },
+    {
+      "korean": "세분화",
+      "english": "segmentation",
+      "example": "고객 세분화를 통해 각 그룹에 맞는 메시지를 전달한다.",
+      "example_en": "Customer segmentation allows us to tailor messages for each group.",
+      "notes": "Related: 시장 세분화, 고객 세분화. Sino-Korean: 細(세)分(분)化(화) = dividing finely."
+    },
+    {
+      "korean": "인구통계학적",
+      "english": "demographic",
+      "example": "인구통계학적 데이터에 따르면 30대 여성이 주요 타겟이다.",
+      "example_en": "According to demographic data, women in their 30s are the main target.",
+      "notes": "Related: 인구통계 데이터, 연령 성별. Sino-Korean: demographic = 人口 통계학."
+    },
+    {
+      "korean": "고객 페르소나",
+      "english": "customer persona",
+      "example": "우리는 5개의 고객 페르소나를 정의하고 각각에 맞춰 광고를 만든다.",
+      "example_en": "We define 5 customer personas and create ads tailored to each.",
+      "notes": "Related: 페르소나 개발, 타겟 정의. User research term from UX design."
+    },
+    {
+      "korean": "디지털 마케팅",
+      "english": "digital marketing",
+      "example": "디지털 마케팅은 이제 전체 광고 예산의 60%를 차지한다.",
+      "example_en": "Digital marketing now accounts for 60% of total ad spending.",
+      "notes": "Related: 온라인 마케팅, 웹 광고. Umbrella term for internet-based advertising."
+    },
+    {
+      "korean": "SNS 마케팅",
+      "english": "social media marketing",
+      "example": "SNS 마케팅을 통해 타겟층과 직접 소통할 수 있다.",
+      "example_en": "Social media marketing allows us to communicate directly with the target audience.",
+      "notes": "Related: 소셜 미디어, 인플루언서 마케팅. Acronym: SNS = Social Network Service."
+    },
+    {
+      "korean": "인플루언서",
+      "english": "influencer",
+      "example": "유명한 패션 인플루언서와의 협업으로 브랜드 인지도가 올랐다.",
+      "example_en": "Collaboration with a famous fashion influencer increased brand awareness.",
+      "notes": "Related: 마이크로 인플루언서, 팔로우어. Loan word; sometimes called 유명인 or 셀럽."
+    },
+    {
+      "korean": "바이럴 마케팅",
+      "english": "viral marketing",
+      "example": "바이럴 마케팅으로 유튜브에서 자발적인 공유가 늘었다.",
+      "example_en": "Viral marketing increased organic sharing on YouTube.",
+      "notes": "Related: 바이럴 콘텐츠, 입소문. Viral = 바이러스처럼 퍼지다."
+    },
+    {
+      "korean": "리마케팅",
+      "english": "remarketing",
+      "example": "리마케팅 광고로 장바구니를 포기한 고객들을 다시 끌어들였다.",
+      "example_en": "Remarketing ads brought back customers who abandoned their shopping carts.",
+      "notes": "Related: 리타게팅, 재광고. Shows ads to people who visited your site."
+    },
+    {
+      "korean": "A/B 테스트",
+      "english": "A/B testing",
+      "example": "A/B 테스트 결과 파란색 버튼이 빨간색보다 15% 효과가 더 좋았다.",
+      "example_en": "A/B testing showed the blue button performed 15% better than red.",
+      "notes": "Related: 변수 테스트, 효과 비교. Common optimization technique in digital marketing."
+    },
+    {
+      "korean": "데이터 분석",
+      "english": "data analytics",
+      "example": "데이터 분석팀이 광고 성과를 주간으로 리포팅한다.",
+      "example_en": "The data analytics team reports on ad performance weekly.",
+      "notes": "Related: 분석 팀, 인사이트. Sino-Korean: 資料(자료) + 分析(분석)."
+    },
+    {
+      "korean": "KPI",
+      "english": "key performance indicator",
+      "example": "이 캠페인의 주요 KPI는 판매 전환율과 고객 만족도다.",
+      "example_en": "The main KPIs for this campaign are sales conversion and customer satisfaction.",
+      "notes": "Related: 목표 설정, 성과 지표. Abbreviation; also called 핵심 성과 지표."
+    },
+    {
+      "korean": "클릭당 비용",
+      "english": "cost per click (CPC)",
+      "example": "검색 광고의 클릭당 비용이 작년보다 20% 올랐다.",
+      "example_en": "Cost per click for search ads increased 20% from last year.",
+      "notes": "Related: CPC, 검색 광고. Used in Google Ads, Naver Search."
+    },
+    {
+      "korean": "노출당 비용",
+      "english": "cost per impression (CPM)",
+      "example": "비디오 광고의 노출당 비용은 배너 광고보다 높다.",
+      "example_en": "Cost per impression for video ads is higher than banner ads.",
+      "notes": "Related: CPM, 배너 광고. Traditional metric; CPM = Cost Per Mille (1000 impressions)."
+    },
+    {
+      "korean": "ROI",
+      "english": "return on investment",
+      "example": "이번 캠페인의 ROI는 예상치의 150%를 달성했다.",
+      "example_en": "This campaign achieved 150% of the projected ROI.",
+      "notes": "Related: 투자수익률, 성과 평가. Measures advertising effectiveness financially."
+    },
+    {
+      "korean": "매체사",
+      "english": "media outlet",
+      "example": "우리는 주요 매체사와 독점 광고 계약을 체결했다.",
+      "example_en": "We signed exclusive advertising contracts with major media outlets.",
+      "notes": "Related: 방송국, 신문사. Broadcaster or media company."
+    },
+    {
+      "korean": "광고 소재",
+      "english": "ad creative assets",
+      "example": "이번 광고 소재는 국제 광고제에서 수상했다.",
+      "example_en": "This ad's creative assets won an award at an international ad festival.",
+      "notes": "Related: 광고 이미지, 광고 영상. Creative assets used in campaigns."
+    },
+    {
+      "korean": "배너 광고",
+      "english": "banner ad",
+      "example": "웹사이트 상단의 배너 광고는 매일 5000명이 클릭한다.",
+      "example_en": "The banner ad at the top of the website gets 5000 clicks daily.",
+      "notes": "Related: 배너, 웹 광고. Static or animated rectangular ads on web."
+    },
+    {
+      "korean": "비디오 광고",
+      "english": "video advertising",
+      "example": "비디오 광고의 평균 조회 시간이 30초를 넘었다.",
+      "example_en": "Average video ad viewing time exceeded 30 seconds.",
+      "notes": "Related: 유튜브 광고, 쇼핑몰 광고. Increasingly popular; 동영상 광고."
+    },
+    {
+      "korean": "네이티브 광고",
+      "english": "native advertising",
+      "example": "네이티브 광고는 일반 콘텐츠처럼 보여서 클릭률이 높다.",
+      "example_en": "Native ads look like regular content, so they have high click rates.",
+      "notes": "Related: 콘텐츠 마케팅, 기사형 광고. Blends with editorial content."
+    },
+    {
+      "korean": "리타게팅",
+      "english": "retargeting",
+      "example": "리타게팅을 통해 관심 고객들에게 반복적으로 노출된다.",
+      "example_en": "Retargeting exposes interested customers to ads repeatedly.",
+      "notes": "Related: 리마케팅, 재타게팅. Shows ads to prior site visitors."
+    },
+    {
+      "korean": "오디언스",
+      "english": "audience",
+      "example": "이 광고의 목표 오디언스는 직장 경력이 5년 이상인 여성이다.",
+      "example_en": "The target audience for this ad is women with 5+ years of career experience.",
+      "notes": "Related: 목표 오디언스, 타겟층. Plural: 오디언스들 less common than 오디언스 집단."
+    },
+    {
+      "korean": "브랜드 인지도",
+      "english": "brand awareness",
+      "example": "광고 캠페인 후 브랜드 인지도가 40%에서 65%로 올랐다.",
+      "example_en": "After the ad campaign, brand awareness rose from 40% to 65%.",
+      "notes": "Related: 인지도 상승, 브랜드 인식. Key metric for brand building campaigns."
+    },
+    {
+      "korean": "브랜드 이미지",
+      "english": "brand image",
+      "example": "우리는 환경 친화적인 브랜드 이미지를 구축하고 있다.",
+      "example_en": "We are building an eco-friendly brand image.",
+      "notes": "Related: 이미지 구축, 이미지 관리. Emotional perception of brand."
+    },
+    {
+      "korean": "고객 충성도",
+      "english": "customer loyalty",
+      "example": "장기 광고 전략으로 고객 충성도가 눈에 띄게 높아졌다.",
+      "example_en": "Long-term advertising strategy significantly increased customer loyalty.",
+      "notes": "Related: 충성 고객, 리피트율. 충성도 높음/낮음."
+    }
+  ]
+}

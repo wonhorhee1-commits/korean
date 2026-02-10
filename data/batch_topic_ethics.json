@@ -1,0 +1,250 @@
+{
+  "주제별 단어 — 윤리 (Topic: Ethics & Morality)": [
+    {
+      "korean": "양심",
+      "english": "conscience; moral sense",
+      "example": "양심 있는 사람이라면 그런 부정행위를 저지를 수 없을 것이다.",
+      "example_en": "A person with a conscience would not commit such misconduct."
+    },
+    {
+      "korean": "성실성",
+      "english": "integrity; honesty",
+      "example": "그의 성실성은 업계에서 널리 인정받고 있다.",
+      "example_en": "His integrity is widely recognized in the industry."
+    },
+    {
+      "korean": "미덕",
+      "english": "virtue",
+      "example": "인내심은 인생에서 가장 필요한 미덕 중 하나이다.",
+      "example_en": "Patience is one of the most essential virtues in life."
+    },
+    {
+      "korean": "악덕",
+      "english": "vice; moral evil",
+      "example": "탐욕은 모든 악덕의 근원이라는 말이 있다.",
+      "example_en": "There is a saying that greed is the root of all vices."
+    },
+    {
+      "korean": "윤리적 딜레마",
+      "english": "ethical dilemma",
+      "example": "의사들은 종종 환자의 자율성과 건강 사이의 윤리적 딜레마에 직면한다.",
+      "example_en": "Doctors often face ethical dilemmas between patient autonomy and health."
+    },
+    {
+      "korean": "정의",
+      "english": "justice",
+      "example": "법치국가에서는 정의 실현이 최고의 가치이다.",
+      "example_en": "In a rule of law, the realization of justice is the highest value."
+    },
+    {
+      "korean": "공정성",
+      "english": "fairness",
+      "example": "공정성 없는 사회는 결국 붕괴할 수밖에 없다.",
+      "example_en": "A society without fairness is bound to collapse eventually."
+    },
+    {
+      "korean": "부패",
+      "english": "corruption",
+      "example": "정부 부패가 심해지면서 국민의 신뢰도가 급격히 떨어졌다.",
+      "example_en": "As government corruption worsened, public trust declined sharply."
+    },
+    {
+      "korean": "책임성",
+      "english": "accountability",
+      "example": "공공기관은 국민에 대한 책임성을 엄격히 지켜야 한다.",
+      "example_en": "Public institutions must strictly maintain accountability to the people."
+    },
+    {
+      "korean": "투명성",
+      "english": "transparency",
+      "example": "정부의 투명성 강화는 부패 방지의 첫 걸음이다.",
+      "example_en": "Enhancing government transparency is the first step in preventing corruption."
+    },
+    {
+      "korean": "내부고발",
+      "english": "whistleblowing",
+      "example": "그 직원의 내부고발로 인해 대형 비리가 적발되었다.",
+      "example_en": "Thanks to the employee's whistleblowing, a major scandal was uncovered."
+    },
+    {
+      "korean": "이해충돌",
+      "english": "conflict of interest",
+      "example": "위원장이 자신의 회사와 관련된 안건에 표를 던지는 것은 이해충돌이다.",
+      "example_en": "The chairperson voting on matters related to their own company is a conflict of interest."
+    },
+    {
+      "korean": "뇌물",
+      "english": "bribe; bribery",
+      "example": "뇌물을 주고받는 행위는 심각한 범죄이다.",
+      "example_en": "Giving and receiving bribes is a serious crime."
+    },
+    {
+      "korean": "낙하산 인사",
+      "english": "nepotism; cronyism",
+      "example": "낙하산 인사가 만연하면서 조직의 능력주의 원칙이 훼손되었다.",
+      "example_en": "As nepotism became rampant, the organization's meritocratic principles were undermined."
+    },
+    {
+      "korean": "도덕 나침반",
+      "english": "moral compass",
+      "example": "리더는 흔들리지 않는 도덕 나침반을 가지고 있어야 한다.",
+      "example_en": "A leader must have an unwavering moral compass."
+    },
+    {
+      "korean": "이타주의",
+      "english": "altruism",
+      "example": "그의 이타주의적 행동은 많은 사람들에게 영감을 주었다.",
+      "example_en": "His altruistic actions inspired many people."
+    },
+    {
+      "korean": "공감",
+      "english": "empathy",
+      "example": "공감 능력이 부족한 리더는 팀의 신뢰를 얻을 수 없다.",
+      "example_en": "A leader lacking empathy cannot earn the trust of their team."
+    },
+    {
+      "korean": "공리주의",
+      "english": "utilitarianism",
+      "example": "공리주의 입장에서는 최대 행복을 위해 개인의 희생이 정당화될 수 있다.",
+      "example_en": "From a utilitarian perspective, individual sacrifice can be justified for maximum happiness."
+    },
+    {
+      "korean": "의무론",
+      "english": "deontology",
+      "example": "의무론자들은 행위의 결과가 아닌 도덕적 의무에 따른다.",
+      "example_en": "Deontologists follow moral duty rather than the consequences of actions."
+    },
+    {
+      "korean": "생명윤리",
+      "english": "bioethics",
+      "example": "줄기세포 연구는 생명윤리 문제로 오랫동안 논쟁이 되어왔다.",
+      "example_en": "Stem cell research has long been controversial as a bioethics issue."
+    },
+    {
+      "korean": "환경윤리",
+      "english": "environmental ethics",
+      "example": "환경윤리의 관점에서 보면 인간은 자연의 청지기 역할을 해야 한다.",
+      "example_en": "From an environmental ethics perspective, humans should act as stewards of nature."
+    },
+    {
+      "korean": "도덕성",
+      "english": "morality",
+      "example": "종교가 반드시 높은 도덕성을 보장하지는 않는다.",
+      "example_en": "Religion does not necessarily guarantee high morality."
+    },
+    {
+      "korean": "원칙",
+      "english": "principle",
+      "example": "원칙을 타협하면 결국 자신의 정체성을 잃게 된다.",
+      "example_en": "If you compromise your principles, you ultimately lose your identity."
+    },
+    {
+      "korean": "도덕 상대주의",
+      "english": "moral relativism",
+      "example": "도덕 상대주의의 문제는 모든 행위를 정당화할 수 있다는 점이다.",
+      "example_en": "The problem with moral relativism is that it can justify any action."
+    },
+    {
+      "korean": "이기주의",
+      "english": "egoism; selfishness",
+      "example": "극단적인 이기주의는 개인의 이익과 사회의 이익을 모두 해친다.",
+      "example_en": "Extreme egoism harms both individual and societal interests."
+    },
+    {
+      "korean": "편견",
+      "english": "bias; prejudice",
+      "example": "무의식적인 편견도 차별의 결과를 초래할 수 있다.",
+      "example_en": "Unconscious bias can also lead to discriminatory outcomes."
+    },
+    {
+      "korean": "차별",
+      "english": "discrimination",
+      "example": "직장에서의 성차별은 법으로 금지되어 있다.",
+      "example_en": "Gender discrimination in the workplace is prohibited by law."
+    },
+    {
+      "korean": "공동선",
+      "english": "common good",
+      "example": "공동선을 위해 개인의 이익을 일부 양보하는 것은 합리적이다.",
+      "example_en": "Sacrificing some personal interest for the common good is reasonable."
+    },
+    {
+      "korean": "개인의 권리",
+      "english": "individual rights",
+      "example": "민주주의는 개인의 권리 보호에 기초한 제도이다.",
+      "example_en": "Democracy is a system based on the protection of individual rights."
+    },
+    {
+      "korean": "사회적 책임",
+      "english": "social responsibility",
+      "example": "기업의 사회적 책임은 이제 선택이 아닌 필수이다.",
+      "example_en": "Corporate social responsibility is now essential, not optional."
+    },
+    {
+      "korean": "직업윤리",
+      "english": "professional ethics",
+      "example": "의사의 직업윤리 중 하나는 환자의 개인 정보를 보호하는 것이다.",
+      "example_en": "One aspect of professional ethics for doctors is protecting patient privacy."
+    },
+    {
+      "korean": "의료윤리",
+      "english": "medical ethics",
+      "example": "의료윤리는 인간의 생명과 건강을 다루므로 특히 중요하다.",
+      "example_en": "Medical ethics is especially important because it deals with human life and health."
+    },
+    {
+      "korean": "과학윤리",
+      "english": "scientific ethics",
+      "example": "과학윤리를 위반한 연구 결과는 학계에서 신뢰를 잃는다.",
+      "example_en": "Research results that violate scientific ethics lose credibility in academia."
+    },
+    {
+      "korean": "신뢰",
+      "english": "trust",
+      "example": "신뢰는 한 번 깨지면 다시 복구하기 어렵다.",
+      "example_en": "Once trust is broken, it is difficult to restore."
+    },
+    {
+      "korean": "신뢰 위반",
+      "english": "breach of trust",
+      "example": "리더의 신뢰 위반은 팀 전체의 사기를 무너뜨린다.",
+      "example_en": "A leader's breach of trust destroys the morale of the entire team."
+    },
+    {
+      "korean": "도의",
+      "english": "morality; righteousness",
+      "example": "도의를 지키기 위해 개인의 손해를 감수해야 할 수도 있다.",
+      "example_en": "One may have to accept personal loss to uphold righteousness."
+    },
+    {
+      "korean": "도덕적 해이",
+      "english": "moral hazard",
+      "example": "너무 관대한 정책은 도덕적 해이를 초래할 수 있다.",
+      "example_en": "Overly lenient policies can lead to moral hazard."
+    },
+    {
+      "korean": "진정성",
+      "english": "authenticity; sincerity",
+      "example": "지도자의 진정성은 사람들에게 공감을 주고 신뢰를 쌓는다.",
+      "example_en": "A leader's authenticity generates empathy and builds trust."
+    },
+    {
+      "korean": "책임감",
+      "english": "sense of responsibility",
+      "example": "공무원은 국민을 위한 책임감을 항상 가져야 한다.",
+      "example_en": "Civil servants must always have a sense of responsibility toward the public."
+    },
+    {
+      "korean": "비리",
+      "english": "malpractice; misconduct",
+      "example": "적발된 비리에 대해서는 엄격한 처벌이 필요하다.",
+      "example_en": "Detected misconduct must be punished strictly."
+    },
+    {
+      "korean": "윤리 기준",
+      "english": "ethical standard",
+      "example": "조직의 윤리 기준이 명확해야 직원들이 지킬 수 있다.",
+      "example_en": "Clear ethical standards allow employees to follow them."
+    }
+  ]
+}

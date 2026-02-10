@@ -1,0 +1,284 @@
+{
+  "주제별 단어 — 건축 (Topic: Architecture)": [
+    {
+      "korean": "고층 건물",
+      "english": "high-rise building",
+      "example": "서울 도심에는 고층 건물이 밀집해 있다.",
+      "example_en": "High-rise buildings are densely packed in downtown Seoul.",
+      "notes": "Sino-Korean: 高層 (high) + 建物 (building). Collocates with: 밀집하다, 들어서다, 숲을 이루다. Related: 초고층 빌딩, 단독 주택."
+    },
+    {
+      "korean": "단독 주택",
+      "english": "detached house; single-family home",
+      "example": "은퇴 후 교외에 단독 주택을 짓고 싶다.",
+      "example_en": "After retirement, I want to build a detached house in the suburbs.",
+      "notes": "Sino-Korean: 單獨 (alone) + 住宅 (residence). Collocates with: 짓다, 구매하다, 매매하다. Contrast with 아파트 (apartment), 한옥 (hanok)."
+    },
+    {
+      "korean": "한옥",
+      "english": "traditional Korean house",
+      "example": "북촌에는 잘 보존된 한옥이 많다.",
+      "example_en": "There are many well-preserved traditional Korean houses in Bukchon.",
+      "notes": "Pure Korean: 한 (Korean) + 옥 (house). Collocates with: 보존하다, 복원하다, 개조하다. Often modified by: 전통, 고급, 보존된. Usage: 한옥마을 (hanok village)."
+    },
+    {
+      "korean": "상가 건물",
+      "english": "commercial building",
+      "example": "역 앞 상가 건물의 임대료가 크게 올랐다.",
+      "example_en": "The rent for the commercial building in front of the station has risen significantly.",
+      "notes": "Sino-Korean: 商家 (commerce) + 建物 (building). Collocates with: 임대료, 월세, 건물주. Related: 상업용, 점포, 상점."
+    },
+    {
+      "korean": "초고층 빌딩",
+      "english": "skyscraper; supertall building",
+      "example": "초고층 빌딩 건설에는 첨단 기술이 필요하다.",
+      "example_en": "Advanced technology is required for skyscraper construction.",
+      "notes": "Sino-Korean: 超高層 (super-high-rise). Loanword: 빌딩 (building). Collocates with: 건설하다, 기술, 첨단. Related: 마천루, 고층 건물."
+    },
+    {
+      "korean": "공공 건축물",
+      "english": "public building; civic architecture",
+      "example": "새 공공 건축물은 시민들의 접근성을 최우선으로 설계되었다.",
+      "example_en": "The new public building was designed with citizen accessibility as the top priority.",
+      "notes": "Sino-Korean: 公共 (public) + 建築 (architecture) + 物 (thing). Collocates with: 설계, 접근성, 편의성. Related: 시설, 기관, 시청."
+    },
+    {
+      "korean": "복합 단지",
+      "english": "mixed-use complex",
+      "example": "주거와 상업을 결합한 복합 단지가 늘어나고 있다.",
+      "example_en": "Mixed-use complexes combining residential and commercial areas are increasing.",
+      "notes": "Sino-Korean: 複合 (mixed) + 團地 (complex/zone). Collocates with: 주거, 상업, 개발하다. Related: 아파트 단지, 쇼핑몰."
+    },
+    {
+      "korean": "종교 건축",
+      "english": "religious architecture",
+      "example": "유럽의 종교 건축은 고딕 양식의 영향을 많이 받았다.",
+      "example_en": "European religious architecture was heavily influenced by the Gothic style.",
+      "notes": "Sino-Korean: 宗教 (religion) + 建築 (architecture). Collocates with: 양식, 양식, 양식, 특징. Related: 교회, 절, 사찰, 모스크."
+    },
+    {
+      "korean": "문화 시설",
+      "english": "cultural facility",
+      "example": "정부는 지방에 더 많은 문화 시설을 확충할 계획이다.",
+      "example_en": "The government plans to expand more cultural facilities in regional areas.",
+      "notes": "Sino-Korean: 文化 (culture) + 施設 (facility). Collocates with: 확충, 건립, 이용. Related: 박물관, 미술관, 공연장, 도서관."
+    },
+    {
+      "korean": "임시 구조물",
+      "english": "temporary structure",
+      "example": "축제 기간에 광장에 임시 구조물이 세워졌다.",
+      "example_en": "Temporary structures were erected in the square during the festival.",
+      "notes": "Sino-Korean: 臨時 (temporary) + 構造 (structure) + 物 (thing). Collocates with: 세우다, 설치하다, 철거하다. Usage: 가설건축물."
+    },
+    {
+      "korean": "착공",
+      "english": "groundbreaking; start of construction",
+      "example": "신도시 건설이 내년 초 착공에 들어간다.",
+      "example_en": "Construction of the new city will break ground at the beginning of next year.",
+      "notes": "Sino-Korean: 着工 (begin work). Collocates with: 들어가다, 예정되다, 식을 거행하다. Contrast with: 준공 (completion), 공정률 (progress rate)."
+    },
+    {
+      "korean": "골조 공사",
+      "english": "structural framing; framework construction",
+      "example": "골조 공사가 완료되면 내장 작업에 들어간다.",
+      "example_en": "Once the structural framing is complete, interior work begins.",
+      "notes": "Sino-Korean: 骨組 (framework/skeleton) + 工事 (construction work). Stage in construction: 기초 공사 → 골조 공사 → 내장 공사. Related: 철근콘크리트."
+    },
+    {
+      "korean": "기초 공사",
+      "english": "foundation work",
+      "example": "단단한 기초 공사 없이는 건물의 안전을 보장할 수 없다.",
+      "example_en": "Without solid foundation work, the safety of the building cannot be guaranteed.",
+      "notes": "Sino-Korean: 基礎 (foundation) + 工事 (work). Collocates with: 단단하다, 견고하다, 보강하다. Critical first stage of construction."
+    },
+    {
+      "korean": "철거",
+      "english": "demolition",
+      "example": "재개발을 위해 노후 건물의 철거가 시작되었다.",
+      "example_en": "Demolition of the old building has begun for redevelopment.",
+      "notes": "Sino-Korean: 撤去 (remove/demolish). Collocates with: 시작하다, 완료하다, 예정. Related: 개축, 재개발, 리모델링."
+    },
+    {
+      "korean": "내진 설계",
+      "english": "earthquake-resistant design; seismic design",
+      "example": "한국에서도 내진 설계 기준이 강화되고 있다.",
+      "example_en": "Earthquake-resistant design standards are being strengthened in Korea as well.",
+      "notes": "Sino-Korean: 耐震 (earthquake-resistant) + 設計 (design). Collocates with: 기준, 시공, 강화하다. Related: 지진, 안전성, 구조."
+    },
+    {
+      "korean": "시공사",
+      "english": "construction company; builder",
+      "example": "대형 시공사가 이번 프로젝트를 수주했다.",
+      "example_en": "A major construction company won the bid for this project.",
+      "notes": "Sino-Korean: 施工 (construction) + 社 (company). Collocates with: 대형, 영선, 수주하다, 낙찰되다. Related: 건설회사, 건축회사."
+    },
+    {
+      "korean": "공정률",
+      "english": "construction progress rate",
+      "example": "현재 공정률이 70%를 넘어 예정대로 준공될 전망이다.",
+      "example_en": "The current progress rate exceeds 70%, and completion is expected on schedule.",
+      "notes": "Sino-Korean: 工程 (construction project) + 率 (rate/percentage). Collocates with: ~%, 70%, 80%, 넘다, 진행되다. Usage: 공정 진행률."
+    },
+    {
+      "korean": "준공",
+      "english": "completion of construction",
+      "example": "아파트 준공이 6개월 지연되어 입주민들이 불만을 표했다.",
+      "example_en": "The apartment completion was delayed by six months, and residents expressed dissatisfaction.",
+      "notes": "Sino-Korean: 竣工 (completion of construction). Collocates with: 예정, 지연, 연기되다, 입주. Opposite of: 착공 (groundbreaking)."
+    },
+    {
+      "korean": "자재",
+      "english": "building materials",
+      "example": "원자재 가격 상승으로 건축 자재 비용이 급등했다.",
+      "example_en": "Building material costs surged due to rising raw material prices.",
+      "notes": "Sino-Korean: 資材 (materials/supplies). Collocates with: 가격, 비용, 부족, 수급. Related: 석재, 목재, 강철, 시멘트."
+    },
+    {
+      "korean": "감리",
+      "english": "construction supervision; inspection oversight",
+      "example": "부실 공사를 방지하려면 철저한 감리가 필수적이다.",
+      "example_en": "Thorough construction supervision is essential to prevent shoddy work.",
+      "notes": "Sino-Korean: 監理 (supervision). Collocates with: 철저하다, 전문가, 확인하다. Related: 검수, 품질관리, 부실 공사."
+    },
+    {
+      "korean": "인테리어",
+      "english": "interior design; interior decoration",
+      "example": "이사 후 인테리어를 새로 하느라 한 달이 걸렸다.",
+      "example_en": "It took a month to redo the interior design after moving.",
+      "notes": "Loanword from English 'interior'. Collocates with: 하다, 예산, 디자인, 비용. Related: 외장, 조명, 마감재, 동선."
+    },
+    {
+      "korean": "동선",
+      "english": "traffic flow; circulation path (in a space)",
+      "example": "주방의 동선이 효율적으로 설계되어 요리하기 편하다.",
+      "example_en": "The kitchen's traffic flow is designed efficiently, making it convenient to cook.",
+      "notes": "Pure Korean: 動 (movement) + 線 (line). Collocates with: 효율적, 편리하다, 설계. Related: 공간 배치, 레이아웃."
+    },
+    {
+      "korean": "마감재",
+      "english": "finishing material",
+      "example": "고급 마감재를 사용하면 주택 가치가 올라간다.",
+      "example_en": "Using premium finishing materials increases the value of a home.",
+      "notes": "Sino-Korean: 磨感 (finish/surface) + 材 (material). Collocates with: 고급, 선택하다, 품질. Related: 벽지, 바닥재, 타일, 페인트."
+    },
+    {
+      "korean": "수납공간",
+      "english": "storage space",
+      "example": "작은 집일수록 수납공간을 잘 활용해야 한다.",
+      "example_en": "The smaller the house, the better you need to utilize storage space.",
+      "notes": "Pure Korean: 收納 (Sino-Korean for storage) + 空間 (space). Collocates with: 활용, 부족, 확보. Related: 수납장, 클로젯, 판트리."
+    },
+    {
+      "korean": "개방형 구조",
+      "english": "open-plan layout",
+      "example": "요즘 신축 아파트는 거실과 주방이 개방형 구조로 되어 있다.",
+      "example_en": "These days, newly built apartments have an open-plan layout for the living room and kitchen.",
+      "notes": "Sino-Korean: 開放型 (open-type) + 構造 (structure). Collocates with: 거실, 주방, 설계. Trend in modern architecture favoring spacious, unified rooms."
+    },
+    {
+      "korean": "조명 설계",
+      "english": "lighting design",
+      "example": "적절한 조명 설계는 공간의 분위기를 완전히 바꿀 수 있다.",
+      "example_en": "Proper lighting design can completely transform the atmosphere of a space.",
+      "notes": "Sino-Korean: 照明 (lighting) + 設計 (design). Collocates with: 적절하다, 간접 조명, 분위기. Related: 조도, 색온도, 매입등."
+    },
+    {
+      "korean": "천장고",
+      "english": "ceiling height",
+      "example": "천장고가 높으면 공간이 훨씬 넓어 보인다.",
+      "example_en": "A high ceiling height makes the space look much more spacious.",
+      "notes": "Pure Korean: 天井 (ceiling) + 高 (height). Collocates with: 높다, 낮다, 측정. Standard residential height: 2.4-2.8m; luxury: 3m+."
+    },
+    {
+      "korean": "바닥재",
+      "english": "flooring material",
+      "example": "원목 바닥재가 인기 있지만 관리가 까다롭다.",
+      "example_en": "Hardwood flooring is popular but high-maintenance.",
+      "notes": "Sino-Korean: 床 (floor) + 材 (material). Types: 원목, 강화마루, 타일, 대리석, 콘크리트. Collocates with: 관리, 내구성."
+    },
+    {
+      "korean": "단열재",
+      "english": "insulation material",
+      "example": "겨울 난방비를 줄이려면 단열재를 보강해야 한다.",
+      "example_en": "To reduce winter heating costs, insulation materials need to be reinforced.",
+      "notes": "Sino-Korean: 斷熱 (insulation) + 材 (material). Types: 글래스울, 로크울, 스티로폼. Collocates with: 보강하다, 두께, 효율."
+    },
+    {
+      "korean": "리모델링",
+      "english": "remodeling; renovation",
+      "example": "30년 된 아파트를 리모델링해서 새집처럼 바꿨다.",
+      "example_en": "We remodeled the 30-year-old apartment and made it look like new.",
+      "notes": "Loanword from English 'remodeling'. Collocates with: 하다, 비용, 예산, 기간. Often used interchangeably with 개축, 인테리어."
+    },
+    {
+      "korean": "도시 계획",
+      "english": "urban planning",
+      "example": "체계적인 도시 계획 없이 개발하면 교통 문제가 생긴다.",
+      "example_en": "Development without systematic urban planning leads to traffic problems.",
+      "notes": "Sino-Korean: 都市 (city) + 計畫 (plan). Collocates with: 체계적, 수립, 수립하다. Related: 도시 설계, 도시 공학, 인프라."
+    },
+    {
+      "korean": "용도 지역",
+      "english": "zoning district; land use zone",
+      "example": "이 지역은 상업 용도 지역으로 지정되어 주거가 제한된다.",
+      "example_en": "This area is designated as a commercial zoning district, so residential use is restricted.",
+      "notes": "Sino-Korean: 用途 (use) + 地域 (area/district). Types: 주거, 상업, 공업, 녹지. Collocates with: 지정하다, 변경."
+    },
+    {
+      "korean": "용적률",
+      "english": "floor area ratio (FAR)",
+      "example": "용적률 규제 완화로 더 높은 건물을 지을 수 있게 되었다.",
+      "example_en": "Relaxation of floor area ratio regulations made it possible to build taller buildings.",
+      "notes": "Sino-Korean: 用積 (usable area) + 率 (ratio). Formula: 건축면적 ÷ 대지면적. Policy tool regulating building density and height."
+    },
+    {
+      "korean": "건폐율",
+      "english": "building coverage ratio",
+      "example": "건폐율이 높으면 녹지 공간이 줄어든다.",
+      "example_en": "A high building coverage ratio reduces green space.",
+      "notes": "Sino-Korean: 建蔽 (building coverage) + 率 (ratio). Formula: 건축면적 ÷ 대지면적. Regulatory limit varies by zoning; affects green space preservation."
+    },
+    {
+      "korean": "재개발",
+      "english": "redevelopment",
+      "example": "노후 주거 지역의 재개발 사업이 본격화되고 있다.",
+      "example_en": "Redevelopment projects in aging residential areas are ramping up.",
+      "notes": "Sino-Korean: 再開發 (redevelop). Collocates with: 사업, 본격화, 추진. Often controversial; affects residents and property values. Related: 도시 재생."
+    },
+    {
+      "korean": "보행자 전용 구역",
+      "english": "pedestrian-only zone",
+      "example": "도심 내 보행자 전용 구역이 확대되면서 거리가 활기를 띠고 있다.",
+      "example_en": "Streets are becoming more vibrant as pedestrian-only zones expand in the city center.",
+      "notes": "Sino-Korean: 步行者 (pedestrian) + 專用 (exclusive) + 區域 (zone). Urban design trend improving walkability and street vitality. Related: 보행로, 광장."
+    },
+    {
+      "korean": "녹지 비율",
+      "english": "green space ratio",
+      "example": "쾌적한 도시 환경을 위해 녹지 비율을 높여야 한다.",
+      "example_en": "The green space ratio must be increased for a pleasant urban environment.",
+      "notes": "Sino-Korean: 綠地 (green space) + 比率 (ratio). Percentage of land with vegetation in urban planning; affects air quality and livability. Related: 공원, 숲."
+    },
+    {
+      "korean": "기반 시설",
+      "english": "infrastructure",
+      "example": "신도시 개발에는 도로와 상하수도 같은 기반 시설이 먼저 갖춰져야 한다.",
+      "example_en": "Infrastructure such as roads and water supply must be established first for new city development.",
+      "notes": "Sino-Korean: 基盤 (foundation/base) + 施設 (facility). Includes: roads, water, sewage, electricity, gas, telecommunications. Critical for urban development."
+    },
+    {
+      "korean": "스카이라인",
+      "english": "skyline",
+      "example": "강남의 스카이라인은 10년 전과 완전히 달라졌다.",
+      "example_en": "The skyline of Gangnam has completely changed from ten years ago.",
+      "notes": "Loanword from English 'skyline'. Collocates with: 변하다, 독특하다, 아름답다. Urban symbol; architectural identity of a city."
+    },
+    {
+      "korean": "도시 재생",
+      "english": "urban regeneration; urban renewal",
+      "example": "도시 재생 사업을 통해 쇠퇴한 구도심에 활력을 불어넣고 있다.",
+      "example_en": "Urban regeneration projects are breathing new life into declining old city centers.",
+      "notes": "Sino-Korean: 都市 (city) + 再生 (regeneration). Broader than 재개발; includes cultural, social renewal. Collocates with: 사업, 활성화."
+    }
+  ]
+}

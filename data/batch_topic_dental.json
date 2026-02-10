@@ -1,0 +1,244 @@
+{
+  "주제별 단어 — 치과 (Topic: Dental)": [
+    {
+      "korean": "치아",
+      "english": "tooth; teeth",
+      "example": "치아를 매일 두 번 닦아야 한다.",
+      "example_en": "You should brush your teeth twice a day."
+    },
+    {
+      "korean": "치과",
+      "english": "dental clinic; dentist",
+      "example": "내일 치과에 가서 검진을 받을 거예요.",
+      "example_en": "I'm going to the dentist tomorrow for a checkup."
+    },
+    {
+      "korean": "치과 의사",
+      "english": "dentist",
+      "example": "우리 동네에 잘하는 치과 의사가 있다고 들었어.",
+      "example_en": "I heard there's a good dentist in our neighborhood."
+    },
+    {
+      "korean": "치과 위생사",
+      "english": "dental hygienist",
+      "example": "치과 위생사가 나의 치아를 청소해 주었다.",
+      "example_en": "The dental hygienist cleaned my teeth."
+    },
+    {
+      "korean": "앞니",
+      "english": "front teeth; incisors",
+      "example": "그 배우는 앞니가 정말 하얀 이빨이다.",
+      "example_en": "That actor has really white front teeth."
+    },
+    {
+      "korean": "어금니",
+      "english": "molar; back tooth",
+      "example": "어금니가 아파서 음식을 씹기가 힘들어.",
+      "example_en": "My molar hurts, so it's hard to chew."
+    },
+    {
+      "korean": "송곳니",
+      "english": "canine tooth; eyetooth",
+      "example": "송곳니가 튀어나와 있어서 어려서부터 신경 썼어.",
+      "example_en": "My canine tooth stuck out, so I've been concerned since childhood."
+    },
+    {
+      "korean": "유치",
+      "english": "baby tooth; milk tooth; deciduous tooth",
+      "example": "아이의 유치가 빠지고 영구치가 나오고 있다.",
+      "example_en": "My child's baby teeth are falling out and permanent teeth are coming in."
+    },
+    {
+      "korean": "영구치",
+      "english": "permanent tooth",
+      "example": "영구치는 한 번 손상되면 회복이 어렵다.",
+      "example_en": "Once permanent teeth are damaged, it's hard to recover them."
+    },
+    {
+      "korean": "치근",
+      "english": "root of tooth; tooth root",
+      "example": "충치가 깊어서 치근까지 손상되었다.",
+      "example_en": "The cavity was deep and damaged the tooth root."
+    },
+    {
+      "korean": "치관",
+      "english": "dental crown",
+      "example": "금을 씌운 치관이 비싼 치료다.",
+      "example_en": "A gold crown is an expensive dental treatment."
+    },
+    {
+      "korean": "충치",
+      "english": "cavity; tooth decay; dental caries",
+      "example": "어릴 때 충치가 많아서 고생했어.",
+      "example_en": "I had a lot of cavities when I was young."
+    },
+    {
+      "korean": "치석",
+      "english": "tartar; dental calculus",
+      "example": "정기적으로 치과에서 치석을 제거해야 한다.",
+      "example_en": "You need to have tartar removed at the dentist regularly."
+    },
+    {
+      "korean": "잇몸",
+      "english": "gums; gingiva",
+      "example": "잇몸에서 피가 나면 칫솔질을 너무 세게 하는 거야.",
+      "example_en": "If your gums bleed, you're brushing too hard."
+    },
+    {
+      "korean": "치은염",
+      "english": "gingivitis; gum inflammation",
+      "example": "치은염이 심해지면 치주 질환으로 진행될 수 있다.",
+      "example_en": "If gingivitis worsens, it can progress to periodontal disease."
+    },
+    {
+      "korean": "치주 질환",
+      "english": "periodontal disease; gum disease",
+      "example": "치주 질환은 성인이 치아를 잃는 주요 원인이다.",
+      "example_en": "Periodontal disease is a major cause of tooth loss in adults."
+    },
+    {
+      "korean": "스케일링",
+      "english": "scaling; teeth cleaning",
+      "example": "6개월마다 치과에서 스케일링을 받는 게 좋아.",
+      "example_en": "It's good to get scaling done at the dentist every six months."
+    },
+    {
+      "korean": "근관 치료",
+      "english": "root canal treatment",
+      "example": "충치가 심하면 근관 치료가 필요할 수 있다.",
+      "example_en": "If a cavity is severe, root canal treatment may be necessary."
+    },
+    {
+      "korean": "발치",
+      "english": "tooth extraction",
+      "example": "회복 불가능한 치아는 발치해야 한다.",
+      "example_en": "A tooth that cannot be saved must be extracted."
+    },
+    {
+      "korean": "임플란트",
+      "english": "dental implant",
+      "example": "임플란트는 비싸지만 오래 쓸 수 있다.",
+      "example_en": "Dental implants are expensive, but they last a long time."
+    },
+    {
+      "korean": "틀니",
+      "english": "dentures; false teeth",
+      "example": "할머니는 틀니를 착용하고 계신다.",
+      "example_en": "Grandmother wears dentures."
+    },
+    {
+      "korean": "브릿지",
+      "english": "dental bridge",
+      "example": "브릿지는 양쪽 이빨을 깎아야 한다.",
+      "example_en": "A bridge requires shaving down the teeth on both sides."
+    },
+    {
+      "korean": "교정",
+      "english": "orthodontic treatment; braces",
+      "example": "아이가 치아 교정을 받기로 했어.",
+      "example_en": "My child has decided to get braces."
+    },
+    {
+      "korean": "교정 장치",
+      "english": "orthodontic appliance; braces",
+      "example": "교정 장치가 불편하지만 효과는 좋다.",
+      "example_en": "Braces are uncomfortable, but they're effective."
+    },
+    {
+      "korean": "치아 미백",
+      "english": "teeth whitening; teeth bleaching",
+      "example": "치아 미백 시술을 받으면 좀 더 밝아진다.",
+      "example_en": "Teeth whitening treatment makes teeth brighter."
+    },
+    {
+      "korean": "칫솔",
+      "english": "toothbrush",
+      "example": "부드러운 칫솔이 잇몸에 좋아.",
+      "example_en": "A soft toothbrush is good for your gums."
+    },
+    {
+      "korean": "전동 칫솔",
+      "english": "electric toothbrush",
+      "example": "전동 칫솔이 일반 칫솔보다 더 효과적이다.",
+      "example_en": "An electric toothbrush is more effective than a regular one."
+    },
+    {
+      "korean": "치약",
+      "english": "toothpaste",
+      "example": "불소가 함유된 치약을 써야 한다.",
+      "example_en": "You should use toothpaste that contains fluoride."
+    },
+    {
+      "korean": "치실",
+      "english": "dental floss",
+      "example": "칫솔질 후에 치실로 닦으면 충치 예방에 좋다.",
+      "example_en": "Using floss after brushing helps prevent cavities."
+    },
+    {
+      "korean": "구강 청결제",
+      "english": "mouthwash; oral rinse",
+      "example": "식사 후에 구강 청결제로 가글하는 것도 도움이 된다.",
+      "example_en": "Rinsing with mouthwash after meals also helps."
+    },
+    {
+      "korean": "치아 검진",
+      "english": "dental checkup; dental examination",
+      "example": "6개월마다 정기적으로 치아 검진을 받아야 한다.",
+      "example_en": "You should have regular dental checkups every six months."
+    },
+    {
+      "korean": "방사선 촬영",
+      "english": "X-ray; radiography (dental)",
+      "example": "치과에서 방사선 촬영을 해서 충치를 찾아냈어.",
+      "example_en": "The dentist took an X-ray and found a cavity."
+    },
+    {
+      "korean": "마취",
+      "english": "anesthesia; numbness (from local anesthetic)",
+      "example": "치료 전에 마취를 했으니까 통증이 없어.",
+      "example_en": "They gave me anesthesia before treatment, so there's no pain."
+    },
+    {
+      "korean": "살짝 아프다",
+      "english": "to hurt a little; to be slightly painful",
+      "example": "이가 살짝 아픈데 충치 때문인지 확인해야 한다.",
+      "example_en": "My tooth hurts a little; I need to check if it's because of a cavity."
+    },
+    {
+      "korean": "시린이",
+      "english": "sensitive teeth; tooth sensitivity",
+      "example": "찬 것을 먹을 때마다 시린이가 심해진다.",
+      "example_en": "Every time I eat something cold, my tooth sensitivity gets worse."
+    },
+    {
+      "korean": "치아 손상",
+      "english": "tooth damage; damaged tooth",
+      "example": "사고로 인해 앞니가 치아 손상을 입었다.",
+      "example_en": "My front tooth was damaged in an accident."
+    },
+    {
+      "korean": "악물다",
+      "english": "to clench; to grit (teeth)",
+      "example": "스트레스를 받으면 자면서 이를 악물어서 아침에 턱이 아프다.",
+      "example_en": "When I'm stressed, I grind my teeth while sleeping and my jaw hurts in the morning."
+    },
+    {
+      "korean": "이가 흔들리다",
+      "english": "tooth is loose; to have a loose tooth",
+      "example": "아이의 유치가 흔들려서 빠질 준비를 하고 있다.",
+      "example_en": "My child's baby tooth is loose and about to fall out."
+    },
+    {
+      "korean": "치아 미용",
+      "english": "cosmetic dentistry",
+      "example": "많은 사람들이 아름다운 미소를 위해 치아 미용을 받는다.",
+      "example_en": "Many people get cosmetic dental work for a beautiful smile."
+    },
+    {
+      "korean": "잇몸 이식",
+      "english": "gum graft",
+      "example": "잇몸이 심하게 내려앉았을 때 잇몸 이식이 필요할 수 있다.",
+      "example_en": "Gum grafting may be necessary when gums have severely receded."
+    }
+  ]
+}

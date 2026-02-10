@@ -1,0 +1,242 @@
+{
+  "주제별 단어 — 항공 (Topic: Aviation)": [
+    {
+      "korean": "비행기",
+      "english": "airplane, aircraft",
+      "example": "비행기를 타고 서울에서 부산으로 갔어요.",
+      "example_en": "I took a plane from Seoul to Busan.",
+      "notes": "Sino-Korean 非行; common collocations: 비행기를 탈다 (to board), 비행기가 이륙하다 (take off). Related: 항공사 (airline), 공항 (airport)."
+    },
+    {
+      "korean": "공항",
+      "english": "airport",
+      "example": "인천공항에서 출발하는 비행기가 많아요.",
+      "example_en": "There are many planes departing from Incheon Airport.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "항공편",
+      "english": "flight",
+      "example": "오후 3시 항공편은 이미 만석입니다.",
+      "example_en": "The 3 PM flight is already fully booked.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "탑승",
+      "english": "boarding",
+      "example": "탑승 시간이 되었으니 게이트로 가세요.",
+      "example_en": "Boarding time is here, please go to the gate.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "탑승객",
+      "english": "passenger",
+      "example": "모든 탑승객이 안전띠를 착용해야 합니다.",
+      "example_en": "All passengers must wear seatbelts.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "조종사",
+      "english": "pilot",
+      "example": "조종사가 기장실에서 비행기를 조종합니다.",
+      "example_en": "The pilot controls the aircraft from the cockpit.",
+      "notes": "Sino-Korean 操縱士; pilot. Phrase: 조종사가 조종간을 잡다 (pilot holds the control stick)."
+    },
+    {
+      "korean": "승무원",
+      "english": "flight attendant, cabin crew",
+      "example": "승무원이 음료수를 배달하고 있어요.",
+      "example_en": "The flight attendants are serving beverages.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "활주로",
+      "english": "runway",
+      "example": "비행기가 활주로에 착륙했어요.",
+      "example_en": "The aircraft landed on the runway.",
+      "notes": "Sino-Korean 活走路. Runway for landing/takeoff; used in weather contexts: 활주로가 폐쇄되다 (runway closed)."
+    },
+    {
+      "korean": "이륙",
+      "english": "takeoff",
+      "example": "이륙 후에는 휴대폰 사용이 금지됩니다.",
+      "example_en": "Using phones is prohibited after takeoff.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "착륙",
+      "english": "landing",
+      "example": "착륙하기 10분 전에 벨트를 매세요.",
+      "example_en": "Please fasten your seatbelt 10 minutes before landing.",
+      "notes": "Sino-Korean 着陸; to land (aircraft). Often in: 착륙하다, 착륙금지 (no landing). Antonym: 이륙 (takeoff)."
+    },
+    {
+      "korean": "난기류",
+      "english": "turbulence",
+      "example": "이 구간에서 약간의 난기류가 있을 수 있습니다.",
+      "example_en": "There may be some turbulence in this section.",
+      "notes": "Sino-Korean 亂氣流. Turbulent air; often in safety announcements. Phrase: 난기류를 만나다 (encounter turbulence)."
+    },
+    {
+      "korean": "고도",
+      "english": "altitude, height",
+      "example": "현재 고도는 35,000피트입니다.",
+      "example_en": "The current altitude is 35,000 feet.",
+      "notes": "Sino-Korean 高度; altitude/elevation. Phrase: 고도를 올리다/내리다 (increase/decrease altitude). Related: 고도계 (altimeter)."
+    },
+    {
+      "korean": "엔진",
+      "english": "engine",
+      "example": "4개 엔진이 있는 비행기는 매우 안전해요.",
+      "example_en": "Aircraft with 4 engines are very safe.",
+      "notes": "Loanword from English. Phrases: 엔진을 켜다 (start engine), 엔진 고장 (engine failure)."
+    },
+    {
+      "korean": "날개",
+      "english": "wing",
+      "example": "비행기의 날개에 얼음이 얼 수 있어요.",
+      "example_en": "Ice can form on aircraft wings.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "기장실",
+      "english": "cockpit",
+      "example": "승객은 기장실에 들어갈 수 없습니다.",
+      "example_en": "Passengers cannot enter the cockpit.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "수하물",
+      "english": "baggage, luggage",
+      "example": "수하물을 짐칸에 넣으세요.",
+      "example_en": "Put your baggage in the overhead compartment.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "짐칸",
+      "english": "baggage compartment, overhead bin",
+      "example": "큰 짐칸이 가득 찼습니다.",
+      "example_en": "The overhead compartment is full.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "여권",
+      "english": "passport",
+      "example": "출국할 때 여권이 필요합니다.",
+      "example_en": "You need a passport when departing the country.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "탑승수속",
+      "english": "check-in, boarding procedure",
+      "example": "탑승수속은 출발 2시간 전에 완료해야 해요.",
+      "example_en": "Check-in must be completed 2 hours before departure.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "기내식",
+      "english": "in-flight meal",
+      "example": "기내식은 매우 맛있었어요.",
+      "example_en": "The in-flight meal was very delicious.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "음료수",
+      "english": "beverage, drink",
+      "example": "승무원이 음료수와 스낵을 제공합니다.",
+      "example_en": "Flight attendants provide beverages and snacks.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "안전띠",
+      "english": "seatbelt",
+      "example": "항상 안전띠를 착용하세요.",
+      "example_en": "Always wear your seatbelt.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "산소마스크",
+      "english": "oxygen mask",
+      "example": "기압이 떨어지면 산소마스크가 내려옵니다.",
+      "example_en": "If pressure drops, oxygen masks will descend.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "비상구",
+      "english": "emergency exit",
+      "example": "비상구 위치를 반드시 확인하세요.",
+      "example_en": "Please make sure to identify the emergency exit location.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "비상슬라이드",
+      "english": "emergency slide",
+      "example": "비상 상황에서는 비상슬라이드를 사용합니다.",
+      "example_en": "In an emergency, we use the emergency slide.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "기내용품",
+      "english": "in-flight amenities",
+      "example": "비즈니스석 탑승객들은 더 나은 기내용품을 받아요.",
+      "example_en": "Business class passengers receive better amenities.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "이코노미석",
+      "english": "economy class",
+      "example": "이코노미석의 좌석이 좁아요.",
+      "example_en": "Economy class seats are narrow.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "비즈니스석",
+      "english": "business class",
+      "example": "비즈니스석은 매우 편해요.",
+      "example_en": "Business class is very comfortable.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "일등석",
+      "english": "first class",
+      "example": "일등석 탑승객들은 특별한 대우를 받습니다.",
+      "example_en": "First class passengers receive special treatment.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "연결편",
+      "english": "connecting flight",
+      "example": "서울에서 연결편을 타고 뉴욕으로 갔어요.",
+      "example_en": "I took a connecting flight from Seoul to New York.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "면세점",
+      "english": "duty-free shop",
+      "example": "공항 면세점에서 향수를 샀어요.",
+      "example_en": "I bought perfume at the airport duty-free shop.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "라운지",
+      "english": "lounge",
+      "example": "항공사 라운지에서 무료 음료를 마실 수 있어요.",
+      "example_en": "You can enjoy free beverages at the airline lounge.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "결항",
+      "english": "cancellation",
+      "example": "폭설로 인해 오늘의 항공편이 결항되었습니다.",
+      "example_en": "Today's flight was cancelled due to heavy snow.",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    },
+    {
+      "korean": "항공사",
+      "english": "airline",
+      "example": "어느 항공사로 가시겠어요?",
+      "example_en": "Which airline will you fly with?",
+      "notes": "Related to 항공 (Topic: Aviation)."
+    }
+  ]
+}

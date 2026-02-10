@@ -1,0 +1,284 @@
+{
+  "주제별 단어 — 음악 (Topic: Music)": [
+    {
+      "korean": "피아노",
+      "english": "piano",
+      "example": "어렸을 때부터 피아노를 배웠어요.",
+      "example_en": "I've been learning piano since I was young.",
+      "notes": "Common: 피아노 연주, 그랜드 피아노. Related: 건반악기, 음악. Etymology: 이탈리아어 pianoforte."
+    },
+    {
+      "korean": "기타",
+      "english": "guitar",
+      "example": "그의 기타 연주가 정말 인상적이었다.",
+      "example_en": "His guitar performance was really impressive.",
+      "notes": "Common: 어쿠스틱 기타, 일렉트릭 기타. Related: 현악기, 현. Etymology: 스페인어 guitarra."
+    },
+    {
+      "korean": "바이올린",
+      "english": "violin",
+      "example": "바이올린은 현악기 중에서 가장 음역대가 높다.",
+      "example_en": "The violin has the highest range among stringed instruments.",
+      "notes": "Common: 바이올린 독주, 현악기 앙상블. Related: 첼로, 비올라. Etymology: 이탈리아어 violino."
+    },
+    {
+      "korean": "첼로",
+      "english": "cello",
+      "example": "첼로의 깊고 풍부한 음색이 매력적이다.",
+      "example_en": "The cello's deep and rich tone is attractive.",
+      "notes": "Common: 첼로 협주곡. Related: 바이올린, 더블 베이스. Etymology: 이탈리아어 violoncello."
+    },
+    {
+      "korean": "플루트",
+      "english": "flute",
+      "example": "이 곡은 플루트의 아름다운 소리를 살려낸다.",
+      "example_en": "This piece brings out the beautiful sound of the flute.",
+      "notes": "Common: 플루트 소나타. Related: 목관악기, 리코더. Etymology: 라틴어 flatus."
+    },
+    {
+      "korean": "트롬본",
+      "english": "trombone",
+      "example": "재즈 밴드에서 트롬본은 중요한 역할을 한다.",
+      "example_en": "The trombone plays an important role in a jazz band.",
+      "notes": "Common: 트롬본 절음폭. Related: 금관악기, 튜바. Etymology: 이탈리아어 trombone."
+    },
+    {
+      "korean": "드럼",
+      "english": "drum",
+      "example": "드럼의 강렬한 비트가 분위기를 살린다.",
+      "example_en": "The drum's powerful beat enlivens the atmosphere.",
+      "notes": "Common: 드럼 연주, 드럼 키트. Related: 타악기, 비트. Etymology: 영어 drum."
+    },
+    {
+      "korean": "오보에",
+      "english": "oboe",
+      "example": "오보에는 오케스트라의 기준음이 되곤 한다.",
+      "example_en": "The oboe often serves as the reference pitch for an orchestra.",
+      "notes": "Common: 오보에 독주. Related: 목관악기, 클라리넷. Etymology: 프랑스어 hautbois."
+    },
+    {
+      "korean": "색소폰",
+      "english": "saxophone",
+      "example": "색소폰 솔로가 이 노래의 하이라이트다.",
+      "example_en": "The saxophone solo is the highlight of this song.",
+      "notes": "Common: 재즈 색소폰. Related: 금관악기, 재즈. Etymology: 발명자 Sax + 폰."
+    },
+    {
+      "korean": "하프",
+      "english": "harp",
+      "example": "하프의 신비로운 소리는 영화 음악에 자주 쓰인다.",
+      "example_en": "The harp's mysterious sound is often used in film scores.",
+      "notes": "Common: 하프 연주. Related: 현악기, 고전 음악. Etymology: 고대 독일어 harpe."
+    },
+    {
+      "korean": "공연",
+      "english": "performance",
+      "example": "내일 대학로에서 공연이 있다.",
+      "example_en": "There's a performance in Daehangno tomorrow.",
+      "notes": "Common: 공연 스케줄, 공연장. Related: 공식 무대, 콘서트. Etymology: 公演(공연=public performance)."
+    },
+    {
+      "korean": "콘서트",
+      "english": "concert",
+      "example": "그 가수의 콘서트 티켓이 다 팔렸다.",
+      "example_en": "All tickets for that singer's concert sold out.",
+      "notes": "Common: 콘서트 표, 콘서트 일정. Related: 공연, 라이브. Etymology: 영어 concert."
+    },
+    {
+      "korean": "무대",
+      "english": "stage",
+      "example": "무대 위에서 그의 자신감 있는 모습이 눈에 띄었다.",
+      "example_en": "His confident appearance on stage caught my eye.",
+      "notes": "Common: 무대에 서다, 무대 공포. Related: 공연장, 스포트라이트. Etymology: 舞臺(무대=stage)."
+    },
+    {
+      "korean": "앙코르",
+      "english": "encore",
+      "example": "관객들의 큰 박수에 가수가 앙코르 곡을 불렀다.",
+      "example_en": "The singer performed an encore song to the audience's thunderous applause.",
+      "notes": "Common: 앙코르 요청. Related: 추가 곡, 비포(bis). Etymology: 프랑스어 encore."
+    },
+    {
+      "korean": "리사이틀",
+      "english": "recital",
+      "example": "그녀의 피아노 리사이틀은 매년 기대되는 공연이다.",
+      "example_en": "Her piano recital is an eagerly anticipated annual performance.",
+      "notes": "Common: 독주 리사이틀. Related: 독주, 콘서트. Etymology: 영어 recital."
+    },
+    {
+      "korean": "오케스트라",
+      "english": "orchestra",
+      "example": "서울시립 오케스트라의 공연을 들었다.",
+      "example_en": "I listened to a Seoul Philharmonic Orchestra performance.",
+      "notes": "Common: 심포니 오케스트라, 지휘자. Related: 현악기 앙상블. Etymology: 그리스어 orchestra."
+    },
+    {
+      "korean": "합창",
+      "english": "chorus; choir",
+      "example": "학교 합창 대회에서 우리 팀이 입상했다.",
+      "example_en": "Our team won a prize in the school choir competition.",
+      "notes": "Common: 합창단, 합창 지휘자. Related: 단체 성악. Etymology: 合唱(합창=collective singing)."
+    },
+    {
+      "korean": "독주",
+      "english": "solo performance",
+      "example": "이 곡의 독주 부분은 가장 기술적으로 어렵다.",
+      "example_en": "The solo part of this piece is the most technically difficult.",
+      "notes": "Common: 성악 독주, 악기 독주. Related: 솔로, 리사이틀. Etymology: 獨奏(독주=solo)."
+    },
+    {
+      "korean": "이중주",
+      "english": "duet",
+      "example": "그들의 이중주 무대는 정말 환상적이었다.",
+      "example_en": "Their duet performance was absolutely fantastic.",
+      "notes": "Common: 성악 이중주, 악기 이중주. Related: 연주, 앙상블. Etymology: 二重奏(이중주=duet)."
+    },
+    {
+      "korean": "버스킹",
+      "english": "busking; street performance",
+      "example": "지하철에서 버스킹하는 뮤지션들을 자주 볼 수 있다.",
+      "example_en": "You can often see street musicians busking in the subway.",
+      "notes": "Common: 거리 공연, 버스킹 뮤지션. Related: 길거리 음악. Etymology: 영어 busking."
+    },
+    {
+      "korean": "멜로디",
+      "english": "melody",
+      "example": "이 곡의 멜로디가 너무 아름다워서 자꾸 따라 부르게 된다.",
+      "example_en": "The melody of this song is so beautiful that I keep humming it.",
+      "notes": "Common: 멜로디 라인, 아름다운 멜로디. Related: 선율, 튠. Etymology: 그리스어 melodia."
+    },
+    {
+      "korean": "리듬",
+      "english": "rhythm",
+      "example": "리듬감이 좋은 사람이 춤을 잘 춘다.",
+      "example_en": "People with a good sense of rhythm dance well.",
+      "notes": "Common: 박자, 펄스. Related: 비트, 템포. Etymology: 그리스어 rhythmos."
+    },
+    {
+      "korean": "화음",
+      "english": "harmony",
+      "example": "이 곡의 화음이 정말 풍부하고 복잡하다.",
+      "example_en": "The harmony in this piece is really rich and complex.",
+      "notes": "Common: 화성, 조화. Related: 코드, 진행. Etymology: 和音(화음=harmony)."
+    },
+    {
+      "korean": "가사",
+      "english": "lyrics",
+      "example": "가사가 너무 감동적이어서 눈물이 났다.",
+      "example_en": "The lyrics were so touching that I cried.",
+      "notes": "Common: 가사 작가, 가사 뜻. Related: 노래말, 문사. Etymology: 歌詞(가사=song lyrics)."
+    },
+    {
+      "korean": "악보",
+      "english": "score; sheet music",
+      "example": "악보를 읽을 수 없으면 클래식 음악을 배우기 어렵다.",
+      "example_en": "It's difficult to learn classical music if you can't read sheet music.",
+      "notes": "Common: 악보 읽기, 악보 출판. Related: 譜面(보면), 오선지. Etymology: 樂譜(악보=musical score)."
+    },
+    {
+      "korean": "템포",
+      "english": "tempo",
+      "example": "지휘자가 템포를 조금 더 빠르게 할 것을 지시했다.",
+      "example_en": "The conductor instructed to play at a slightly faster tempo.",
+      "notes": "Common: 빠른 템포, 템포 변화. Related: 박자, 속도. Etymology: 이탈리아어 tempo."
+    },
+    {
+      "korean": "음정",
+      "english": "pitch",
+      "example": "성악가는 정확한 음정을 유지하는 것이 중요하다.",
+      "example_en": "It's important for a vocalist to maintain accurate pitch.",
+      "notes": "Common: 음정 높이기/낮추기. Related: 높낮이, 주파수. Etymology: 音(음) + 정(pitch)."
+    },
+    {
+      "korean": "곡",
+      "english": "song; composition; piece",
+      "example": "요즘 가장 인기 있는 곡이 무엇인가요?",
+      "example_en": "What's the most popular song these days?",
+      "notes": "Common: 곡 제목, 원곡. Related: 노래, 곡조. Etymology: 曲(곡=composition)."
+    },
+    {
+      "korean": "악기",
+      "english": "musical instrument",
+      "example": "그는 여러 악기를 능숙하게 다룬다.",
+      "example_en": "He skillfully handles several musical instruments.",
+      "notes": "Common: 악기 연주, 악기 종류. Related: 악기군, 현악기. Etymology: 樂器(악기=musical instrument)."
+    },
+    {
+      "korean": "현악기",
+      "english": "string instrument",
+      "example": "현악기는 활을 사용하여 소리를 낸다.",
+      "example_en": "String instruments produce sound by using a bow.",
+      "notes": "Common: 현악기 사중주. Related: 현, 활. Etymology: 絃(현=string) + 樂器(악기)."
+    },
+    {
+      "korean": "음악가",
+      "english": "musician",
+      "example": "유명한 음악가들이 이 축제에 참여한다.",
+      "example_en": "Famous musicians are participating in this festival.",
+      "notes": "Common: 저명한 음악가. Related: 아티스트, 연주자. Etymology: 音樂(음악) + 家(가=person)."
+    },
+    {
+      "korean": "성악가",
+      "english": "vocalist; singer",
+      "example": "그 성악가의 목소리는 정말 아름답다.",
+      "example_en": "That vocalist's voice is truly beautiful.",
+      "notes": "Common: 전문 성악가, 오페라 성악가. Related: 성악, 가수. Etymology: 聲樂(성악) + 家(가)."
+    },
+    {
+      "korean": "지휘자",
+      "english": "conductor",
+      "example": "지휘자의 동작이 오케스트라의 소리를 결정한다.",
+      "example_en": "The conductor's movements determine the sound of the orchestra.",
+      "notes": "Common: 악장, 지휘 봉. Related: 리더십, 해석. Etymology: 指揮(지휘=conduct) + 者(자=person)."
+    },
+    {
+      "korean": "작곡가",
+      "english": "composer",
+      "example": "그 유명한 작곡가는 여생을 음악에만 바쳤다.",
+      "example_en": "That famous composer dedicated the rest of his life to music.",
+      "notes": "Common: 현대 작곡가. Related: 음악 창작. Etymology: 作曲(작곡=composition) + 家(가)."
+    },
+    {
+      "korean": "반주자",
+      "english": "accompanist",
+      "example": "반주자는 솔리스트를 잘 받쳐줘야 한다.",
+      "example_en": "An accompanist must support the soloist well.",
+      "notes": "Common: 피아노 반주자. Related: 반주, 백그라운드. Etymology: 伴奏(반주=accompaniment) + 者(자)."
+    },
+    {
+      "korean": "악사",
+      "english": "musician; instrumentalist",
+      "example": "악사들은 무대에 나오기 전에 충분히 워밍업한다.",
+      "example_en": "Musicians warm up sufficiently before taking the stage.",
+      "notes": "Common: 현악 악사. Related: 연주자, 음악가. Etymology: 樂(악=music) + 師(사=master)."
+    },
+    {
+      "korean": "연주자",
+      "english": "performer; player",
+      "example": "경험 많은 연주자일수록 감정 표현이 풍부하다.",
+      "example_en": "The more experienced the performer, the richer the emotional expression.",
+      "notes": "Common: 전문 연주자, 성악 연주자. Related: 퍼포머. Etymology: 演奏(연주=performance) + 者(자)."
+    },
+    {
+      "korean": "보컬",
+      "english": "vocalist; vocal",
+      "example": "이 노래는 보컬의 능력을 잘 보여주는 곡이다.",
+      "example_en": "This song well demonstrates the vocalist's ability.",
+      "notes": "Common: 메인 보컬, 보컬 능력. Related: 성악, 성우. Etymology: 영어 vocal."
+    },
+    {
+      "korean": "클래식",
+      "english": "classical (music)",
+      "example": "저는 클래식 음악을 감상하는 것을 좋아한다.",
+      "example_en": "I like listening to classical music.",
+      "notes": "Common: 클래식 음악, 클래식 곡. Related: 고전음악. Etymology: 라틴어 classicus."
+    },
+    {
+      "korean": "재즈",
+      "english": "jazz",
+      "example": "재즈는 즉흥 연주가 특징이다.",
+      "example_en": "Improvisation is a characteristic feature of jazz.",
+      "notes": "Common: 재즈 공연, 재즈 신. Related: 블루스, 임프로비제이션. Etymology: 영어 jazz."
+    }
+  ]
+}
