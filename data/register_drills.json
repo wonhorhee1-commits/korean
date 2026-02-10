@@ -691,5 +691,275 @@
     "explanation": "-하시니까 → -하시니 (causal connector), 연락드려 → 연락드리십시오 (casual to formal imperative with humble verb)",
     "difficulty": "advanced",
     "focus": "complex sentence with multiple honorifics"
+  },
+  {
+    "given": "나 어제 부장님 집까지 데려다 드렸어.",
+    "given_register": "반말",
+    "target_register": "해요체",
+    "correct": "저 어제 부장님 댁까지 모셔다 드렸어요.",
+    "explanation": "나 → 저 (humble pronoun), 집 → 댁 (honorific word for 'home'), 데려다 드리다 → 모셔다 드리다 (honorific for escorting a respected person), -드렸어 → -드렸어요",
+    "difficulty": "advanced",
+    "focus": "honorific vocabulary 댁 + 모시다"
+  },
+  {
+    "given": "우리 할아버지 지난달에 돌아가셨어.",
+    "given_register": "반말",
+    "target_register": "해요체",
+    "correct": "저희 할아버지께서 지난달에 돌아가셨어요.",
+    "explanation": "우리 → 저희 (humble 'our'), 할아버지 → 할아버지께서 (adding honorific subject particle), -가셨어 → -가셨어요 (polite ending added)",
+    "difficulty": "advanced",
+    "focus": "humble possessive 저희 + honorific particle 께서"
+  },
+  {
+    "given": "나 내일 교수님 만나러 가.",
+    "given_register": "반말",
+    "target_register": "해요체",
+    "correct": "저 내일 교수님을 뵈러 가요.",
+    "explanation": "나 → 저 (humble pronoun), 만나다 → 뵙다 (humble verb for 'meeting' a respected person), -가 → -가요 (polite ending)",
+    "difficulty": "advanced",
+    "focus": "humble verb 뵙다"
+  },
+  {
+    "given": "아버지가 요즘 허리가 아파서 못 걸어.",
+    "given_register": "반말",
+    "target_register": "해요체",
+    "correct": "아버지께서 요즘 허리가 아프셔서 못 걸으세요.",
+    "explanation": "아버지가 → 아버지께서 (honorific particle), 아파서 → 아프셔서 (honorific -시- inserted), 못 걸어 → 못 걸으세요 (honorific + polite ending)",
+    "difficulty": "advanced",
+    "focus": "multiple honorific insertions across clause"
+  },
+  {
+    "given": "네가 직접 사장님한테 가서 얘기해.",
+    "given_register": "반말",
+    "target_register": "해요체",
+    "correct": "직접 사장님께 가서 말씀드리세요.",
+    "explanation": "네가 dropped (polite speech avoids direct 너/네), 한테 → 께 (honorific particle), 얘기하다 → 말씀드리다 (humble speech verb), -해 → -드리세요 (polite request)",
+    "difficulty": "advanced",
+    "focus": "humble verb 말씀드리다 + pronoun omission"
+  },
+  {
+    "given": "나 아직 그분 이름 몰라.",
+    "given_register": "반말",
+    "target_register": "격식체",
+    "correct": "저는 아직 그분의 성함을 모릅니다.",
+    "explanation": "나 → 저 (humble pronoun), 이름 → 성함 (honorific word for 'name'), 몰라 → 모릅니다 (formal statement ending)",
+    "difficulty": "advanced",
+    "focus": "honorific noun 성함"
+  },
+  {
+    "given": "엄마가 너한테 고맙대.",
+    "given_register": "반말",
+    "target_register": "격식체",
+    "correct": "어머니께서 감사하다고 전하셨습니다.",
+    "explanation": "엄마 → 어머니 (formal word for 'mother'), 가 → 께서 (honorific particle), 고맙다 → 감사하다 (formal gratitude), -대 → -다고 전하셨습니다 (formal indirect speech with honorific)",
+    "difficulty": "advanced",
+    "focus": "vocabulary formalization + indirect speech"
+  },
+  {
+    "given": "그 사람 지금 밖에서 기다리고 있어.",
+    "given_register": "반말",
+    "target_register": "격식체",
+    "correct": "그분께서 현재 밖에서 대기하고 계십니다.",
+    "explanation": "그 사람 → 그분 (honorific 'that person'), 께서 added (honorific particle), 지금 → 현재 (formal vocabulary), 기다리다 → 대기하다 (formal vocabulary), 있다 → 계시다 (honorific), -있어 → -계십니다",
+    "difficulty": "advanced",
+    "focus": "multiple formal vocabulary substitutions + honorific 계시다"
+  },
+  {
+    "given": "우리 팀이 이번에 1등 했어.",
+    "given_register": "반말",
+    "target_register": "격식체",
+    "correct": "저희 팀이 이번에 1등을 차지하였습니다.",
+    "explanation": "우리 → 저희 (humble 'our'), 했어 → 차지하였습니다 (formal vocabulary 차지하다 + uncontracted formal past -하였습니다)",
+    "difficulty": "advanced",
+    "focus": "humble possessive + formal vocabulary + uncontracted past"
+  },
+  {
+    "given": "내가 다음 주에 발표할 거야.",
+    "given_register": "반말",
+    "target_register": "격식체",
+    "correct": "제가 다음 주에 발표하겠습니다.",
+    "explanation": "내가 → 제가 (humble pronoun), -할 거야 → -하겠습니다 (casual future to formal intention/future ending -겠-)",
+    "difficulty": "intermediate",
+    "focus": "formal future -겠습니다"
+  },
+  {
+    "given": "어머니께서 편찮으셔서 병원에 모시고 갔어요.",
+    "given_register": "해요체",
+    "target_register": "반말",
+    "correct": "엄마가 아파서 병원에 데리고 갔어.",
+    "explanation": "어머니 → 엄마 (casual word for mother), 께서 → 가 (plain particle), 편찮으시다 → 아프다 (plain for 'be sick'), 모시다 → 데리다 (plain for 'take someone'), -갔어요 → -갔어",
+    "difficulty": "advanced",
+    "focus": "honorific vocabulary removal (편찮다→아프다, 모시다→데리다)"
+  },
+  {
+    "given": "저희가 준비한 선물을 사장님께 드렸어요.",
+    "given_register": "해요체",
+    "target_register": "반말",
+    "correct": "우리가 준비한 선물 사장님한테 줬어.",
+    "explanation": "저희 → 우리 (plain 'we'), 을 dropped (casual speech drops particles), 께 → 한테 (casual particle), 드리다 → 주다 (humble to plain giving verb), -드렸어요 → -줬어",
+    "difficulty": "advanced",
+    "focus": "humble verb removal (드리다→주다) + particle casualization"
+  },
+  {
+    "given": "죄송하지만 다시 한번 설명해 주시겠어요?",
+    "given_register": "해요체",
+    "target_register": "반말",
+    "correct": "미안한데 다시 한번 설명해 줄래?",
+    "explanation": "죄송하다 → 미안하다 (casual apology), -지만 → -ㄴ데 (casual connector), -주시겠어요? → -줄래? (removing honorific -시-, casual request form)",
+    "difficulty": "advanced",
+    "focus": "apology formality + request form change"
+  },
+  {
+    "given": "할머니께서 진지 잡수셨어요?",
+    "given_register": "해요체",
+    "target_register": "반말",
+    "correct": "할머니 밥 먹었어?",
+    "explanation": "께서 dropped (casual omits honorific particle), 진지 → 밥 (plain word for meal/rice), 잡수시다 → 먹다 (highest honorific eating verb to plain), -셨어요? → -었어?",
+    "difficulty": "advanced",
+    "focus": "honorific eating vocabulary reversal (진지→밥, 잡수시다→먹다)"
+  },
+  {
+    "given": "선생님께서 저한테 내일까지 제출하라고 하셨어요.",
+    "given_register": "해요체",
+    "target_register": "반말",
+    "correct": "선생님이 나한테 내일까지 내래.",
+    "explanation": "께서 → 이 (plain particle), 저 → 나 (plain pronoun), 제출하라고 하셨어요 → 내래 (simplified casual indirect command using 내다 instead of 제출하다)",
+    "difficulty": "advanced",
+    "focus": "indirect speech casualization + vocabulary simplification"
+  },
+  {
+    "given": "저희 회사에서 신규 서비스를 출시했어요.",
+    "given_register": "해요체",
+    "target_register": "격식체",
+    "correct": "저희 회사에서 신규 서비스를 출시하였습니다.",
+    "explanation": "-했어요 → -하였습니다 (formal speech often uses uncontracted past tense -하였- for written/announcement style)",
+    "difficulty": "intermediate",
+    "focus": "uncontracted formal past -하였습니다"
+  },
+  {
+    "given": "이번 행사에 와 주신 분들께 감사드려요.",
+    "given_register": "해요체",
+    "target_register": "격식체",
+    "correct": "금번 행사에 참석해 주신 분들께 감사드립니다.",
+    "explanation": "이번 → 금번 (formal vocabulary for 'this time'), 오다 → 참석하다 (formal vocabulary for 'attend'), -드려요 → -드립니다 (formal ending)",
+    "difficulty": "advanced",
+    "focus": "formal vocabulary (금번, 참석하다)"
+  },
+  {
+    "given": "혹시 이 서류 좀 확인해 주실 수 있으세요?",
+    "given_register": "해요체",
+    "target_register": "격식체",
+    "correct": "이 서류를 확인해 주실 수 있으십니까?",
+    "explanation": "혹시 and 좀 dropped (hedging softeners are reduced in formal speech), 을 added (formal restores particles), -있으세요? → -있으십니까? (formal question ending)",
+    "difficulty": "advanced",
+    "focus": "hedging removal + formal question form"
+  },
+  {
+    "given": "다음 달부터 새로운 규정이 적용돼요.",
+    "given_register": "해요체",
+    "target_register": "격식체",
+    "correct": "다음 달부터 새로운 규정이 적용됩니다.",
+    "explanation": "-적용돼요 → -적용됩니다 (polite passive ending to formal passive ending for -되다)",
+    "difficulty": "intermediate",
+    "focus": "passive verb formal ending -됩니다"
+  },
+  {
+    "given": "아버님께서 연세가 많으셔서 계단을 잘 못 올라가세요.",
+    "given_register": "해요체",
+    "target_register": "격식체",
+    "correct": "아버님께서 연세가 많으시어 계단을 올라가시기 어려우십니다.",
+    "explanation": "-많으셔서 → -많으시어 (formal causal connector -시어), 잘 못 올라가세요 → 올라가시기 어려우십니다 (formal circumlocution replacing 못 with -기 어렵다 + honorific)",
+    "difficulty": "advanced",
+    "focus": "formal causal connector -시어 + formal negative expression"
+  },
+  {
+    "given": "금일 오후 3시까지 보고서를 제출하시기 바랍니다.",
+    "given_register": "격식체",
+    "target_register": "반말",
+    "correct": "오늘 오후 3시까지 보고서 내.",
+    "explanation": "금일 → 오늘 (casual vocabulary), 보고서를 → 보고서 (particle dropped), 제출하다 → 내다 (casual vocabulary for 'submit'), -하시기 바랍니다 → plain imperative",
+    "difficulty": "advanced",
+    "focus": "formal vocabulary simplification (금일→오늘, 제출하다→내다)"
+  },
+  {
+    "given": "말씀하신 사항에 대하여 검토 후 회신 드리겠습니다.",
+    "given_register": "격식체",
+    "target_register": "반말",
+    "correct": "네가 말한 거 검토하고 답장할게.",
+    "explanation": "말씀하신 → 네가 말한 (honorific removed, subject explicit), 사항에 대하여 → 거 (simplified), 회신 드리다 → 답장하다 (formal humble to plain), -드리겠습니다 → -할게 (casual promissive)",
+    "difficulty": "advanced",
+    "focus": "full formality reduction (말씀→말, 회신 드리다→답장하다)"
+  },
+  {
+    "given": "귀하의 의견을 존중하오나 수용하기 어렵습니다.",
+    "given_register": "격식체",
+    "target_register": "반말",
+    "correct": "네 의견은 존중하지만 받아들이기 어려워.",
+    "explanation": "귀하 → 너 (formal 'you' to casual), -하오나 → -하지만 (archaic formal connector 하오체 to casual connector), 수용하다 → 받아들이다 (formal to plain), -어렵습니다 → -어려워",
+    "difficulty": "advanced",
+    "focus": "archaic 하오체 connector + formal vocabulary reduction"
+  },
+  {
+    "given": "본 건에 대한 논의는 차회로 미루겠습니다.",
+    "given_register": "격식체",
+    "target_register": "반말",
+    "correct": "이 건 얘기는 다음에 하자.",
+    "explanation": "본 → 이 (formal demonstrative to casual), 논의 → 얘기 (formal to casual), 차회 → 다음 (formal to casual vocabulary for 'next time'), 미루겠습니다 → 하자 (restructured as casual proposal)",
+    "difficulty": "advanced",
+    "focus": "formal written vocabulary (본, 차회, 논의) casualization"
+  },
+  {
+    "given": "탑승객 여러분께서는 좌석에서 안전벨트를 착용하여 주시기 바랍니다.",
+    "given_register": "격식체",
+    "target_register": "반말",
+    "correct": "다들 자리에서 안전벨트 매.",
+    "explanation": "탑승객 여러분 → 다들 (casual collective address), 좌석 → 자리 (plain vocabulary for 'seat'), 착용하다 → 매다 (plain verb for 'fasten/put on'), -하여 주시기 바랍니다 → plain imperative",
+    "difficulty": "advanced",
+    "focus": "announcement register to casual (착용하다→매다, 좌석→자리)"
+  },
+  {
+    "given": "금번 인사이동에 대해 안내 말씀 드리겠습니다.",
+    "given_register": "격식체",
+    "target_register": "해요체",
+    "correct": "이번 인사이동에 대해 안내해 드릴게요.",
+    "explanation": "금번 → 이번 (less formal vocabulary), 안내 말씀 드리겠습니다 → 안내해 드릴게요 (formal future -겠습니다 to polite promissive -ㄹ게요, 말씀 simplified)",
+    "difficulty": "advanced",
+    "focus": "formal announcement vocabulary simplification"
+  },
+  {
+    "given": "귀하께서 신청하신 건은 승인되었습니다.",
+    "given_register": "격식체",
+    "target_register": "해요체",
+    "correct": "신청하신 건이 승인됐어요.",
+    "explanation": "귀하께서 dropped (polite speech doesn't need overly formal address), 승인되었습니다 → 승인됐어요 (contraction 되었→됐 + polite ending)",
+    "difficulty": "advanced",
+    "focus": "formal address removal + past tense contraction"
+  },
+  {
+    "given": "담당자에게 문의하시기 바랍니다.",
+    "given_register": "격식체",
+    "target_register": "해요체",
+    "correct": "담당자에게 문의하세요.",
+    "explanation": "-하시기 바랍니다 → -하세요 (formal request pattern to polite imperative)",
+    "difficulty": "intermediate",
+    "focus": "formal request -시기 바랍니다 to polite -세요"
+  },
+  {
+    "given": "시간이 촉박하오니 서둘러 주시기 바랍니다.",
+    "given_register": "격식체",
+    "target_register": "해요체",
+    "correct": "시간이 촉박하니까 서둘러 주세요.",
+    "explanation": "-하오니 → -하니까 (archaic formal causal connector to standard causal), -주시기 바랍니다 → -주세요 (formal request to polite request)",
+    "difficulty": "advanced",
+    "focus": "archaic connector -오니 + formal request pattern"
+  },
+  {
+    "given": "본 계약은 양 당사자의 합의하에 체결된 것임을 확인합니다.",
+    "given_register": "격식체",
+    "target_register": "해요체",
+    "correct": "이 계약은 양쪽이 합의해서 체결된 거예요.",
+    "explanation": "본 → 이 (formal demonstrative to standard), 양 당사자 → 양쪽 (simplified), 합의하에 → 합의해서 (formal nominal structure to verbal), 것임을 확인합니다 → 거예요 (formal assertion to polite statement)",
+    "difficulty": "advanced",
+    "focus": "formal written/legal style to spoken polite style"
   }
 ]
