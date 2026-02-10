@@ -425,5 +425,243 @@
     "correct": 0,
     "explanation": "는 marks contrast. As for me (in contrast to others perhaps), I don't know them well. 가 is simple subject, 를 marks object, and 도 means 'also'.",
     "category": "particles"
+  },
+  {
+    "passage": "집에 도착_____ 바로 샤워를 했어요. 너무 더웠거든요.",
+    "options": ["하자마자", "하기 전에", "하는 동안", "하는 사이에"],
+    "correct": 0,
+    "explanation": "-자마자 means 'as soon as' and indicates immediate succession. As soon as I arrived, I showered. -기 전에 means 'before', -는 동안 means 'while/during', and -는 사이에 means 'during/between'.",
+    "category": "time_expressions"
+  },
+  {
+    "passage": "영화를 보_____ 계속 전화가 와서 집중할 수가 없었어요. 정말 짜증났어요.",
+    "options": ["는 동안", "자마자", "기 전에", "고 나서"],
+    "correct": 0,
+    "explanation": "-는 동안 means 'while/during' and indicates duration. During the movie, calls kept coming. -자마자 means 'as soon as', -기 전에 means 'before', and -고 나서 means 'after'.",
+    "category": "time_expressions"
+  },
+  {
+    "passage": "밥을 먹_____ 양치질을 꼭 해야 해요. 치아 건강이 중요하니까요.",
+    "options": ["고 나서", "기 전에", "는 동안", "자마자"],
+    "correct": 0,
+    "explanation": "-고 나서 means 'after' completing an action. After eating, must brush teeth. -기 전에 means 'before', -는 동안 means 'while', and -자마자 means 'as soon as'.",
+    "category": "time_expressions"
+  },
+  {
+    "passage": "제가 설명을 하_____ 다른 직원이 들어와서 회의가 중단됐어요. 나중에 다시 시작했죠.",
+    "options": ["는 중에", "기 전에", "고 나서", "자마자"],
+    "correct": 0,
+    "explanation": "-는 중에 means 'in the middle of' or 'while' with emphasis on interruption. During the explanation, someone came in. -기 전에 means 'before', -고 나서 means 'after', and -자마자 means 'as soon as'.",
+    "category": "time_expressions"
+  },
+  {
+    "passage": "비가 오_____ 우산을 챙겨 가세요. 나중에 후회하지 마시고요.",
+    "options": ["기 전에", "고 나서", "는 동안", "자마자"],
+    "correct": 0,
+    "explanation": "-기 전에 means 'before' an action occurs. Before it rains, take an umbrella. -고 나서 means 'after', -는 동안 means 'while', and -자마자 means 'as soon as'.",
+    "category": "time_expressions"
+  },
+  {
+    "passage": "제가 점심을 먹_____ 동료가 중요한 서류를 가져왔더라고요. 놓칠 뻔했어요.",
+    "options": ["는 사이에", "기 전에", "고 나서", "자마자"],
+    "correct": 0,
+    "explanation": "-는 사이에 means 'during/while' with nuance that something happened in that time gap. During lunch (in that gap), colleague brought documents. -기 전에 means 'before', -고 나서 means 'after', and -자마자 means 'as soon as'.",
+    "category": "time_expressions"
+  },
+  {
+    "passage": "이번 정책은 경제 성장_____ 환경 보호까지 고려한 것이에요. 정말 획기적이죠.",
+    "options": ["은 물론", "만큼", "정도로", "다 못해"],
+    "correct": 0,
+    "explanation": "-은 물론 means 'not only... but also' or 'of course... as well'. Not only economic growth but also environmental protection. 만큼 means 'as much as', 정도로 means 'to the extent', and 다 못해 means 'can't do it all'.",
+    "category": "degree_extent"
+  },
+  {
+    "passage": "그 사람은 노력한 _____ 좋은 결과를 얻었어요. 정말 대단해요.",
+    "options": ["만큼", "정도로", "은 물론", "다 못해"],
+    "correct": 0,
+    "explanation": "만큼 means 'as much as' or 'to the degree that'. Got results proportional to effort. 정도로 means 'to the extent', 은 물론 means 'of course', and 다 못해 means 'unable to do fully'.",
+    "category": "degree_extent"
+  },
+  {
+    "passage": "그녀는 아름다울 뿐_____ 지혜롭기까지 해요. 정말 완벽한 사람이에요.",
+    "options": ["만 아니라", "아니라", "더러", "거니와"],
+    "correct": 1,
+    "explanation": "-ㄹ 뿐 아니라 means 'not only... but also'. Not only beautiful but also wise. The other options don't form correct grammar patterns with 뿐.",
+    "category": "degree_extent"
+  },
+  {
+    "passage": "이 문제는 복잡할 _____ 시간도 오래 걸려요. 신중하게 접근해야 해요.",
+    "options": ["정도로", "만큼", "뿐 아니라", "다 못해"],
+    "correct": 2,
+    "explanation": "-ㄹ 뿐 아니라 means 'not only... but also'. Not only complex but also time-consuming. 정도로 means 'to the extent', 만큼 means 'as much as', and 다 못해 means 'unable to do fully'.",
+    "category": "degree_extent"
+  },
+  {
+    "passage": "시험이 너무 어려워서 울_____ 포기하고 싶었어요. 정말 힘들었어요.",
+    "options": ["다 못해", "만큼", "정도로", "뿐 아니라"],
+    "correct": 0,
+    "explanation": "-다 못해 means 'unable to bear it any longer' and indicates an extreme degree leading to an action. So difficult that beyond crying, wanted to give up. 만큼 means 'as much as', 정도로 means 'to the extent', and 뿐 아니라 means 'not only'.",
+    "category": "degree_extent"
+  },
+  {
+    "passage": "그는 기쁜 _____ 소리를 질렀어요. 정말 감격한 모습이었어요.",
+    "options": ["나머지", "만큼", "정도로", "뿐 아니라"],
+    "correct": 0,
+    "explanation": "-ㄴ/은 나머지 means 'as a result of' or 'being so... that'. So happy that he screamed. 만큼 means 'as much as', 정도로 means 'to the extent', and 뿐 아니라 means 'not only'.",
+    "category": "degree_extent"
+  },
+  {
+    "passage": "더 나은 미래를 만들_____ 지금 열심히 공부하고 있어요. 꿈을 이루고 싶거든요.",
+    "options": ["고자", "느라고", "는 김에", "기 위해서"],
+    "correct": 0,
+    "explanation": "-고자 is a formal expression of purpose meaning 'in order to'. Studying hard in order to create a better future. 느라고 means 'because of doing', 는 김에 means 'while doing/since', and 기 위해서 is also purpose but less formal.",
+    "category": "purpose_reason"
+  },
+  {
+    "passage": "짐을 나르_____ 너무 힘들어서 쉬지도 못했어요. 허리가 아파요.",
+    "options": ["느라고", "고자", "는 김에", "기 위해서"],
+    "correct": 0,
+    "explanation": "-느라고 means 'because of doing' with nuance of hardship or negative consequence. Because of carrying luggage, couldn't even rest. 고자 means 'in order to', 는 김에 means 'while doing', and 기 위해서 means 'for the purpose of'.",
+    "category": "purpose_reason"
+  },
+  {
+    "passage": "마트에 가_____ 우유도 좀 사올까요? 어차피 가는 거니까요.",
+    "options": ["는 김에", "고자", "느라고", "기 위해서"],
+    "correct": 0,
+    "explanation": "-는 김에 means 'while doing/since you're at it'. Since going to the mart anyway, should I also buy milk? 고자 means 'in order to', 느라고 means 'because of doing', and 기 위해서 means 'for the purpose of'.",
+    "category": "purpose_reason"
+  },
+  {
+    "passage": "건강을 지키_____ 매일 운동을 해요. 꾸준히 하는 게 중요하죠.",
+    "options": ["기 위해서", "느라고", "는 김에", "고자"],
+    "correct": 0,
+    "explanation": "-기 위해서 expresses purpose meaning 'in order to/for the sake of'. Exercise daily to maintain health. 느라고 means 'because of doing', 는 김에 means 'while doing', and 고자 is more formal purpose.",
+    "category": "purpose_reason"
+  },
+  {
+    "passage": "그 사람이 진실을 말한다_____ 믿을 수가 없어요. 너무 이상하거든요.",
+    "options": ["고 해도", "거든", "다면", "았더라면"],
+    "correct": 0,
+    "explanation": "-ㄴ/는다고 해도 means 'even if they say/claim'. Even if he says it's true, can't believe it. 거든 is a conditional based on realization, 다면 is simple conditional, and 았더라면 is past counterfactual.",
+    "category": "conditional"
+  },
+  {
+    "passage": "네가 도와주_____ 정말 고마울 텐데. 혼자서는 힘들 것 같아.",
+    "options": ["ㄴ다면", "거든", "고 해도", "았더라면"],
+    "correct": 0,
+    "explanation": "-ㄴ/는다면 expresses a hypothetical condition 'if/suppose that'. If you were to help, would be grateful. 거든 is realization-based, 고 해도 means 'even if', and 았더라면 is past counterfactual.",
+    "category": "conditional"
+  },
+  {
+    "passage": "배가 고프_____ 이것 좀 먹어요. 제가 준비한 간식이에요.",
+    "options": ["거든", "다면", "고 해도", "았더라면"],
+    "correct": 0,
+    "explanation": "거든 is a conditional based on current or discovered situation. If you're hungry (as I suspect), eat this. 다면 is hypothetical, 고 해도 means 'even if', and 았더라면 is past counterfactual.",
+    "category": "conditional"
+  },
+  {
+    "passage": "그때 제가 더 열심히 공부했_____ 좋은 대학에 갔을 텐데. 후회돼요.",
+    "options": ["더라면", "거든", "다면", "고 해도"],
+    "correct": 0,
+    "explanation": "-았/었더라면 expresses past counterfactual 'if I had...'. If I had studied harder back then, would have gotten into a good university. 거든 is realization-based, 다면 is simple conditional, and 고 해도 means 'even if'.",
+    "category": "conditional"
+  },
+  {
+    "passage": "비가 많이 온_____ 우산을 꼭 가져가세요. 젖으면 안 되니까요.",
+    "options": ["다면", "거든", "고 해도", "았더라면"],
+    "correct": 0,
+    "explanation": "-ㄴ다면 expresses a conditional supposition 'if it were to...'. If it rains a lot, take an umbrella. 거든 is for discovered conditions, 고 해도 means 'even if', and 았더라면 is past counterfactual.",
+    "category": "conditional"
+  },
+  {
+    "passage": "젊은이들이 취업하_____ 실력_____ 인맥도 필요한 게 현실이에요. 안타까운 일이죠.",
+    "options": ["기는커녕 / 은", "는 한 / 이", "더라도 / 은", "는 바람에 / 이"],
+    "correct": 0,
+    "explanation": "-기는커녕 means 'far from/let alone' and 은 is topic marker. Far from just ability, connections are also needed. The other combinations don't create the intended contrast meaning.",
+    "category": "advanced_connectors"
+  },
+  {
+    "passage": "이 법안은 국회에서 통과_____ 바이나 아직 시행 시기는 미정이라고 합니다.",
+    "options": ["된 바이다", "된 법이다", "된 셈이다", "된 편이다"],
+    "correct": 0,
+    "explanation": "-ㄴ/은 바이다 is a formal ending meaning 'it is the case that'. It's the case that the bill passed. 된 법이다 would mean it's natural, 된 셈이다 means amounts to, and 된 편이다 indicates tendency.",
+    "category": "formal_endings"
+  },
+  {
+    "passage": "인생은 짧고 배울 것은 많_____ 우리는 끊임없이 노력해야 합니다.",
+    "options": ["거니와", "법이며", "셈이며", "편이며"],
+    "correct": 0,
+    "explanation": "-거니와 is a literary connector meaning 'and furthermore/moreover'. Life is short and furthermore, there's much to learn. The other options don't fit this additive formal structure.",
+    "category": "formal_endings"
+  },
+  {
+    "passage": "인간은 실수를 하_____ 그것으로부터 배우는 것이 중요합니다.",
+    "options": ["기 마련이다", "기 십상이다", "는 꼴이다", "는 법이다"],
+    "correct": 0,
+    "explanation": "-기 마련이다 means 'bound to/natural tendency'. Humans are bound to make mistakes. 기 십상이다 means 'likely to' (negative), 는 꼴이다 expresses distaste, and 는 법이다 states general principles.",
+    "category": "nuance_patterns"
+  },
+  {
+    "passage": "혼자 여행을 가면 외로움을 느끼_____ 조심해야 해요.",
+    "options": ["기 십상이니까", "기 마련이니까", "는 꼴이니까", "는 법이니까"],
+    "correct": 0,
+    "explanation": "-기 십상이다 means 'apt to/likely to' with negative connotation. Likely to feel lonely. 기 마련이다 means naturally bound to, 는 꼴이다 expresses distaste, and 는 법이다 is for principles.",
+    "category": "nuance_patterns"
+  },
+  {
+    "passage": "그 사람은 항상 남을 무시하_____ 정말 보기 싫어요.",
+    "options": ["는 꼴이라", "기 마련이라", "기 십상이라", "는 법이라"],
+    "correct": 0,
+    "explanation": "-는 꼴 expresses distaste or disdain for behavior. The sight of always ignoring others is unpleasant. 기 마련이다 means bound to, 기 십상이다 means likely to, and 는 법이다 is for principles.",
+    "category": "nuance_patterns"
+  },
+  {
+    "passage": "친구가 내일 시험이 있_____ 걱정하고 있어요. 위로해 줘야겠어요.",
+    "options": ["다고", "라고", "냐고", "자고"],
+    "correct": 0,
+    "explanation": "-다고 is used for reporting statements in declarative form. Says that there's an exam tomorrow. 라고 is for commands/propositions, 냐고 is for questions, and 자고 is for suggestions.",
+    "category": "reported_speech"
+  },
+  {
+    "passage": "선생님께서 숙제를 꼭 제출하_____ 하셨어요. 잊으면 안 돼요.",
+    "options": ["라고", "다고", "냐고", "자고"],
+    "correct": 0,
+    "explanation": "-라고 is used for reporting commands or propositions. The teacher said to submit homework. 다고 is for statements, 냐고 is for questions, and 자고 is for suggestions.",
+    "category": "reported_speech"
+  },
+  {
+    "passage": "동생이 주말에 뭐 할 거_____ 물어봤어요. 아직 계획이 없다고 했죠.",
+    "options": ["냐고", "다고", "라고", "자고"],
+    "correct": 0,
+    "explanation": "-냐고 is used for reporting questions. Asked what I'll do on the weekend. 다고 is for statements, 라고 is for commands, and 자고 is for suggestions.",
+    "category": "reported_speech"
+  },
+  {
+    "passage": "친구가 같이 영화 보러 가_____ 해서 승낙했어요. 오랜만에 만나네요.",
+    "options": ["자고", "다고", "라고", "냐고"],
+    "correct": 0,
+    "explanation": "-자고 is used for reporting suggestions or proposals. Suggested going to see a movie together. 다고 is for statements, 라고 is for commands, and 냐고 is for questions.",
+    "category": "reported_speech"
+  },
+  {
+    "passage": "부모님께서 공부 열심히 하_____ 당부하셨어요. 명심해야죠.",
+    "options": ["라고", "다고", "냐고", "자고"],
+    "correct": 0,
+    "explanation": "-라고 is used for reporting commands, requests, or strong advice. Parents urged to study hard. 다고 is for statements, 냐고 is for questions, and 자고 is for suggestions.",
+    "category": "reported_speech"
+  },
+  {
+    "passage": "그녀는 슬픈 _____ 눈물을 흘렸어요. 정말 가슴 아픈 장면이었어요.",
+    "options": ["나머지", "만큼", "정도로", "다 못해"],
+    "correct": 0,
+    "explanation": "-ㄴ/은 나머지 means 'as a result of being so...'. So sad that she shed tears. 만큼 means 'as much as', 정도로 means 'to the extent', and 다 못해 means 'unable to bear'.",
+    "category": "degree_extent"
+  },
+  {
+    "passage": "우리 팀은 연습한 _____ 좋은 성적을 거뒀어요. 노력의 결과죠.",
+    "options": ["만큼", "나머지", "정도로", "다 못해"],
+    "correct": 0,
+    "explanation": "만큼 means 'as much as' or proportional to. Got results proportional to practice. 나머지 means 'as a result of', 정도로 means 'to the extent', and 다 못해 means 'unable to bear'.",
+    "category": "degree_extent"
   }
 ]
