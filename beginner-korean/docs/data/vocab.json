@@ -1,0 +1,4833 @@
+{
+  "인사 & 기본 표현 (Greetings)": [
+    {
+      "korean": "안녕하세요",
+      "english": "hello",
+      "example": "안녕하세요, 오늘 날씨가 좋아요.",
+      "example_en": "Hello, the weather is nice today.",
+      "notes": "The most common Korean greeting, used any time of day. Literally means 'are you at peace?'"
+    },
+    {
+      "korean": "안녕히 가세요",
+      "english": "goodbye (to person leaving)",
+      "example": "벌써 가요? 안녕히 가세요!",
+      "example_en": "You're leaving already? Goodbye!",
+      "notes": "Said to the person who is leaving. Literally means 'go in peace.'"
+    },
+    {
+      "korean": "안녕히 계세요",
+      "english": "goodbye (to person staying)",
+      "example": "저 먼저 갈게요. 안녕히 계세요!",
+      "example_en": "I'll go first. Goodbye!",
+      "notes": "Said to the person who is staying behind. Literally means 'stay in peace.'"
+    },
+    {
+      "korean": "감사합니다",
+      "english": "thank you (formal)",
+      "example": "도와주셔서 감사합니다.",
+      "example_en": "Thank you for helping me.",
+      "notes": "Formal thank you suitable for strangers, elders, and professional settings. More polite than 고마워요."
+    },
+    {
+      "korean": "고마워요",
+      "english": "thanks (casual)",
+      "example": "선물 고마워요! 정말 좋아요.",
+      "example_en": "Thanks for the gift! I really like it.",
+      "notes": "Casual but still polite thanks. Use with friends or people your age. For very casual speech: 고마워."
+    },
+    {
+      "korean": "죄송합니다",
+      "english": "sorry (formal)",
+      "example": "늦어서 죄송합니다.",
+      "example_en": "I'm sorry for being late.",
+      "notes": "Formal apology for serious situations or when speaking to elders/superiors."
+    },
+    {
+      "korean": "미안해요",
+      "english": "sorry (casual)",
+      "example": "아, 미안해요! 안 봤어요.",
+      "example_en": "Oh, sorry! I didn't see you.",
+      "notes": "Casual but polite apology. Good for minor everyday situations with peers."
+    },
+    {
+      "korean": "괜찮아요",
+      "english": "it's okay / I'm fine",
+      "example": "걱정하지 마세요, 괜찮아요.",
+      "example_en": "Don't worry, it's okay.",
+      "notes": "Very versatile word. Can mean 'it's okay,' 'I'm fine,' 'no thanks,' or 'don't worry about it.'"
+    },
+    {
+      "korean": "네",
+      "english": "yes",
+      "example": "네, 맞아요. 저도 그렇게 생각해요.",
+      "example_en": "Yes, that's right. I think so too.",
+      "notes": "Also used as a filler word to show you're listening, like 'uh-huh.' Pronounced more like 'ne' or 'de.'"
+    },
+    {
+      "korean": "아니요",
+      "english": "no",
+      "example": "아니요, 저는 학생이 아니에요.",
+      "example_en": "No, I'm not a student.",
+      "notes": "Polite form of 'no.' The casual form is 아니 or 아니야."
+    },
+    {
+      "korean": "잠깐만요",
+      "english": "just a moment",
+      "example": "잠깐만요, 지금 갈게요!",
+      "example_en": "Just a moment, I'll be right there!",
+      "notes": "Literally 'just a brief moment.' Very useful when you need someone to wait."
+    },
+    {
+      "korean": "실례합니다",
+      "english": "excuse me (formal)",
+      "example": "실례합니다, 화장실이 어디에 있어요?",
+      "example_en": "Excuse me, where is the restroom?",
+      "notes": "Very polite way to get someone's attention or to excuse yourself. More formal than 저기요."
+    },
+    {
+      "korean": "뭐라고요?",
+      "english": "what did you say? / pardon?",
+      "example": "뭐라고요? 잘 안 들렸어요.",
+      "example_en": "What did you say? I couldn't hear well.",
+      "notes": "Polite way to ask someone to repeat themselves. Can sound surprised if said with strong intonation."
+    },
+    {
+      "korean": "알겠어요",
+      "english": "I understand / got it",
+      "example": "네, 알겠어요. 그렇게 할게요.",
+      "example_en": "Yes, I understand. I'll do that.",
+      "notes": "Shows you understood something. 알겠습니다 is the formal version often used at work."
+    },
+    {
+      "korean": "모르겠어요",
+      "english": "I don't know",
+      "example": "이 단어 뜻을 모르겠어요.",
+      "example_en": "I don't know the meaning of this word.",
+      "notes": "Softer than 몰라요. The -겠- adds a nuance of 'I'm not sure' rather than flat 'I don't know.'"
+    },
+    {
+      "korean": "만나서 반갑습니다",
+      "english": "nice to meet you",
+      "example": "처음 뵙겠습니다. 만나서 반갑습니다.",
+      "example_en": "How do you do. Nice to meet you.",
+      "notes": "Standard greeting when meeting someone for the first time. Often paired with a slight bow."
+    },
+    {
+      "korean": "또 만나요",
+      "english": "see you again",
+      "example": "오늘 재밌었어요. 또 만나요!",
+      "example_en": "Today was fun. See you again!",
+      "notes": "Friendly and casual way to say goodbye, implying you'll meet again."
+    },
+    {
+      "korean": "잘 지내요?",
+      "english": "how are you? / are you doing well?",
+      "example": "오랜만이에요! 잘 지내요?",
+      "example_en": "It's been a while! How are you?",
+      "notes": "Used when you haven't seen someone in a while. Not used as a daily greeting like English 'how are you.'"
+    },
+    {
+      "korean": "좋은 아침이에요",
+      "english": "good morning",
+      "example": "좋은 아침이에요! 잘 잤어요?",
+      "example_en": "Good morning! Did you sleep well?",
+      "notes": "Less common than in English. Koreans often just say 안녕하세요 in the morning."
+    },
+    {
+      "korean": "안녕히 주무세요",
+      "english": "good night (honorific)",
+      "example": "늦었어요. 안녕히 주무세요.",
+      "example_en": "It's late. Good night.",
+      "notes": "Honorific form, used toward elders or parents. 주무시다 is the honorific of 자다 (to sleep)."
+    },
+    {
+      "korean": "수고하셨어요",
+      "english": "good work / thanks for your effort",
+      "example": "오늘도 수고하셨어요. 푹 쉬세요.",
+      "example_en": "Good work today. Get some good rest.",
+      "notes": "Very common in Korean workplaces and daily life. Said when someone finishes work or a task."
+    },
+    {
+      "korean": "천만에요",
+      "english": "you're welcome",
+      "example": "천만에요, 별거 아니에요.",
+      "example_en": "You're welcome, it's nothing.",
+      "notes": "Literally means 'ten million.' In practice, 아니에요 (no, it's nothing) is more commonly used."
+    },
+    {
+      "korean": "저기요",
+      "english": "excuse me / hey (to get attention)",
+      "example": "저기요, 이거 얼마예요?",
+      "example_en": "Excuse me, how much is this?",
+      "notes": "Used to call a waiter, shop clerk, or stranger. Literally means 'over there.' Very useful in restaurants."
+    },
+    {
+      "korean": "여보세요",
+      "english": "hello (on the phone)",
+      "example": "여보세요? 지금 통화할 수 있어요?",
+      "example_en": "Hello? Can you talk right now?",
+      "notes": "Only used when answering or starting a phone call. Never used as a face-to-face greeting."
+    },
+    {
+      "korean": "축하해요",
+      "english": "congratulations",
+      "example": "시험에 합격했어요? 축하해요!",
+      "example_en": "You passed the exam? Congratulations!",
+      "notes": "축하합니다 is the formal version. 축하하다 is the base verb meaning 'to congratulate.'"
+    },
+    {
+      "korean": "생일 축하해요",
+      "english": "happy birthday",
+      "example": "생일 축하해요! 선물 준비했어요.",
+      "example_en": "Happy birthday! I prepared a gift.",
+      "notes": "The Korean birthday song uses 생일 축하합니다 (formal). Koreans celebrate both solar and lunar birthdays."
+    },
+    {
+      "korean": "새해 복 많이 받으세요",
+      "english": "happy new year",
+      "example": "새해 복 많이 받으세요! 올해도 건강하세요.",
+      "example_en": "Happy New Year! Stay healthy this year too.",
+      "notes": "Literally 'receive a lot of new year blessings.' Used for both solar (Jan 1) and lunar new year (설날)."
+    },
+    {
+      "korean": "잘 먹겠습니다",
+      "english": "I will eat well (before eating)",
+      "example": "와, 맛있겠다! 잘 먹겠습니다.",
+      "example_en": "Wow, this looks delicious! Thank you for the food.",
+      "notes": "Said before eating to express gratitude to whoever prepared the meal. A key Korean table manner."
+    },
+    {
+      "korean": "잘 먹었습니다",
+      "english": "I ate well (after eating)",
+      "example": "잘 먹었습니다. 정말 맛있었어요.",
+      "example_en": "Thank you for the meal. It was really delicious.",
+      "notes": "Said after finishing a meal to show appreciation. Pair with 잘 먹겠습니다 before eating."
+    },
+    {
+      "korean": "어서 오세요",
+      "english": "welcome / come in",
+      "example": "어서 오세요! 몇 분이세요?",
+      "example_en": "Welcome! How many people?",
+      "notes": "You'll hear this in every Korean shop and restaurant. Staff say it to greet customers entering."
+    }
+  ],
+  "자기소개 (Self-Introduction)": [
+    {
+      "korean": "이름",
+      "english": "name",
+      "example": "이름이 뭐예요?",
+      "example_en": "What is your name?",
+      "notes": "성함 is the honorific word for name, used when asking elders."
+    },
+    {
+      "korean": "저",
+      "english": "I / me (formal)",
+      "example": "저는 미국 사람이에요.",
+      "example_en": "I am American.",
+      "notes": "Humble/polite form of 'I.' Always use 저 with people you don't know well or who are older."
+    },
+    {
+      "korean": "나",
+      "english": "I / me (casual)",
+      "example": "나는 커피를 좋아해요.",
+      "example_en": "I like coffee.",
+      "notes": "Casual form of 'I.' Use only with close friends or people younger than you."
+    },
+    {
+      "korean": "나이",
+      "english": "age",
+      "example": "나이가 어떻게 되세요?",
+      "example_en": "How old are you? (polite)",
+      "notes": "Asking age is normal in Korea because it determines the level of politeness you use."
+    },
+    {
+      "korean": "살",
+      "english": "years old (counter)",
+      "example": "저는 스물다섯 살이에요.",
+      "example_en": "I am twenty-five years old.",
+      "notes": "Used with native Korean numbers. Korean age used to be 1-2 years older than international age, but Korea switched to international age in 2023."
+    },
+    {
+      "korean": "나라",
+      "english": "country",
+      "example": "어느 나라에서 왔어요?",
+      "example_en": "Which country are you from?",
+      "notes": "어느 나라 means 'which country.' 나라 can also mean 'nation' in a broader sense."
+    },
+    {
+      "korean": "한국",
+      "english": "Korea",
+      "example": "한국에 온 지 일 년 됐어요.",
+      "example_en": "It's been one year since I came to Korea.",
+      "notes": "Refers to South Korea. The full formal name is 대한민국. North Korea is 북한."
+    },
+    {
+      "korean": "미국",
+      "english": "America / United States",
+      "example": "저는 미국에서 왔어요.",
+      "example_en": "I came from America.",
+      "notes": "미국 사람 means 'American person.' Short for 미합중국 (美合衆國)."
+    },
+    {
+      "korean": "일본",
+      "english": "Japan",
+      "example": "일본 음식을 좋아해요.",
+      "example_en": "I like Japanese food.",
+      "notes": "일본 사람 or 일본인 means 'Japanese person.' 일본어 means 'Japanese language.'"
+    },
+    {
+      "korean": "중국",
+      "english": "China",
+      "example": "중국어를 조금 할 수 있어요.",
+      "example_en": "I can speak a little Chinese.",
+      "notes": "중국 사람 or 중국인 means 'Chinese person.' 중국어 means 'Chinese language.'"
+    },
+    {
+      "korean": "직업",
+      "english": "job / occupation",
+      "example": "직업이 뭐예요?",
+      "example_en": "What is your job?",
+      "notes": "A common self-introduction topic. 무슨 일 하세요? is a softer way to ask what someone does."
+    },
+    {
+      "korean": "학생",
+      "english": "student",
+      "example": "저는 대학교 학생이에요.",
+      "example_en": "I am a university student.",
+      "notes": "대학생 is short for 대학교 학생 (university student). 중학생 and 고등학생 are middle/high school students."
+    },
+    {
+      "korean": "회사원",
+      "english": "office worker / company employee",
+      "example": "저는 회사원이에요. IT 회사에서 일해요.",
+      "example_en": "I'm an office worker. I work at an IT company.",
+      "notes": "Very common job title in Korea. 회사 means 'company' and 원 means 'person/member.'"
+    },
+    {
+      "korean": "선생님",
+      "english": "teacher",
+      "example": "선생님은 어느 학교에서 가르치세요?",
+      "example_en": "Teacher, which school do you teach at?",
+      "notes": "Also used as a respectful title for doctors, lawyers, and other professionals. Similar to 'Mr./Ms.' in formal situations."
+    },
+    {
+      "korean": "주부",
+      "english": "homemaker / housewife",
+      "example": "어머니는 주부세요.",
+      "example_en": "My mother is a homemaker.",
+      "notes": "전업 주부 means 'full-time homemaker.' The term is gender-neutral but traditionally associated with women."
+    },
+    {
+      "korean": "의사",
+      "english": "doctor",
+      "example": "의사 선생님이 약을 처방해 주셨어요.",
+      "example_en": "The doctor prescribed medicine for me.",
+      "notes": "Doctors are addressed as 의사 선생님 or just 선생님. 병원 means 'hospital.'"
+    },
+    {
+      "korean": "간호사",
+      "english": "nurse",
+      "example": "간호사가 주사를 놓아 줬어요.",
+      "example_en": "The nurse gave me a shot.",
+      "notes": "간호 means 'nursing/care' and 사 means 'person.' A respected profession in Korea."
+    },
+    {
+      "korean": "요리사",
+      "english": "chef / cook",
+      "example": "이 식당 요리사가 정말 유명해요.",
+      "example_en": "The chef at this restaurant is really famous.",
+      "notes": "요리 means 'cooking' and 사 means 'person.' 셰프 (from English 'chef') is also commonly used."
+    },
+    {
+      "korean": "가수",
+      "english": "singer",
+      "example": "좋아하는 가수가 누구예요?",
+      "example_en": "Who is your favorite singer?",
+      "notes": "가 means 'song' and 수 means 'person/expert.' K-pop has made this a dream job for many young Koreans."
+    },
+    {
+      "korean": "배우",
+      "english": "actor / actress",
+      "example": "그 배우가 출연한 드라마를 봤어요.",
+      "example_en": "I watched the drama that actor appeared in.",
+      "notes": "Used for both male and female actors. Korean dramas (한국 드라마/K-드라마) are popular worldwide."
+    },
+    {
+      "korean": "어디",
+      "english": "where",
+      "example": "어디에 살아요?",
+      "example_en": "Where do you live?",
+      "notes": "One of the essential question words. 어디서 means 'from where' or 'at where' (어디 + 에서)."
+    },
+    {
+      "korean": "뭐/무엇",
+      "english": "what",
+      "example": "뭐 하고 있어요?",
+      "example_en": "What are you doing?",
+      "notes": "뭐 is the spoken/casual form of 무엇. In everyday speech, 뭐 is much more common."
+    },
+    {
+      "korean": "누구",
+      "english": "who",
+      "example": "저 사람은 누구예요?",
+      "example_en": "Who is that person?",
+      "notes": "누구 changes to 누가 when used as a subject (who did something). Example: 누가 했어요? (Who did it?)"
+    },
+    {
+      "korean": "왜",
+      "english": "why",
+      "example": "왜 한국어를 배워요?",
+      "example_en": "Why are you learning Korean?",
+      "notes": "Can sound confrontational if said with strong tone. Soften with 왜요? (why?) to sound more polite."
+    },
+    {
+      "korean": "어떻게",
+      "english": "how",
+      "example": "이거 어떻게 해요?",
+      "example_en": "How do you do this?",
+      "notes": "어떻게 지내세요? means 'How are you doing?' A very versatile question word."
+    }
+  ],
+  "숫자 & 세기 (Numbers & Counting)": [
+    {
+      "korean": "일",
+      "english": "one (1) — Sino-Korean",
+      "example": "일 더하기 일은 이예요.",
+      "example_en": "One plus one is two.",
+      "notes": "Sino-Korean number. Used for dates, money, phone numbers, and math."
+    },
+    {
+      "korean": "이",
+      "english": "two (2) — Sino-Korean",
+      "example": "이월은 짧아요.",
+      "example_en": "February is short.",
+      "notes": "이월 = February (2nd month). Sino-Korean numbers are used for months."
+    },
+    {
+      "korean": "삼",
+      "english": "three (3) — Sino-Korean",
+      "example": "삼 분만 기다려 주세요.",
+      "example_en": "Please wait just three minutes.",
+      "notes": "분 (minutes) uses Sino-Korean numbers. 삼분 = three minutes."
+    },
+    {
+      "korean": "사",
+      "english": "four (4) — Sino-Korean",
+      "example": "사월에 벚꽃이 피어요.",
+      "example_en": "Cherry blossoms bloom in April.",
+      "notes": "사 can also mean 'death' (死) in Sino-Korean, so the number 4 is considered unlucky. Some buildings skip the 4th floor."
+    },
+    {
+      "korean": "오",
+      "english": "five (5) — Sino-Korean",
+      "example": "오천 원이에요.",
+      "example_en": "It's five thousand won.",
+      "notes": "Money always uses Sino-Korean numbers. 오천 원 = 5,000 won."
+    },
+    {
+      "korean": "육",
+      "english": "six (6) — Sino-Korean",
+      "example": "육월에 비가 많이 와요.",
+      "example_en": "It rains a lot in June.",
+      "notes": "When followed by certain sounds, 육 may be pronounced as '뉵' due to Korean pronunciation rules."
+    },
+    {
+      "korean": "칠",
+      "english": "seven (7) — Sino-Korean",
+      "example": "칠 곱하기 팔은 오십육이에요.",
+      "example_en": "Seven times eight is fifty-six.",
+      "notes": "Sino-Korean numbers are used for math. 곱하기 means 'times/multiply.'"
+    },
+    {
+      "korean": "팔",
+      "english": "eight (8) — Sino-Korean",
+      "example": "팔월 십오일은 광복절이에요.",
+      "example_en": "August 15th is Liberation Day.",
+      "notes": "팔 also means 'arm.' Context makes the meaning clear. 8 is considered a lucky number."
+    },
+    {
+      "korean": "구",
+      "english": "nine (9) — Sino-Korean",
+      "example": "구구단을 외워야 해요.",
+      "example_en": "You need to memorize the multiplication table.",
+      "notes": "구구단 literally means '9×9 table' — the multiplication table that Korean kids memorize."
+    },
+    {
+      "korean": "십",
+      "english": "ten (10) — Sino-Korean",
+      "example": "십 분 후에 만나요.",
+      "example_en": "Let's meet in ten minutes.",
+      "notes": "Sino-Korean numbers combine logically: 십일 = 11, 이십 = 20, 이십삼 = 23."
+    },
+    {
+      "korean": "백",
+      "english": "hundred (100) — Sino-Korean",
+      "example": "이 가방은 삼만 오천백 원이에요.",
+      "example_en": "This bag is 35,100 won.",
+      "notes": "일백 is technically correct for 100 but Koreans just say 백. 이백 = 200, 삼백 = 300."
+    },
+    {
+      "korean": "천",
+      "english": "thousand (1,000) — Sino-Korean",
+      "example": "버스 요금이 천삼백 원이에요.",
+      "example_en": "The bus fare is 1,300 won.",
+      "notes": "Like 백, you say 천 not 일천 for 1,000. 이천 = 2,000."
+    },
+    {
+      "korean": "만",
+      "english": "ten thousand (10,000) — Sino-Korean",
+      "example": "이 옷은 오만 원이에요.",
+      "example_en": "These clothes are 50,000 won.",
+      "notes": "Korean counting groups by 10,000 (만) not 1,000. This is the trickiest part of Korean numbers for English speakers."
+    },
+    {
+      "korean": "하나",
+      "english": "one — Native Korean",
+      "example": "하나만 주세요.",
+      "example_en": "Please give me just one.",
+      "notes": "Shortens to 한 before counters: 한 개, 한 명, 한 잔. Native Korean numbers are used with counters."
+    },
+    {
+      "korean": "둘",
+      "english": "two — Native Korean",
+      "example": "우리 둘이 같이 가요.",
+      "example_en": "Let's go together, just the two of us.",
+      "notes": "Shortens to 두 before counters: 두 개, 두 명. 둘이 means 'two people together.'"
+    },
+    {
+      "korean": "셋",
+      "english": "three — Native Korean",
+      "example": "셋 중에 하나를 고르세요.",
+      "example_en": "Choose one out of three.",
+      "notes": "Shortens to 세 before counters: 세 개, 세 명. 셋 is used when counting standalone."
+    },
+    {
+      "korean": "넷",
+      "english": "four — Native Korean",
+      "example": "의자가 넷 필요해요.",
+      "example_en": "We need four chairs.",
+      "notes": "Shortens to 네 before counters: 네 개, 네 명. Since 네 sounds like 'your' (네), people often say 니 instead."
+    },
+    {
+      "korean": "다섯",
+      "english": "five — Native Korean",
+      "example": "손가락이 다섯 개예요.",
+      "example_en": "There are five fingers.",
+      "notes": "Does not shorten before counters. 다섯 개, 다섯 명."
+    },
+    {
+      "korean": "여섯",
+      "english": "six — Native Korean",
+      "example": "여섯 시에 만나요.",
+      "example_en": "Let's meet at six o'clock.",
+      "notes": "Hours use native Korean numbers. 여섯 시 = 6 o'clock. Does not shorten."
+    },
+    {
+      "korean": "일곱",
+      "english": "seven — Native Korean",
+      "example": "일주일은 일곱 일이에요.",
+      "example_en": "One week is seven days.",
+      "notes": "Native Korean numbers are only commonly used up to 99. Beyond that, Sino-Korean numbers are standard."
+    },
+    {
+      "korean": "여덟",
+      "english": "eight — Native Korean",
+      "example": "여덟 시에 출근해요.",
+      "example_en": "I go to work at eight o'clock.",
+      "notes": "Pronounced as '여덜' in casual speech. The ㅂ is sometimes silent."
+    },
+    {
+      "korean": "아홉",
+      "english": "nine — Native Korean",
+      "example": "아홉 시까지 와야 해요.",
+      "example_en": "You have to come by nine o'clock.",
+      "notes": "까지 means 'by/until.' 아홉 시까지 = by 9 o'clock."
+    },
+    {
+      "korean": "열",
+      "english": "ten — Native Korean",
+      "example": "열 번 연습했어요.",
+      "example_en": "I practiced ten times.",
+      "notes": "Combines with units: 열하나 = 11, 열둘 = 12. 열 번 = ten times."
+    },
+    {
+      "korean": "스물",
+      "english": "twenty — Native Korean",
+      "example": "올해 스무 살이에요.",
+      "example_en": "I'm twenty years old this year.",
+      "notes": "Shortens to 스무 before counters: 스무 살, 스무 개. This is an irregular form."
+    },
+    {
+      "korean": "서른",
+      "english": "thirty — Native Korean",
+      "example": "서른 살이 되면 뭘 하고 싶어요?",
+      "example_en": "What do you want to do when you turn thirty?",
+      "notes": "Used mainly for age. For most other things above 20, Sino-Korean numbers are preferred."
+    },
+    {
+      "korean": "마흔",
+      "english": "forty — Native Korean",
+      "example": "아버지는 마흔다섯 살이에요.",
+      "example_en": "My father is forty-five years old.",
+      "notes": "Mostly used for counting age. In everyday life, Sino-Korean 사십 is more common for other contexts."
+    },
+    {
+      "korean": "쉰",
+      "english": "fifty — Native Korean",
+      "example": "할머니는 쉰 살부터 운동을 시작하셨어요.",
+      "example_en": "My grandmother started exercising from age fifty.",
+      "notes": "Beyond 50, native Korean numbers become rare in daily use except for age."
+    },
+    {
+      "korean": "개",
+      "english": "general counter (things)",
+      "example": "사과 세 개 주세요.",
+      "example_en": "Please give me three apples.",
+      "notes": "The most common and versatile counter. When in doubt about which counter to use, 개 usually works."
+    },
+    {
+      "korean": "명",
+      "english": "counter for people",
+      "example": "네 명이서 같이 먹어요.",
+      "example_en": "The four of us eat together.",
+      "notes": "Polite people counter. 분 is the honorific version: 두 분 (two people, respectful)."
+    },
+    {
+      "korean": "잔",
+      "english": "counter for cups/glasses",
+      "example": "커피 한 잔 마실래요?",
+      "example_en": "Do you want to drink a cup of coffee?",
+      "notes": "한잔하다 colloquially means 'to have a drink (alcohol).' 커피 한 잔 = one cup of coffee."
+    },
+    {
+      "korean": "마리",
+      "english": "counter for animals",
+      "example": "고양이 두 마리를 키워요.",
+      "example_en": "I raise two cats.",
+      "notes": "Used for all animals regardless of size — from fish to elephants."
+    },
+    {
+      "korean": "장",
+      "english": "counter for flat things (paper, tickets)",
+      "example": "종이 한 장 빌려주세요.",
+      "example_en": "Please lend me a sheet of paper.",
+      "notes": "Used for paper, photos, tickets, and other flat objects. 사진 한 장 = one photo."
+    },
+    {
+      "korean": "권",
+      "english": "counter for books",
+      "example": "이번 달에 책 세 권을 읽었어요.",
+      "example_en": "I read three books this month.",
+      "notes": "Specifically for bound volumes — books, notebooks, magazines."
+    },
+    {
+      "korean": "병",
+      "english": "counter for bottles",
+      "example": "물 한 병 사 왔어요.",
+      "example_en": "I bought a bottle of water.",
+      "notes": "병 also means 'illness/disease' as a separate word. Context makes it clear."
+    },
+    {
+      "korean": "대",
+      "english": "counter for vehicles/machines",
+      "example": "차가 두 대 있어요.",
+      "example_en": "There are two cars.",
+      "notes": "Used for cars, computers, phones, TVs, and other machines/devices."
+    },
+    {
+      "korean": "벌",
+      "english": "counter for sets of clothing",
+      "example": "옷 한 벌 새로 샀어요.",
+      "example_en": "I bought a new set of clothes.",
+      "notes": "Counts outfits or sets. 한 벌 = one outfit/suit. Not used for individual items like socks."
+    },
+    {
+      "korean": "살",
+      "english": "counter for age (years old)",
+      "example": "몇 살이에요?",
+      "example_en": "How old are you?",
+      "notes": "Used with native Korean numbers: 한 살 (1 year old), 두 살 (2 years old). 몇 살 = how many years old."
+    },
+    {
+      "korean": "번",
+      "english": "counter for times/occurrences",
+      "example": "한 번 더 해 보세요.",
+      "example_en": "Try one more time.",
+      "notes": "한 번 = once, 두 번 = twice. Also used for bus/train route numbers: 버스 삼번 = bus number 3."
+    },
+    {
+      "korean": "층",
+      "english": "counter for floors/stories",
+      "example": "삼 층에서 내리세요.",
+      "example_en": "Get off at the third floor.",
+      "notes": "Uses Sino-Korean numbers: 일 층 (1st floor), 이 층 (2nd floor). 지하 일 층 = basement level 1."
+    },
+    {
+      "korean": "원",
+      "english": "Korean won (currency unit)",
+      "example": "만 원짜리 지폐를 가지고 있어요.",
+      "example_en": "I have a ten-thousand won bill.",
+      "notes": "Always uses Sino-Korean numbers. Common bills: 천 원, 오천 원, 만 원, 오만 원."
+    }
+  ],
+  "가족 (Family)": [
+    {
+      "korean": "가족",
+      "english": "family",
+      "example": "우리 가족은 네 명이에요.",
+      "example_en": "My family has four members.",
+      "notes": "가족사진 means 'family photo.' Koreans often say 우리 가족 (our family) instead of '내 가족' (my family)."
+    },
+    {
+      "korean": "부모님",
+      "english": "parents",
+      "example": "부모님은 부산에 사세요.",
+      "example_en": "My parents live in Busan.",
+      "notes": "님 is an honorific suffix. 부모 alone is less respectful and rarely used in speech."
+    },
+    {
+      "korean": "아빠",
+      "english": "dad",
+      "example": "아빠가 저녁을 만들어 주셨어요.",
+      "example_en": "Dad made dinner for us.",
+      "notes": "Casual/affectionate. 아버지 is the formal/respectful term for father. 아버님 is even more formal."
+    },
+    {
+      "korean": "엄마",
+      "english": "mom",
+      "example": "엄마, 오늘 뭐 해요?",
+      "example_en": "Mom, what are you doing today?",
+      "notes": "Casual/affectionate. 어머니 is the formal/respectful term for mother. 어머님 is even more formal."
+    },
+    {
+      "korean": "형",
+      "english": "older brother (used by males)",
+      "example": "형이 대학교에 다녀요.",
+      "example_en": "My older brother goes to university.",
+      "notes": "Only used by males to address an older brother. Also used for older male friends by males."
+    },
+    {
+      "korean": "누나",
+      "english": "older sister (used by males)",
+      "example": "누나가 요리를 잘해요.",
+      "example_en": "My older sister is good at cooking.",
+      "notes": "Only used by males to address an older sister. Also used for older female friends by males."
+    },
+    {
+      "korean": "오빠",
+      "english": "older brother (used by females)",
+      "example": "오빠, 같이 영화 보러 가요.",
+      "example_en": "Oppa, let's go watch a movie together.",
+      "notes": "Used by females for older brothers or older male friends. Also used as a term of endearment for boyfriends."
+    },
+    {
+      "korean": "언니",
+      "english": "older sister (used by females)",
+      "example": "언니가 새 옷을 사 줬어요.",
+      "example_en": "My older sister bought me new clothes.",
+      "notes": "Used by females for older sisters or older female friends. A key relationship term in Korean culture."
+    },
+    {
+      "korean": "남동생",
+      "english": "younger brother",
+      "example": "남동생은 고등학생이에요.",
+      "example_en": "My younger brother is a high school student.",
+      "notes": "남 means 'male' and 동생 means 'younger sibling.' Both males and females use this term."
+    },
+    {
+      "korean": "여동생",
+      "english": "younger sister",
+      "example": "여동생이 귀여워요.",
+      "example_en": "My younger sister is cute.",
+      "notes": "여 means 'female' and 동생 means 'younger sibling.' Both males and females use this term."
+    },
+    {
+      "korean": "할아버지",
+      "english": "grandfather",
+      "example": "할아버지가 이야기를 해 주셨어요.",
+      "example_en": "Grandfather told us a story.",
+      "notes": "Also used to address any elderly man politely, even strangers."
+    },
+    {
+      "korean": "할머니",
+      "english": "grandmother",
+      "example": "할머니 집에 자주 가요.",
+      "example_en": "I go to grandmother's house often.",
+      "notes": "Also used to address any elderly woman politely. 외할머니 is specifically maternal grandmother."
+    },
+    {
+      "korean": "아들",
+      "english": "son",
+      "example": "아들이 올해 초등학교에 들어가요.",
+      "example_en": "My son starts elementary school this year.",
+      "notes": "장남 means 'eldest son,' which holds special significance in traditional Korean families."
+    },
+    {
+      "korean": "딸",
+      "english": "daughter",
+      "example": "딸이 노래를 정말 잘해요.",
+      "example_en": "My daughter sings really well.",
+      "notes": "장녀 means 'eldest daughter.' Modern Korean families cherish sons and daughters equally."
+    },
+    {
+      "korean": "남편",
+      "english": "husband",
+      "example": "남편이 요리를 해 줘요.",
+      "example_en": "My husband cooks for me.",
+      "notes": "Formal word. In casual speech, 신랑 (groom) or the husband's name is sometimes used instead."
+    },
+    {
+      "korean": "아내",
+      "english": "wife",
+      "example": "아내와 같이 여행을 가요.",
+      "example_en": "I'm going on a trip with my wife.",
+      "notes": "Formal word. 부인 is another formal term. In casual speech, 와이프 (from English 'wife') is common."
+    },
+    {
+      "korean": "아이",
+      "english": "child",
+      "example": "아이가 공원에서 놀고 있어요.",
+      "example_en": "The child is playing in the park.",
+      "notes": "General word for child/kid. 아이들 means 'children' (plural). 어린이 is used in more official contexts."
+    },
+    {
+      "korean": "아기",
+      "english": "baby",
+      "example": "아기가 지금 자고 있어요.",
+      "example_en": "The baby is sleeping right now.",
+      "notes": "Used for infants and toddlers. 갓난아기 means 'newborn baby.'"
+    },
+    {
+      "korean": "조카",
+      "english": "niece / nephew",
+      "example": "조카 생일 선물을 샀어요.",
+      "example_en": "I bought a birthday present for my niece/nephew.",
+      "notes": "Covers both nieces and nephews. 조카딸 specifies niece; 조카아들 specifies nephew."
+    },
+    {
+      "korean": "삼촌",
+      "english": "uncle (father's side)",
+      "example": "삼촌이 서울에 살아요.",
+      "example_en": "My uncle lives in Seoul.",
+      "notes": "Specifically father's unmarried brother. 큰아버지 is father's older married brother. 작은아버지 is father's younger married brother."
+    },
+    {
+      "korean": "이모",
+      "english": "aunt (mother's side)",
+      "example": "이모가 맛있는 음식을 많이 해 주세요.",
+      "example_en": "My maternal aunt makes a lot of delicious food.",
+      "notes": "Specifically mother's sister. Also used casually for middle-aged women at restaurants, though some find it impolite."
+    },
+    {
+      "korean": "고모",
+      "english": "aunt (father's side)",
+      "example": "고모는 미국에 살아요.",
+      "example_en": "My paternal aunt lives in America.",
+      "notes": "Specifically father's sister. Korean has distinct terms for every family relationship based on which side."
+    },
+    {
+      "korean": "사촌",
+      "english": "cousin",
+      "example": "사촌이 다음 주에 결혼해요.",
+      "example_en": "My cousin is getting married next week.",
+      "notes": "Covers all cousins. 사 means 'four' — a cousin is four family steps away (parent → grandparent → uncle/aunt → cousin)."
+    },
+    {
+      "korean": "시어머니",
+      "english": "mother-in-law (husband's mother)",
+      "example": "시어머니가 김치를 담가 주셨어요.",
+      "example_en": "My mother-in-law made kimchi for us.",
+      "notes": "시 prefix = husband's family. 시아버지 = husband's father. The in-law system has very specific terms in Korean."
+    },
+    {
+      "korean": "장모님",
+      "english": "mother-in-law (wife's mother)",
+      "example": "장모님께서 오셨어요.",
+      "example_en": "My mother-in-law (wife's mom) came to visit.",
+      "notes": "장 prefix = wife's family. 장인어른 = wife's father. 님 is added for respect."
+    }
+  ],
+  "음식 & 음료 (Food & Drinks)": [
+    {
+      "korean": "밥",
+      "english": "rice / meal",
+      "example": "밥 먹었어요?",
+      "example_en": "Have you eaten? (Did you eat rice?)",
+      "notes": "밥 먹었어요? is the most common Korean greeting — it shows you care about the person's well-being."
+    },
+    {
+      "korean": "빵",
+      "english": "bread",
+      "example": "아침에 빵을 먹어요.",
+      "example_en": "I eat bread in the morning.",
+      "notes": "Comes from Portuguese 'pão.' Korean bakeries (빵집) are very popular and creative."
+    },
+    {
+      "korean": "국수",
+      "english": "noodles",
+      "example": "여름에는 차가운 국수가 맛있어요.",
+      "example_en": "Cold noodles are delicious in summer.",
+      "notes": "General term for noodles. 잔치국수 (banquet noodles) is a classic Korean noodle dish."
+    },
+    {
+      "korean": "고기",
+      "english": "meat",
+      "example": "고기를 구워서 먹어요.",
+      "example_en": "We grill the meat and eat it.",
+      "notes": "General term for meat. Korean BBQ (고기집) is a central part of Korean dining culture."
+    },
+    {
+      "korean": "소고기",
+      "english": "beef",
+      "example": "한우 소고기가 비싸요.",
+      "example_en": "Korean beef (hanwoo) is expensive.",
+      "notes": "소 means 'cow.' 한우 (Korean beef) is considered premium and is much more expensive than imported beef."
+    },
+    {
+      "korean": "돼지고기",
+      "english": "pork",
+      "example": "삼겹살은 돼지고기예요.",
+      "example_en": "Samgyeopsal is pork.",
+      "notes": "돼지 means 'pig.' Pork is the most consumed meat in Korea."
+    },
+    {
+      "korean": "닭고기",
+      "english": "chicken (meat)",
+      "example": "닭고기로 치킨을 만들어요.",
+      "example_en": "We make fried chicken with chicken meat.",
+      "notes": "닭 means 'chicken (animal).' Note the ㄺ consonant cluster — pronounced as '닥'."
+    },
+    {
+      "korean": "생선",
+      "english": "fish (for eating)",
+      "example": "생선을 좋아해요?",
+      "example_en": "Do you like fish?",
+      "notes": "생선 is fish as food. 물고기 is fish as a living animal. Different words for different contexts."
+    },
+    {
+      "korean": "채소",
+      "english": "vegetables",
+      "example": "채소를 많이 먹으면 건강에 좋아요.",
+      "example_en": "Eating lots of vegetables is good for health.",
+      "notes": "야채 is also used for vegetables but 채소 is considered more standard/proper."
+    },
+    {
+      "korean": "과일",
+      "english": "fruit",
+      "example": "식후에 과일을 먹어요.",
+      "example_en": "I eat fruit after meals.",
+      "notes": "Korea has excellent seasonal fruits. Fruit is a common gift when visiting someone's home."
+    },
+    {
+      "korean": "사과",
+      "english": "apple",
+      "example": "사과 한 개에 천 원이에요.",
+      "example_en": "One apple is 1,000 won.",
+      "notes": "사과 also means 'apology' — a completely different word with the same pronunciation."
+    },
+    {
+      "korean": "바나나",
+      "english": "banana",
+      "example": "아침에 바나나를 먹어요.",
+      "example_en": "I eat a banana in the morning.",
+      "notes": "A loanword from English. Korea imports most of its bananas from the Philippines."
+    },
+    {
+      "korean": "딸기",
+      "english": "strawberry",
+      "example": "딸기가 정말 달아요.",
+      "example_en": "The strawberries are really sweet.",
+      "notes": "Korean strawberries are famous for being large and sweet. 딸기 season is winter to spring."
+    },
+    {
+      "korean": "수박",
+      "english": "watermelon",
+      "example": "여름에 수박을 많이 먹어요.",
+      "example_en": "We eat a lot of watermelon in summer.",
+      "notes": "수 means 'water' and 박 means 'gourd.' A quintessential Korean summer fruit."
+    },
+    {
+      "korean": "포도",
+      "english": "grape",
+      "example": "포도가 맛있어 보여요.",
+      "example_en": "The grapes look delicious.",
+      "notes": "Korean grapes (캠벨 포도) are often darker and more fragrant than Western varieties."
+    },
+    {
+      "korean": "김치",
+      "english": "kimchi",
+      "example": "김치 없이는 밥을 못 먹어요.",
+      "example_en": "I can't eat a meal without kimchi.",
+      "notes": "Korea's most iconic food. Fermented vegetables (usually napa cabbage). There are over 200 varieties."
+    },
+    {
+      "korean": "된장찌개",
+      "english": "soybean paste stew",
+      "example": "된장찌개를 끓여 주세요.",
+      "example_en": "Please make soybean paste stew.",
+      "notes": "A staple Korean comfort food. 찌개 means 'stew.' Served bubbling hot in a stone pot."
+    },
+    {
+      "korean": "김밥",
+      "english": "kimbap (Korean rice roll)",
+      "example": "소풍 갈 때 김밥을 싸 가요.",
+      "example_en": "We pack kimbap when we go on picnics.",
+      "notes": "김 (seaweed) + 밥 (rice). Looks like sushi rolls but the flavor is distinctly Korean."
+    },
+    {
+      "korean": "비빔밥",
+      "english": "bibimbap (mixed rice)",
+      "example": "비빔밥에 고추장을 넣어요.",
+      "example_en": "I put red pepper paste in bibimbap.",
+      "notes": "비비다 means 'to mix' and 밥 means 'rice.' Mix everything together before eating."
+    },
+    {
+      "korean": "불고기",
+      "english": "bulgogi (marinated beef)",
+      "example": "불고기가 달콤하고 맛있어요.",
+      "example_en": "Bulgogi is sweet and delicious.",
+      "notes": "불 (fire) + 고기 (meat). Thin-sliced beef marinated in a sweet soy sauce mixture."
+    },
+    {
+      "korean": "떡볶이",
+      "english": "tteokbokki (spicy rice cakes)",
+      "example": "학교 앞에서 떡볶이를 사 먹었어요.",
+      "example_en": "I bought tteokbokki in front of the school and ate it.",
+      "notes": "Korea's most popular street food. 떡 (rice cake) + 볶이 (stir-fried). Spicy, chewy, and addictive."
+    },
+    {
+      "korean": "삼겹살",
+      "english": "samgyeopsal (pork belly)",
+      "example": "오늘 저녁에 삼겹살 먹으러 가요.",
+      "example_en": "Let's go eat samgyeopsal for dinner tonight.",
+      "notes": "삼 (three) + 겹 (layers) + 살 (meat). Grilled at the table and wrapped in lettuce with garlic and ssamjang."
+    },
+    {
+      "korean": "라면",
+      "english": "ramyeon (Korean instant noodles)",
+      "example": "비 오는 날에는 라면이 생각나요.",
+      "example_en": "Ramyeon comes to mind on rainy days.",
+      "notes": "Korean ramyeon is spicier than Japanese ramen. It's comfort food and a late-night staple."
+    },
+    {
+      "korean": "냉면",
+      "english": "cold noodles",
+      "example": "여름에 냉면을 자주 먹어요.",
+      "example_en": "I often eat cold noodles in summer.",
+      "notes": "냉 means 'cold.' 물냉면 (in broth) and 비빔냉면 (spicy mixed) are the two main types."
+    },
+    {
+      "korean": "갈비",
+      "english": "galbi (ribs)",
+      "example": "갈비를 양념에 재워서 구워요.",
+      "example_en": "We marinate the ribs in sauce and grill them.",
+      "notes": "Can be beef (소갈비) or pork (돼지갈비). 양념갈비 is marinated; 생갈비 is plain."
+    },
+    {
+      "korean": "치킨",
+      "english": "fried chicken",
+      "example": "치킨에 맥주가 잘 어울려요.",
+      "example_en": "Beer goes well with fried chicken.",
+      "notes": "Korean fried chicken is a cultural phenomenon. 치맥 = 치킨 + 맥주 (chicken and beer), a beloved combo."
+    },
+    {
+      "korean": "만두",
+      "english": "dumplings",
+      "example": "설날에 만두를 만들어요.",
+      "example_en": "We make dumplings on Lunar New Year.",
+      "notes": "Can be steamed (찐만두), fried (군만두), or in soup (만두국). A holiday tradition."
+    },
+    {
+      "korean": "떡",
+      "english": "rice cake",
+      "example": "명절에 떡을 먹어요.",
+      "example_en": "We eat rice cake on holidays.",
+      "notes": "Made from pounded rice. Hundreds of varieties. 떡국 (rice cake soup) is eaten on New Year's Day."
+    },
+    {
+      "korean": "달걀",
+      "english": "egg",
+      "example": "달걀 프라이를 해 먹어요.",
+      "example_en": "I fry an egg and eat it.",
+      "notes": "계란 is another common word for egg. Both are widely used. 달걀 is considered pure Korean."
+    },
+    {
+      "korean": "두부",
+      "english": "tofu",
+      "example": "순두부찌개를 좋아해요.",
+      "example_en": "I like soft tofu stew.",
+      "notes": "A staple in Korean cooking. 순두부 is soft/silken tofu. Used in stews, side dishes, and grilled."
+    },
+    {
+      "korean": "쌀",
+      "english": "rice (uncooked grain)",
+      "example": "쌀을 씻어서 밥을 해요.",
+      "example_en": "I wash the rice and cook it.",
+      "notes": "쌀 is raw rice grain; 밥 is cooked rice. Korean rice is short-grain and sticky."
+    },
+    {
+      "korean": "소금",
+      "english": "salt",
+      "example": "소금을 조금만 넣어 주세요.",
+      "example_en": "Please put in just a little salt.",
+      "notes": "Essential seasoning. 소금 is also used in Korean superstitions to ward off bad luck."
+    },
+    {
+      "korean": "설탕",
+      "english": "sugar",
+      "example": "커피에 설탕을 넣어요?",
+      "example_en": "Do you put sugar in your coffee?",
+      "notes": "설 means 'snow' reflecting sugar's white color. Korean cooking uses sugar in many savory dishes too."
+    },
+    {
+      "korean": "간장",
+      "english": "soy sauce",
+      "example": "간장에 찍어서 먹어요.",
+      "example_en": "I dip it in soy sauce and eat it.",
+      "notes": "A foundational Korean seasoning. 국간장 (soup soy sauce) is lighter; 진간장 is darker and richer."
+    },
+    {
+      "korean": "고추장",
+      "english": "red pepper paste",
+      "example": "비빔밥에 고추장을 넣어요.",
+      "example_en": "I put red pepper paste in bibimbap.",
+      "notes": "One of Korea's essential condiments (장). Sweet, spicy, and fermented. Used in many Korean dishes."
+    },
+    {
+      "korean": "된장",
+      "english": "soybean paste",
+      "example": "된장으로 찌개를 만들어요.",
+      "example_en": "I make stew with soybean paste.",
+      "notes": "Fermented soybean paste, one of Korea's 3 essential 장 (along with 고추장 and 간장). Rich umami flavor."
+    },
+    {
+      "korean": "참기름",
+      "english": "sesame oil",
+      "example": "나물에 참기름을 넣으면 맛있어요.",
+      "example_en": "Adding sesame oil to namul makes it delicious.",
+      "notes": "참 means 'true/real.' The nutty aroma of sesame oil is a signature of Korean cuisine."
+    },
+    {
+      "korean": "물",
+      "english": "water",
+      "example": "물 한 잔 주세요.",
+      "example_en": "Please give me a glass of water.",
+      "notes": "In Korean restaurants, water is almost always free and self-serve. 냉수 means cold water."
+    },
+    {
+      "korean": "우유",
+      "english": "milk",
+      "example": "아침에 우유를 마셔요.",
+      "example_en": "I drink milk in the morning.",
+      "notes": "우 means 'cow' and 유 means 'milk.' 바나나 우유 (banana milk) is a beloved Korean drink."
+    },
+    {
+      "korean": "주스",
+      "english": "juice",
+      "example": "오렌지 주스를 마실래요.",
+      "example_en": "I'd like to drink orange juice.",
+      "notes": "Loanword from English 'juice.' Korea has many unique juice flavors like 한라봉 (Hallabong citrus)."
+    },
+    {
+      "korean": "커피",
+      "english": "coffee",
+      "example": "한국 사람들은 커피를 정말 많이 마셔요.",
+      "example_en": "Korean people drink a lot of coffee.",
+      "notes": "Korea has one of the highest coffee consumption rates in the world. Cafes are everywhere."
+    },
+    {
+      "korean": "차",
+      "english": "tea",
+      "example": "녹차를 좋아해요.",
+      "example_en": "I like green tea.",
+      "notes": "Includes all types: 녹차 (green tea), 보리차 (barley tea), 유자차 (citron tea). 보리차 is served free at many restaurants."
+    },
+    {
+      "korean": "맥주",
+      "english": "beer",
+      "example": "맥주 한 잔 하고 싶어요.",
+      "example_en": "I want to have a glass of beer.",
+      "notes": "맥 means 'barley.' Korean beer brands include Cass, Hite, and many craft breweries."
+    },
+    {
+      "korean": "소주",
+      "english": "soju",
+      "example": "소주는 한국에서 제일 인기 있는 술이에요.",
+      "example_en": "Soju is the most popular alcohol in Korea.",
+      "notes": "Korea's national spirit. Clear, about 16-20% alcohol. Pour for others, never for yourself — it's etiquette."
+    },
+    {
+      "korean": "콜라",
+      "english": "cola",
+      "example": "치킨이랑 콜라가 잘 어울려요.",
+      "example_en": "Cola goes well with fried chicken.",
+      "notes": "Loanword from English. 사이다 in Korea refers to Sprite-like lemon-lime soda, not apple cider."
+    },
+    {
+      "korean": "아이스크림",
+      "english": "ice cream",
+      "example": "아이스크림 먹으러 가요.",
+      "example_en": "Let's go eat ice cream.",
+      "notes": "Loanword from English. Korea has unique flavors like 붕어빵 (fish-shaped pastry) and 인절미 (rice cake) ice cream."
+    },
+    {
+      "korean": "케이크",
+      "english": "cake",
+      "example": "생일에 케이크를 먹어요.",
+      "example_en": "We eat cake on birthdays.",
+      "notes": "Korean cakes tend to be lighter and less sweet than Western cakes, often with fresh cream and fruit."
+    },
+    {
+      "korean": "과자",
+      "english": "snack / cookie / cracker",
+      "example": "과자를 너무 많이 먹으면 안 돼요.",
+      "example_en": "You shouldn't eat too many snacks.",
+      "notes": "General term for packaged snacks and cookies. 새우깡 and 빼빼로 are iconic Korean snacks."
+    },
+    {
+      "korean": "감자",
+      "english": "potato",
+      "example": "감자를 삶아서 먹어요.",
+      "example_en": "I boil potatoes and eat them.",
+      "notes": "감자탕 (pork bone and potato stew) is a popular hearty Korean dish. 고구마 is sweet potato."
+    },
+    {
+      "korean": "당근",
+      "english": "carrot",
+      "example": "당근을 잘게 썰어 주세요.",
+      "example_en": "Please chop the carrot finely.",
+      "notes": "당근 is also slang for '당연하지' (of course!). Used as internet slang: 당근이지!"
+    },
+    {
+      "korean": "양파",
+      "english": "onion",
+      "example": "양파를 자르면 눈물이 나요.",
+      "example_en": "When you cut onions, tears come out.",
+      "notes": "양 means 'Western' — it literally means 'Western green onion.' 파 (green onion) is the Korean native variety."
+    },
+    {
+      "korean": "마늘",
+      "english": "garlic",
+      "example": "한국 음식에는 마늘이 많이 들어가요.",
+      "example_en": "Korean food uses a lot of garlic.",
+      "notes": "Korea is one of the world's top garlic consumers. Garlic is in almost every Korean dish."
+    },
+    {
+      "korean": "고추",
+      "english": "chili pepper",
+      "example": "고추가 너무 매워요!",
+      "example_en": "The chili pepper is too spicy!",
+      "notes": "고춧가루 (chili powder/flakes) is essential for making kimchi and many Korean dishes."
+    },
+    {
+      "korean": "상추",
+      "english": "lettuce",
+      "example": "삼겹살을 상추에 싸서 먹어요.",
+      "example_en": "We wrap samgyeopsal in lettuce and eat it.",
+      "notes": "쌈 (wrapping food in leaves) is a key Korean eating style. Lettuce is the most common wrap."
+    },
+    {
+      "korean": "오이",
+      "english": "cucumber",
+      "example": "오이를 얇게 썰어서 샐러드를 만들어요.",
+      "example_en": "I slice cucumbers thinly and make a salad.",
+      "notes": "오이소박이 (stuffed cucumber kimchi) is a popular summer kimchi variety."
+    },
+    {
+      "korean": "토마토",
+      "english": "tomato",
+      "example": "토마토에 설탕을 뿌려서 먹어요.",
+      "example_en": "I eat tomatoes sprinkled with sugar.",
+      "notes": "In Korea, tomatoes are often eaten as fruit with sugar rather than in savory dishes."
+    },
+    {
+      "korean": "배추",
+      "english": "napa cabbage",
+      "example": "배추로 김치를 담가요.",
+      "example_en": "We make kimchi with napa cabbage.",
+      "notes": "The main ingredient in the most common type of kimchi (배추김치). 김장 is the annual kimchi-making tradition."
+    },
+    {
+      "korean": "버섯",
+      "english": "mushroom",
+      "example": "버섯을 넣으면 국물이 맛있어요.",
+      "example_en": "Adding mushrooms makes the broth delicious.",
+      "notes": "Common varieties: 표고버섯 (shiitake), 팽이버섯 (enoki), 느타리버섯 (oyster mushroom)."
+    },
+    {
+      "korean": "젓가락",
+      "english": "chopsticks",
+      "example": "한국 젓가락은 금속이에요.",
+      "example_en": "Korean chopsticks are metal.",
+      "notes": "Korean chopsticks are uniquely flat and metal (stainless steel), unlike wooden or bamboo ones in other countries."
+    },
+    {
+      "korean": "숟가락",
+      "english": "spoon",
+      "example": "국은 숟가락으로 먹어요.",
+      "example_en": "You eat soup with a spoon.",
+      "notes": "In Korea, rice is eaten with a spoon (not chopsticks). 수저 means chopsticks + spoon set."
+    }
+  ],
+  "식당에서 (At a Restaurant)": [
+    {
+      "korean": "식당",
+      "english": "restaurant",
+      "example": "이 근처에 좋은 식당 있어요?",
+      "example_en": "Is there a good restaurant near here?",
+      "notes": "General term for any eating establishment. More casual than 레스토랑."
+    },
+    {
+      "korean": "메뉴",
+      "english": "menu",
+      "example": "메뉴 좀 볼게요.",
+      "example_en": "I'll take a look at the menu.",
+      "notes": "Loanword from English. Used interchangeably with 메뉴판 in casual speech."
+    },
+    {
+      "korean": "메뉴판",
+      "english": "menu board",
+      "example": "메뉴판 좀 주세요.",
+      "example_en": "Please give me the menu.",
+      "notes": "판 means 'board/plate.' This specifically refers to the physical menu you hold."
+    },
+    {
+      "korean": "주문",
+      "english": "order",
+      "example": "주문 받아 주세요.",
+      "example_en": "Please take our order.",
+      "notes": "Noun form. Used with 하다 to make the verb 주문하다 (to order)."
+    },
+    {
+      "korean": "주문할게요",
+      "english": "I'll order",
+      "example": "저 주문할게요. 비빔밥 하나요.",
+      "example_en": "I'll order. One bibimbap, please.",
+      "notes": "~ㄹ게요 expresses the speaker's intention or promise. Very common when ordering."
+    },
+    {
+      "korean": "여기요",
+      "english": "excuse me (to call waiter)",
+      "example": "여기요! 물 좀 더 주세요.",
+      "example_en": "Excuse me! Can we get more water, please?",
+      "notes": "Literally means 'here.' Standard way to call a server in Korea. Raise your hand while saying it."
+    },
+    {
+      "korean": "물 좀 주세요",
+      "english": "water please",
+      "example": "여기요, 물 좀 주세요.",
+      "example_en": "Excuse me, water please.",
+      "notes": "좀 softens the request and makes it more polite. Water is usually free at Korean restaurants."
+    },
+    {
+      "korean": "이거 주세요",
+      "english": "this please",
+      "example": "이거 주세요. 그리고 콜라도 하나 주세요.",
+      "example_en": "This, please. And one cola too, please.",
+      "notes": "Point at the menu while saying this. Very useful when you cannot read the menu."
+    },
+    {
+      "korean": "뭐가 맛있어요?",
+      "english": "what's good?",
+      "example": "여기 뭐가 맛있어요? 처음 와 봤어요.",
+      "example_en": "What's good here? It's my first time visiting.",
+      "notes": "Great way to start a conversation with the server and get a recommendation."
+    },
+    {
+      "korean": "추천",
+      "english": "recommendation",
+      "example": "추천 메뉴가 뭐예요?",
+      "example_en": "What's the recommended menu item?",
+      "notes": "Use 추천하다 as a verb (to recommend). 추천해 주세요 = please recommend something."
+    },
+    {
+      "korean": "매워요?",
+      "english": "is it spicy?",
+      "example": "이거 매워요? 저는 매운 거 잘 못 먹어요.",
+      "example_en": "Is this spicy? I can't handle spicy food well.",
+      "notes": "From the adjective 맵다. Korea has many spicy dishes, so this question is very practical."
+    },
+    {
+      "korean": "덜 맵게 해 주세요",
+      "english": "less spicy please",
+      "example": "덜 맵게 해 주세요. 아이가 먹을 거예요.",
+      "example_en": "Please make it less spicy. A child will be eating it.",
+      "notes": "덜 means 'less.' You can also say 안 맵게 해 주세요 (make it not spicy)."
+    },
+    {
+      "korean": "많이",
+      "english": "a lot",
+      "example": "많이 드세요!",
+      "example_en": "Please eat a lot! (Enjoy your meal!)",
+      "notes": "많이 드세요 is a common polite phrase said when serving food. 드시다 is the honorific of 먹다."
+    },
+    {
+      "korean": "조금",
+      "english": "a little",
+      "example": "조금만 주세요. 배가 별로 안 고파요.",
+      "example_en": "Just give me a little. I'm not that hungry.",
+      "notes": "조금만 adds 만 (only) to emphasize 'just a little.' Often shortened to 좀 in casual speech."
+    },
+    {
+      "korean": "더",
+      "english": "more",
+      "example": "밥 더 주세요.",
+      "example_en": "Please give me more rice.",
+      "notes": "In many Korean restaurants, rice and side dishes (반찬) refills are free. Just ask!"
+    },
+    {
+      "korean": "포장",
+      "english": "takeout",
+      "example": "포장 돼요?",
+      "example_en": "Can I get it to go?",
+      "notes": "Literally means 'packaging.' 포장 돼요? is the quickest way to ask about takeout."
+    },
+    {
+      "korean": "포장해 주세요",
+      "english": "to go please",
+      "example": "남은 거 포장해 주세요.",
+      "example_en": "Please pack up the leftovers.",
+      "notes": "Koreans commonly take home leftovers. This phrase works for both ordering takeout and packing leftovers."
+    },
+    {
+      "korean": "계산",
+      "english": "bill / check",
+      "example": "계산해 주세요.",
+      "example_en": "The check, please.",
+      "notes": "In Korea you usually pay at the counter near the exit, not at the table."
+    },
+    {
+      "korean": "계산서",
+      "english": "receipt / bill",
+      "example": "계산서 좀 볼 수 있어요?",
+      "example_en": "Can I see the bill?",
+      "notes": "서 is a suffix meaning 'document.' 계산서 is the itemized bill."
+    },
+    {
+      "korean": "카드",
+      "english": "card",
+      "example": "카드로 계산할게요.",
+      "example_en": "I'll pay by card.",
+      "notes": "Card payment is extremely common in Korea. Almost everywhere accepts cards."
+    },
+    {
+      "korean": "현금",
+      "english": "cash",
+      "example": "현금으로 낼게요.",
+      "example_en": "I'll pay in cash.",
+      "notes": "현금 is less common now but some small street food stalls only take cash."
+    },
+    {
+      "korean": "영수증",
+      "english": "receipt",
+      "example": "영수증 필요해요.",
+      "example_en": "I need a receipt.",
+      "notes": "Different from 계산서. 영수증 is the proof-of-payment receipt you get after paying."
+    },
+    {
+      "korean": "맛있다",
+      "english": "delicious",
+      "example": "이 김치찌개 정말 맛있어요!",
+      "example_en": "This kimchi stew is really delicious!",
+      "notes": "맛 (taste) + 있다 (to exist) = tasty. One of the most useful words in Korea."
+    },
+    {
+      "korean": "맛없다",
+      "english": "not tasty",
+      "example": "여기 음식은 좀 맛없어요.",
+      "example_en": "The food here is a bit not tasty.",
+      "notes": "맛 + 없다 (to not exist). Be careful using this directly to someone who cooked for you!"
+    },
+    {
+      "korean": "맵다",
+      "english": "spicy",
+      "example": "이거 너무 매워요! 물 주세요.",
+      "example_en": "This is too spicy! Water, please.",
+      "notes": "Irregular conjugation: 맵다 → 매워요. The ㅂ changes to 워 in conjugation."
+    },
+    {
+      "korean": "달다",
+      "english": "sweet",
+      "example": "이 디저트 정말 달아요.",
+      "example_en": "This dessert is really sweet.",
+      "notes": "Conjugates as 달아요. Korean desserts like 호떡 and 붕어빵 are popular sweet snacks."
+    },
+    {
+      "korean": "짜다",
+      "english": "salty",
+      "example": "국이 좀 짜요. 물 좀 넣어 주세요.",
+      "example_en": "The soup is a bit salty. Please add some water.",
+      "notes": "Conjugates regularly: 짜요. Also means 'stingy' in slang."
+    },
+    {
+      "korean": "쓰다",
+      "english": "bitter",
+      "example": "이 커피는 좀 써요.",
+      "example_en": "This coffee is a bit bitter.",
+      "notes": "쓰다 has multiple meanings: bitter, to write, to use. Context tells you which one."
+    },
+    {
+      "korean": "시다",
+      "english": "sour",
+      "example": "이 김치 좀 셔요. 오래된 거예요?",
+      "example_en": "This kimchi is a bit sour. Is it old?",
+      "notes": "Well-fermented 김치 is supposed to be sour. 신 김치 (sour kimchi) is great for 김치찌개."
+    },
+    {
+      "korean": "배부르다",
+      "english": "full / stuffed",
+      "example": "너무 많이 먹어서 배불러요.",
+      "example_en": "I ate too much so I'm stuffed.",
+      "notes": "배 (stomach) + 부르다 (to be full). Irregular: 배부르다 → 배불러요."
+    }
+  ],
+  "시간 & 요일 (Time & Days)": [
+    {
+      "korean": "시간",
+      "english": "time / hour",
+      "example": "시간이 없어요. 빨리 가야 해요.",
+      "example_en": "I don't have time. I need to go quickly.",
+      "notes": "Means both 'time' (general) and 'hour' (duration). 두 시간 = two hours."
+    },
+    {
+      "korean": "시",
+      "english": "o'clock",
+      "example": "지금 세 시예요.",
+      "example_en": "It's three o'clock now.",
+      "notes": "Use native Korean numbers for hours: 한 시, 두 시, 세 시, etc."
+    },
+    {
+      "korean": "분",
+      "english": "minute",
+      "example": "십 분만 기다려 주세요.",
+      "example_en": "Please wait just ten minutes.",
+      "notes": "Use Sino-Korean numbers for minutes: 십 분, 이십 분, 삼십 분, etc."
+    },
+    {
+      "korean": "초",
+      "english": "second",
+      "example": "삼십 초만 기다려 주세요.",
+      "example_en": "Please wait just thirty seconds.",
+      "notes": "Uses Sino-Korean numbers like 분. Not as commonly used in daily conversation."
+    },
+    {
+      "korean": "오전",
+      "english": "AM / morning",
+      "example": "오전 아홉 시에 수업이 있어요.",
+      "example_en": "I have class at 9 AM.",
+      "notes": "오 (午, noon) + 전 (前, before) = before noon. Used in formal time expressions."
+    },
+    {
+      "korean": "오후",
+      "english": "PM / afternoon",
+      "example": "오후 두 시에 만나요.",
+      "example_en": "Let's meet at 2 PM.",
+      "notes": "오 (午, noon) + 후 (後, after) = after noon. Paired with 오전."
+    },
+    {
+      "korean": "아침",
+      "english": "morning",
+      "example": "아침에 뭐 해요?",
+      "example_en": "What do you do in the morning?",
+      "notes": "Also means 'breakfast' (아침 식사 or just 아침). 아침 먹었어요? = Did you eat breakfast?"
+    },
+    {
+      "korean": "점심",
+      "english": "lunch / noon",
+      "example": "점심 같이 먹을래요?",
+      "example_en": "Do you want to eat lunch together?",
+      "notes": "Also means the lunch meal itself. 점심시간 = lunch time (usually 12-1 PM in Korea)."
+    },
+    {
+      "korean": "저녁",
+      "english": "evening",
+      "example": "저녁에 시간 있어요?",
+      "example_en": "Do you have time in the evening?",
+      "notes": "Also means 'dinner.' 저녁 먹었어요? is a common greeting meaning 'Have you eaten dinner?'"
+    },
+    {
+      "korean": "밤",
+      "english": "night",
+      "example": "밤에 혼자 다니지 마세요.",
+      "example_en": "Don't walk around alone at night.",
+      "notes": "Korea is generally safe at night, but this is still common advice. 밤새 = all night long."
+    },
+    {
+      "korean": "새벽",
+      "english": "dawn",
+      "example": "새벽에 일어나는 게 힘들어요.",
+      "example_en": "Waking up at dawn is hard.",
+      "notes": "Roughly 1 AM to sunrise. 새벽 배송 (dawn delivery) is a popular service in Korea."
+    },
+    {
+      "korean": "오늘",
+      "english": "today",
+      "example": "오늘 날씨가 좋아요.",
+      "example_en": "The weather is nice today.",
+      "notes": "One of the most frequently used time words. 오늘부터 = starting from today."
+    },
+    {
+      "korean": "내일",
+      "english": "tomorrow",
+      "example": "내일 뭐 할 거예요?",
+      "example_en": "What are you going to do tomorrow?",
+      "notes": "내일 봐요 (see you tomorrow) is a very common farewell."
+    },
+    {
+      "korean": "어제",
+      "english": "yesterday",
+      "example": "어제 뭐 했어요?",
+      "example_en": "What did you do yesterday?",
+      "notes": "Always used with past tense. 어제 저녁에 = yesterday evening."
+    },
+    {
+      "korean": "모레",
+      "english": "day after tomorrow",
+      "example": "모레 시험이 있어요.",
+      "example_en": "I have an exam the day after tomorrow.",
+      "notes": "Korean has a single word for this unlike English. Very commonly used."
+    },
+    {
+      "korean": "그저께",
+      "english": "day before yesterday",
+      "example": "그저께 친구를 만났어요.",
+      "example_en": "I met a friend the day before yesterday.",
+      "notes": "Also written as 그제. Less common than 모레 but still widely used."
+    },
+    {
+      "korean": "지금",
+      "english": "now",
+      "example": "지금 바빠요?",
+      "example_en": "Are you busy now?",
+      "notes": "Very high-frequency word. 지금 당장 = right now, immediately."
+    },
+    {
+      "korean": "나중에",
+      "english": "later",
+      "example": "나중에 전화할게요.",
+      "example_en": "I'll call you later.",
+      "notes": "나중에 봐요 = see you later. Can be vague about exactly when."
+    },
+    {
+      "korean": "일찍",
+      "english": "early",
+      "example": "내일 일찍 일어나야 해요.",
+      "example_en": "I have to wake up early tomorrow.",
+      "notes": "Adverb form. Opposite of 늦게. 일찍 자요 = go to sleep early."
+    },
+    {
+      "korean": "늦게",
+      "english": "late",
+      "example": "어제 늦게 잤어요.",
+      "example_en": "I went to sleep late yesterday.",
+      "notes": "Adverb form of 늦다. 늦었어요 = I'm late (as in arriving late)."
+    },
+    {
+      "korean": "항상",
+      "english": "always",
+      "example": "저는 항상 아침을 먹어요.",
+      "example_en": "I always eat breakfast.",
+      "notes": "Synonymous with 언제나. Both are commonly used in everyday speech."
+    },
+    {
+      "korean": "보통",
+      "english": "usually",
+      "example": "보통 몇 시에 일어나요?",
+      "example_en": "What time do you usually wake up?",
+      "notes": "Also means 'ordinary/normal.' 보통 사람 = ordinary person."
+    },
+    {
+      "korean": "가끔",
+      "english": "sometimes",
+      "example": "가끔 한국 영화를 봐요.",
+      "example_en": "I sometimes watch Korean movies.",
+      "notes": "Frequency is lower than 보통 but higher than 거의 안 (almost never)."
+    },
+    {
+      "korean": "월요일",
+      "english": "Monday",
+      "example": "월요일에 회의가 있어요.",
+      "example_en": "I have a meeting on Monday.",
+      "notes": "월 = moon/month. The days use: 월(moon), 화(fire), 수(water), 목(wood), 금(gold), 토(earth), 일(sun)."
+    },
+    {
+      "korean": "화요일",
+      "english": "Tuesday",
+      "example": "화요일에 한국어 수업이 있어요.",
+      "example_en": "I have Korean class on Tuesday.",
+      "notes": "화 = fire (火). 화요일마다 = every Tuesday."
+    },
+    {
+      "korean": "수요일",
+      "english": "Wednesday",
+      "example": "수요일은 좀 바빠요.",
+      "example_en": "I'm a bit busy on Wednesday.",
+      "notes": "수 = water (水). Wednesday is the middle of the work week."
+    },
+    {
+      "korean": "목요일",
+      "english": "Thursday",
+      "example": "목요일에 시간 있어요?",
+      "example_en": "Do you have time on Thursday?",
+      "notes": "목 = wood/tree (木). 목요일까지 = by/until Thursday."
+    },
+    {
+      "korean": "금요일",
+      "english": "Friday",
+      "example": "금요일이라서 기분이 좋아요!",
+      "example_en": "It's Friday so I'm in a good mood!",
+      "notes": "금 = gold (金). 불금 (불타는 금요일) = 'burning Friday,' slang for TGIF."
+    },
+    {
+      "korean": "토요일",
+      "english": "Saturday",
+      "example": "토요일에 뭐 할 거예요?",
+      "example_en": "What are you going to do on Saturday?",
+      "notes": "토 = earth (土). Part of the weekend (주말)."
+    },
+    {
+      "korean": "일요일",
+      "english": "Sunday",
+      "example": "일요일에는 보통 쉬어요.",
+      "example_en": "I usually rest on Sundays.",
+      "notes": "일 = sun (日). Many shops and restaurants are still open on Sundays in Korea."
+    },
+    {
+      "korean": "이번 주",
+      "english": "this week",
+      "example": "이번 주 금요일에 만나요.",
+      "example_en": "Let's meet this Friday.",
+      "notes": "이번 = this time/current. Works with other time words: 이번 달 (this month), 이번 해 (this year)."
+    },
+    {
+      "korean": "다음 주",
+      "english": "next week",
+      "example": "다음 주에 여행 갈 거예요.",
+      "example_en": "I'm going on a trip next week.",
+      "notes": "다음 = next. Also: 다음 달 (next month), 다음에 (next time)."
+    },
+    {
+      "korean": "지난주",
+      "english": "last week",
+      "example": "지난주에 감기에 걸렸어요.",
+      "example_en": "I caught a cold last week.",
+      "notes": "지난 = last/past. Written as one word (지난주) unlike 이번 주 and 다음 주."
+    },
+    {
+      "korean": "매일",
+      "english": "every day",
+      "example": "저는 매일 운동해요.",
+      "example_en": "I exercise every day.",
+      "notes": "매 = every. Same pattern: 매주 (every week), 매달 (every month), 매년 (every year)."
+    },
+    {
+      "korean": "매주",
+      "english": "every week",
+      "example": "매주 토요일에 축구를 해요.",
+      "example_en": "I play soccer every Saturday.",
+      "notes": "Can be combined with days: 매주 월요일 = every Monday."
+    },
+    {
+      "korean": "올해",
+      "english": "this year",
+      "example": "올해 한국어를 배우기 시작했어요.",
+      "example_en": "I started learning Korean this year.",
+      "notes": "올 is a prefix meaning 'this (current).' Only used with 해 (year)."
+    },
+    {
+      "korean": "작년",
+      "english": "last year",
+      "example": "작년에 한국에 갔어요.",
+      "example_en": "I went to Korea last year.",
+      "notes": "작 (昨) = previous. 작년 is more common than 지난해 in speech."
+    },
+    {
+      "korean": "내년",
+      "english": "next year",
+      "example": "내년에 한국에 가고 싶어요.",
+      "example_en": "I want to go to Korea next year.",
+      "notes": "내 (來) = coming. 내년 봄에 = next spring."
+    },
+    {
+      "korean": "생일",
+      "english": "birthday",
+      "example": "생일이 언제예요?",
+      "example_en": "When is your birthday?",
+      "notes": "생일 축하해요 = Happy birthday. Koreans celebrate with 미역국 (seaweed soup) on birthdays."
+    },
+    {
+      "korean": "주말",
+      "english": "weekend",
+      "example": "주말에 뭐 했어요?",
+      "example_en": "What did you do on the weekend?",
+      "notes": "주 (week) + 말 (end). One of the most common small-talk topics in Korean."
+    }
+  ],
+  "장소 (Places)": [
+    {
+      "korean": "집",
+      "english": "home / house",
+      "example": "집에 가고 싶어요.",
+      "example_en": "I want to go home.",
+      "notes": "에 marks destination. 집에서 (at home) vs 집에 (to home). Very important distinction."
+    },
+    {
+      "korean": "학교",
+      "english": "school",
+      "example": "학교에 어떻게 가요?",
+      "example_en": "How do you get to school?",
+      "notes": "학 (學, study) + 교 (校, school). Elementary = 초등학교, middle = 중학교, high = 고등학교."
+    },
+    {
+      "korean": "회사",
+      "english": "company / office",
+      "example": "회사에서 일해요.",
+      "example_en": "I work at a company.",
+      "notes": "회사원 = office worker/company employee. 회사에 다니다 = to work at a company."
+    },
+    {
+      "korean": "사무실",
+      "english": "office room",
+      "example": "사무실이 몇 층에 있어요?",
+      "example_en": "What floor is the office on?",
+      "notes": "사무 (business/work) + 실 (room). Refers to the physical office space."
+    },
+    {
+      "korean": "병원",
+      "english": "hospital",
+      "example": "아파서 병원에 가야 해요.",
+      "example_en": "I'm sick so I need to go to the hospital.",
+      "notes": "In Korea, you go to 병원 even for minor things like a cold. It covers clinics too."
+    },
+    {
+      "korean": "약국",
+      "english": "pharmacy",
+      "example": "약국에서 약을 샀어요.",
+      "example_en": "I bought medicine at the pharmacy.",
+      "notes": "약 (medicine) + 국 (bureau). Look for the green cross sign. Open late in many areas."
+    },
+    {
+      "korean": "마트",
+      "english": "mart / grocery store",
+      "example": "마트에서 과일을 샀어요.",
+      "example_en": "I bought fruit at the mart.",
+      "notes": "Short for 슈퍼마켓. Big chains include 이마트, 홈플러스, 롯데마트."
+    },
+    {
+      "korean": "편의점",
+      "english": "convenience store",
+      "example": "편의점에서 물 사 올게요.",
+      "example_en": "I'll go buy water at the convenience store.",
+      "notes": "편의 = convenience. Korea has tons of these (CU, GS25, 세븐일레븐). Open 24 hours."
+    },
+    {
+      "korean": "은행",
+      "english": "bank",
+      "example": "은행에 가서 돈을 보내야 해요.",
+      "example_en": "I need to go to the bank and send money.",
+      "notes": "은 (銀, silver) + 행 (行, business). Major banks: 국민, 신한, 우리, 하나."
+    },
+    {
+      "korean": "우체국",
+      "english": "post office",
+      "example": "우체국에서 택배를 보냈어요.",
+      "example_en": "I sent a package at the post office.",
+      "notes": "우체 (postal) + 국 (bureau). Less used now due to online services, but still common for packages."
+    },
+    {
+      "korean": "공항",
+      "english": "airport",
+      "example": "공항까지 얼마나 걸려요?",
+      "example_en": "How long does it take to get to the airport?",
+      "notes": "공 (air) + 항 (port). 인천공항 (Incheon Airport) is Korea's main international airport."
+    },
+    {
+      "korean": "역",
+      "english": "station",
+      "example": "서울역에서 만나요.",
+      "example_en": "Let's meet at Seoul Station.",
+      "notes": "Used for train and subway stations. Attach the station name before 역: 강남역, 홍대역."
+    },
+    {
+      "korean": "버스 정류장",
+      "english": "bus stop",
+      "example": "버스 정류장이 어디에 있어요?",
+      "example_en": "Where is the bus stop?",
+      "notes": "정류장 = stopping place. Can also just say 버스 정거장. Look for numbered bus stops."
+    },
+    {
+      "korean": "카페",
+      "english": "cafe",
+      "example": "카페에서 공부하는 거 좋아해요.",
+      "example_en": "I like studying at cafes.",
+      "notes": "Korea has a massive cafe culture. 카페 is everywhere and many people study or work there."
+    },
+    {
+      "korean": "식당",
+      "english": "restaurant",
+      "example": "저 식당 가 봤어요? 맛있대요.",
+      "example_en": "Have you been to that restaurant? They say it's good.",
+      "notes": "식 (食, eat) + 당 (堂, hall). General term for any Korean eatery."
+    },
+    {
+      "korean": "공원",
+      "english": "park",
+      "example": "공원에서 산책해요.",
+      "example_en": "I take walks in the park.",
+      "notes": "공 (public) + 원 (garden). 한강공원 (Han River Park) is a famous spot in Seoul."
+    },
+    {
+      "korean": "도서관",
+      "english": "library",
+      "example": "도서관에서 책을 빌렸어요.",
+      "example_en": "I borrowed a book from the library.",
+      "notes": "도서 (books) + 관 (building). 빌리다 = to borrow. Many Koreans study at the library."
+    },
+    {
+      "korean": "영화관",
+      "english": "movie theater",
+      "example": "영화관에서 새 영화 봤어요.",
+      "example_en": "I saw a new movie at the theater.",
+      "notes": "영화 (movie) + 관 (hall). Major chains: CGV, 메가박스, 롯데시네마."
+    },
+    {
+      "korean": "백화점",
+      "english": "department store",
+      "example": "백화점에서 선물을 샀어요.",
+      "example_en": "I bought a gift at the department store.",
+      "notes": "백화 (百貨, hundred goods) + 점 (store). More upscale than 마트. Famous: 롯데, 현대, 신세계."
+    },
+    {
+      "korean": "시장",
+      "english": "market",
+      "example": "시장에서 떡볶이를 먹었어요.",
+      "example_en": "I ate tteokbokki at the market.",
+      "notes": "Traditional markets like 남대문시장 and 광장시장 are great for street food and bargains."
+    },
+    {
+      "korean": "쇼핑몰",
+      "english": "shopping mall",
+      "example": "주말에 쇼핑몰에 갔어요.",
+      "example_en": "I went to the shopping mall on the weekend.",
+      "notes": "Loanword. Large malls like 코엑스몰 and 스타필드 are popular in Korea."
+    },
+    {
+      "korean": "화장실",
+      "english": "bathroom / restroom",
+      "example": "화장실이 어디에 있어요?",
+      "example_en": "Where is the restroom?",
+      "notes": "화장 (makeup) + 실 (room). This is the polite way to say it. Public restrooms are usually clean and free."
+    },
+    {
+      "korean": "교회",
+      "english": "church",
+      "example": "일요일마다 교회에 가요.",
+      "example_en": "I go to church every Sunday.",
+      "notes": "교 (teaching) + 회 (gathering). Christianity is one of the major religions in Korea."
+    },
+    {
+      "korean": "절",
+      "english": "temple",
+      "example": "주말에 절에 가 봤어요.",
+      "example_en": "I visited a temple on the weekend.",
+      "notes": "Buddhist temple. Famous ones include 불국사, 해인사. 사 (寺) is another word for temple."
+    },
+    {
+      "korean": "호텔",
+      "english": "hotel",
+      "example": "호텔 예약했어요?",
+      "example_en": "Did you book a hotel?",
+      "notes": "Loanword from English. Budget alternatives in Korea: 모텔, 게스트하우스, 한옥 스테이."
+    },
+    {
+      "korean": "아파트",
+      "english": "apartment",
+      "example": "저는 아파트에 살아요.",
+      "example_en": "I live in an apartment.",
+      "notes": "Most Koreans live in apartments. 아파트 complexes are the dominant housing type."
+    },
+    {
+      "korean": "방",
+      "english": "room",
+      "example": "방이 몇 개예요?",
+      "example_en": "How many rooms are there?",
+      "notes": "Also used in compounds: 노래방 (karaoke room), PC방 (internet cafe), 찜질방 (spa)."
+    },
+    {
+      "korean": "부엌",
+      "english": "kitchen",
+      "example": "부엌에서 요리하고 있어요.",
+      "example_en": "I'm cooking in the kitchen.",
+      "notes": "Also called 주방 (more formal). Korean kitchens often have floor heating like the rest of the home."
+    },
+    {
+      "korean": "거실",
+      "english": "living room",
+      "example": "거실에서 TV 봐요.",
+      "example_en": "I watch TV in the living room.",
+      "notes": "거 (居, reside) + 실 (room). The main shared space in a Korean home."
+    },
+    {
+      "korean": "욕실",
+      "english": "bathroom",
+      "example": "욕실이 깨끗해요.",
+      "example_en": "The bathroom is clean.",
+      "notes": "욕 (bath) + 실 (room). Refers to the actual bathing room. 화장실 is more common in public."
+    },
+    {
+      "korean": "학원",
+      "english": "academy / cram school",
+      "example": "학원에 다녀요.",
+      "example_en": "I attend a cram school.",
+      "notes": "Private tutoring academies. Extremely common in Korea. 영어 학원 = English academy."
+    },
+    {
+      "korean": "대학교",
+      "english": "university",
+      "example": "대학교에서 경제학을 전공했어요.",
+      "example_en": "I majored in economics at university.",
+      "notes": "대학 or 대학교 both work. Shortened to 대 in casual speech: 어느 대 나왔어요?"
+    },
+    {
+      "korean": "유치원",
+      "english": "kindergarten",
+      "example": "아이가 유치원에 다녀요.",
+      "example_en": "My child goes to kindergarten.",
+      "notes": "유치 (infant) + 원 (garden). For ages 3-5 typically."
+    },
+    {
+      "korean": "놀이터",
+      "english": "playground",
+      "example": "아이들이 놀이터에서 놀고 있어요.",
+      "example_en": "The kids are playing at the playground.",
+      "notes": "놀이 (play) + 터 (place/ground). Found in most 아파트 complexes."
+    },
+    {
+      "korean": "체육관",
+      "english": "gym",
+      "example": "매일 체육관에 가요.",
+      "example_en": "I go to the gym every day.",
+      "notes": "체육 (physical education) + 관 (hall). Also called 헬스장 (health club) colloquially."
+    },
+    {
+      "korean": "수영장",
+      "english": "swimming pool",
+      "example": "여름에 수영장에 자주 가요.",
+      "example_en": "I go to the swimming pool often in summer.",
+      "notes": "수영 (swimming) + 장 (place). Many 아파트 complexes have their own pools."
+    },
+    {
+      "korean": "미용실",
+      "english": "hair salon",
+      "example": "미용실에서 머리를 잘랐어요.",
+      "example_en": "I got a haircut at the hair salon.",
+      "notes": "미용 (beauty) + 실 (room). 남자 haircut places are sometimes called 이발소."
+    },
+    {
+      "korean": "세탁소",
+      "english": "laundromat / dry cleaner",
+      "example": "코트를 세탁소에 맡겼어요.",
+      "example_en": "I left my coat at the dry cleaner.",
+      "notes": "세탁 (laundry) + 소 (place). Mostly used for dry cleaning in Korea."
+    },
+    {
+      "korean": "주유소",
+      "english": "gas station",
+      "example": "주유소에서 기름을 넣어야 해요.",
+      "example_en": "I need to get gas at the gas station.",
+      "notes": "주유 (refueling) + 소 (place). 셀프 주유소 = self-service gas station."
+    },
+    {
+      "korean": "경찰서",
+      "english": "police station",
+      "example": "지갑을 잃어버려서 경찰서에 갔어요.",
+      "example_en": "I lost my wallet so I went to the police station.",
+      "notes": "경찰 (police) + 서 (office). Emergency number in Korea is 112 for police."
+    },
+    {
+      "korean": "소방서",
+      "english": "fire station",
+      "example": "소방서가 집 근처에 있어요.",
+      "example_en": "The fire station is near my house.",
+      "notes": "소방 (fire-fighting) + 서 (office). Emergency number is 119 for fire and ambulance."
+    },
+    {
+      "korean": "대사관",
+      "english": "embassy",
+      "example": "여권을 잃어버려서 대사관에 가야 해요.",
+      "example_en": "I lost my passport so I need to go to the embassy.",
+      "notes": "대사 (ambassador) + 관 (building). Most embassies in Seoul are in the 용산 area."
+    },
+    {
+      "korean": "해변",
+      "english": "beach",
+      "example": "여름에 해변에 가고 싶어요.",
+      "example_en": "I want to go to the beach in summer.",
+      "notes": "해 (sea) + 변 (side). Famous beaches: 해운대 (Busan), 경포대 (Gangneung)."
+    },
+    {
+      "korean": "산",
+      "english": "mountain",
+      "example": "주말에 산에 갔어요.",
+      "example_en": "I went to the mountain on the weekend.",
+      "notes": "Hiking (등산) is Korea's national hobby. Mountains are everywhere and well-maintained."
+    },
+    {
+      "korean": "강",
+      "english": "river",
+      "example": "한강에서 치킨 먹는 게 좋아요.",
+      "example_en": "I like eating chicken by the Han River.",
+      "notes": "한강 (Han River) is the iconic river through Seoul. 치맥 (chicken + beer) by the river is a must."
+    }
+  ],
+  "방향 & 위치 (Directions)": [
+    {
+      "korean": "왼쪽",
+      "english": "left",
+      "example": "왼쪽에 은행이 있어요.",
+      "example_en": "There's a bank on the left.",
+      "notes": "왼 = left + 쪽 = side/direction. 왼손 = left hand."
+    },
+    {
+      "korean": "오른쪽",
+      "english": "right",
+      "example": "오른쪽으로 가세요.",
+      "example_en": "Go to the right.",
+      "notes": "오른 = right + 쪽 = side/direction. 오른손 = right hand."
+    },
+    {
+      "korean": "앞",
+      "english": "front",
+      "example": "학교 앞에서 만나요.",
+      "example_en": "Let's meet in front of the school.",
+      "notes": "Used with 에 or 에서. 앞으로 = forward/from now on."
+    },
+    {
+      "korean": "뒤",
+      "english": "back / behind",
+      "example": "건물 뒤에 주차장이 있어요.",
+      "example_en": "There's a parking lot behind the building.",
+      "notes": "뒤에 = behind (location). 뒤로 = backward (direction)."
+    },
+    {
+      "korean": "위",
+      "english": "above / up",
+      "example": "책상 위에 책이 있어요.",
+      "example_en": "There's a book on top of the desk.",
+      "notes": "위에 = on top of / above. One of the essential location particles."
+    },
+    {
+      "korean": "아래",
+      "english": "below / down",
+      "example": "의자 아래에 가방이 있어요.",
+      "example_en": "There's a bag under the chair.",
+      "notes": "아래에 = below/under. Sometimes shortened to 밑에 which is very similar."
+    },
+    {
+      "korean": "옆",
+      "english": "beside / next to",
+      "example": "우체국 옆에 카페가 있어요.",
+      "example_en": "There's a cafe next to the post office.",
+      "notes": "옆에 = next to. 바로 옆에 = right next to."
+    },
+    {
+      "korean": "사이",
+      "english": "between",
+      "example": "은행과 약국 사이에 있어요.",
+      "example_en": "It's between the bank and the pharmacy.",
+      "notes": "A 와/과 B 사이에 = between A and B. Also used for relationships: 사이가 좋다 = get along well."
+    },
+    {
+      "korean": "안",
+      "english": "inside",
+      "example": "건물 안에 들어가세요.",
+      "example_en": "Please go inside the building.",
+      "notes": "안에 = inside. Opposite of 밖에. 안에서 = from inside."
+    },
+    {
+      "korean": "밖",
+      "english": "outside",
+      "example": "밖에 비가 와요.",
+      "example_en": "It's raining outside.",
+      "notes": "밖에 = outside. 밖에서 = from outside. 밖으로 나가다 = to go outside."
+    },
+    {
+      "korean": "여기",
+      "english": "here",
+      "example": "여기 앉아도 돼요?",
+      "example_en": "Can I sit here?",
+      "notes": "Part of the 이/그/저 system: 여기 (here, near me), 거기 (there, near you), 저기 (over there)."
+    },
+    {
+      "korean": "거기",
+      "english": "there",
+      "example": "거기에서 기다려 주세요.",
+      "example_en": "Please wait there.",
+      "notes": "Refers to a place near the listener or a previously mentioned place."
+    },
+    {
+      "korean": "저기",
+      "english": "over there",
+      "example": "저기 보이는 건물이 뭐예요?",
+      "example_en": "What's that building you can see over there?",
+      "notes": "Refers to a place far from both speaker and listener. Often accompanied by pointing."
+    },
+    {
+      "korean": "이쪽",
+      "english": "this way",
+      "example": "이쪽으로 오세요.",
+      "example_en": "Please come this way.",
+      "notes": "이 (this) + 쪽 (direction/side). Very commonly used when guiding someone."
+    },
+    {
+      "korean": "그쪽",
+      "english": "that way",
+      "example": "그쪽으로 가면 역이 있어요.",
+      "example_en": "If you go that way, there's a station.",
+      "notes": "그 (that) + 쪽 (direction). Also a polite way to say 'you' in formal contexts."
+    },
+    {
+      "korean": "저쪽",
+      "english": "that way over there",
+      "example": "저쪽에 화장실이 있어요.",
+      "example_en": "The restroom is over that way.",
+      "notes": "저 (that far) + 쪽 (direction). Used when pointing to somewhere distant."
+    },
+    {
+      "korean": "가까이",
+      "english": "nearby / close",
+      "example": "여기에서 가까워요.",
+      "example_en": "It's close from here.",
+      "notes": "Adverb form. Adjective: 가깝다 (close). Irregular: 가깝다 → 가까워요."
+    },
+    {
+      "korean": "멀리",
+      "english": "far away",
+      "example": "집이 회사에서 멀어요.",
+      "example_en": "My home is far from the office.",
+      "notes": "Adverb form. Adjective: 멀다 (far). Irregular: 멀다 → 멀어요."
+    },
+    {
+      "korean": "건너편",
+      "english": "across / opposite",
+      "example": "은행 건너편에 마트가 있어요.",
+      "example_en": "There's a mart across from the bank.",
+      "notes": "건너 (to cross) + 편 (side). Same meaning as 맞은편."
+    },
+    {
+      "korean": "맞은편",
+      "english": "opposite side",
+      "example": "역 맞은편에 카페가 있어요.",
+      "example_en": "There's a cafe on the opposite side of the station.",
+      "notes": "맞은 (facing) + 편 (side). Interchangeable with 건너편 in most cases."
+    },
+    {
+      "korean": "직진",
+      "english": "go straight",
+      "example": "이 길을 직진하세요.",
+      "example_en": "Go straight on this road.",
+      "notes": "직 (straight) + 진 (advance). Often used in GPS navigation and giving directions."
+    },
+    {
+      "korean": "오른쪽으로 가세요",
+      "english": "go right",
+      "example": "사거리에서 오른쪽으로 가세요.",
+      "example_en": "Go right at the intersection.",
+      "notes": "~(으)로 가세요 is the standard pattern for giving directions. 가세요 is polite imperative."
+    },
+    {
+      "korean": "왼쪽으로 가세요",
+      "english": "go left",
+      "example": "편의점에서 왼쪽으로 가세요.",
+      "example_en": "Go left at the convenience store.",
+      "notes": "Same pattern as 오른쪽으로 가세요. Use landmarks as reference points."
+    },
+    {
+      "korean": "어디에 있어요?",
+      "english": "where is it?",
+      "example": "화장실이 어디에 있어요?",
+      "example_en": "Where is the restroom?",
+      "notes": "Essential question pattern. 어디 = where. Attach the subject with 이/가 before 어디."
+    },
+    {
+      "korean": "길",
+      "english": "road / street",
+      "example": "이 길로 가면 돼요?",
+      "example_en": "Can I go this way?",
+      "notes": "Also means 'way/path' figuratively. 길을 잃다 = to get lost."
+    },
+    {
+      "korean": "지도",
+      "english": "map",
+      "example": "지도 좀 보여 주세요.",
+      "example_en": "Please show me the map.",
+      "notes": "지 (land) + 도 (diagram). Most Koreans use 네이버 지도 or 카카오맵 on their phones."
+    },
+    {
+      "korean": "모퉁이",
+      "english": "corner",
+      "example": "모퉁이를 돌면 카페가 있어요.",
+      "example_en": "If you turn the corner, there's a cafe.",
+      "notes": "모퉁이를 돌다 = to turn a corner. 코너 (loanword) is also used."
+    },
+    {
+      "korean": "사거리",
+      "english": "intersection",
+      "example": "사거리에서 왼쪽으로 가세요.",
+      "example_en": "Go left at the intersection.",
+      "notes": "사 (four) + 거리 (street) = four-way intersection. 삼거리 = three-way intersection."
+    },
+    {
+      "korean": "횡단보도",
+      "english": "crosswalk",
+      "example": "횡단보도를 건너세요.",
+      "example_en": "Cross at the crosswalk.",
+      "notes": "횡단 (crossing) + 보도 (walkway). In casual speech, people sometimes say 건널목."
+    },
+    {
+      "korean": "출구",
+      "english": "exit",
+      "example": "3번 출구로 나오세요.",
+      "example_en": "Come out through exit 3.",
+      "notes": "출 (out) + 구 (opening). Subway stations have numbered exits. Great for giving meeting locations."
+    }
+  ],
+  "쇼핑 (Shopping)": [
+    {
+      "korean": "가게",
+      "english": "store / shop",
+      "example": "이 가게 진짜 좋아요.",
+      "example_en": "This store is really good.",
+      "notes": "General word for any small shop. More casual than 상점 (商店)."
+    },
+    {
+      "korean": "물건",
+      "english": "item / thing",
+      "example": "물건이 많네요.",
+      "example_en": "There are a lot of items.",
+      "notes": "Refers to physical goods/merchandise. Different from 것 which is more abstract."
+    },
+    {
+      "korean": "사다",
+      "english": "to buy",
+      "example": "선물 사러 가요.",
+      "example_en": "Let's go buy a gift.",
+      "notes": "~(으)러 가다 means 'to go in order to.' 사다 → 사요 (present), 샀어요 (past)."
+    },
+    {
+      "korean": "팔다",
+      "english": "to sell",
+      "example": "여기에서 뭐 팔아요?",
+      "example_en": "What do they sell here?",
+      "notes": "팔다 → 팔아요. ㄹ irregular: ㄹ drops before ㄴ, ㅂ, ㅅ endings."
+    },
+    {
+      "korean": "가격",
+      "english": "price",
+      "example": "가격이 좀 비싸요.",
+      "example_en": "The price is a bit expensive.",
+      "notes": "가 (price) + 격 (level). More formal than just asking 얼마예요?"
+    },
+    {
+      "korean": "얼마예요?",
+      "english": "how much?",
+      "example": "이거 얼마예요?",
+      "example_en": "How much is this?",
+      "notes": "The most essential shopping phrase. Works everywhere from markets to department stores."
+    },
+    {
+      "korean": "비싸다",
+      "english": "expensive",
+      "example": "너무 비싸요. 좀 깎아 주세요.",
+      "example_en": "It's too expensive. Please give me a discount.",
+      "notes": "비싸다 → 비싸요. Bargaining is common at traditional markets but not at fixed-price stores."
+    },
+    {
+      "korean": "싸다",
+      "english": "cheap",
+      "example": "여기 정말 싸요!",
+      "example_en": "This place is really cheap!",
+      "notes": "싸다 → 싸요. 싸게 사다 = to buy cheaply. Can also mean 'to wrap.'"
+    },
+    {
+      "korean": "할인",
+      "english": "discount",
+      "example": "할인 중이에요?",
+      "example_en": "Is it on discount?",
+      "notes": "할인하다 = to discount. 할인 카드 = discount card. 할인 행사 = discount event/sale."
+    },
+    {
+      "korean": "세일",
+      "english": "sale",
+      "example": "지금 세일해요?",
+      "example_en": "Is there a sale now?",
+      "notes": "Loanword from English. Used interchangeably with 할인 in casual speech."
+    },
+    {
+      "korean": "바꾸다",
+      "english": "to exchange",
+      "example": "사이즈를 바꾸고 싶어요.",
+      "example_en": "I'd like to exchange the size.",
+      "notes": "General word for 'to change/exchange.' 바꾸다 → 바꿔요. Also means 'to switch.'"
+    },
+    {
+      "korean": "환불",
+      "english": "refund",
+      "example": "환불할 수 있어요?",
+      "example_en": "Can I get a refund?",
+      "notes": "환 (return) + 불 (pay). 환불받다 = to receive a refund. Keep your receipt for refunds."
+    },
+    {
+      "korean": "교환",
+      "english": "exchange",
+      "example": "교환이 가능해요?",
+      "example_en": "Is an exchange possible?",
+      "notes": "교 (exchange) + 환 (swap). More formal than 바꾸다. Used for store exchanges."
+    },
+    {
+      "korean": "사이즈",
+      "english": "size",
+      "example": "다른 사이즈 있어요?",
+      "example_en": "Do you have a different size?",
+      "notes": "Loanword. Korean sizes may differ from Western sizes. 프리사이즈 = free size (one size fits all)."
+    },
+    {
+      "korean": "크다",
+      "english": "big",
+      "example": "이거 좀 커요. 작은 거 있어요?",
+      "example_en": "This is a bit big. Do you have a small one?",
+      "notes": "크다 → 커요. Used for both size and scale. 큰 = big (adjective before nouns)."
+    },
+    {
+      "korean": "작다",
+      "english": "small",
+      "example": "이건 너무 작아요.",
+      "example_en": "This one is too small.",
+      "notes": "작다 → 작아요. 작은 사이즈 = small size."
+    },
+    {
+      "korean": "색깔",
+      "english": "color",
+      "example": "다른 색깔 있어요?",
+      "example_en": "Do you have other colors?",
+      "notes": "Also shortened to 색. 무슨 색깔 좋아해요? = What color do you like?"
+    },
+    {
+      "korean": "빨간색",
+      "english": "red",
+      "example": "빨간색으로 주세요.",
+      "example_en": "Please give me the red one.",
+      "notes": "빨간 (red) + 색 (color). The adjective alone is 빨갛다 (to be red)."
+    },
+    {
+      "korean": "파란색",
+      "english": "blue",
+      "example": "파란색이 더 예뻐요.",
+      "example_en": "The blue one is prettier.",
+      "notes": "파란 (blue) + 색 (color). The adjective is 파랗다 (to be blue)."
+    },
+    {
+      "korean": "검은색",
+      "english": "black",
+      "example": "검은색 바지 있어요?",
+      "example_en": "Do you have black pants?",
+      "notes": "검은 (black) + 색. Also called 까만색 (pure/deep black) in casual speech."
+    },
+    {
+      "korean": "하얀색",
+      "english": "white",
+      "example": "하얀색이 제일 깨끗해 보여요.",
+      "example_en": "The white one looks the cleanest.",
+      "notes": "하얀 (white) + 색. Also 흰색. 하얗다 is the base adjective (to be white)."
+    },
+    {
+      "korean": "카드로 할게요",
+      "english": "I'll pay by card",
+      "example": "카드로 할게요. 여기 있어요.",
+      "example_en": "I'll pay by card. Here you go.",
+      "notes": "~(으)로 할게요 = I'll do it by/with. Very common at checkout counters."
+    },
+    {
+      "korean": "현금으로 할게요",
+      "english": "I'll pay cash",
+      "example": "현금으로 할게요. 거스름돈 있어요?",
+      "example_en": "I'll pay cash. Do you have change?",
+      "notes": "거스름돈 = change (money returned). Some places give a small discount for cash."
+    },
+    {
+      "korean": "봉투",
+      "english": "bag / plastic bag",
+      "example": "봉투 필요해요?",
+      "example_en": "Do you need a bag?",
+      "notes": "Plastic bags cost money in Korea (usually 50-100 won). Bring your own bag to save."
+    },
+    {
+      "korean": "영수증 주세요",
+      "english": "receipt please",
+      "example": "영수증 주세요. 회사에 제출해야 해요.",
+      "example_en": "Receipt, please. I need to submit it to my company.",
+      "notes": "Some stores ask 영수증 필요하세요? (Do you need a receipt?) at checkout."
+    },
+    {
+      "korean": "입어 봐도 돼요?",
+      "english": "can I try it on?",
+      "example": "이 원피스 입어 봐도 돼요?",
+      "example_en": "Can I try on this dress?",
+      "notes": "~아/어 봐도 돼요? = may I try ~ing? 입다 = to wear (clothes). 신다 = to wear (shoes)."
+    },
+    {
+      "korean": "이거 얼마예요?",
+      "english": "how much is this?",
+      "example": "저기요, 이거 얼마예요?",
+      "example_en": "Excuse me, how much is this?",
+      "notes": "Point at the item while asking. In markets, items may not have price tags."
+    },
+    {
+      "korean": "좀 깎아 주세요",
+      "english": "please give a discount",
+      "example": "좀 깎아 주세요. 두 개 살게요.",
+      "example_en": "Please give a discount. I'll buy two.",
+      "notes": "깎다 = to cut/shave off. Only use at traditional markets, not at chain stores."
+    },
+    {
+      "korean": "다른 거 있어요?",
+      "english": "do you have something else?",
+      "example": "마음에 안 들어요. 다른 거 있어요?",
+      "example_en": "I don't like it. Do you have something else?",
+      "notes": "다른 = different/other. 마음에 들다 = to like (literally: to enter one's heart)."
+    },
+    {
+      "korean": "신발",
+      "english": "shoes",
+      "example": "새 신발을 샀어요.",
+      "example_en": "I bought new shoes.",
+      "notes": "Remove shoes when entering Korean homes, some restaurants, and temples."
+    },
+    {
+      "korean": "옷",
+      "english": "clothes",
+      "example": "예쁜 옷이 많아요.",
+      "example_en": "There are a lot of pretty clothes.",
+      "notes": "General term for clothing. 옷가게 = clothing store. 옷을 입다 = to wear clothes."
+    },
+    {
+      "korean": "바지",
+      "english": "pants",
+      "example": "이 바지 편해요.",
+      "example_en": "These pants are comfortable.",
+      "notes": "Covers all types: 청바지 (jeans), 반바지 (shorts). Always plural in meaning."
+    },
+    {
+      "korean": "치마",
+      "english": "skirt",
+      "example": "치마가 너무 짧아요.",
+      "example_en": "The skirt is too short.",
+      "notes": "미니 치마 = mini skirt. 긴 치마 = long skirt. 짧다 = to be short."
+    },
+    {
+      "korean": "모자",
+      "english": "hat",
+      "example": "모자 쓰면 더 멋있어요.",
+      "example_en": "You look cooler when you wear a hat.",
+      "notes": "모자를 쓰다 = to wear a hat. 쓰다 is the verb used for hats and glasses."
+    },
+    {
+      "korean": "가방",
+      "english": "bag",
+      "example": "가방이 무거워요.",
+      "example_en": "The bag is heavy.",
+      "notes": "General term for any bag: backpack, purse, briefcase. 책가방 = school bag."
+    }
+  ],
+  "날씨 & 계절 (Weather & Seasons)": [
+    {
+      "korean": "날씨",
+      "english": "weather",
+      "example": "오늘 날씨가 정말 좋아요.",
+      "example_en": "The weather is really nice today.",
+      "notes": "날씨 is used in everyday conversation; 기후 means 'climate' for long-term patterns."
+    },
+    {
+      "korean": "덥다",
+      "english": "hot (weather)",
+      "example": "여름에는 너무 더워요.",
+      "example_en": "It's too hot in summer.",
+      "notes": "덥다 is for weather/temperature. For hot food or drinks, use 뜨겁다."
+    },
+    {
+      "korean": "춥다",
+      "english": "cold (weather)",
+      "example": "오늘 밖에 정말 추워요.",
+      "example_en": "It's really cold outside today.",
+      "notes": "춥다 is for weather/body feeling. For cold objects or drinks, use 차갑다."
+    },
+    {
+      "korean": "따뜻하다",
+      "english": "warm",
+      "example": "봄이 되면 날씨가 따뜻해요.",
+      "example_en": "When spring comes, the weather is warm.",
+      "notes": "Can describe weather, clothing, personality, or food temperature."
+    },
+    {
+      "korean": "시원하다",
+      "english": "cool; refreshing",
+      "example": "바람이 시원해요.",
+      "example_en": "The breeze is refreshing.",
+      "notes": "시원하다 can mean 'cool' for weather or 'refreshing' for cold drinks and breezes."
+    },
+    {
+      "korean": "비",
+      "english": "rain",
+      "example": "비가 많이 와서 우산이 필요해요.",
+      "example_en": "It's raining a lot, so I need an umbrella.",
+      "notes": "비 is the noun 'rain.' To say 'it rains,' use 비가 오다 (rain comes)."
+    },
+    {
+      "korean": "비가 오다",
+      "english": "to rain",
+      "example": "내일 비가 올 거예요.",
+      "example_en": "It will rain tomorrow.",
+      "notes": "Korean literally says 'rain comes' rather than 'it rains.' The subject marker 가 attaches to 비."
+    },
+    {
+      "korean": "눈",
+      "english": "snow",
+      "example": "첫눈이 내렸어요!",
+      "example_en": "The first snow has fallen!",
+      "notes": "눈 means both 'snow' and 'eye.' Context makes the meaning clear. 첫눈 = first snow of the season."
+    },
+    {
+      "korean": "눈이 오다",
+      "english": "to snow",
+      "example": "겨울에 눈이 많이 와요.",
+      "example_en": "It snows a lot in winter.",
+      "notes": "Same pattern as 비가 오다. You can also say 눈이 내리다 (snow falls), which sounds more literary."
+    },
+    {
+      "korean": "바람",
+      "english": "wind",
+      "example": "오늘 바람이 세게 불어요.",
+      "example_en": "The wind is blowing hard today.",
+      "notes": "바람 also means 'wish/hope' or 'affair' in different contexts. Here it means wind."
+    },
+    {
+      "korean": "바람이 불다",
+      "english": "wind blows",
+      "example": "산에서 시원한 바람이 불어요.",
+      "example_en": "A cool breeze is blowing on the mountain.",
+      "notes": "불다 means 'to blow.' It is also used for blowing out candles (촛불을 불다)."
+    },
+    {
+      "korean": "맑다",
+      "english": "clear; sunny",
+      "example": "하늘이 맑아서 기분이 좋아요.",
+      "example_en": "The sky is clear so I feel good.",
+      "notes": "맑다 describes a clear sky or clear water. For sunny weather, 맑은 날씨 is common."
+    },
+    {
+      "korean": "흐리다",
+      "english": "cloudy; overcast",
+      "example": "오늘은 하늘이 흐려요.",
+      "example_en": "The sky is cloudy today.",
+      "notes": "흐리다 can also mean 'blurry' or 'dim' when talking about vision or images."
+    },
+    {
+      "korean": "구름",
+      "english": "cloud",
+      "example": "구름이 많아서 해가 안 보여요.",
+      "example_en": "There are many clouds so the sun isn't visible.",
+      "notes": "구름이 끼다 means 'clouds gather/it gets cloudy.'"
+    },
+    {
+      "korean": "안개",
+      "english": "fog",
+      "example": "아침에 안개가 많이 꼈어요.",
+      "example_en": "There was a lot of fog this morning.",
+      "notes": "안개가 끼다 means 'fog sets in.' Driving in fog: 안개 속에서 운전하다."
+    },
+    {
+      "korean": "태풍",
+      "english": "typhoon",
+      "example": "태풍이 오고 있어서 조심해야 해요.",
+      "example_en": "A typhoon is coming, so we need to be careful.",
+      "notes": "Korea experiences typhoons mainly in late summer and early fall. 태 comes from 한자 太 (great)."
+    },
+    {
+      "korean": "우산",
+      "english": "umbrella",
+      "example": "우산을 안 가져와서 비를 맞았어요.",
+      "example_en": "I didn't bring an umbrella so I got rained on.",
+      "notes": "비를 맞다 literally means 'to get hit by rain.' 접이식 우산 = folding umbrella."
+    },
+    {
+      "korean": "장마",
+      "english": "rainy season; monsoon season",
+      "example": "장마철에는 매일 비가 와요.",
+      "example_en": "During the rainy season, it rains every day.",
+      "notes": "장마철 is the rainy season period, usually late June to mid-July in Korea."
+    },
+    {
+      "korean": "봄",
+      "english": "spring",
+      "example": "봄에는 꽃이 많이 피어요.",
+      "example_en": "In spring, many flowers bloom.",
+      "notes": "봄 is March to May in Korea. 벚꽃 (cherry blossoms) are a famous spring symbol."
+    },
+    {
+      "korean": "여름",
+      "english": "summer",
+      "example": "여름에 바다에 가고 싶어요.",
+      "example_en": "I want to go to the sea in summer.",
+      "notes": "Korean summer is hot and humid, especially during 장마 (monsoon). June to August."
+    },
+    {
+      "korean": "가을",
+      "english": "autumn; fall",
+      "example": "가을에는 단풍이 정말 예뻐요.",
+      "example_en": "In autumn, the fall foliage is really beautiful.",
+      "notes": "단풍 means 'autumn leaves / fall colors.' 가을 is September to November."
+    },
+    {
+      "korean": "겨울",
+      "english": "winter",
+      "example": "겨울에는 따뜻한 옷을 입어야 해요.",
+      "example_en": "In winter, you have to wear warm clothes.",
+      "notes": "Korean winters are very cold and dry. December to February."
+    },
+    {
+      "korean": "온도",
+      "english": "temperature",
+      "example": "오늘 온도가 30도예요.",
+      "example_en": "Today the temperature is 30 degrees.",
+      "notes": "Korea uses Celsius (섭씨). 영하 means below zero: 영하 5도 = minus 5 degrees."
+    },
+    {
+      "korean": "습하다",
+      "english": "humid",
+      "example": "여름에는 너무 습해요.",
+      "example_en": "It's too humid in summer.",
+      "notes": "습도 means 'humidity.' Korea's summer humidity can feel oppressive."
+    },
+    {
+      "korean": "건조하다",
+      "english": "dry",
+      "example": "겨울에는 공기가 건조해요.",
+      "example_en": "In winter, the air is dry.",
+      "notes": "건조하다 is used for weather, skin, or food. 피부가 건조하다 = skin is dry."
+    },
+    {
+      "korean": "미세먼지",
+      "english": "fine dust; fine particulate matter",
+      "example": "미세먼지가 심해서 마스크를 써요.",
+      "example_en": "The fine dust is bad, so I wear a mask.",
+      "notes": "A major concern in Korea, especially in spring. Check 미세먼지 forecasts on weather apps."
+    },
+    {
+      "korean": "일기예보",
+      "english": "weather forecast",
+      "example": "일기예보에서 내일 맑다고 했어요.",
+      "example_en": "The weather forecast said it will be clear tomorrow.",
+      "notes": "일기 here means 'weather' (not 'diary,' which is the same word). 예보 = forecast."
+    },
+    {
+      "korean": "해",
+      "english": "sun",
+      "example": "해가 뜨면 날씨가 따뜻해져요.",
+      "example_en": "When the sun rises, the weather gets warm.",
+      "notes": "해 also means 'year.' 해가 뜨다 = sun rises, 해가 지다 = sun sets."
+    },
+    {
+      "korean": "달",
+      "english": "moon",
+      "example": "오늘 밤에 달이 정말 밝아요.",
+      "example_en": "The moon is really bright tonight.",
+      "notes": "달 also means 'month.' 보름달 = full moon, 반달 = half moon."
+    },
+    {
+      "korean": "별",
+      "english": "star",
+      "example": "시골에서는 별이 많이 보여요.",
+      "example_en": "You can see many stars in the countryside.",
+      "notes": "별 can also mean 'star' as in celebrity (별 같은 사람). 별똥별 = shooting star."
+    }
+  ],
+  "몸 & 건강 (Body & Health)": [
+    {
+      "korean": "머리",
+      "english": "head; hair",
+      "example": "머리가 아파서 약을 먹었어요.",
+      "example_en": "My head hurt so I took medicine.",
+      "notes": "머리 means both 'head' and 'hair.' 머리를 감다 = to wash one's hair."
+    },
+    {
+      "korean": "얼굴",
+      "english": "face",
+      "example": "아침에 얼굴을 씻어요.",
+      "example_en": "I wash my face in the morning.",
+      "notes": "얼굴이 작다 (small face) is a compliment in Korea."
+    },
+    {
+      "korean": "눈",
+      "english": "eye",
+      "example": "눈이 피곤해서 좀 쉬고 싶어요.",
+      "example_en": "My eyes are tired so I want to rest a bit.",
+      "notes": "Same spelling as 'snow.' 눈물 = tears (eye + water). 눈이 크다 = to have big eyes (a compliment)."
+    },
+    {
+      "korean": "코",
+      "english": "nose",
+      "example": "감기에 걸려서 코가 막혔어요.",
+      "example_en": "I caught a cold and my nose is stuffed.",
+      "notes": "코를 풀다 = to blow one's nose. 코피 = nosebleed."
+    },
+    {
+      "korean": "입",
+      "english": "mouth",
+      "example": "입을 크게 벌려 보세요.",
+      "example_en": "Please open your mouth wide.",
+      "notes": "입맛 = appetite. 입이 짧다 = to be a picky eater (mouth is short)."
+    },
+    {
+      "korean": "귀",
+      "english": "ear",
+      "example": "음악을 너무 크게 들으면 귀가 아파요.",
+      "example_en": "If you listen to music too loud, your ears hurt.",
+      "notes": "귀걸이 = earring. 귀가 밝다 = to have sharp hearing."
+    },
+    {
+      "korean": "이/치아",
+      "english": "tooth/teeth",
+      "example": "하루에 세 번 이를 닦아요.",
+      "example_en": "I brush my teeth three times a day.",
+      "notes": "이 is casual, 치아 is more formal/medical. 이를 닦다 = to brush teeth. 사랑니 = wisdom tooth."
+    },
+    {
+      "korean": "목",
+      "english": "neck; throat",
+      "example": "목이 아파서 말을 못 해요.",
+      "example_en": "My throat hurts so I can't talk.",
+      "notes": "목이 마르다 = to be thirsty (throat is dry). 목도리 = scarf."
+    },
+    {
+      "korean": "어깨",
+      "english": "shoulder",
+      "example": "컴퓨터를 오래 하면 어깨가 아파요.",
+      "example_en": "If you use the computer for a long time, your shoulders hurt.",
+      "notes": "어깨가 뻣뻣하다 = shoulders are stiff. Office workers often complain about 어깨 통증 (shoulder pain)."
+    },
+    {
+      "korean": "팔",
+      "english": "arm",
+      "example": "운동을 많이 해서 팔이 아파요.",
+      "example_en": "I exercised a lot so my arms hurt.",
+      "notes": "팔꿈치 = elbow. 팔짱을 끼다 = to fold one's arms."
+    },
+    {
+      "korean": "손",
+      "english": "hand",
+      "example": "밥 먹기 전에 손을 씻어요.",
+      "example_en": "I wash my hands before eating.",
+      "notes": "손님 = guest (hand + person). 손잡이 = handle."
+    },
+    {
+      "korean": "손가락",
+      "english": "finger",
+      "example": "요리하다가 손가락을 베었어요.",
+      "example_en": "I cut my finger while cooking.",
+      "notes": "엄지손가락 = thumb, 검지 = index finger, 약지 = ring finger, 새끼손가락 = pinky."
+    },
+    {
+      "korean": "가슴",
+      "english": "chest; heart (figurative)",
+      "example": "운동하면 가슴이 두근거려요.",
+      "example_en": "When I exercise, my chest pounds.",
+      "notes": "가슴이 아프다 can mean physical chest pain or emotional heartache."
+    },
+    {
+      "korean": "배",
+      "english": "stomach; belly",
+      "example": "배가 고파요. 밥 먹으러 가요!",
+      "example_en": "I'm hungry. Let's go eat!",
+      "notes": "배 also means 'boat/ship' and 'pear.' 배가 고프다 = to be hungry, 배가 부르다 = to be full."
+    },
+    {
+      "korean": "등",
+      "english": "back (body)",
+      "example": "오래 앉아 있으면 등이 아파요.",
+      "example_en": "If you sit for a long time, your back hurts.",
+      "notes": "등 also means 'etc.' in writing. 등산 = mountain climbing (climbing one's back)."
+    },
+    {
+      "korean": "허리",
+      "english": "waist; lower back",
+      "example": "무거운 것을 들다가 허리를 다쳤어요.",
+      "example_en": "I hurt my lower back lifting something heavy.",
+      "notes": "허리 통증 (lower back pain) is extremely common. 허리띠 = belt."
+    },
+    {
+      "korean": "다리",
+      "english": "leg",
+      "example": "많이 걸어서 다리가 아파요.",
+      "example_en": "I walked a lot so my legs hurt.",
+      "notes": "다리 also means 'bridge.' 다리를 꼬다 = to cross one's legs."
+    },
+    {
+      "korean": "발",
+      "english": "foot",
+      "example": "새 신발이 작아서 발이 아파요.",
+      "example_en": "The new shoes are small so my feet hurt.",
+      "notes": "발가락 = toe. 발목 = ankle. Koreans remove shoes indoors."
+    },
+    {
+      "korean": "무릎",
+      "english": "knee",
+      "example": "넘어져서 무릎을 다쳤어요.",
+      "example_en": "I fell and hurt my knee.",
+      "notes": "무릎을 꿇다 = to kneel. Knee pain is common among hikers (등산하는 사람)."
+    },
+    {
+      "korean": "아프다",
+      "english": "to hurt; to be sick/in pain",
+      "example": "어디가 아파요?",
+      "example_en": "Where does it hurt?",
+      "notes": "Very versatile: 배가 아프다 (stomach hurts), 마음이 아프다 (heart aches). 아파요 is the 해요체 form."
+    },
+    {
+      "korean": "감기",
+      "english": "cold (illness)",
+      "example": "감기에 걸려서 집에서 쉬어요.",
+      "example_en": "I caught a cold so I'm resting at home.",
+      "notes": "감기에 걸리다 = to catch a cold. 독감 = influenza (more severe)."
+    },
+    {
+      "korean": "열",
+      "english": "fever; heat",
+      "example": "열이 나서 학교에 못 갔어요.",
+      "example_en": "I had a fever so I couldn't go to school.",
+      "notes": "열이 나다 = to have a fever. 체온 = body temperature. 38도 이상 = over 38 degrees (fever)."
+    },
+    {
+      "korean": "기침",
+      "english": "cough",
+      "example": "기침이 멈추지 않아요.",
+      "example_en": "My cough won't stop.",
+      "notes": "기침을 하다 = to cough. 기침약 = cough medicine."
+    },
+    {
+      "korean": "두통",
+      "english": "headache",
+      "example": "두통이 심해서 약을 먹었어요.",
+      "example_en": "My headache was bad so I took medicine.",
+      "notes": "두 = head (한자 頭), 통 = pain (한자 痛). 두통약 = headache medicine."
+    },
+    {
+      "korean": "배탈",
+      "english": "stomachache; upset stomach",
+      "example": "상한 음식을 먹어서 배탈이 났어요.",
+      "example_en": "I ate spoiled food and got a stomachache.",
+      "notes": "배탈이 나다 = to get a stomachache. 체하다 = to have indigestion."
+    },
+    {
+      "korean": "약",
+      "english": "medicine; medication",
+      "example": "식후에 약을 드세요.",
+      "example_en": "Please take the medicine after eating.",
+      "notes": "약을 먹다 = to take medicine (literally 'eat'). 약을 바르다 = to apply medicine (ointment)."
+    },
+    {
+      "korean": "약국",
+      "english": "pharmacy",
+      "example": "약국에서 감기약을 샀어요.",
+      "example_en": "I bought cold medicine at the pharmacy.",
+      "notes": "In Korea, pharmacies are everywhere. You can get many medicines without a prescription."
+    },
+    {
+      "korean": "병원",
+      "english": "hospital; clinic",
+      "example": "아파서 병원에 갔어요.",
+      "example_en": "I was sick so I went to the hospital.",
+      "notes": "Koreans say 병원 for any clinic or hospital. 대학병원 = university hospital (large hospital)."
+    },
+    {
+      "korean": "의사",
+      "english": "doctor",
+      "example": "의사 선생님이 약을 처방해 주셨어요.",
+      "example_en": "The doctor prescribed medicine for me.",
+      "notes": "의사 선생님 is the polite way to address a doctor. 의사 alone is used when referring to the profession."
+    },
+    {
+      "korean": "간호사",
+      "english": "nurse",
+      "example": "간호사가 주사를 놓아 주었어요.",
+      "example_en": "The nurse gave me a shot.",
+      "notes": "간호 = nursing/care. 간호사 is gender-neutral in Korean."
+    },
+    {
+      "korean": "수술",
+      "english": "surgery; operation",
+      "example": "수술이 잘 끝나서 다행이에요.",
+      "example_en": "I'm relieved the surgery went well.",
+      "notes": "수술을 받다 = to have/undergo surgery. 수술실 = operating room."
+    },
+    {
+      "korean": "주사",
+      "english": "injection; shot",
+      "example": "주사가 무서워요.",
+      "example_en": "I'm scared of shots.",
+      "notes": "주사를 맞다 = to get a shot. 주사를 놓다 = to give a shot. 예방주사 = vaccine shot."
+    },
+    {
+      "korean": "검사",
+      "english": "examination; test (medical)",
+      "example": "건강 검사를 받으러 병원에 가요.",
+      "example_en": "I'm going to the hospital for a health checkup.",
+      "notes": "건강검진 = health checkup (formal). 혈액 검사 = blood test. 검사 also means 'prosecutor' in legal context."
+    },
+    {
+      "korean": "알레르기",
+      "english": "allergy",
+      "example": "저는 고양이 알레르기가 있어요.",
+      "example_en": "I have a cat allergy.",
+      "notes": "Loanword from English 'allergy.' 꽃가루 알레르기 = pollen allergy."
+    },
+    {
+      "korean": "운동하다",
+      "english": "to exercise",
+      "example": "건강을 위해서 매일 운동해요.",
+      "example_en": "I exercise every day for my health.",
+      "notes": "운동 = exercise/sport (noun). 헬스장 = gym. 운동을 하다 and 운동하다 are both correct."
+    },
+    {
+      "korean": "건강하다",
+      "english": "to be healthy",
+      "example": "우리 할머니는 아주 건강하세요.",
+      "example_en": "Our grandmother is very healthy.",
+      "notes": "건강 = health (noun). 건강하게 지내세요 = Stay healthy (common farewell)."
+    },
+    {
+      "korean": "피곤하다",
+      "english": "to be tired",
+      "example": "오늘 일을 많이 해서 피곤해요.",
+      "example_en": "I worked a lot today so I'm tired.",
+      "notes": "피곤 = fatigue (noun). 너무 피곤해요 is one of the most common Korean complaints."
+    },
+    {
+      "korean": "잠",
+      "english": "sleep",
+      "example": "어젯밤에 잠을 못 잤어요.",
+      "example_en": "I couldn't sleep last night.",
+      "notes": "잠을 자다 = to sleep, 잠이 오다 = to feel sleepy, 잠이 안 오다 = can't fall asleep."
+    },
+    {
+      "korean": "자다",
+      "english": "to sleep",
+      "example": "보통 밤 11시에 자요.",
+      "example_en": "I usually sleep at 11 PM.",
+      "notes": "낮잠을 자다 = to take a nap. 주무시다 is the honorific form (for elders)."
+    },
+    {
+      "korean": "일어나다",
+      "english": "to wake up; to get up",
+      "example": "아침 7시에 일어나요.",
+      "example_en": "I wake up at 7 in the morning.",
+      "notes": "일어나다 also means 'to stand up' or 'to happen/occur.' 일어나세요! = Wake up! / Stand up!"
+    }
+  ],
+  "교통 (Transportation)": [
+    {
+      "korean": "버스",
+      "english": "bus",
+      "example": "매일 버스를 타고 학교에 가요.",
+      "example_en": "I take the bus to school every day.",
+      "notes": "시내버스 = city bus, 고속버스 = express bus, 마을버스 = village/local bus."
+    },
+    {
+      "korean": "지하철",
+      "english": "subway; metro",
+      "example": "서울에서는 지하철이 제일 편해요.",
+      "example_en": "In Seoul, the subway is the most convenient.",
+      "notes": "Seoul's subway system is excellent. Lines are numbered and color-coded. Also called 전철."
+    },
+    {
+      "korean": "택시",
+      "english": "taxi",
+      "example": "늦어서 택시를 탔어요.",
+      "example_en": "I was late so I took a taxi.",
+      "notes": "모범택시 = deluxe taxi (black, more expensive). 콜택시 = call taxi (reserved by phone/app)."
+    },
+    {
+      "korean": "비행기",
+      "english": "airplane",
+      "example": "비행기로 두 시간이면 도착해요.",
+      "example_en": "It takes two hours to arrive by airplane.",
+      "notes": "비행 = flight. 비행기를 타다 = to take a plane. 비행기표 = plane ticket."
+    },
+    {
+      "korean": "기차",
+      "english": "train",
+      "example": "부산까지 기차로 가고 싶어요.",
+      "example_en": "I want to go to Busan by train.",
+      "notes": "KTX is Korea's high-speed train. 기차역 = train station. 무궁화호 = regular train."
+    },
+    {
+      "korean": "배",
+      "english": "boat; ship",
+      "example": "제주도에 배를 타고 갔어요.",
+      "example_en": "I went to Jeju Island by boat.",
+      "notes": "배 has multiple meanings: boat, stomach, pear. 여객선 = passenger ship, 유람선 = cruise ship."
+    },
+    {
+      "korean": "자전거",
+      "english": "bicycle",
+      "example": "공원에서 자전거를 타요.",
+      "example_en": "I ride a bicycle in the park.",
+      "notes": "따릉이 is Seoul's public bike-sharing system. 자전거 도로 = bike lane."
+    },
+    {
+      "korean": "자동차/차",
+      "english": "car",
+      "example": "새 차를 사고 싶어요.",
+      "example_en": "I want to buy a new car.",
+      "notes": "자동차 is formal; 차 is casual and much more common in conversation. 차 also means 'tea.'"
+    },
+    {
+      "korean": "오토바이",
+      "english": "motorcycle",
+      "example": "배달 오토바이가 정말 많아요.",
+      "example_en": "There are really many delivery motorcycles.",
+      "notes": "Loanword from English 'auto-bike.' Very common for 배달 (delivery) in Korea."
+    },
+    {
+      "korean": "타다",
+      "english": "to ride; to get on",
+      "example": "여기서 몇 번 버스를 타야 해요?",
+      "example_en": "What number bus should I take here?",
+      "notes": "타다 is used for all vehicles. It also means 'to burn' in a different context."
+    },
+    {
+      "korean": "내리다",
+      "english": "to get off; to descend",
+      "example": "다음 정류장에서 내려요.",
+      "example_en": "I get off at the next stop.",
+      "notes": "내리다 also means 'to come down' (rain, snow). 비가 내리다 = rain falls."
+    },
+    {
+      "korean": "갈아타다",
+      "english": "to transfer (vehicles)",
+      "example": "2호선에서 3호선으로 갈아타세요.",
+      "example_en": "Transfer from Line 2 to Line 3.",
+      "notes": "갈다 (to change) + 타다 (to ride). 환승 is the formal noun for 'transfer.'"
+    },
+    {
+      "korean": "표",
+      "english": "ticket",
+      "example": "표를 미리 예매했어요.",
+      "example_en": "I booked the ticket in advance.",
+      "notes": "승차권 is more formal for transport tickets. 표를 끊다 = to buy a ticket (older expression)."
+    },
+    {
+      "korean": "요금",
+      "english": "fare; fee",
+      "example": "버스 요금이 얼마예요?",
+      "example_en": "How much is the bus fare?",
+      "notes": "기본요금 = base fare. 추가요금 = additional charge."
+    },
+    {
+      "korean": "교통카드",
+      "english": "transit card",
+      "example": "교통카드에 돈을 충전해야 해요.",
+      "example_en": "I need to charge money on my transit card.",
+      "notes": "T-money is the most common transit card brand in Korea. 충전하다 = to recharge."
+    },
+    {
+      "korean": "운전",
+      "english": "driving",
+      "example": "운전 조심하세요!",
+      "example_en": "Drive carefully!",
+      "notes": "운전면허 = driver's license. 운전면허증 = physical license card."
+    },
+    {
+      "korean": "운전하다",
+      "english": "to drive",
+      "example": "저는 운전하는 것을 좋아해요.",
+      "example_en": "I like driving.",
+      "notes": "음주운전 = drunk driving (very serious in Korea). 초보운전 = beginner driver."
+    },
+    {
+      "korean": "주차",
+      "english": "parking",
+      "example": "여기에 주차해도 돼요?",
+      "example_en": "Can I park here?",
+      "notes": "주차금지 = no parking. 주차비 = parking fee."
+    },
+    {
+      "korean": "주차장",
+      "english": "parking lot; parking garage",
+      "example": "주차장이 꽉 찼어요.",
+      "example_en": "The parking lot is full.",
+      "notes": "지하주차장 = underground parking. 주차장 is often abbreviated as P on signs."
+    },
+    {
+      "korean": "도착하다",
+      "english": "to arrive",
+      "example": "공항에 몇 시에 도착해요?",
+      "example_en": "What time do you arrive at the airport?",
+      "notes": "도착 = arrival (noun). Opposite of 출발하다 (to depart)."
+    },
+    {
+      "korean": "출발하다",
+      "english": "to depart; to leave",
+      "example": "비행기가 오후 3시에 출발해요.",
+      "example_en": "The airplane departs at 3 PM.",
+      "notes": "출발 = departure (noun). 출발 시간 = departure time."
+    },
+    {
+      "korean": "출구",
+      "english": "exit",
+      "example": "3번 출구로 나오세요.",
+      "example_en": "Please come out through Exit 3.",
+      "notes": "Subway exits are numbered. Giving directions with exit numbers is very common in Korea."
+    },
+    {
+      "korean": "입구",
+      "english": "entrance",
+      "example": "입구가 어디에 있어요?",
+      "example_en": "Where is the entrance?",
+      "notes": "입 = enter, 구 = opening. Opposite of 출구 (exit). 정문 = main entrance/gate."
+    },
+    {
+      "korean": "정류장",
+      "english": "stop; station (bus)",
+      "example": "다음 정류장에서 내릴 거예요.",
+      "example_en": "I'll get off at the next stop.",
+      "notes": "버스 정류장 = bus stop. For subway, use 역 (station) instead."
+    },
+    {
+      "korean": "역",
+      "english": "station (subway/train)",
+      "example": "서울역에서 만나요.",
+      "example_en": "Let's meet at Seoul Station.",
+      "notes": "역 is specifically for rail stations. 지하철역 = subway station, 기차역 = train station."
+    },
+    {
+      "korean": "공항",
+      "english": "airport",
+      "example": "인천공항까지 얼마나 걸려요?",
+      "example_en": "How long does it take to get to Incheon Airport?",
+      "notes": "인천국제공항 = Incheon International Airport, Korea's main international airport. 김포공항 = domestic flights."
+    },
+    {
+      "korean": "시간표",
+      "english": "schedule; timetable",
+      "example": "버스 시간표를 확인했어요?",
+      "example_en": "Did you check the bus schedule?",
+      "notes": "시간 = time, 표 = table/chart. 수업 시간표 = class schedule."
+    },
+    {
+      "korean": "길",
+      "english": "road; way; path",
+      "example": "이 길로 쭉 가면 돼요.",
+      "example_en": "Just go straight along this road.",
+      "notes": "길을 잃다 = to get lost. 길을 묻다 = to ask for directions. Very common word."
+    },
+    {
+      "korean": "교통",
+      "english": "traffic; transportation",
+      "example": "서울은 교통이 복잡해요.",
+      "example_en": "Traffic in Seoul is complicated.",
+      "notes": "교통체증 = traffic jam. 대중교통 = public transportation."
+    },
+    {
+      "korean": "신호등",
+      "english": "traffic light",
+      "example": "신호등이 빨간색이면 멈춰야 해요.",
+      "example_en": "If the traffic light is red, you have to stop.",
+      "notes": "신호 = signal, 등 = light. 초록불 = green light, 빨간불 = red light."
+    }
+  ],
+  "취미 & 여가 (Hobbies & Leisure)": [
+    {
+      "korean": "취미",
+      "english": "hobby",
+      "example": "취미가 뭐예요?",
+      "example_en": "What is your hobby?",
+      "notes": "One of the most common self-introduction questions in Korean. 취미 생활 = hobby life/leisure activities."
+    },
+    {
+      "korean": "영화",
+      "english": "movie; film",
+      "example": "주말에 영화 보러 갈래요?",
+      "example_en": "Do you want to go see a movie this weekend?",
+      "notes": "영화관 = movie theater. 영화를 보다 = to watch a movie. Korean cinema is world-renowned."
+    },
+    {
+      "korean": "음악",
+      "english": "music",
+      "example": "음악 듣는 것을 좋아해요.",
+      "example_en": "I like listening to music.",
+      "notes": "음악을 듣다 = to listen to music. K-pop = 케이팝. 클래식 음악 = classical music."
+    },
+    {
+      "korean": "노래",
+      "english": "song",
+      "example": "이 노래 정말 좋아요!",
+      "example_en": "This song is really good!",
+      "notes": "노래를 부르다 = to sing a song. 노래방 = karaoke room."
+    },
+    {
+      "korean": "춤추다",
+      "english": "to dance",
+      "example": "춤추는 것을 배우고 싶어요.",
+      "example_en": "I want to learn to dance.",
+      "notes": "춤 = dance (noun). 춤을 추다 is the separated form. K-pop 댄스 is very popular."
+    },
+    {
+      "korean": "운동",
+      "english": "exercise; sport",
+      "example": "어떤 운동을 좋아해요?",
+      "example_en": "What kind of exercise/sport do you like?",
+      "notes": "운동 covers both exercise and sports. 운동선수 = athlete. 운동화 = sneakers."
+    },
+    {
+      "korean": "축구",
+      "english": "soccer; football",
+      "example": "친구들이랑 축구를 해요.",
+      "example_en": "I play soccer with friends.",
+      "notes": "축구를 하다 = to play soccer. Korea's national team is very popular. 월드컵 = World Cup."
+    },
+    {
+      "korean": "야구",
+      "english": "baseball",
+      "example": "야구 경기 보러 갈까요?",
+      "example_en": "Shall we go watch a baseball game?",
+      "notes": "야구 is extremely popular in Korea. 프로야구 = professional baseball. 야구장 = baseball stadium."
+    },
+    {
+      "korean": "농구",
+      "english": "basketball",
+      "example": "학교에서 농구를 자주 해요.",
+      "example_en": "I often play basketball at school.",
+      "notes": "농구를 하다 = to play basketball. 농구 코트 = basketball court."
+    },
+    {
+      "korean": "수영",
+      "english": "swimming",
+      "example": "여름에 수영하러 바다에 가요.",
+      "example_en": "I go to the sea to swim in summer.",
+      "notes": "수영장 = swimming pool. 수영을 하다 = to swim. 수영복 = swimsuit."
+    },
+    {
+      "korean": "달리기",
+      "english": "running",
+      "example": "아침마다 달리기를 해요.",
+      "example_en": "I run every morning.",
+      "notes": "달리다 = to run (verb). 마라톤 = marathon. 조깅 = jogging."
+    },
+    {
+      "korean": "등산",
+      "english": "hiking; mountain climbing",
+      "example": "주말에 등산하러 갈 거예요.",
+      "example_en": "I'm going hiking this weekend.",
+      "notes": "등산 is a hugely popular hobby in Korea. 등산복 = hiking clothes. 등산화 = hiking boots."
+    },
+    {
+      "korean": "요가",
+      "english": "yoga",
+      "example": "스트레스 해소를 위해 요가를 해요.",
+      "example_en": "I do yoga to relieve stress.",
+      "notes": "요가 학원 = yoga studio/class. 명상 = meditation, often paired with yoga."
+    },
+    {
+      "korean": "여행",
+      "english": "travel; trip",
+      "example": "다음 달에 일본으로 여행 가요.",
+      "example_en": "I'm going on a trip to Japan next month.",
+      "notes": "여행을 가다 = to go on a trip. 해외여행 = overseas travel. 국내여행 = domestic travel."
+    },
+    {
+      "korean": "사진",
+      "english": "photo; photograph",
+      "example": "사진 찍어 주실 수 있어요?",
+      "example_en": "Could you take a photo for me?",
+      "notes": "사진을 찍다 = to take a photo. 셀카 = selfie (from 'self camera')."
+    },
+    {
+      "korean": "요리",
+      "english": "cooking; cuisine",
+      "example": "한국 요리를 배우고 싶어요.",
+      "example_en": "I want to learn Korean cooking.",
+      "notes": "요리하다 = to cook. 요리사 = chef. 집에서 요리해 먹다 = to cook and eat at home."
+    },
+    {
+      "korean": "그림",
+      "english": "drawing; painting; picture",
+      "example": "동생이 그림을 잘 그려요.",
+      "example_en": "My younger sibling draws well.",
+      "notes": "그림을 그리다 = to draw a picture. 그림책 = picture book."
+    },
+    {
+      "korean": "게임",
+      "english": "game",
+      "example": "친구들이랑 온라인 게임을 해요.",
+      "example_en": "I play online games with friends.",
+      "notes": "PC방 = internet/gaming cafe. Korea has a major esports (e스포츠) culture."
+    },
+    {
+      "korean": "산책",
+      "english": "walk; stroll",
+      "example": "저녁에 공원에서 산책해요.",
+      "example_en": "I take a walk in the park in the evening.",
+      "notes": "산책하다 = to take a walk. 산책을 하다 also works. 반려동물과 산책 = walking with a pet."
+    },
+    {
+      "korean": "독서",
+      "english": "reading (books)",
+      "example": "독서가 제일 좋은 취미예요.",
+      "example_en": "Reading is the best hobby.",
+      "notes": "독서하다 = to read (books). More formal than 책을 읽다 (to read a book)."
+    },
+    {
+      "korean": "쇼핑",
+      "english": "shopping",
+      "example": "명동에서 쇼핑을 했어요.",
+      "example_en": "I went shopping in Myeongdong.",
+      "notes": "온라인 쇼핑 = online shopping. 쇼핑몰 = shopping mall. 쿠팡 = Korea's major e-commerce site."
+    },
+    {
+      "korean": "낚시",
+      "english": "fishing",
+      "example": "아버지가 낚시를 좋아하세요.",
+      "example_en": "My father likes fishing.",
+      "notes": "낚시를 하다 = to go fishing. 낚싯대 = fishing rod. 바다낚시 = sea fishing."
+    },
+    {
+      "korean": "캠핑",
+      "english": "camping",
+      "example": "이번 주말에 캠핑 갈 거예요.",
+      "example_en": "I'm going camping this weekend.",
+      "notes": "캠핑장 = campsite/campground. 글램핑 = glamping (glamorous camping), very popular in Korea."
+    },
+    {
+      "korean": "노래방",
+      "english": "karaoke; singing room",
+      "example": "회식 후에 노래방에 가요.",
+      "example_en": "After the work dinner, we go to karaoke.",
+      "notes": "노래 = song + 방 = room. A quintessential Korean social activity. 코인노래방 = coin karaoke (cheaper, by song)."
+    },
+    {
+      "korean": "드라마",
+      "english": "drama; TV show",
+      "example": "요즘 재미있는 드라마가 있어요?",
+      "example_en": "Are there any interesting dramas these days?",
+      "notes": "한국 드라마 = Korean drama (K-drama). 넷플릭스 = Netflix. 드라마를 보다 = to watch a drama."
+    },
+    {
+      "korean": "TV/텔레비전",
+      "english": "television",
+      "example": "저녁에 TV를 봐요.",
+      "example_en": "I watch TV in the evening.",
+      "notes": "In conversation, Koreans usually say TV (티비). 텔레비전 is the full word but rarely used in casual speech."
+    },
+    {
+      "korean": "인터넷",
+      "english": "internet",
+      "example": "한국은 인터넷이 정말 빨라요.",
+      "example_en": "The internet in Korea is really fast.",
+      "notes": "Korea has some of the fastest internet in the world. 와이파이 = Wi-Fi."
+    },
+    {
+      "korean": "핸드폰",
+      "english": "cell phone; mobile phone",
+      "example": "핸드폰 번호가 뭐예요?",
+      "example_en": "What is your cell phone number?",
+      "notes": "Also called 휴대폰 (more formal) or 스마트폰 (smartphone). 핸드폰 is most common in casual speech."
+    },
+    {
+      "korean": "책",
+      "english": "book",
+      "example": "이 책 정말 재미있어요.",
+      "example_en": "This book is really interesting.",
+      "notes": "책을 읽다 = to read a book. 책방/서점 = bookstore. 도서관 = library."
+    },
+    {
+      "korean": "신문",
+      "english": "newspaper",
+      "example": "아버지는 매일 아침 신문을 읽으세요.",
+      "example_en": "My father reads the newspaper every morning.",
+      "notes": "신문을 읽다 = to read a newspaper. 뉴스 = news. Print newspapers are declining in Korea too."
+    },
+    {
+      "korean": "콘서트",
+      "english": "concert",
+      "example": "다음 주에 콘서트에 가요!",
+      "example_en": "I'm going to a concert next week!",
+      "notes": "K-pop 콘서트 tickets are very hard to get. 공연 is the native Korean word for 'performance.'"
+    },
+    {
+      "korean": "공연",
+      "english": "performance; show",
+      "example": "뮤지컬 공연을 보러 갈 거예요.",
+      "example_en": "I'm going to see a musical performance.",
+      "notes": "공연장 = performance venue. Covers theater, musicals, concerts, and other live shows."
+    },
+    {
+      "korean": "전시회",
+      "english": "exhibition",
+      "example": "미술 전시회에 같이 가요.",
+      "example_en": "Let's go to the art exhibition together.",
+      "notes": "전시 = exhibition/display. 전시회를 보다 / 전시를 보다 = to see an exhibition."
+    },
+    {
+      "korean": "박물관",
+      "english": "museum",
+      "example": "국립박물관에 가 본 적 있어요?",
+      "example_en": "Have you been to the National Museum?",
+      "notes": "국립중앙박물관 = National Museum of Korea (in Seoul). 박물관 입장료 = museum admission fee."
+    },
+    {
+      "korean": "미술관",
+      "english": "art gallery; art museum",
+      "example": "이 미술관에 유명한 그림이 많아요.",
+      "example_en": "This art gallery has many famous paintings.",
+      "notes": "미술 = art/fine arts. 미술관 vs 갤러리 - both are used. 현대미술관 = contemporary art museum."
+    },
+    {
+      "korean": "피아노",
+      "english": "piano",
+      "example": "어렸을 때 피아노를 배웠어요.",
+      "example_en": "I learned piano when I was young.",
+      "notes": "피아노를 치다 = to play piano (치다 = to hit/strike). 피아노 학원 = piano academy."
+    },
+    {
+      "korean": "기타",
+      "english": "guitar",
+      "example": "기타 치는 것을 배우고 있어요.",
+      "example_en": "I'm learning to play guitar.",
+      "notes": "기타를 치다 = to play guitar. Note: 기타 also means 'other/etc.' in different contexts."
+    },
+    {
+      "korean": "노래하다",
+      "english": "to sing",
+      "example": "샤워할 때 항상 노래해요.",
+      "example_en": "I always sing when I shower.",
+      "notes": "노래를 부르다 is more common than 노래하다 in natural speech. Both are correct."
+    },
+    {
+      "korean": "그리다",
+      "english": "to draw; to paint",
+      "example": "풍경을 그리는 것을 좋아해요.",
+      "example_en": "I like drawing landscapes.",
+      "notes": "그림을 그리다 = to draw a picture. 그리다 also means 'to miss someone' (그리워하다)."
+    },
+    {
+      "korean": "찍다",
+      "english": "to take (a photo)",
+      "example": "여행할 때 사진을 많이 찍어요.",
+      "example_en": "I take lots of photos when I travel.",
+      "notes": "사진을 찍다 = to take a photo. 찍다 also means 'to stamp' or 'to dip (in sauce).'"
+    }
+  ],
+  "감정 & 상태 (Emotions & States)": [
+    {
+      "korean": "기쁘다",
+      "english": "happy, glad",
+      "example": "시험에 합격해서 정말 기뻐요.",
+      "example_en": "I'm really happy because I passed the exam.",
+      "notes": "기쁘다 is for a specific reason or event. Conjugates irregularly: 기쁘 → 기뻐요 (ㅡ drops)."
+    },
+    {
+      "korean": "행복하다",
+      "english": "happy",
+      "example": "가족과 함께 있으면 행복해요.",
+      "example_en": "I'm happy when I'm with my family.",
+      "notes": "행복하다 is a deeper, more lasting happiness than 기쁘다. From 한자 幸福."
+    },
+    {
+      "korean": "슬프다",
+      "english": "sad",
+      "example": "이 영화 너무 슬퍼요.",
+      "example_en": "This movie is so sad.",
+      "notes": "ㅡ irregular: 슬프 → 슬퍼요. Often used with 너무 for emphasis."
+    },
+    {
+      "korean": "화나다",
+      "english": "angry, mad",
+      "example": "친구가 약속을 안 지켜서 화가 나요.",
+      "example_en": "I'm angry because my friend didn't keep the promise.",
+      "notes": "화가 나다 (with subject marker 가) is the full form. 화내다 means 'to get angry at someone.'"
+    },
+    {
+      "korean": "무섭다",
+      "english": "scary, afraid",
+      "example": "밤에 혼자 걸으면 무서워요.",
+      "example_en": "It's scary to walk alone at night.",
+      "notes": "ㅂ irregular: 무섭 → 무서워요. Can mean 'I'm scared' or 'it's scary' depending on context."
+    },
+    {
+      "korean": "놀라다",
+      "english": "surprised",
+      "example": "갑자기 큰 소리가 나서 놀랐어요.",
+      "example_en": "I was surprised because there was a sudden loud sound.",
+      "notes": "Past tense 놀랐어요 is very common. 깜짝 놀라다 means 'to be startled.'"
+    },
+    {
+      "korean": "외롭다",
+      "english": "lonely",
+      "example": "혼자 사니까 가끔 외로워요.",
+      "example_en": "I sometimes feel lonely because I live alone.",
+      "notes": "ㅂ irregular: 외롭 → 외로워요. 외로움 is the noun form meaning 'loneliness.'"
+    },
+    {
+      "korean": "심심하다",
+      "english": "bored",
+      "example": "할 일이 없어서 심심해요.",
+      "example_en": "I'm bored because I have nothing to do.",
+      "notes": "Very casual/everyday word. 지루하다 is a more formal way to say 'boring.'"
+    },
+    {
+      "korean": "걱정되다",
+      "english": "worried",
+      "example": "내일 면접이 있어서 걱정돼요.",
+      "example_en": "I'm worried because I have an interview tomorrow.",
+      "notes": "걱정하다 = to worry (active); 걱정되다 = to be worried (passive/involuntary feeling)."
+    },
+    {
+      "korean": "긴장되다",
+      "english": "nervous, tense",
+      "example": "발표 전에 항상 긴장돼요.",
+      "example_en": "I always get nervous before presentations.",
+      "notes": "긴장하다 = to be tense (active); 긴장되다 = to feel nervous (involuntary). From 한자 緊張."
+    },
+    {
+      "korean": "부끄럽다",
+      "english": "embarrassed, shy",
+      "example": "사람들 앞에서 노래하면 부끄러워요.",
+      "example_en": "I feel embarrassed singing in front of people.",
+      "notes": "ㅂ irregular: 부끄럽 → 부끄러워요. Can mean both 'shy' and 'embarrassed.'"
+    },
+    {
+      "korean": "자랑스럽다",
+      "english": "proud",
+      "example": "아들이 열심히 공부해서 자랑스러워요.",
+      "example_en": "I'm proud because my son studies hard.",
+      "notes": "ㅂ irregular: 자랑스럽 → 자랑스러워요. 자랑하다 means 'to brag/boast.'"
+    },
+    {
+      "korean": "감동하다",
+      "english": "moved, touched",
+      "example": "그 이야기를 듣고 감동했어요.",
+      "example_en": "I was touched after hearing that story.",
+      "notes": "감동받다 (to receive being moved) is also very common. From 한자 感動."
+    },
+    {
+      "korean": "실망하다",
+      "english": "disappointed",
+      "example": "결과를 보고 좀 실망했어요.",
+      "example_en": "I was a bit disappointed after seeing the results.",
+      "notes": "From 한자 失望. Often softened with 좀 (a bit) in conversation."
+    },
+    {
+      "korean": "피곤하다",
+      "english": "tired",
+      "example": "오늘 많이 일해서 피곤해요.",
+      "example_en": "I'm tired because I worked a lot today.",
+      "notes": "From 한자 疲困. Very high-frequency word in daily life."
+    },
+    {
+      "korean": "배고프다",
+      "english": "hungry",
+      "example": "아침을 안 먹어서 배고파요.",
+      "example_en": "I'm hungry because I didn't eat breakfast.",
+      "notes": "ㅡ irregular: 배고프 → 배고파요. Literally 'stomach is empty.' 배 = stomach."
+    },
+    {
+      "korean": "배부르다",
+      "english": "full (stomach)",
+      "example": "너무 많이 먹어서 배불러요.",
+      "example_en": "I'm full because I ate too much.",
+      "notes": "ㅡ irregular: 배부르 → 배불러요. Opposite of 배고프다."
+    },
+    {
+      "korean": "목마르다",
+      "english": "thirsty",
+      "example": "운동한 후에 목말라요.",
+      "example_en": "I'm thirsty after exercising.",
+      "notes": "ㅡ irregular: 목마르 → 목말라요. Literally 'throat is dry.' 목 = throat/neck."
+    },
+    {
+      "korean": "졸리다",
+      "english": "sleepy, drowsy",
+      "example": "어젯밤에 잠을 못 자서 졸려요.",
+      "example_en": "I'm sleepy because I couldn't sleep last night.",
+      "notes": "졸리다 = to feel sleepy; 졸다 = to doze off. Don't confuse the two."
+    },
+    {
+      "korean": "아프다",
+      "english": "sick, hurt, painful",
+      "example": "머리가 아파요.",
+      "example_en": "I have a headache. (My head hurts.)",
+      "notes": "ㅡ irregular: 아프 → 아파요. Used for all kinds of pain: 배가 아프다, 다리가 아프다, etc."
+    },
+    {
+      "korean": "좋다",
+      "english": "good, to like",
+      "example": "오늘 날씨가 좋아요.",
+      "example_en": "The weather is nice today.",
+      "notes": "좋다 = something is good; 좋아하다 = to like (active verb). Both are essential."
+    },
+    {
+      "korean": "싫다",
+      "english": "dislike, don't want",
+      "example": "저는 매운 음식이 싫어요.",
+      "example_en": "I dislike spicy food.",
+      "notes": "싫다 = to dislike (adjective); 싫어하다 = to dislike (active verb). Opposite of 좋다."
+    },
+    {
+      "korean": "재미있다",
+      "english": "fun, interesting",
+      "example": "이 드라마 정말 재미있어요.",
+      "example_en": "This drama is really fun/interesting.",
+      "notes": "Literally 'interest exists.' 재미 = fun/interest + 있다 = to exist."
+    },
+    {
+      "korean": "재미없다",
+      "english": "boring, not fun",
+      "example": "그 영화는 재미없었어요.",
+      "example_en": "That movie was boring.",
+      "notes": "Literally 'interest doesn't exist.' 재미 + 없다. Opposite of 재미있다."
+    },
+    {
+      "korean": "신나다",
+      "english": "excited, pumped up",
+      "example": "내일 여행 가니까 신나요!",
+      "example_en": "I'm excited because I'm going on a trip tomorrow!",
+      "notes": "Casual and energetic feeling. 신나는 음악 = exciting/upbeat music."
+    },
+    {
+      "korean": "답답하다",
+      "english": "frustrated, stuffy, stifling",
+      "example": "말이 안 통해서 답답해요.",
+      "example_en": "I'm frustrated because we can't communicate.",
+      "notes": "Can mean physically stuffy (in a room) or emotionally frustrated. Very common in Korean."
+    },
+    {
+      "korean": "편하다",
+      "english": "comfortable, easy",
+      "example": "이 소파가 정말 편해요.",
+      "example_en": "This sofa is really comfortable.",
+      "notes": "Used for both physical comfort and feeling at ease. 편안하다 is a more formal synonym."
+    },
+    {
+      "korean": "불편하다",
+      "english": "uncomfortable, inconvenient",
+      "example": "이 의자는 너무 불편해요.",
+      "example_en": "This chair is very uncomfortable.",
+      "notes": "불 (不) + 편하다. Used for physical discomfort or inconvenient situations."
+    },
+    {
+      "korean": "만족하다",
+      "english": "satisfied",
+      "example": "이번 결과에 만족해요.",
+      "example_en": "I'm satisfied with this result.",
+      "notes": "From 한자 滿足. Opposite: 불만족하다 (dissatisfied)."
+    },
+    {
+      "korean": "후회하다",
+      "english": "to regret",
+      "example": "그때 더 열심히 공부할 걸 후회해요.",
+      "example_en": "I regret not studying harder back then.",
+      "notes": "From 한자 後悔. Often used with -(으)ㄹ 걸 (I should have...)."
+    },
+    {
+      "korean": "그립다",
+      "english": "to miss (someone/something)",
+      "example": "고향이 그리워요.",
+      "example_en": "I miss my hometown.",
+      "notes": "ㅂ irregular: 그립 → 그리워요. Used for people, places, or times you long for."
+    },
+    {
+      "korean": "속상하다",
+      "english": "upset, hurt (emotionally)",
+      "example": "친구한테 나쁜 말을 들어서 속상해요.",
+      "example_en": "I'm upset because my friend said something mean to me.",
+      "notes": "속 = inside/heart + 상하다 = to go bad. Literally 'the inside is hurt.'"
+    },
+    {
+      "korean": "억울하다",
+      "english": "unfair, wronged, unjust",
+      "example": "제가 안 했는데 혼나서 억울해요.",
+      "example_en": "I feel wronged because I got scolded even though I didn't do it.",
+      "notes": "A uniquely Korean emotion — feeling unfairly blamed or treated. No perfect English equivalent."
+    },
+    {
+      "korean": "설레다",
+      "english": "to flutter, excited (with anticipation)",
+      "example": "첫 데이트라서 설레요.",
+      "example_en": "I'm excited because it's my first date.",
+      "notes": "A fluttery, anticipatory excitement, often romantic. 설렘 is the noun form."
+    },
+    {
+      "korean": "뿌듯하다",
+      "english": "proud, fulfilled, gratified",
+      "example": "프로젝트를 끝내서 뿌듯해요.",
+      "example_en": "I feel proud and fulfilled after finishing the project.",
+      "notes": "A warm sense of accomplishment. More personal than 자랑스럽다 which can be about others."
+    }
+  ],
+  "색깔 & 형용사 (Colors & Adjectives)": [
+    {
+      "korean": "빨갛다",
+      "english": "red",
+      "example": "사과가 빨개요.",
+      "example_en": "The apple is red.",
+      "notes": "ㅎ irregular: 빨갛 → 빨개요. 빨간 is the modifier form (빨간 모자 = red hat)."
+    },
+    {
+      "korean": "파랗다",
+      "english": "blue",
+      "example": "오늘 하늘이 정말 파래요.",
+      "example_en": "The sky is really blue today.",
+      "notes": "ㅎ irregular: 파랗 → 파래요. 파란 is the modifier form (파란 바다 = blue sea)."
+    },
+    {
+      "korean": "노랗다",
+      "english": "yellow",
+      "example": "가을에 나뭇잎이 노래요.",
+      "example_en": "The leaves turn yellow in autumn.",
+      "notes": "ㅎ irregular: 노랗 → 노래요. 노란 is the modifier form (노란 꽃 = yellow flower)."
+    },
+    {
+      "korean": "하얗다",
+      "english": "white",
+      "example": "눈이 와서 세상이 하얘요.",
+      "example_en": "It snowed so the world is white.",
+      "notes": "ㅎ irregular: 하얗 → 하얘요. 하얀 is the modifier form (하얀 구름 = white cloud)."
+    },
+    {
+      "korean": "까맣다",
+      "english": "black",
+      "example": "머리카락이 까매요.",
+      "example_en": "My hair is black.",
+      "notes": "ㅎ irregular: 까맣 → 까매요. 까만 is the modifier form (까만 고양이 = black cat)."
+    },
+    {
+      "korean": "초록색",
+      "english": "green",
+      "example": "봄에는 나무가 초록색이에요.",
+      "example_en": "Trees are green in spring.",
+      "notes": "초록색 is a noun (color name). 초록색의 or 초록 is used as a modifier. No ㅎ irregular form."
+    },
+    {
+      "korean": "주황색",
+      "english": "orange (color)",
+      "example": "저 주황색 가방이 예뻐요.",
+      "example_en": "That orange bag is pretty.",
+      "notes": "주황색 is a noun. Also called 오렌지색 in casual speech."
+    },
+    {
+      "korean": "보라색",
+      "english": "purple",
+      "example": "보라색 꽃이 피었어요.",
+      "example_en": "Purple flowers bloomed.",
+      "notes": "보라색 is a noun. 보랏빛 means 'purple light/hue' and sounds more poetic."
+    },
+    {
+      "korean": "분홍색",
+      "english": "pink",
+      "example": "분홍색 원피스를 샀어요.",
+      "example_en": "I bought a pink dress.",
+      "notes": "분홍색 is a noun. Also called 핑크색 casually. 분홍 can be used alone as modifier."
+    },
+    {
+      "korean": "회색",
+      "english": "gray",
+      "example": "오늘 하늘이 회색이에요.",
+      "example_en": "The sky is gray today.",
+      "notes": "From 한자 灰色. 회색빛 means 'grayish hue.'"
+    },
+    {
+      "korean": "갈색",
+      "english": "brown",
+      "example": "갈색 구두를 신었어요.",
+      "example_en": "I wore brown shoes.",
+      "notes": "From 한자 褐色. Sometimes 브라운 (from English 'brown') is used for fashion."
+    },
+    {
+      "korean": "크다",
+      "english": "big, large",
+      "example": "이 가방이 너무 커요.",
+      "example_en": "This bag is too big.",
+      "notes": "큰 is the modifier form (큰 집 = big house). Opposite: 작다."
+    },
+    {
+      "korean": "작다",
+      "english": "small, little",
+      "example": "이 옷은 저한테 작아요.",
+      "example_en": "These clothes are too small for me.",
+      "notes": "작은 is the modifier form (작은 강아지 = small puppy). Opposite: 크다."
+    },
+    {
+      "korean": "많다",
+      "english": "many, much, a lot",
+      "example": "오늘 사람이 많아요.",
+      "example_en": "There are many people today.",
+      "notes": "많은 is the modifier form. 많이 is the adverb form (많이 먹어요 = eat a lot)."
+    },
+    {
+      "korean": "적다",
+      "english": "few, little, scarce",
+      "example": "오늘은 손님이 적어요.",
+      "example_en": "There are few customers today.",
+      "notes": "적은 is the modifier form. Opposite: 많다. Don't confuse with 적다 (to write down)."
+    },
+    {
+      "korean": "길다",
+      "english": "long",
+      "example": "머리가 길어요.",
+      "example_en": "My hair is long.",
+      "notes": "긴 is the modifier form (긴 머리 = long hair). Opposite: 짧다."
+    },
+    {
+      "korean": "짧다",
+      "english": "short (length)",
+      "example": "이 치마는 너무 짧아요.",
+      "example_en": "This skirt is too short.",
+      "notes": "짧은 is the modifier form. Used for length, not height. Opposite: 길다."
+    },
+    {
+      "korean": "넓다",
+      "english": "wide, spacious",
+      "example": "이 방이 넓어요.",
+      "example_en": "This room is spacious.",
+      "notes": "넓은 is the modifier form (넓은 공원 = spacious park). Opposite: 좁다."
+    },
+    {
+      "korean": "좁다",
+      "english": "narrow, cramped",
+      "example": "이 길이 좁아요.",
+      "example_en": "This road is narrow.",
+      "notes": "좁은 is the modifier form. Opposite: 넓다."
+    },
+    {
+      "korean": "높다",
+      "english": "high, tall (things)",
+      "example": "이 건물이 정말 높아요.",
+      "example_en": "This building is really tall.",
+      "notes": "높은 is the modifier form. Used for buildings, mountains, prices — not for people's height (키가 크다)."
+    },
+    {
+      "korean": "낮다",
+      "english": "low",
+      "example": "이 테이블은 좀 낮아요.",
+      "example_en": "This table is a bit low.",
+      "notes": "낮은 is the modifier form. Opposite: 높다. Don't confuse with 낮 (daytime, noun)."
+    },
+    {
+      "korean": "무겁다",
+      "english": "heavy",
+      "example": "이 상자가 너무 무거워요.",
+      "example_en": "This box is too heavy.",
+      "notes": "ㅂ irregular: 무겁 → 무거워요. Opposite: 가볍다."
+    },
+    {
+      "korean": "가볍다",
+      "english": "light (weight)",
+      "example": "이 노트북은 가벼워요.",
+      "example_en": "This laptop is light.",
+      "notes": "ㅂ irregular: 가볍 → 가벼워요. Opposite: 무겁다."
+    },
+    {
+      "korean": "빠르다",
+      "english": "fast, quick",
+      "example": "이 버스가 빨라요.",
+      "example_en": "This bus is fast.",
+      "notes": "ㅡ irregular: 빠르 → 빨라요. Adverb: 빨리. Opposite: 느리다."
+    },
+    {
+      "korean": "느리다",
+      "english": "slow",
+      "example": "인터넷이 느려요.",
+      "example_en": "The internet is slow.",
+      "notes": "느린 is the modifier form. Adverb: 느리게. Opposite: 빠르다."
+    },
+    {
+      "korean": "새롭다",
+      "english": "new, novel",
+      "example": "새로운 직장을 구했어요.",
+      "example_en": "I found a new job.",
+      "notes": "ㅂ irregular: 새롭 → 새로워요. 새 is a shorter modifier (새 차 = new car)."
+    },
+    {
+      "korean": "오래되다",
+      "english": "old (things), aged",
+      "example": "이 건물은 오래됐어요.",
+      "example_en": "This building is old.",
+      "notes": "오래된 is the modifier form. Only for things, not people. For people's age, use 나이가 많다."
+    },
+    {
+      "korean": "좋다",
+      "english": "good, nice",
+      "example": "이 식당은 음식이 좋아요.",
+      "example_en": "This restaurant has good food.",
+      "notes": "좋은 is the modifier form (좋은 사람 = good person). One of the most used adjectives."
+    },
+    {
+      "korean": "나쁘다",
+      "english": "bad",
+      "example": "오늘 날씨가 나빠요.",
+      "example_en": "The weather is bad today.",
+      "notes": "ㅡ irregular: 나쁘 → 나빠요. 나쁜 is the modifier form. Opposite: 좋다."
+    },
+    {
+      "korean": "예쁘다",
+      "english": "pretty, beautiful",
+      "example": "그 꽃이 정말 예뻐요.",
+      "example_en": "That flower is really pretty.",
+      "notes": "ㅡ irregular: 예쁘 → 예뻐요. Mostly used for women, children, or things. 아름답다 is more literary."
+    },
+    {
+      "korean": "잘생기다",
+      "english": "handsome, good-looking",
+      "example": "저 배우가 잘생겼어요.",
+      "example_en": "That actor is handsome.",
+      "notes": "Past tense form 잘생겼어요 is the standard way to say it. Literally 'well-formed.'"
+    },
+    {
+      "korean": "귀엽다",
+      "english": "cute",
+      "example": "이 강아지 정말 귀여워요!",
+      "example_en": "This puppy is so cute!",
+      "notes": "ㅂ irregular: 귀엽 → 귀여워요. Used for babies, animals, small things, and idols."
+    },
+    {
+      "korean": "깨끗하다",
+      "english": "clean, neat",
+      "example": "방을 깨끗하게 청소했어요.",
+      "example_en": "I cleaned the room nicely.",
+      "notes": "깨끗한 is the modifier form. 깨끗하게 is the adverb form. Opposite: 더럽다."
+    },
+    {
+      "korean": "더럽다",
+      "english": "dirty",
+      "example": "손이 더러워요. 씻으세요.",
+      "example_en": "Your hands are dirty. Wash them.",
+      "notes": "ㅂ irregular: 더럽 → 더러워요. Opposite: 깨끗하다."
+    },
+    {
+      "korean": "밝다",
+      "english": "bright",
+      "example": "이 방은 밝아요.",
+      "example_en": "This room is bright.",
+      "notes": "밝은 is the modifier form (밝은 미래 = bright future). Opposite: 어둡다."
+    },
+    {
+      "korean": "어둡다",
+      "english": "dark",
+      "example": "밖이 벌써 어두워요.",
+      "example_en": "It's already dark outside.",
+      "notes": "ㅂ irregular: 어둡 → 어두워요. Opposite: 밝다."
+    },
+    {
+      "korean": "따뜻하다",
+      "english": "warm",
+      "example": "오늘 날씨가 따뜻해요.",
+      "example_en": "The weather is warm today.",
+      "notes": "따뜻한 is the modifier form (따뜻한 차 = warm tea). Between 뜨겁다 and 차갑다."
+    },
+    {
+      "korean": "차갑다",
+      "english": "cold (to the touch)",
+      "example": "이 물이 너무 차가워요.",
+      "example_en": "This water is too cold.",
+      "notes": "ㅂ irregular: 차갑 → 차가워요. For touch/objects. For weather, use 춥다."
+    },
+    {
+      "korean": "뜨겁다",
+      "english": "hot (to the touch)",
+      "example": "커피가 아직 뜨거워요.",
+      "example_en": "The coffee is still hot.",
+      "notes": "ㅂ irregular: 뜨겁 → 뜨거워요. For touch/objects. For weather, use 덥다."
+    },
+    {
+      "korean": "부드럽다",
+      "english": "soft, gentle, smooth",
+      "example": "이 빵이 부드러워요.",
+      "example_en": "This bread is soft.",
+      "notes": "ㅂ irregular: 부드럽 → 부드러워요. Used for texture, personality, and voice."
+    },
+    {
+      "korean": "딱딱하다",
+      "english": "hard, stiff, rigid",
+      "example": "이 빵이 딱딱해요.",
+      "example_en": "This bread is hard/stale.",
+      "notes": "Onomatopoeic origin. Also used figuratively: 딱딱한 분위기 = stiff atmosphere."
+    },
+    {
+      "korean": "쉽다",
+      "english": "easy",
+      "example": "이 문제는 쉬워요.",
+      "example_en": "This problem is easy.",
+      "notes": "ㅂ irregular: 쉽 → 쉬워요. 쉬운 is the modifier form. Opposite: 어렵다."
+    },
+    {
+      "korean": "어렵다",
+      "english": "difficult, hard",
+      "example": "한국어 발음이 어려워요.",
+      "example_en": "Korean pronunciation is difficult.",
+      "notes": "ㅂ irregular: 어렵 → 어려워요. Opposite: 쉽다."
+    },
+    {
+      "korean": "중요하다",
+      "english": "important",
+      "example": "건강이 제일 중요해요.",
+      "example_en": "Health is the most important.",
+      "notes": "From 한자 重要. 중요한 is the modifier form (중요한 약속 = important appointment)."
+    },
+    {
+      "korean": "위험하다",
+      "english": "dangerous",
+      "example": "밤에 그 길은 위험해요.",
+      "example_en": "That road is dangerous at night.",
+      "notes": "From 한자 危險. 위험한 is the modifier form. Opposite: 안전하다 (safe)."
+    }
+  ],
+  "자주 쓰는 동사 (Common Verbs)": [
+    {
+      "korean": "하다",
+      "english": "to do",
+      "example": "뭐 해요?",
+      "example_en": "What are you doing?",
+      "notes": "The most versatile verb in Korean. Combines with many nouns to form compound verbs: 공부하다, 운동하다, etc."
+    },
+    {
+      "korean": "가다",
+      "english": "to go",
+      "example": "학교에 가요.",
+      "example_en": "I go to school.",
+      "notes": "Takes the particle 에 for destination. Irregular in some forms: 가 + 아요 → 가요 (not 가아요)."
+    },
+    {
+      "korean": "오다",
+      "english": "to come",
+      "example": "친구가 우리 집에 와요.",
+      "example_en": "My friend comes to my house.",
+      "notes": "Irregular: 오 + 아요 → 와요. Opposite of 가다."
+    },
+    {
+      "korean": "먹다",
+      "english": "to eat",
+      "example": "점심 먹었어요?",
+      "example_en": "Did you eat lunch?",
+      "notes": "밥 먹었어요? (Have you eaten rice?) is a common Korean greeting meaning 'How are you?'"
+    },
+    {
+      "korean": "마시다",
+      "english": "to drink",
+      "example": "물을 많이 마셔요.",
+      "example_en": "I drink a lot of water.",
+      "notes": "시 + 어요 → 셔요. Used for all drinks: 커피를 마시다, 술을 마시다."
+    },
+    {
+      "korean": "자다",
+      "english": "to sleep",
+      "example": "어젯밤에 잘 잤어요.",
+      "example_en": "I slept well last night.",
+      "notes": "잘 자요 = Good night (literally 'sleep well'). Very common expression."
+    },
+    {
+      "korean": "일어나다",
+      "english": "to wake up, to get up",
+      "example": "매일 아침 7시에 일어나요.",
+      "example_en": "I wake up at 7 every morning.",
+      "notes": "Also means 'to stand up' or 'to happen/occur.' Context determines the meaning."
+    },
+    {
+      "korean": "씻다",
+      "english": "to wash",
+      "example": "밥 먹기 전에 손을 씻어요.",
+      "example_en": "I wash my hands before eating.",
+      "notes": "씻 has a double consonant batch (ㅆ). 샤워하다 is used for 'to shower.'"
+    },
+    {
+      "korean": "입다",
+      "english": "to wear (clothes)",
+      "example": "오늘 뭐 입을 거예요?",
+      "example_en": "What are you going to wear today?",
+      "notes": "Only for clothes on the body. Shoes = 신다, hat = 쓰다, glasses = 쓰다."
+    },
+    {
+      "korean": "벗다",
+      "english": "to take off (clothes/shoes)",
+      "example": "집에 들어오면 신발을 벗어요.",
+      "example_en": "I take off my shoes when I enter the house.",
+      "notes": "Used for removing clothes, shoes, hats, glasses. Opposite of 입다/신다/쓰다."
+    },
+    {
+      "korean": "신다",
+      "english": "to wear (shoes/socks)",
+      "example": "운동화를 신고 나가요.",
+      "example_en": "I go out wearing sneakers.",
+      "notes": "Only for footwear (shoes, socks, slippers). 신발 (shoes) comes from this verb."
+    },
+    {
+      "korean": "앉다",
+      "english": "to sit",
+      "example": "여기 앉아도 돼요?",
+      "example_en": "May I sit here?",
+      "notes": "앉으세요 = Please sit down (polite). The ㄵ consonant cluster simplifies in pronunciation."
+    },
+    {
+      "korean": "서다",
+      "english": "to stand",
+      "example": "줄을 서서 기다려요.",
+      "example_en": "I wait standing in line.",
+      "notes": "일어서다 = to stand up (from sitting). 멈춰 서다 = to stop and stand."
+    },
+    {
+      "korean": "걷다",
+      "english": "to walk",
+      "example": "공원에서 걸어요.",
+      "example_en": "I walk in the park.",
+      "notes": "ㄷ irregular: 걷 → 걸어요. Don't confuse with 걷다 (to collect/gather) which is regular."
+    },
+    {
+      "korean": "뛰다",
+      "english": "to run, to jump",
+      "example": "아이들이 운동장에서 뛰어요.",
+      "example_en": "The children are running in the playground.",
+      "notes": "Can mean both 'run' and 'jump.' 달리다 specifically means 'to run.'"
+    },
+    {
+      "korean": "보다",
+      "english": "to see, to watch, to look",
+      "example": "주말에 영화를 봐요.",
+      "example_en": "I watch movies on weekends.",
+      "notes": "보 + 아요 → 봐요. Very versatile: 시험을 보다 = take a test, TV를 보다 = watch TV."
+    },
+    {
+      "korean": "듣다",
+      "english": "to listen, to hear",
+      "example": "음악을 자주 들어요.",
+      "example_en": "I listen to music often.",
+      "notes": "ㄷ irregular: 듣 → 들어요. 수업을 듣다 = to take a class."
+    },
+    {
+      "korean": "말하다",
+      "english": "to speak, to say, to tell",
+      "example": "천천히 말해 주세요.",
+      "example_en": "Please speak slowly.",
+      "notes": "말씀하시다 is the honorific form. 이야기하다 is 'to talk/chat.'"
+    },
+    {
+      "korean": "읽다",
+      "english": "to read",
+      "example": "요즘 재미있는 책을 읽고 있어요.",
+      "example_en": "I'm reading an interesting book these days.",
+      "notes": "The ㄺ consonant cluster: pronounced [익] before consonants, [일] before vowels."
+    },
+    {
+      "korean": "쓰다",
+      "english": "to write, to use",
+      "example": "일기를 매일 써요.",
+      "example_en": "I write in my diary every day.",
+      "notes": "Multiple meanings: write, use, wear (hat/glasses), bitter. Context is key. ㅡ irregular: 쓰 → 써요."
+    },
+    {
+      "korean": "만들다",
+      "english": "to make, to create",
+      "example": "주말에 케이크를 만들어요.",
+      "example_en": "I make a cake on weekends.",
+      "notes": "ㄹ verb: the ㄹ drops before ㄴ, ㅂ, ㅅ. 만든 = that was made (modifier)."
+    },
+    {
+      "korean": "사다",
+      "english": "to buy",
+      "example": "시장에서 과일을 사요.",
+      "example_en": "I buy fruit at the market.",
+      "notes": "사 + 아요 → 사요. 사 주다 = to buy for someone."
+    },
+    {
+      "korean": "팔다",
+      "english": "to sell",
+      "example": "이 가게에서 빵을 팔아요.",
+      "example_en": "This store sells bread.",
+      "notes": "ㄹ verb. Opposite: 사다. 팔리다 = to be sold (passive)."
+    },
+    {
+      "korean": "주다",
+      "english": "to give",
+      "example": "친구한테 선물을 줘요.",
+      "example_en": "I give a present to my friend.",
+      "notes": "주 + 어요 → 줘요. -아/어 주다 as auxiliary means 'do for someone.'"
+    },
+    {
+      "korean": "받다",
+      "english": "to receive, to get",
+      "example": "생일 선물을 받았어요.",
+      "example_en": "I received a birthday present.",
+      "notes": "Opposite: 주다. 받아들이다 = to accept."
+    },
+    {
+      "korean": "열다",
+      "english": "to open",
+      "example": "창문을 열어 주세요.",
+      "example_en": "Please open the window.",
+      "notes": "ㄹ verb. Opposite: 닫다. 열리다 = to be opened (passive)."
+    },
+    {
+      "korean": "닫다",
+      "english": "to close, to shut",
+      "example": "문을 닫아 주세요.",
+      "example_en": "Please close the door.",
+      "notes": "Opposite: 열다. 닫히다 = to be closed (passive)."
+    },
+    {
+      "korean": "켜다",
+      "english": "to turn on",
+      "example": "불을 켜 주세요.",
+      "example_en": "Please turn on the light.",
+      "notes": "Used for lights, electronics, heaters. Opposite: 끄다."
+    },
+    {
+      "korean": "끄다",
+      "english": "to turn off",
+      "example": "자기 전에 불을 꺼요.",
+      "example_en": "I turn off the light before sleeping.",
+      "notes": "ㅡ irregular: 끄 → 꺼요. Opposite: 켜다. Also means 'to extinguish.'"
+    },
+    {
+      "korean": "찾다",
+      "english": "to find, to look for",
+      "example": "지갑을 찾고 있어요.",
+      "example_en": "I'm looking for my wallet.",
+      "notes": "Two meanings: 'to look for' (searching) and 'to find' (success). Also: 'to withdraw money.'"
+    },
+    {
+      "korean": "기다리다",
+      "english": "to wait",
+      "example": "여기서 잠깐만 기다려 주세요.",
+      "example_en": "Please wait here for a moment.",
+      "notes": "Often used with -아/어 주세요 for polite requests. 기다림 = the wait (noun)."
+    },
+    {
+      "korean": "만나다",
+      "english": "to meet",
+      "example": "내일 친구를 만나요.",
+      "example_en": "I'm meeting a friend tomorrow.",
+      "notes": "만나서 반갑습니다 = Nice to meet you (formal). 만남 = meeting/encounter (noun)."
+    },
+    {
+      "korean": "전화하다",
+      "english": "to call (on the phone)",
+      "example": "엄마한테 전화해요.",
+      "example_en": "I call my mom.",
+      "notes": "전화 = telephone. 전화를 받다 = to answer the phone. 전화를 끊다 = to hang up."
+    },
+    {
+      "korean": "공부하다",
+      "english": "to study",
+      "example": "매일 한국어를 공부해요.",
+      "example_en": "I study Korean every day.",
+      "notes": "공부 (noun) + 하다. From 한자 工夫. The most common word for academic study."
+    },
+    {
+      "korean": "일하다",
+      "english": "to work",
+      "example": "회사에서 일해요.",
+      "example_en": "I work at a company.",
+      "notes": "일 (noun: work) + 하다. 직장에 다니다 = to go to work (attend a workplace)."
+    },
+    {
+      "korean": "쉬다",
+      "english": "to rest, to take a break",
+      "example": "주말에는 집에서 쉬어요.",
+      "example_en": "I rest at home on weekends.",
+      "notes": "Also means 'to breathe' in compound 숨을 쉬다. 휴식 is the formal noun for 'rest.'"
+    },
+    {
+      "korean": "시작하다",
+      "english": "to start, to begin",
+      "example": "수업이 9시에 시작해요.",
+      "example_en": "Class starts at 9 o'clock.",
+      "notes": "시작 (noun) + 하다. From 한자 始作. Can be transitive or intransitive."
+    },
+    {
+      "korean": "끝나다",
+      "english": "to end, to finish (intransitive)",
+      "example": "수업이 12시에 끝나요.",
+      "example_en": "Class ends at 12 o'clock.",
+      "notes": "끝나다 = it ends (intransitive). 끝내다 = to finish it (transitive). 끝 = end (noun)."
+    },
+    {
+      "korean": "도착하다",
+      "english": "to arrive",
+      "example": "공항에 도착했어요.",
+      "example_en": "I arrived at the airport.",
+      "notes": "From 한자 到着. Takes 에 particle for the destination."
+    },
+    {
+      "korean": "출발하다",
+      "english": "to depart, to leave",
+      "example": "기차가 곧 출발해요.",
+      "example_en": "The train is departing soon.",
+      "notes": "From 한자 出發. Opposite: 도착하다. 출발 시간 = departure time."
+    },
+    {
+      "korean": "놀다",
+      "english": "to play, to hang out",
+      "example": "주말에 같이 놀아요.",
+      "example_en": "Let's hang out together on the weekend.",
+      "notes": "ㄹ verb. For adults, it means 'to hang out/have fun,' not just children's play."
+    },
+    {
+      "korean": "좋아하다",
+      "english": "to like",
+      "example": "저는 한국 음식을 좋아해요.",
+      "example_en": "I like Korean food.",
+      "notes": "Active verb (takes 을/를). 좋다 (adjective) vs 좋아하다 (verb): 커피가 좋아요 vs 커피를 좋아해요."
+    },
+    {
+      "korean": "싫어하다",
+      "english": "to dislike, to hate",
+      "example": "저는 거짓말을 싫어해요.",
+      "example_en": "I hate lies.",
+      "notes": "Active verb (takes 을/를). Stronger than 안 좋아하다. Opposite: 좋아하다."
+    },
+    {
+      "korean": "필요하다",
+      "english": "to need, to be necessary",
+      "example": "우산이 필요해요.",
+      "example_en": "I need an umbrella.",
+      "notes": "From 한자 必要. The needed thing takes 이/가 (subject marker), not 을/를."
+    },
+    {
+      "korean": "알다",
+      "english": "to know",
+      "example": "그 사람을 알아요?",
+      "example_en": "Do you know that person?",
+      "notes": "ㄹ verb. 알겠습니다 = I understand/got it. Opposite: 모르다."
+    },
+    {
+      "korean": "모르다",
+      "english": "to not know",
+      "example": "그건 잘 몰라요.",
+      "example_en": "I don't know much about that.",
+      "notes": "ㅡ irregular: 모르 → 몰라요. Opposite: 알다. 모르겠어요 = I'm not sure."
+    },
+    {
+      "korean": "있다",
+      "english": "to exist, to have, to be (at a place)",
+      "example": "시간 있어요?",
+      "example_en": "Do you have time?",
+      "notes": "One of the most important Korean words. Location + 에 있다. Opposite: 없다."
+    },
+    {
+      "korean": "없다",
+      "english": "to not exist, to not have",
+      "example": "돈이 없어요.",
+      "example_en": "I don't have money.",
+      "notes": "Opposite: 있다. 재미없다, 맛없다 show how 없다 combines with nouns."
+    },
+    {
+      "korean": "살다",
+      "english": "to live",
+      "example": "서울에서 살아요.",
+      "example_en": "I live in Seoul.",
+      "notes": "ㄹ verb. 살 + ㅂ니다 → 삽니다. Takes 에서 for the place where you live."
+    },
+    {
+      "korean": "배우다",
+      "english": "to learn",
+      "example": "한국어를 배우고 있어요.",
+      "example_en": "I'm learning Korean.",
+      "notes": "배우 + 어요 → 배워요. Don't confuse with 배우 (actor/actress, noun)."
+    },
+    {
+      "korean": "가르치다",
+      "english": "to teach",
+      "example": "영어를 가르쳐요.",
+      "example_en": "I teach English.",
+      "notes": "가르치 + 어요 → 가르쳐요. Takes 에게/한테 for the person taught."
+    },
+    {
+      "korean": "도와주다",
+      "english": "to help",
+      "example": "좀 도와주세요.",
+      "example_en": "Please help me.",
+      "notes": "돕다 (to help) + 주다 (to give). 도와주세요 is the most common way to ask for help."
+    },
+    {
+      "korean": "빌리다",
+      "english": "to borrow, to lend",
+      "example": "도서관에서 책을 빌려요.",
+      "example_en": "I borrow books from the library.",
+      "notes": "Means both 'borrow' and 'lend' — context determines which. 빌려주다 = to lend."
+    },
+    {
+      "korean": "잃어버리다",
+      "english": "to lose (something)",
+      "example": "핸드폰을 잃어버렸어요.",
+      "example_en": "I lost my phone.",
+      "notes": "잃다 (to lose) + 버리다 (completely). 버리다 adds a sense of 'completely gone.'"
+    },
+    {
+      "korean": "울다",
+      "english": "to cry",
+      "example": "슬픈 영화를 보면 울어요.",
+      "example_en": "I cry when I watch sad movies.",
+      "notes": "ㄹ verb. 울음 = crying (noun). 울리다 = to make someone cry."
+    },
+    {
+      "korean": "웃다",
+      "english": "to laugh, to smile",
+      "example": "그 이야기가 재미있어서 웃었어요.",
+      "example_en": "I laughed because that story was funny.",
+      "notes": "Covers both laughing and smiling. 미소 짓다 specifically means 'to smile.'"
+    },
+    {
+      "korean": "청소하다",
+      "english": "to clean",
+      "example": "주말마다 방을 청소해요.",
+      "example_en": "I clean my room every weekend.",
+      "notes": "청소 (noun: cleaning) + 하다. From 한자 清掃. 대청소 = deep cleaning."
+    },
+    {
+      "korean": "빨래하다",
+      "english": "to do laundry",
+      "example": "빨래를 해야 돼요.",
+      "example_en": "I need to do laundry.",
+      "notes": "빨래 (noun: laundry) + 하다. 빨래를 널다 = to hang laundry. 빨래를 개다 = to fold laundry."
+    },
+    {
+      "korean": "요리하다",
+      "english": "to cook",
+      "example": "집에서 요리해요.",
+      "example_en": "I cook at home.",
+      "notes": "요리 (noun: cooking/dish) + 하다. From 한자 料理. 요리사 = chef."
+    },
+    {
+      "korean": "운전하다",
+      "english": "to drive",
+      "example": "매일 회사까지 운전해요.",
+      "example_en": "I drive to work every day.",
+      "notes": "운전 (noun: driving) + 하다. From 한자 運轉. 운전면허 = driver's license."
+    },
+    {
+      "korean": "타다",
+      "english": "to ride, to take (transportation)",
+      "example": "지하철을 타고 가요.",
+      "example_en": "I go by subway.",
+      "notes": "Used for all transportation: 버스를 타다, 택시를 타다, 비행기를 타다. Opposite: 내리다."
+    },
+    {
+      "korean": "내리다",
+      "english": "to get off, to go down",
+      "example": "다음 역에서 내려요.",
+      "example_en": "I get off at the next station.",
+      "notes": "Opposite of 타다 for transportation. Also means 'to fall' (비가 내리다 = rain falls)."
+    },
+    {
+      "korean": "걸리다",
+      "english": "to take (time), to catch (illness)",
+      "example": "집에서 학교까지 30분 걸려요.",
+      "example_en": "It takes 30 minutes from home to school.",
+      "notes": "For time: 시간이 걸리다. For illness: 감기에 걸리다 = to catch a cold."
+    },
+    {
+      "korean": "바꾸다",
+      "english": "to change, to exchange",
+      "example": "핸드폰을 새 걸로 바꿨어요.",
+      "example_en": "I changed to a new phone.",
+      "notes": "Active verb (you change something). 바뀌다 = to be changed (passive/intransitive)."
+    },
+    {
+      "korean": "고치다",
+      "english": "to fix, to repair, to correct",
+      "example": "컴퓨터를 고쳤어요.",
+      "example_en": "I fixed the computer.",
+      "notes": "Used for repairing things and correcting mistakes. 고장나다 = to break down."
+    }
+  ],
+  "자주 쓰는 부사 & 접속사 (Adverbs & Conjunctions)": [
+    {
+      "korean": "아주",
+      "english": "very",
+      "example": "오늘 날씨가 아주 좋아요.",
+      "example_en": "The weather is very nice today.",
+      "notes": "Neutral/standard 'very.' Can be used in both spoken and written Korean."
+    },
+    {
+      "korean": "매우",
+      "english": "very (formal)",
+      "example": "이 문제는 매우 중요해요.",
+      "example_en": "This issue is very important.",
+      "notes": "More formal than 아주. Common in news, reports, and formal writing."
+    },
+    {
+      "korean": "정말",
+      "english": "really, truly",
+      "example": "이 음식 정말 맛있어요.",
+      "example_en": "This food is really delicious.",
+      "notes": "Polite but natural in conversation. 정말요? = Really? (with surprise)."
+    },
+    {
+      "korean": "진짜",
+      "english": "really (casual), for real",
+      "example": "진짜 재미있어요!",
+      "example_en": "It's really fun!",
+      "notes": "More casual than 정말. Also used as a noun meaning 'the real thing.' 진짜? = For real?"
+    },
+    {
+      "korean": "좀",
+      "english": "a bit, please (softener)",
+      "example": "좀 도와주세요.",
+      "example_en": "Please help me (a bit).",
+      "notes": "Short for 조금. Also softens requests: 좀 비켜 주세요 sounds gentler than without 좀."
+    },
+    {
+      "korean": "조금",
+      "english": "a little, a small amount",
+      "example": "물을 조금만 주세요.",
+      "example_en": "Please give me just a little water.",
+      "notes": "More formal/full form of 좀. 조금씩 = little by little."
+    },
+    {
+      "korean": "많이",
+      "english": "a lot, much",
+      "example": "많이 드세요.",
+      "example_en": "Please eat a lot. (Enjoy your meal.)",
+      "notes": "Adverb form of 많다. 많이 드세요 is a common polite phrase when serving food."
+    },
+    {
+      "korean": "빨리",
+      "english": "quickly, fast, hurry",
+      "example": "빨리 와요!",
+      "example_en": "Come quickly!",
+      "notes": "Adverb form of 빠르다. 빨리빨리 (hurry hurry) is a famous Korean cultural concept."
+    },
+    {
+      "korean": "천천히",
+      "english": "slowly",
+      "example": "천천히 말해 주세요.",
+      "example_en": "Please speak slowly.",
+      "notes": "Essential phrase for language learners. Opposite: 빨리."
+    },
+    {
+      "korean": "잘",
+      "english": "well, properly",
+      "example": "한국어를 잘 해요.",
+      "example_en": "You speak Korean well.",
+      "notes": "Opposite: 못. 잘 먹겠습니다 = I will eat well (said before meals). 잘 지내요? = How are you?"
+    },
+    {
+      "korean": "못",
+      "english": "cannot, unable to",
+      "example": "오늘은 못 가요.",
+      "example_en": "I can't go today.",
+      "notes": "Placed before the verb. 못하다 = to be bad at. 못 vs 안: 못 = can't, 안 = don't/won't."
+    },
+    {
+      "korean": "안",
+      "english": "not, don't",
+      "example": "저는 고기를 안 먹어요.",
+      "example_en": "I don't eat meat.",
+      "notes": "Placed before the verb for negation. For 하다 verbs: 공부 안 해요 (not 안 공부해요)."
+    },
+    {
+      "korean": "또",
+      "english": "again, also, and",
+      "example": "또 만나요!",
+      "example_en": "See you again!",
+      "notes": "또 can link items: 사과, 또 바나나 = apples, and also bananas."
+    },
+    {
+      "korean": "다시",
+      "english": "again, once more",
+      "example": "다시 한번 말해 주세요.",
+      "example_en": "Please say it one more time.",
+      "notes": "다시 implies repeating. 또 implies something additional or recurring. Subtle difference."
+    },
+    {
+      "korean": "이미",
+      "english": "already",
+      "example": "이미 먹었어요.",
+      "example_en": "I already ate.",
+      "notes": "Neutral 'already.' States a fact without surprise. Compare with 벌써."
+    },
+    {
+      "korean": "아직",
+      "english": "still, yet, not yet",
+      "example": "아직 안 끝났어요.",
+      "example_en": "It's not finished yet.",
+      "notes": "아직 + positive = still. 아직 + negative = not yet. 아직도 adds emphasis."
+    },
+    {
+      "korean": "벌써",
+      "english": "already (with surprise)",
+      "example": "벌써 12시예요?",
+      "example_en": "It's already 12 o'clock?",
+      "notes": "Unlike 이미, 벌써 carries surprise or disbelief that something happened so soon."
+    },
+    {
+      "korean": "항상",
+      "english": "always",
+      "example": "항상 감사해요.",
+      "example_en": "I'm always grateful.",
+      "notes": "From 한자 恒常. 언제나 is a native Korean synonym."
+    },
+    {
+      "korean": "자주",
+      "english": "often, frequently",
+      "example": "이 식당에 자주 와요.",
+      "example_en": "I come to this restaurant often.",
+      "notes": "Between 항상 (always) and 가끔 (sometimes) in frequency."
+    },
+    {
+      "korean": "보통",
+      "english": "usually, normally, ordinary",
+      "example": "보통 몇 시에 일어나요?",
+      "example_en": "What time do you usually wake up?",
+      "notes": "Also an adjective meaning 'ordinary/average.' 보통이 아니다 = not ordinary (exceptional)."
+    },
+    {
+      "korean": "가끔",
+      "english": "sometimes, occasionally",
+      "example": "가끔 영화를 봐요.",
+      "example_en": "I sometimes watch movies.",
+      "notes": "Less frequent than 자주. 가끔씩 is a slightly emphasized form."
+    },
+    {
+      "korean": "절대",
+      "english": "never, absolutely",
+      "example": "거짓말은 절대 안 해요.",
+      "example_en": "I absolutely never lie.",
+      "notes": "절대(로) + negative verb = never. From 한자 絶對. 절대로 is the full adverb form."
+    },
+    {
+      "korean": "전혀",
+      "english": "not at all, absolutely not",
+      "example": "전혀 모르겠어요.",
+      "example_en": "I don't understand at all.",
+      "notes": "Always used with negative verbs. From 한자 全. Adds strong emphasis to negation."
+    },
+    {
+      "korean": "거의",
+      "english": "almost, nearly",
+      "example": "숙제가 거의 끝났어요.",
+      "example_en": "The homework is almost done.",
+      "notes": "거의 다 = almost all/everything. 거의 안 = hardly/barely."
+    },
+    {
+      "korean": "아마",
+      "english": "maybe, probably, perhaps",
+      "example": "아마 내일 비가 올 거예요.",
+      "example_en": "It will probably rain tomorrow.",
+      "notes": "Often paired with -(으)ㄹ 거예요 (future guess). Less certain than 확실히 (certainly)."
+    },
+    {
+      "korean": "꼭",
+      "english": "definitely, must, by all means",
+      "example": "꼭 오세요!",
+      "example_en": "You must come! / Make sure to come!",
+      "notes": "Used for emphasis in requests and promises. 꼭 해야 돼요 = You definitely have to do it."
+    },
+    {
+      "korean": "먼저",
+      "english": "first, beforehand",
+      "example": "먼저 손을 씻으세요.",
+      "example_en": "Wash your hands first.",
+      "notes": "먼저 가세요 = Please go first (polite). Also means 'before (someone else).'"
+    },
+    {
+      "korean": "나중에",
+      "english": "later, afterward",
+      "example": "나중에 전화할게요.",
+      "example_en": "I'll call you later.",
+      "notes": "나중 = later time (noun). Opposite: 먼저. 나중에 봐요 = See you later."
+    },
+    {
+      "korean": "함께/같이",
+      "english": "together",
+      "example": "같이 점심 먹을래요?",
+      "example_en": "Do you want to eat lunch together?",
+      "notes": "같이 is casual/spoken; 함께 is more formal/written. Both are very common."
+    },
+    {
+      "korean": "혼자",
+      "english": "alone, by oneself",
+      "example": "혼자 여행해요.",
+      "example_en": "I travel alone.",
+      "notes": "혼자서 adds emphasis. 혼자 살다 = to live alone. Opposite: 같이/함께."
+    },
+    {
+      "korean": "바로",
+      "english": "right away, immediately, right (next to)",
+      "example": "바로 갈게요.",
+      "example_en": "I'll go right away.",
+      "notes": "Multiple uses: 바로 여기 = right here; 바로 그거예요 = That's exactly it."
+    },
+    {
+      "korean": "갑자기",
+      "english": "suddenly, all of a sudden",
+      "example": "갑자기 비가 왔어요.",
+      "example_en": "It suddenly rained.",
+      "notes": "Very common in storytelling. 갑작스럽다 is the adjective form (sudden)."
+    },
+    {
+      "korean": "드디어",
+      "english": "finally, at last",
+      "example": "드디어 시험이 끝났어요!",
+      "example_en": "The exam is finally over!",
+      "notes": "Implies waiting/anticipation. Positive nuance: something long-awaited happened."
+    },
+    {
+      "korean": "그리고",
+      "english": "and, and then",
+      "example": "커피를 마시고, 그리고 산책했어요.",
+      "example_en": "I drank coffee, and then took a walk.",
+      "notes": "Connects sentences. For connecting nouns, use 하고 or (이)랑 instead."
+    },
+    {
+      "korean": "그래서",
+      "english": "so, therefore",
+      "example": "비가 왔어요. 그래서 우산을 가져갔어요.",
+      "example_en": "It rained. So I took an umbrella.",
+      "notes": "Shows cause → result. Connects two sentences where the first is the reason."
+    },
+    {
+      "korean": "그런데",
+      "english": "but, by the way, however",
+      "example": "가고 싶어요. 그런데 시간이 없어요.",
+      "example_en": "I want to go. But I don't have time.",
+      "notes": "Shortened to 근데 in casual speech. Can also change topics (by the way)."
+    },
+    {
+      "korean": "하지만",
+      "english": "but, however",
+      "example": "어렵지만 재미있어요. 하지만 시간이 더 필요해요.",
+      "example_en": "It's difficult but fun. However, I need more time.",
+      "notes": "More formal/written than 그런데. Purely contrasting (doesn't change topic)."
+    },
+    {
+      "korean": "그러면",
+      "english": "then, if so, in that case",
+      "example": "배고프다고요? 그러면 같이 밥 먹으러 가요.",
+      "example_en": "You're hungry? Then let's go eat together.",
+      "notes": "Shortened to 그럼 in casual speech. Responds to a condition or statement."
+    },
+    {
+      "korean": "그래도",
+      "english": "still, even so, nevertheless",
+      "example": "힘들어요. 그래도 포기하지 않을 거예요.",
+      "example_en": "It's hard. But still, I won't give up.",
+      "notes": "Acknowledges a difficulty but continues anyway. Very common in daily speech."
+    },
+    {
+      "korean": "왜냐하면",
+      "english": "because, the reason is",
+      "example": "못 갔어요. 왜냐하면 아팠거든요.",
+      "example_en": "I couldn't go. Because I was sick.",
+      "notes": "Gives a reason for the previous statement. Often paired with -거든요 at the end of the explanation."
+    }
+  ]
+}
