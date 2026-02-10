@@ -65,7 +65,9 @@ Each drill: given, given_register, target_register, correct, explanation, diffic
 6. **Grammar in Context** — Pick correct grammar pattern for a paragraph (4 options)
 7. **Reading Comprehension** — Korean passages with multiple-choice questions
 8. **Register Switching** — Convert between 반말/해요체/격식체
-9. **View Progress** — SRS stats, weakest cards, accuracy
+9. **Cloze Drill** — Fill-in-the-gap vocab in context (4 options, auto-graded)
+0. **View Progress** — SRS stats, weakest cards, accuracy
+- **Timed Mode** — Optional countdown timer on all drills (toggle with T key)
 
 ## Adding More Vocabulary (Batching Strategy)
 

@@ -681,6 +681,84 @@ h1 {
   display: none;
 }
 .offline-banner.visible { display: block; }
+
+/* Timer */
+.timer-bar {
+  height: 4px;
+  background: var(--surface2);
+  border-radius: 2px;
+  margin-bottom: 8px;
+  overflow: hidden;
+}
+.timer-fill {
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.1s linear;
+}
+.timer-label {
+  text-align: right;
+  font-size: 0.8em;
+  color: var(--dim);
+  margin-bottom: 4px;
+}
+.timed-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 8px 0;
+  font-size: 0.85em;
+  color: var(--dim);
+  cursor: pointer;
+}
+.timed-toggle .switch {
+  width: 36px;
+  height: 20px;
+  background: var(--surface2);
+  border-radius: 10px;
+  position: relative;
+  transition: background 0.2s;
+}
+.timed-toggle .switch::after {
+  content: '';
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background: var(--dim);
+  border-radius: 50%;
+  top: 2px;
+  left: 2px;
+  transition: all 0.2s;
+}
+.timed-toggle.active .switch {
+  background: var(--blue);
+}
+.timed-toggle.active .switch::after {
+  left: 18px;
+  background: #fff;
+}
+
+/* Cloze */
+.cloze-sentence {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 25px;
+  margin: 15px 0;
+  line-height: 1.8;
+  font-size: 1.15em;
+  color: var(--text);
+  text-align: center;
+}
+.cloze-blank {
+  display: inline-block;
+  min-width: 80px;
+  border-bottom: 2px solid var(--cyan);
+  color: var(--cyan);
+  font-weight: bold;
+  text-align: center;
+  padding: 0 8px;
+}
 </style>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
@@ -869,6 +947,46 @@ function updateSyncStatus(cls, text) {
 const app = document.getElementById('app');
 const srs = new SRSEngine();
 let vocabData = {}, grammarData = {}, errorDrills = [], grammarContext = [], readingDrills = [], registerDrills = [];
+let timedMode = localStorage.getItem('korean_coach_timed') === 'true';
+let activeTimer = null;
+
+function toggleTimedMode() {
+  timedMode = !timedMode;
+  localStorage.setItem('korean_coach_timed', timedMode);
+  showMenu();
+}
+
+function startTimer(seconds, onExpire) {
+  clearTimer();
+  const start = Date.now();
+  const ms = seconds * 1000;
+  const fill = document.getElementById('timer-fill');
+  const label = document.getElementById('timer-label');
+  if (!fill) return;
+  activeTimer = setInterval(() => {
+    const elapsed = Date.now() - start;
+    const pct = Math.max(0, 100 - (elapsed / ms * 100));
+    const remaining = Math.max(0, Math.ceil((ms - elapsed) / 1000));
+    fill.style.width = pct + '%';
+    fill.style.background = pct > 30 ? 'var(--blue)' : pct > 10 ? 'var(--orange)' : 'var(--red)';
+    if (label) label.textContent = remaining + 's';
+    if (elapsed >= ms) {
+      clearTimer();
+      if (label) label.textContent = '0s';
+      onExpire();
+    }
+  }, 100);
+}
+
+function clearTimer() {
+  if (activeTimer) { clearInterval(activeTimer); activeTimer = null; }
+}
+
+function timerHtml(seconds) {
+  if (!timedMode) return '';
+  return `<div class="timer-label" id="timer-label">${seconds}s</div>
+    <div class="timer-bar"><div class="timer-fill" id="timer-fill" style="width:100%;background:var(--blue)"></div></div>`;
+}
 
 function shuffle(arr) {
   const a = [...arr];
@@ -929,9 +1047,13 @@ function showMenu() {
       <button onclick="startGrammarContext()"><span class="num">6</span> Grammar in Context</button>
       <button onclick="startReadingComprehension()"><span class="num">7</span> Reading Comprehension</button>
       <button onclick="startRegisterSwitching()"><span class="num">8</span> Register Switching</button>
-      <button onclick="showProgress()"><span class="num">9</span> View Progress</button>
+      <button onclick="startClozeDrill()"><span class="num">9</span> Cloze Drill (fill the gap)</button>
+      <button onclick="showProgress()"><span class="num">0</span> View Progress</button>
     </div>
-    <div class="shortcuts">Keyboard: 1-9 to select</div>`;
+    <div class="timed-toggle${timedMode ? ' active' : ''}" onclick="toggleTimedMode()">
+      <div class="switch"></div> Timed Mode ${timedMode ? 'ON' : 'OFF'}
+    </div>
+    <div class="shortcuts">Keyboard: 1-9, 0 to select</div>`;
 
   document.onkeydown = e => {
     if (e.key === '1') showCategorySelect('vocab');
@@ -942,7 +1064,9 @@ function showMenu() {
     else if (e.key === '6') startGrammarContext();
     else if (e.key === '7') startReadingComprehension();
     else if (e.key === '8') startRegisterSwitching();
-    else if (e.key === '9') showProgress();
+    else if (e.key === '9') startClozeDrill();
+    else if (e.key === '0') showProgress();
+    else if (e.key === 't') toggleTimedMode();
   };
 }
 
@@ -1032,14 +1156,16 @@ function runSession(cards) {
       <button class="back-btn" onclick="showMenu()">← Quit</button>
       <div class="counter">${escHtml(cat)} &nbsp; ${progress}</div>
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${timerHtml(15)}
       ${prompt}
       <input class="answer-input" placeholder="Your answer (Enter to reveal)" autofocus>`;
 
     const input = app.querySelector('.answer-input');
     input.focus();
+    if (timedMode) startTimer(15, () => revealVocab(id, cat, entry, answer, input.value.trim(), progress, pct));
     input.onkeydown = e => {
-      if (e.key === 'Enter') revealVocab(id, cat, entry, answer, input.value.trim(), progress, pct);
-      if (e.key === 'Escape') showMenu();
+      if (e.key === 'Enter') { clearTimer(); revealVocab(id, cat, entry, answer, input.value.trim(), progress, pct); }
+      if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
 
@@ -1067,15 +1193,17 @@ function runSession(cards) {
       <button class="back-btn" onclick="showMenu()">← Quit</button>
       <div class="counter">${escHtml(cat)} &nbsp; ${progress}</div>
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${timerHtml(20)}
       <div class="card"><div class="card-korean">${escHtml(entry.pattern)}</div></div>
       <div class="card-prompt">What does this pattern mean?</div>
       <input class="answer-input" placeholder="Your answer (Enter to reveal)" autofocus>`;
 
     const input = app.querySelector('.answer-input');
     input.focus();
+    if (timedMode) startTimer(20, () => revealGrammar(id, cat, entry, input.value.trim(), progress, pct));
     input.onkeydown = e => {
-      if (e.key === 'Enter') revealGrammar(id, cat, entry, input.value.trim(), progress, pct);
-      if (e.key === 'Escape') showMenu();
+      if (e.key === 'Enter') { clearTimer(); revealGrammar(id, cat, entry, input.value.trim(), progress, pct); }
+      if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
 
@@ -1200,6 +1328,7 @@ function startSentenceProduction() {
       <button class="back-btn" onclick="showMenu()">← Quit</button>
       <div class="counter">Sentence Production &nbsp; ${progress}</div>
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${timerHtml(30)}
       <div class="production-prompt">
         <div class="production-english">${escHtml(entry.example_en)}</div>
         <div class="production-context">Hint: ${escHtml(entry.english)}</div>
@@ -1209,9 +1338,10 @@ function startSentenceProduction() {
 
     const input = app.querySelector('.answer-input');
     input.focus();
+    if (timedMode) startTimer(30, () => revealProduction(id, entry, input.value.trim(), progress, pct));
     input.onkeydown = e => {
-      if (e.key === 'Enter') revealProduction(id, entry, input.value.trim(), progress, pct);
-      if (e.key === 'Escape') showMenu();
+      if (e.key === 'Enter') { clearTimer(); revealProduction(id, entry, input.value.trim(), progress, pct); }
+      if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
 
@@ -1306,19 +1436,21 @@ function startGrammarContext() {
       <button class="back-btn" onclick="showMenu()">← Quit</button>
       <div class="counter">Grammar in Context &nbsp; ${progress}</div>
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${timerHtml(20)}
       <div class="context-passage">${passageHtml}</div>
       <div class="card-prompt">Choose the correct grammar pattern:</div>
       <div class="option-grid">
         ${drill.options.map((opt, i) => `<button class="option-btn" data-idx="${i}">${escHtml(opt)}</button>`).join('')}
       </div>`;
 
+    if (timedMode) startTimer(20, () => revealGrammarContext(id, drill, -1, progress, pct));
     document.querySelectorAll('.option-btn').forEach(btn => {
-      btn.onclick = () => revealGrammarContext(id, drill, parseInt(btn.dataset.idx), progress, pct);
+      btn.onclick = () => { clearTimer(); revealGrammarContext(id, drill, parseInt(btn.dataset.idx), progress, pct); };
     });
     document.onkeydown = e => {
       const num = parseInt(e.key);
-      if (num >= 1 && num <= 4) revealGrammarContext(id, drill, num - 1, progress, pct);
-      if (e.key === 'Escape') showMenu();
+      if (num >= 1 && num <= 4) { clearTimer(); revealGrammarContext(id, drill, num - 1, progress, pct); }
+      if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
 
@@ -1407,6 +1539,7 @@ function startReadingComprehension() {
       <button class="back-btn" onclick="showMenu()">← Quit</button>
       <div class="counter">Reading Comprehension &nbsp; ${progress} &nbsp; Q${qIdx + 1}/${drill.questions.length}</div>
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${timerHtml(30)}
       <div class="reading-passage">${escHtml(drill.passage)}</div>
       <div class="question-block">
         <div class="question-text">${escHtml(q.question)}</div>
@@ -1415,13 +1548,14 @@ function startReadingComprehension() {
         </div>
       </div>`;
 
+    if (timedMode) startTimer(30, () => revealReading(id, drill, qIdx, -1));
     document.querySelectorAll('.option-btn').forEach(btn => {
-      btn.onclick = () => revealReading(id, drill, qIdx, parseInt(btn.dataset.idx));
+      btn.onclick = () => { clearTimer(); revealReading(id, drill, qIdx, parseInt(btn.dataset.idx)); };
     });
     document.onkeydown = e => {
       const num = parseInt(e.key);
-      if (num >= 1 && num <= 4) revealReading(id, drill, qIdx, num - 1);
-      if (e.key === 'Escape') showMenu();
+      if (num >= 1 && num <= 4) { clearTimer(); revealReading(id, drill, qIdx, num - 1); }
+      if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
 
@@ -1521,6 +1655,7 @@ function startRegisterSwitching() {
       <button class="back-btn" onclick="showMenu()">← Quit</button>
       <div class="counter">Register Switching &nbsp; ${progress}</div>
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${timerHtml(25)}
       <div class="register-card">
         <div class="register-badge ${regBadgeClass(drill.given_register)}">${escHtml(drill.given_register)}</div>
         <div class="register-sentence">${escHtml(drill.given)}</div>
@@ -1532,9 +1667,10 @@ function startRegisterSwitching() {
 
     const input = app.querySelector('.answer-input');
     input.focus();
+    if (timedMode) startTimer(25, () => revealRegister(id, drill, input.value.trim(), progress, pct));
     input.onkeydown = e => {
-      if (e.key === 'Enter') revealRegister(id, drill, input.value.trim(), progress, pct);
-      if (e.key === 'Escape') showMenu();
+      if (e.key === 'Enter') { clearTimer(); revealRegister(id, drill, input.value.trim(), progress, pct); }
+      if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
 
@@ -1611,6 +1747,7 @@ function startErrorCorrection() {
       <button class="back-btn" onclick="showMenu()">← Quit</button>
       <div class="counter">Error Correction &nbsp; ${progress}</div>
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${timerHtml(25)}
       <div class="error-sentence">
         <div class="error-type-badge">${escHtml(drill.error_type)}</div>
         <div class="korean">${escHtml(drill.incorrect)}</div>
@@ -1620,9 +1757,10 @@ function startErrorCorrection() {
 
     const input = app.querySelector('.answer-input');
     input.focus();
+    if (timedMode) startTimer(25, () => revealError(id, drill, input.value.trim(), progress, pct));
     input.onkeydown = e => {
-      if (e.key === 'Enter') revealError(id, drill, input.value.trim(), progress, pct);
-      if (e.key === 'Escape') showMenu();
+      if (e.key === 'Enter') { clearTimer(); revealError(id, drill, input.value.trim(), progress, pct); }
+      if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
 
@@ -1677,6 +1815,137 @@ function startErrorCorrection() {
         <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">obvious fix</div></button>
       </div>
       <div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+  }
+
+  showCard();
+}
+
+// ===== CLOZE DELETION DRILL =====
+function startClozeDrill() {
+  // Build pool: entries where the korean word appears in the example sentence
+  const pool = [];
+  for (const [cat, entries] of Object.entries(vocabData)) {
+    for (let i = 0; i < entries.length; i++) {
+      const e = entries[i];
+      if (e.example && e.korean && !e.korean.includes(' vs ') && e.example.includes(e.korean)) {
+        pool.push({id: `cloze:${cat}:${i}`, cat, entry: e});
+      }
+    }
+  }
+  if (pool.length === 0) { showMenu(); return; }
+
+  const ids = pool.map(p => p.id);
+  const dueSet = new Set(srs.getDueCards(ids));
+  let session = shuffle(pool.filter(p => dueSet.has(p.id))).slice(0, 12);
+  if (session.length < 12) {
+    const rest = shuffle(pool.filter(p => !dueSet.has(p.id)));
+    session.push(...rest.slice(0, 12 - session.length));
+  }
+
+  let idx = 0, correct = 0, reviewed = 0;
+
+  function getDistractors(entry, cat) {
+    // Pick 3 random words from same category (or any category) as distractors
+    const candidates = [];
+    const sameCat = vocabData[cat] || [];
+    for (const e of sameCat) {
+      if (e.korean !== entry.korean && !e.korean.includes(' vs ') && e.korean.length > 1) {
+        candidates.push(e.korean);
+      }
+    }
+    // If not enough from same category, pull from other categories
+    if (candidates.length < 3) {
+      for (const [c, entries] of Object.entries(vocabData)) {
+        if (c === cat) continue;
+        for (const e of entries) {
+          if (e.korean !== entry.korean && !e.korean.includes(' vs ') && e.korean.length > 1) {
+            candidates.push(e.korean);
+          }
+        }
+        if (candidates.length >= 20) break;
+      }
+    }
+    return shuffle(candidates).slice(0, 3);
+  }
+
+  function showCard() {
+    if (idx >= session.length) { showSummary(reviewed, correct); return; }
+    const {id, cat, entry} = session[idx];
+    const progress = `${idx + 1}/${session.length}`;
+    const pct = ((idx) / session.length * 100).toFixed(0);
+
+    const sentenceHtml = escHtml(entry.example).replace(escHtml(entry.korean), '<span class="cloze-blank">?</span>');
+    const distractors = getDistractors(entry, cat);
+    const options = shuffle([entry.korean, ...distractors]);
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Cloze Drill &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      ${timerHtml(12)}
+      <div class="cloze-sentence">${sentenceHtml}</div>
+      <div class="card-prompt">Fill in the blank:</div>
+      <div class="option-grid">
+        ${options.map((opt, i) => `<button class="option-btn" data-idx="${i}" data-val="${escHtml(opt)}">${escHtml(opt)}</button>`).join('')}
+      </div>
+      ${entry.example_en ? `<div style="color:var(--dim);font-size:0.85em;text-align:center;margin-top:8px">${escHtml(entry.example_en)}</div>` : ''}`;
+
+    if (timedMode) startTimer(12, () => revealCloze(id, entry, -1, entry.korean, options, progress, pct));
+    document.querySelectorAll('.option-btn').forEach(btn => {
+      btn.onclick = () => { clearTimer(); revealCloze(id, entry, parseInt(btn.dataset.idx), entry.korean, options, progress, pct); };
+    });
+    document.onkeydown = e => {
+      const num = parseInt(e.key);
+      if (num >= 1 && num <= 4) { clearTimer(); revealCloze(id, entry, num - 1, entry.korean, options, progress, pct); }
+      if (e.key === 'Escape') { clearTimer(); showMenu(); }
+    };
+  }
+
+  function revealCloze(id, entry, chosenIdx, answer, options, progress, pct) {
+    const chosen = chosenIdx >= 0 ? options[chosenIdx] : '';
+    const isCorrect = chosen === answer;
+    const sentenceHtml = escHtml(entry.example).replace(escHtml(entry.korean),
+      `<span class="cloze-blank" style="border-color:var(--green);color:var(--green)">${escHtml(answer)}</span>`);
+
+    const optionsHtml = options.map((opt, i) => {
+      let cls = '';
+      if (opt === answer) cls = 'correct';
+      else if (i === chosenIdx && !isCorrect) cls = 'wrong';
+      return `<button class="option-btn ${cls}" disabled>${escHtml(opt)}</button>`;
+    }).join('');
+
+    let extra = '';
+    if (entry.notes) extra += `<div class="reveal-notes">${escHtml(entry.notes)}</div>`;
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">← Quit</button>
+      <div class="counter">Cloze Drill &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="cloze-sentence">${sentenceHtml}</div>
+      <div class="option-grid">${optionsHtml}</div>
+      <div class="reveal ${isCorrect ? 'result-correct' : 'result-incorrect'}">
+        <div class="reveal-answer">${escHtml(entry.korean)} — ${escHtml(entry.english)}</div>
+        ${extra}
+      </div>
+      ${clozeRatingButtons()}`;
+
+    document.querySelectorAll('.rating button').forEach(btn => {
+      btn.onclick = () => { const q = parseInt(btn.dataset.q); srs.recordReview(id, q); reviewed++; if (q >= GOOD) correct++; idx++; showCard(); };
+    });
+    document.onkeydown = e => {
+      const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
+      if (map[e.key] !== undefined) { const q = map[e.key]; srs.recordReview(id, q); reviewed++; if (q >= GOOD) correct++; idx++; showCard(); }
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  function clozeRatingButtons() {
+    return `<div class="rating">
+      <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">wrong</div></button>
+      <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">guessed</div></button>
+      <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">knew it</div></button>
+      <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">obvious</div></button>
+    </div><div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
   }
 
   showCard();
