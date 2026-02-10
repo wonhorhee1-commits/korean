@@ -26,10 +26,10 @@ Korean learning tool for an intermediate/advanced speaker targeting full fluency
 ### Fluency Drill Data
 | File | Description | Count |
 |---|---|---|
-| `data/error_drills.json` | Error correction drills (find & fix grammar mistakes) | 60 drills |
-| `data/grammar_context.json` | Grammar in context (pick correct pattern for paragraph) | 50 drills |
-| `data/reading_drills.json` | Reading comprehension (passages + questions) | 30 passages |
-| `data/register_drills.json` | Register switching (반말/해요체/격식체 conversion) | 40 drills |
+| `data/error_drills.json` | Error correction drills (find & fix grammar mistakes) | 107 drills |
+| `data/grammar_context.json` | Grammar in context (pick correct pattern for paragraph) | 95 drills |
+| `data/reading_drills.json` | Reading comprehension (passages + questions) | 31 passages |
+| `data/register_drills.json` | Register switching (반말/해요체/격식체 conversion) | 77 drills |
 
 ### Vocab Categories & Required Fields
 | Category | Fields |
@@ -95,8 +95,8 @@ Each drill: given, given_register, target_register, correct, explanation, diffic
 ## Current Stats
 - Vocab: 5005 entries across 104 categories (all enriched with notes)
 - Grammar: 101 patterns across 8 categories
-- Fluency drills: 60 error correction + 50 grammar context + 30 reading + 40 register = 180 total
-- Target: continue enriching and expanding drill content
+- Fluency drills: 107 error correction + 95 grammar context + 31 reading + 77 register = 310 total
+- Target: expand reading drills to 50+, continue enriching and expanding drill content
 
 ## Key Design Decisions
 - Self-rated flashcards (Anki-style reveal + rate), NOT auto-graded (except grammar fill-in-the-blank and grammar context)
