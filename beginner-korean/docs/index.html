@@ -533,6 +533,37 @@ h2 {
   margin-bottom: 8px;
 }
 
+/* Category progress in select screen */
+.cat-progress-wrap {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 0;
+}
+.cat-progress-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+}
+.cat-progress-bar {
+  flex: 1;
+  height: 4px;
+  background: var(--surface2);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.cat-progress-fill {
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.3s;
+}
+.cat-progress-label {
+  color: var(--dim);
+  font-size: 0.7em;
+  white-space: nowrap;
+}
+
 /* Streak */
 .streak-badge {
   display: inline-flex;
@@ -927,19 +958,48 @@ function toggleDarkMode() {
 }
 
 // ===== CATEGORY SELECT =====
+function getCatProgress(type, cat, entries) {
+  const ids = entries.map((_, i) => `${type}:${cat}:${i}`);
+  const reviewed = ids.filter(id => srs.cards[id]).length;
+  const total = entries.length;
+  const pct = total > 0 ? Math.round(reviewed / total * 100) : 0;
+  const color = pct === 0 ? 'var(--dim)' : pct < 30 ? 'var(--red)' : pct < 70 ? 'var(--orange)' : pct < 100 ? 'var(--blue)' : 'var(--green)';
+  return {reviewed, total, pct, color};
+}
+
 function showCategorySelect(type) {
   const data = type === 'vocab' ? vocabData : grammarData;
   const cats = Object.keys(data);
   const title = type === 'vocab' ? 'Vocabulary Drill' : 'Grammar Practice';
 
+  // Overall progress for "All Categories"
+  let allReviewed = 0, allTotal = 0;
+  for (const c of cats) { const p = getCatProgress(type, c, data[c]); allReviewed += p.reviewed; allTotal += p.total; }
+  const allPct = allTotal > 0 ? Math.round(allReviewed / allTotal * 100) : 0;
+  const allColor = allPct === 0 ? 'var(--dim)' : allPct < 30 ? 'var(--red)' : allPct < 70 ? 'var(--orange)' : allPct < 100 ? 'var(--blue)' : 'var(--green)';
+
   app.innerHTML = `
     <button class="back-btn" onclick="showMenu()">&#8592; Back</button>
     <h2 style="margin-bottom:15px">${title}</h2>
     <div class="menu">
-      <button onclick="startDrill('${type}', null)"><span class="num">0</span> All Categories</button>
+      <button onclick="startDrill('${type}', null)"><span class="num">0</span>
+        <div class="cat-progress-wrap">All Categories
+          <div class="cat-progress-row">
+            <div class="cat-progress-bar"><div class="cat-progress-fill" style="width:${allPct}%;background:${allColor}"></div></div>
+            <span class="cat-progress-label">${allReviewed}/${allTotal}</span>
+          </div>
+        </div>
+      </button>
       ${cats.map((c, i) => {
-        const count = data[c].length;
-        return `<button onclick="startDrill('${type}', '${escHtml(c)}')"><span class="num">${i+1}</span> ${escHtml(c)} <span style="color:var(--dim);font-size:0.8em;margin-left:auto">${count}</span></button>`;
+        const p = getCatProgress(type, c, data[c]);
+        return `<button onclick="startDrill('${type}', '${escHtml(c)}')"><span class="num">${i+1}</span>
+          <div class="cat-progress-wrap">${escHtml(c)}
+            <div class="cat-progress-row">
+              <div class="cat-progress-bar"><div class="cat-progress-fill" style="width:${p.pct}%;background:${p.color}"></div></div>
+              <span class="cat-progress-label">${p.reviewed}/${p.total}</span>
+            </div>
+          </div>
+        </button>`;
       }).join('')}
     </div>`;
   document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
