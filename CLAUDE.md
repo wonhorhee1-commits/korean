@@ -20,7 +20,7 @@ Korean learning tool for an intermediate/advanced speaker targeting full fluency
 ### Core Data
 | File | Description | Count |
 |---|---|---|
-| `data/vocab.json` | Vocabulary entries by category | 5005 entries, 104 categories |
+| `data/vocab.json` | Vocabulary entries by category | 4863 entries, 104 categories |
 | `data/grammar.json` | Grammar patterns by category | 101 patterns, 8 categories |
 
 ### Fluency Drill Data
@@ -95,7 +95,7 @@ Each drill: given, given_register, target_register, correct, explanation, diffic
 - All 104 categories should have `notes` field on every entry
 
 ## Current Stats
-- Vocab: 5005 entries across 104 categories (all enriched with notes)
+- Vocab: 4863 entries across 104 categories (all enriched with notes)
 - Grammar: 101 patterns across 8 categories
 - Fluency drills: 157 error correction + 125 grammar context + 56 reading + 107 register = 445 total
 

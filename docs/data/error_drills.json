@@ -378,10 +378,10 @@
     "explanation": "읽히다 (be read) is passive. 읽혀지다 is double passive and ungrammatical. Use 읽히고 있다."
   },
   {
-    "incorrect": "그는 아이에게 밥을 먹였다.",
+    "incorrect": "그는 아이를 먹였다.",
     "correct": "그는 아이에게 밥을 먹였다.",
-    "error_type": "Correct as is",
-    "explanation": "This is actually correct - 먹이다 is the causative form (to feed). But the similar error would be: 그는 아이를 먹이다 (wrong particle)."
+    "error_type": "Particle error with causative verb",
+    "explanation": "Causative verb 먹이다 (to feed) requires the person being fed to take 에게 (to), and the food to take 을/를 (object). Complete form: 아이에게 밥을 먹이다."
   },
   {
     "incorrect": "보여지는 것처럼",
@@ -396,10 +396,10 @@
     "explanation": "퍼지다 (spread) is already passive/intransitive. 퍼져지다 is redundant. Use 퍼지고 있다."
   },
   {
-    "incorrect": "저는 한국어를 잘 못해요.",
+    "incorrect": "저는 한국어를 잘못해요.",
     "correct": "저는 한국어를 잘 못해요.",
-    "error_type": "Correct - but note spacing",
-    "explanation": "This is actually correct. '잘 못하다' (not good at) is different from '잘못하다' (make a mistake). Spacing matters for meaning."
+    "error_type": "Spacing error: 잘못하다 vs 잘 못하다",
+    "explanation": "잘못하다 (attached) = make a mistake. 잘 못하다 (spaced) = not good at. For 'not good at Korean', use 잘 못해요 (with space). 잘못해요 means 'make mistakes' which changes the meaning."
   },
   {
     "incorrect": "그는 수학을 잘못해요.",
@@ -498,12 +498,6 @@
     "explanation": "Subject marker 이/가 should not be omitted. Use 영화가 재미있었어 (the movie was fun)."
   },
   {
-    "incorrect": "그는 매일 운동하고 책도 읽는다.",
-    "correct": "그는 매일 운동하고 책도 읽는다.",
-    "error_type": "Correct as is",
-    "explanation": "This is correct. 도 (also/even) properly shows parallel activities."
-  },
-  {
     "incorrect": "나는 커피랑 차 좋아해요.",
     "correct": "나는 커피랑 차를 좋아해요.",
     "error_type": "Particle error: missing object marker after list",
@@ -552,22 +546,10 @@
     "explanation": "위한 modifies nouns (위한 시간 = time for). 위해 shows purpose. Here use 하기 위해 (in order to do)."
   },
   {
-    "incorrect": "나는 그것 때문에 화가 났다.",
-    "correct": "나는 그것 때문에 화가 났다.",
-    "error_type": "Correct as is",
-    "explanation": "This is correct. 때문에 (because of) is properly used with 그것."
-  },
-  {
     "incorrect": "저는 한국말로 말해요.",
     "correct": "저는 한국말을 해요.",
     "error_type": "Expression error: redundant construction",
     "explanation": "한국말로 말하다 is redundant (speak in Korean speak). Use 한국말을 하다 or 한국어로 이야기하다."
-  },
-  {
-    "incorrect": "그 일은 쉽게 해결할 수 있어요.",
-    "correct": "그 일은 쉽게 해결할 수 있어요.",
-    "error_type": "Correct as is",
-    "explanation": "This is correct. 쉽게 (easily) properly modifies 해결하다."
   },
   {
     "incorrect": "나는 그 사람의 대해서 잘 몰라요.",
@@ -580,12 +562,6 @@
     "correct": "그는 매우 열심히 공부해요.",
     "error_type": "Adverb error: spacing and form",
     "explanation": "열심히 (diligently) is already an adverb. Don't add -하게. Use 열심히 공부해요."
-  },
-  {
-    "incorrect": "이것은 무슨 의미예요?",
-    "correct": "이것은 무슨 의미예요?",
-    "error_type": "Correct as is",
-    "explanation": "This is correct. 무슨 (what kind of) properly modifies 의미 (meaning)."
   },
   {
     "incorrect": "나는 그 영화를 보는 것이 좋아해요.",
@@ -618,12 +594,6 @@
     "explanation": "매일 (every day) is sufficient. 매일같이 adds emphasis but is often redundant. Use 매일 문을 연다."
   },
   {
-    "incorrect": "저는 운전하는 것에 익숙해요.",
-    "correct": "저는 운전하는 것에 익숙해요.",
-    "error_type": "Correct as is",
-    "explanation": "This is correct. 익숙하다 properly takes 에 particle."
-  },
-  {
     "incorrect": "그 문제는 해결되어야만 해요.",
     "correct": "그 문제는 해결되어야 해요.",
     "error_type": "Expression error: redundant -만",
@@ -634,12 +604,6 @@
     "correct": "나는 그 사람을 믿기 어렵다.",
     "error_type": "Expression error: unnecessary -가",
     "explanation": "With -기 어렵다, don't add -가. Use 믿기 어렵다 (hard to believe), not 믿기가 어렵다."
-  },
-  {
-    "incorrect": "그는 부자로 보여요.",
-    "correct": "그는 부자로 보여요.",
-    "error_type": "Correct as is",
-    "explanation": "This is correct. -로 보이다 means 'appear as/look like'."
   },
   {
     "incorrect": "그는 의사로써 환자를 정성껏 돌보았다.",

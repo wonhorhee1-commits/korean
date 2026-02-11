@@ -50,13 +50,6 @@
       "notes": "미(未 not yet) + 안(安 peace). Casual 'sorry.' More formal: 미안합니다. Very casual: 미안해. Less formal than 죄송합니다."
     },
     {
-      "korean": "괜찮아요",
-      "english": "it's okay / I'm fine",
-      "example": "걱정하지 마세요, 괜찮아요.",
-      "example_en": "Don't worry, it's okay.",
-      "notes": "Native Korean expression. Means both 'it's okay' and 'I'm fine.' Question: 괜찮아요?(Are you okay?). Formal: 괜찮습니다."
-    },
-    {
       "korean": "네",
       "english": "yes",
       "example": "네, 맞아요. 저도 그렇게 생각해요.",
@@ -69,13 +62,6 @@
       "example": "아니요, 저는 학생이 아니에요.",
       "example_en": "No, I'm not a student.",
       "notes": "Native Korean negative. Casual: 아니. Formal: 아닙니다. Don't confuse with 아니다(to not be). Always polite to end with 요."
-    },
-    {
-      "korean": "잠깐만요",
-      "english": "just a moment",
-      "example": "잠깐만요, 지금 갈게요!",
-      "example_en": "Just a moment, I'll be right there!",
-      "notes": "잠깐(暫間 brief moment). Native + Sino hybrid. Related: 잠깐만(wait a sec, casual), 잠시만요(more formal). Quick attention-getter."
     },
     {
       "korean": "실례합니다",
@@ -97,13 +83,6 @@
       "example": "네, 알겠어요. 그렇게 할게요.",
       "example_en": "Yes, I understand. I'll do that.",
       "notes": "알다(to know) + -겠-(future/intention marker). Literally 'I will know' = 'I understand.' Very useful response. Formal: 알겠습니다."
-    },
-    {
-      "korean": "모르겠어요",
-      "english": "I don't know",
-      "example": "이 단어 뜻을 모르겠어요.",
-      "example_en": "I don't know the meaning of this word.",
-      "notes": "모르다(to not know) + -겠-. Literally 'I won't know' = 'I don't know.' Softens the 'I don't know' by adding uncertainty."
     },
     {
       "korean": "만나서 반갑습니다",
@@ -346,13 +325,6 @@
       "notes": "Native Korean word. Age. Direct question 나이가 몇 살이에요? can be rude unless close. Polite: 연세가 어떻게 되세요?(for elders)."
     },
     {
-      "korean": "살",
-      "english": "years old (counter)",
-      "example": "저는 스물다섯 살이에요.",
-      "example_en": "I am twenty-five years old.",
-      "notes": "Counter for age (years old). Use with native numbers: 한 살(1 year old), 두 살(2 years old). 몇 살(how old?). Related: 살다(to live)."
-    },
-    {
       "korean": "나라",
       "english": "country",
       "example": "어느 나라에서 왔어요?",
@@ -402,13 +374,6 @@
       "notes": "학(學 study) appears in 학교(school), 학원(academy), 과학(science). 생(生 life/person) appears in 선생님(teacher), 생일(birthday)."
     },
     {
-      "korean": "회사원",
-      "english": "office worker / company employee",
-      "example": "저는 회사원이에요. IT 회사에서 일해요.",
-      "example_en": "I'm an office worker. I work at an IT company.",
-      "notes": "회사(會社 company). 회(會 meet) appears in 회의(meeting), 기회(opportunity). 사(社 organization) appears in 사회(society). 원(員 member)."
-    },
-    {
       "korean": "선생님",
       "english": "teacher",
       "example": "선생님은 어느 학교에서 가르치세요?",
@@ -423,39 +388,11 @@
       "notes": "주(主 main) appears in 주인(owner), 주요(main). 부(婦 woman/wife) appears in 부인(wife, formal). Modern: 가정주부(homemaker)."
     },
     {
-      "korean": "의사",
-      "english": "doctor",
-      "example": "의사 선생님이 약을 처방해 주셨어요.",
-      "example_en": "The doctor prescribed medicine for me.",
-      "notes": "의(醫 medicine) appears in 의료(medical care), 의학(medicine). 사(師 master) appears in 교사(teacher), 변호사(lawyer). Doctor."
-    },
-    {
-      "korean": "간호사",
-      "english": "nurse",
-      "example": "간호사가 주사를 놓아 줬어요.",
-      "example_en": "The nurse gave me a shot.",
-      "notes": "간호(看護 care). 간(看 look after) appears in 간병(nursing). 호(護 protect) appears in 보호(protection). 사(師 master). Nurse."
-    },
-    {
       "korean": "요리사",
       "english": "chef / cook",
       "example": "이 식당 요리사가 정말 유명해요.",
       "example_en": "The chef at this restaurant is really famous.",
       "notes": "요리(料理 cooking). 요(料 material) appears in 재료(ingredient). 리(理 reason) appears in 관리(management). 사(師 master). Chef."
-    },
-    {
-      "korean": "가수",
-      "english": "singer",
-      "example": "좋아하는 가수가 누구예요?",
-      "example_en": "Who is your favorite singer?",
-      "notes": "가(歌 song) appears in 가요(pop song), 노래(song). 수(手 hand/person skilled in). Singer. Related: 노래하다(to sing)."
-    },
-    {
-      "korean": "배우",
-      "english": "actor / actress",
-      "example": "그 배우가 출연한 드라마를 봤어요.",
-      "example_en": "I watched the drama that actor appeared in.",
-      "notes": "Native Korean word. Actor/actress. Also means 'to learn' (different word, same spelling). Related: 연기하다(to act), 영화배우(movie star)."
     },
     {
       "korean": "어디",
@@ -528,13 +465,6 @@
       "notes": "전(專 specialize) appears in 전문(specialty), 전용(exclusive). 공(攻 attack/study) appears in 공부(study). Major/field of study."
     },
     {
-      "korean": "졸업하다",
-      "english": "to graduate",
-      "example": "저는 올해 대학교를 졸업했어요.",
-      "example_en": "I graduated from university this year.",
-      "notes": "졸업(卒業 graduation). 졸(卒 finish) appears in 졸업생(graduate). 업(業 work) appears in 직업(job), 수업(class). To graduate."
-    },
-    {
       "korean": "경험",
       "english": "experience",
       "example": "한국에서 일한 경험이 있어요?",
@@ -582,13 +512,6 @@
       "example": "제 특기는 요리예요. 한식을 잘 만들어요.",
       "example_en": "My special skill is cooking. I'm good at making Korean food.",
       "notes": "특기(特技 special skill). 특(特 special) appears in 특별(special), 특징(characteristic). 기(技 skill) appears in 기술(technology), 기능(function)."
-    },
-    {
-      "korean": "혈액형",
-      "english": "blood type",
-      "example": "혈액형이 뭐예요? 저는 A형이에요.",
-      "example_en": "What's your blood type? I'm type A.",
-      "notes": "혈액형(血液型 blood type). 혈(血 blood) appears in 출혈(bleeding). 액(液 liquid) appears in 액체(liquid). 형(型 type). Popular topic in Korea!"
     },
     {
       "korean": "별명",
@@ -2020,20 +1943,6 @@
       "notes": "Useful request phrase. 덜(less) + 맵게(spicy-ly) + 해 주세요(please make). Most restaurants can adjust spice level."
     },
     {
-      "korean": "많이",
-      "english": "a lot",
-      "example": "많이 드세요!",
-      "example_en": "Please eat a lot! (Enjoy your meal!)",
-      "notes": "Native Korean adverb. Used to say 'Bon appétit': 많이 드세요. Also: 많이 먹다(eat a lot), 많이 마시다(drink a lot)."
-    },
-    {
-      "korean": "조금",
-      "english": "a little",
-      "example": "조금만 주세요. 배가 별로 안 고파요.",
-      "example_en": "Just give me a little. I'm not that hungry.",
-      "notes": "Native Korean. 조금 vs 좀: both mean 'a little,' but 좀 is shorter/casual. Pattern: 조금만(just a little)."
-    },
-    {
       "korean": "더",
       "english": "more",
       "example": "밥 더 주세요.",
@@ -2067,27 +1976,6 @@
       "example": "계산서 좀 볼 수 있어요?",
       "example_en": "Can I see the bill?",
       "notes": "계산(計算 calculation) + 서(書 document). 서 appears in 서류(documents), 증명서(certificate), 신청서(application form)."
-    },
-    {
-      "korean": "카드",
-      "english": "card",
-      "example": "카드로 계산할게요.",
-      "example_en": "I'll pay by card.",
-      "notes": "Loanword from English 'card.' Very common in Korea. Say: 카드로 할게요(I'll pay by card). Related: 신용카드, 체크카드."
-    },
-    {
-      "korean": "현금",
-      "english": "cash",
-      "example": "현금으로 낼게요.",
-      "example_en": "I'll pay in cash.",
-      "notes": "현(現 present) appears in 현재(present time), 현대(modern times), 현장(scene). 금(金 gold/money) appears in 금액(amount), 요금(fee), 돈(money). Say: 현금으로 할게요."
-    },
-    {
-      "korean": "영수증",
-      "english": "receipt",
-      "example": "영수증 필요해요.",
-      "example_en": "I need a receipt.",
-      "notes": "영(領 receive) appears in 영토(territory), 영역(domain). 수(受 accept) appears in 접수(reception), 수령(receipt). 증(證 proof) appears in 증명서(certificate), 보증(guarantee)."
     },
     {
       "korean": "맛있다",
@@ -2428,27 +2316,6 @@
       "notes": "Native Korean adverb from 늦다(be late). Related: 늦게 오다(come late), 늦게 자다(sleep late), 늦어서 죄송해요(sorry I'm late)."
     },
     {
-      "korean": "항상",
-      "english": "always",
-      "example": "저는 항상 아침을 먹어요.",
-      "example_en": "I always eat breakfast.",
-      "notes": "항(恒 constant) appears in 항구(port). 상(常 always) appears in 평상시(usually), 상식(common sense), 일상(daily life)."
-    },
-    {
-      "korean": "보통",
-      "english": "usually",
-      "example": "보통 몇 시에 일어나요?",
-      "example_en": "What time do you usually wake up?",
-      "notes": "보(普 general) appears in 보편적(universal). 통(通 pass through) appears in 교통(traffic), 소통(communication), 통하다(work/connect). Also means 'average/normal.'"
-    },
-    {
-      "korean": "가끔",
-      "english": "sometimes",
-      "example": "가끔 한국 영화를 봐요.",
-      "example_en": "I sometimes watch Korean movies.",
-      "notes": "Native Korean. Frequency adverbs from most to least: 항상(always) > 자주(often) > 가끔(sometimes) > 거의 안(rarely) > 전혀 안(never)."
-    },
-    {
       "korean": "월요일",
       "english": "Monday",
       "example": "월요일에 회의가 있어요.",
@@ -2738,20 +2605,6 @@
       "notes": "사(事 matter) appears in 일(work), 사건(incident). 무(務 duty) appears in 의무(duty), 근무(work). 실(室 room) appears in 교실(classroom), 화장실(restroom)."
     },
     {
-      "korean": "병원",
-      "english": "hospital",
-      "example": "아파서 병원에 가야 해요.",
-      "example_en": "I'm sick so I need to go to the hospital.",
-      "notes": "병(病 sickness) appears in 질병(disease), 간호(nursing). 원(院 institution) appears in 학원(academy), 법원(court), 미용원(beauty salon)."
-    },
-    {
-      "korean": "약국",
-      "english": "pharmacy",
-      "example": "약국에서 약을 샀어요.",
-      "example_en": "I bought medicine at the pharmacy.",
-      "notes": "약(藥 medicine) appears in 약품(medicine), 약사(pharmacist), 한약(herbal medicine). 국(局 bureau) appears in 우체국(post office), 방송국(broadcasting station)."
-    },
-    {
       "korean": "마트",
       "english": "mart / grocery store",
       "example": "마트에서 과일을 샀어요.",
@@ -2780,20 +2633,6 @@
       "notes": "우(郵 mail) appears in 우편(mail), 우표(stamp). 체(遞 deliver). 국(局 bureau) appears in 약국(pharmacy), 방송국(broadcasting station)."
     },
     {
-      "korean": "공항",
-      "english": "airport",
-      "example": "공항까지 얼마나 걸려요?",
-      "example_en": "How long does it take to get to the airport?",
-      "notes": "공(空 sky/empty) appears in 공기(air), 공중(in the air), 공간(space). 항(港 port) appears in 항구(port), 공항버스(airport bus)."
-    },
-    {
-      "korean": "역",
-      "english": "station",
-      "example": "서울역에서 만나요.",
-      "example_en": "Let's meet at Seoul Station.",
-      "notes": "역(驛 station) appears in 지하철역(subway station), 기차역(train station). Pattern: [place name] + 역. Common meeting spots in Korea."
-    },
-    {
       "korean": "버스 정류장",
       "english": "bus stop",
       "example": "버스 정류장이 어디에 있어요?",
@@ -2808,13 +2647,6 @@
       "notes": "Loanword from French 'café.' Cafe culture huge in Korea—many study, work, or meet at cafes. Common: 스타벅스, 카페베네, 이디야."
     },
     {
-      "korean": "식당",
-      "english": "restaurant",
-      "example": "저 식당 가 봤어요? 맛있대요.",
-      "example_en": "Have you been to that restaurant? They say it's good.",
-      "notes": "식(食 food) appears in 식사(meal), 음식(food), 식품(groceries). 당(堂 hall) appears in 성당(cathedral), 강당(auditorium)."
-    },
-    {
       "korean": "공원",
       "english": "park",
       "example": "공원에서 산책해요.",
@@ -2827,13 +2659,6 @@
       "example": "도서관에서 책을 빌렸어요.",
       "example_en": "I borrowed a book from the library.",
       "notes": "도(圖 map/plan) appears in 도표(chart), 지도(map). 서(書 book) appears in 서점(bookstore), 독서(reading). 관(館 building) appears in 박물관(museum), 미술관(art gallery)."
-    },
-    {
-      "korean": "영화관",
-      "english": "movie theater",
-      "example": "영화관에서 새 영화 봤어요.",
-      "example_en": "I saw a new movie at the theater.",
-      "notes": "영(映 project) appears in 영상(video). 화(畫 picture) appears in 그림(picture), 만화(comics). 관(館 building). Korean theaters advanced: assigned seating, food delivery."
     },
     {
       "korean": "백화점",
@@ -2878,25 +2703,11 @@
       "notes": "Native Korean for Buddhist temple. Famous: 불국사, 해인사. Alternative Sino-Korean: 사찰(寺刹). Popular tourist and hiking destinations. Temple stays (템플스테이) popular cultural experience."
     },
     {
-      "korean": "호텔",
-      "english": "hotel",
-      "example": "호텔 예약했어요?",
-      "example_en": "Did you book a hotel?",
-      "notes": "Loanword from English 'hotel.' Ranges from luxury (5-star) to budget (모텔 motel). Business hotels common in city centers."
-    },
-    {
       "korean": "아파트",
       "english": "apartment",
       "example": "저는 아파트에 살아요.",
       "example_en": "I live in an apartment.",
       "notes": "Loanword from English 'apartment.' Most Koreans live in apartments (고층 아파트 high-rise). Different from 빌라(villa, smaller building) or 단독주택(single house)."
-    },
-    {
-      "korean": "방",
-      "english": "room",
-      "example": "방이 몇 개예요?",
-      "example_en": "How many rooms are there?",
-      "notes": "Native Korean. Used in compounds: 노래방(karaoke), PC방(internet cafe), 찜질방(spa), 게임방(game room), 방 2개(2 rooms/2BR)."
     },
     {
       "korean": "부엌",
@@ -2955,13 +2766,6 @@
       "notes": "체(體 body) appears in 신체(body), 구체적(specific). 육(育 raise) appears in 교육(education). 관(館 building). Fitness gym or sports gymnasium."
     },
     {
-      "korean": "수영장",
-      "english": "swimming pool",
-      "example": "여름에 수영장에 자주 가요.",
-      "example_en": "I go to the swimming pool often in summer.",
-      "notes": "수(水 water) appears in 물(water). 영(泳 swim) appears in 수영복(swimsuit). 장(場 place) appears in 시장(market), 운동장(field). Indoor pools common year-round."
-    },
-    {
       "korean": "미용실",
       "english": "hair salon",
       "example": "미용실에서 머리를 잘랐어요.",
@@ -3002,34 +2806,6 @@
       "example": "여권을 잃어버려서 대사관에 가야 해요.",
       "example_en": "I lost my passport so I need to go to the embassy.",
       "notes": "대(大 big) + 사(使 envoy) appears in 사절(delegation), 천사(angel). 관(館 building). Located in major cities. Consulates in smaller cities: 영사관."
-    },
-    {
-      "korean": "해변",
-      "english": "beach",
-      "example": "여름에 해변에 가고 싶어요.",
-      "example_en": "I want to go to the beach in summer.",
-      "notes": "해(海 sea) appears in 바다(sea), 해안(coast). 변(邊 edge) appears in 주변(surroundings), 변두리(outskirts). Famous: 해운대(Haeundae), 강릉(Gangneung beaches)."
-    },
-    {
-      "korean": "산",
-      "english": "mountain",
-      "example": "주말에 산에 갔어요.",
-      "example_en": "I went to the mountain on the weekend.",
-      "notes": "Native Korean. Hiking (등산) national hobby—70% of Korea is mountains. Famous: 한라산(Hallasan), 설악산(Seoraksan), 북한산(Bukhansan). Well-maintained trails."
-    },
-    {
-      "korean": "강",
-      "english": "river",
-      "example": "한강에서 치킨 먹는 게 좋아요.",
-      "example_en": "I like eating chicken by the Han River.",
-      "notes": "Native Korean. Famous: 한강(Han River) through Seoul. Cultural: 치맥(치킨+맥주 chicken & beer) by riverside iconic Korean activity. Riverside parks very popular."
-    },
-    {
-      "korean": "찜질방",
-      "english": "Korean spa / jjimjilbang / sauna",
-      "example": "주말에 찜질방에 가서 쉬고 싶어요.",
-      "example_en": "I want to go to a jjimjilbang and rest this weekend.",
-      "notes": "찜질(steaming therapy) + 방(room). 24-hour Korean bathhouse with saunas, sleeping areas, food. Affordable relaxation spot. Cultural experience: 양머리(sheep head towel), 식혜(sweet rice drink)."
     },
     {
       "korean": "지하",
@@ -3307,13 +3083,6 @@
       "notes": "Native Korean. Forms: 길을 잃다(get lost), 길을 건너다(cross street), 지름길(shortcut). Essential for directions."
     },
     {
-      "korean": "지도",
-      "english": "map",
-      "example": "지도 좀 보여 주세요.",
-      "example_en": "Please show me the map.",
-      "notes": "지(地 land) appears in 지역(region), 지리(geography), 지하(underground). 도(圖 diagram) appears in 도표(chart), 도안(design)."
-    },
-    {
       "korean": "모퉁이",
       "english": "corner",
       "example": "모퉁이를 돌면 카페가 있어요.",
@@ -3333,13 +3102,6 @@
       "example": "횡단보도를 건너세요.",
       "example_en": "Cross at the crosswalk.",
       "notes": "횡단(橫斷 crossing) appears in 횡단(traverse), 횡선(horizontal line). 보도(步道 walkway) appears in 인도(sidewalk), 보행자(pedestrian)."
-    },
-    {
-      "korean": "출구",
-      "english": "exit",
-      "example": "3번 출구로 나오세요.",
-      "example_en": "Come out through exit 3.",
-      "notes": "출(出 exit) appears in 출발(departure), 출장(business trip), 출입(in and out). 구(口 opening) appears in 입구(entrance), 구멍(hole)."
     },
     {
       "korean": "북쪽",
@@ -3498,20 +3260,6 @@
       "notes": "물(物 thing) appears in 물품(goods), 물자(materials), 동물(animal). 건(件 item) appears in 사건(incident), 조건(condition)."
     },
     {
-      "korean": "사다",
-      "english": "to buy",
-      "example": "선물 사러 가요.",
-      "example_en": "Let's go buy a gift.",
-      "notes": "Native Korean. Conjugation: 사요, 샀어요. Forms: 사 주다(buy for someone), -(으)러 가다(go to buy). Opposite: 팔다(sell)."
-    },
-    {
-      "korean": "팔다",
-      "english": "to sell",
-      "example": "여기에서 뭐 팔아요?",
-      "example_en": "What do they sell here?",
-      "notes": "Native Korean. ㄹ-irregular verb: drops ㄹ before ㄴ, ㅂ. Conjugation: 팔아요, 팔았어요. Passive: 팔리다(be sold)."
-    },
-    {
       "korean": "가격",
       "english": "price",
       "example": "가격이 좀 비싸요.",
@@ -3554,13 +3302,6 @@
       "notes": "English loanword 'sale.' Used with -하다: 세일해요(having a sale). Common: 세일 기간(sale period), 세일 행사(sale event)."
     },
     {
-      "korean": "바꾸다",
-      "english": "to exchange",
-      "example": "사이즈를 바꾸고 싶어요.",
-      "example_en": "I'd like to exchange the size.",
-      "notes": "Native Korean. ㅜ-irregular conjugation: 바꿔요, 바꿨어요. General word for change/switch/exchange. Forms: 바꿔 드릴게요(I'll exchange it for you)."
-    },
-    {
       "korean": "환불",
       "english": "refund",
       "example": "환불할 수 있어요?",
@@ -3580,20 +3321,6 @@
       "example": "다른 사이즈 있어요?",
       "example_en": "Do you have a different size?",
       "notes": "English loanword 'size.' Used with -가(subject): 사이즈가 안 맞다(doesn't fit). Common: 프리사이즈(free size/one-size-fits-all)."
-    },
-    {
-      "korean": "크다",
-      "english": "big",
-      "example": "이거 좀 커요. 작은 거 있어요?",
-      "example_en": "This is a bit big. Do you have a small one?",
-      "notes": "Native Korean. ㅡ-irregular: modifier form is 큰. Conjugation: 커요, 컸어요. Forms: 크기(size, noun). Opposite: 작다."
-    },
-    {
-      "korean": "작다",
-      "english": "small",
-      "example": "이건 너무 작아요.",
-      "example_en": "This one is too small.",
-      "notes": "Native Korean. ㅡ-irregular: modifier form is 작은. Conjugation: 작아요, 작았어요. Opposite: 크다(big)."
     },
     {
       "korean": "색깔",
@@ -3776,20 +3503,6 @@
       "example": "결제는 카드로 할게요.",
       "example_en": "I'll pay by card.",
       "notes": "결(決 settle) appears in 결정(decision), 결심(resolution). 제(濟 pay) appears in 경제(economy). Forms: 결제 수단(payment method), 결제 완료(payment complete)."
-    },
-    {
-      "korean": "신용카드",
-      "english": "credit card",
-      "example": "신용카드로 결제할 수 있어요?",
-      "example_en": "Can I pay by credit card?",
-      "notes": "신용(信用 credit) appears in 신용 등급(credit rating), 신용 조회(credit check). 카드(card from English). High usage rate in Korea."
-    },
-    {
-      "korean": "체크카드",
-      "english": "debit card",
-      "example": "체크카드는 잔액이 있어야 해요.",
-      "example_en": "You need to have a balance for a debit card.",
-      "notes": "체크(check from English) + 카드(card from English). Debit card that draws directly from bank account. Popular with younger Koreans."
     },
     {
       "korean": "포인트",
@@ -4475,32 +4188,11 @@
       "notes": "건강(健康 health) - 건(健 strong) appears in 건전(sound/healthy). 강(康 healthy) appears in 강건(robust). Common wish: 건강하세요(stay healthy)."
     },
     {
-      "korean": "피곤하다",
-      "english": "to be tired",
-      "example": "오늘 일을 많이 해서 피곤해요.",
-      "example_en": "I worked a lot today so I'm tired.",
-      "notes": "피곤(疲困 tired) - 피(疲 fatigue) appears in 피로(fatigue). 곤(困 difficulty) appears in 곤란(difficulty). Irregular 하다: 피곤해요."
-    },
-    {
       "korean": "잠",
       "english": "sleep",
       "example": "어젯밤에 잠을 못 잤어요.",
       "example_en": "I couldn't sleep last night.",
       "notes": "Native Korean. 잠을 자다(sleep), 잠이 오다(feel sleepy), 잠에서 깨다(wake from sleep), 잠꾸러기(sleepyhead)."
-    },
-    {
-      "korean": "자다",
-      "english": "to sleep",
-      "example": "보통 밤 11시에 자요.",
-      "example_en": "I usually sleep at 11 PM.",
-      "notes": "Native Korean. Irregular: 자요, 잤어요. 잘 자요(sleep well), 늦잠(oversleeping). Different from 자(ruler/measure)."
-    },
-    {
-      "korean": "일어나다",
-      "english": "to wake up; to get up",
-      "example": "아침 7시에 일어나요.",
-      "example_en": "I wake up at 7 in the morning.",
-      "notes": "Native Korean. 일어나다(wake/rise up). 일찍 일어나다(wake early), 늦게 일어나다(wake late). Also means 'happen/occur.'"
     },
     {
       "korean": "혈압",
@@ -4592,13 +4284,6 @@
       "example": "키가 몇이에요? 저는 170센티예요.",
       "example_en": "How tall are you? I'm 170cm.",
       "notes": "Loanword from English 'key' but used for height. 키가 크다(tall), 키가 작다(short). Also used for actual keys in some contexts."
-    },
-    {
-      "korean": "체력",
-      "english": "stamina / physical strength",
-      "example": "체력이 좋으면 피곤하지 않아요.",
-      "example_en": "If you have good stamina, you don't get tired.",
-      "notes": "체력(體力 stamina) - 체(體 body) appears in 신체(body), 체중(weight). 력(力 strength) appears in 능력(ability), 노력(effort), 전력(full power)."
     },
     {
       "korean": "건강검진",
@@ -4799,13 +4484,6 @@
       "notes": "시간표(時間表 timetable) - 시간(time). 표(表 table/chart) appears in 표시(display), 대표(representative). 버스 시간표(bus schedule)."
     },
     {
-      "korean": "길",
-      "english": "road; way; path",
-      "example": "이 길로 쭉 가면 돼요.",
-      "example_en": "Just go straight along this road.",
-      "notes": "Native Korean. 길을 잃다(get lost), 길이 막히다(road is blocked). Common: 길가(roadside), 길거리(street). Also means 'long.'"
-    },
-    {
       "korean": "교통",
       "english": "traffic; transportation",
       "example": "서울은 교통이 복잡해요.",
@@ -4846,13 +4524,6 @@
       "example": "여기서는 속도를 줄여야 해요. 학교 앞이에요.",
       "example_en": "You need to reduce speed here. It's in front of a school.",
       "notes": "속도(速度 speed) - 속(速 fast) appears in 고속(high speed), 신속(quick). 도(度 degree/extent) appears in 온도(temperature), 각도(angle)."
-    },
-    {
-      "korean": "사고",
-      "english": "accident",
-      "example": "교통사고가 나서 길이 막혀요.",
-      "example_en": "There was a traffic accident, so the road is blocked.",
-      "notes": "사고(事故 accident) appears in 교통사고(traffic accident), 차 사고(car accident). Different from 사고(思考 thinking). 사고가 나다(accident occurs)."
     },
     {
       "korean": "교통체증",
@@ -4960,13 +4631,6 @@
       "notes": "음주운전(飮酒運轉 drunk driving) - 음주(飮酒 drinking alcohol). Illegal and heavily punished in Korea. 음주 단속(drunk driving crackdown)."
     },
     {
-      "korean": "보험",
-      "english": "insurance (automotive)",
-      "example": "자동차 보험을 갱신해야 해요.",
-      "example_en": "I need to renew my car insurance.",
-      "notes": "보험(保險 insurance) - 보(保 protect) appears in 보호(protection), 보관(storage). 험(險 danger) appears in 위험(danger), 모험(adventure)."
-    },
-    {
       "korean": "세차",
       "english": "car wash",
       "example": "주말에 세차하러 갈 거예요.",
@@ -5037,13 +4701,6 @@
       "example": "취미가 뭐예요?",
       "example_en": "What is your hobby?",
       "notes": "취미(趣味 hobby) - 취(趣 interest) appears in 취향(taste/preference). 미(味 taste) appears in 맛(taste-native), 흥미(interest). Common question: 취미가 뭐예요?"
-    },
-    {
-      "korean": "영화",
-      "english": "movie; film",
-      "example": "주말에 영화 보러 갈래요?",
-      "example_en": "Do you want to go see a movie this weekend?",
-      "notes": "영화(映畫 movie) - 영(映 reflect) appears in 반영(reflection). 화(畫 picture) appears in 그림(picture-native), 만화(comics). 영화관(cinema)."
     },
     {
       "korean": "음악",
@@ -5123,13 +4780,6 @@
       "notes": "Loanword from Sanskrit via English 'yoga.' 요가 수업(yoga class), 요가 매트(yoga mat). Popular for flexibility and stress relief."
     },
     {
-      "korean": "여행",
-      "english": "travel; trip",
-      "example": "다음 달에 일본으로 여행 가요.",
-      "example_en": "I'm going on a trip to Japan next month.",
-      "notes": "여행(旅行 travel) - 여(旅 journey) appears in 여권(passport), 여객(passenger). 행(行 go) appears in 비행기(airplane), 은행(bank)."
-    },
-    {
       "korean": "사진",
       "english": "photo; photograph",
       "example": "사진 찍어 주실 수 있어요?",
@@ -5193,13 +4843,6 @@
       "notes": "Loanword from English 'camping.' 캠핑장(campground), 글램핑(glamping). Popular family weekend activity in Korea."
     },
     {
-      "korean": "노래방",
-      "english": "karaoke; singing room",
-      "example": "회식 후에 노래방에 가요.",
-      "example_en": "After the work dinner, we go to karaoke.",
-      "notes": "노래(song-native) + 방(房 room). Korean karaoke in private rooms. Essential social activity, different from Western karaoke bars."
-    },
-    {
       "korean": "드라마",
       "english": "drama; TV show",
       "example": "요즘 재미있는 드라마가 있어요?",
@@ -5235,39 +4878,11 @@
       "notes": "책(冊 book) appears in 책방(bookstore), 책상(desk), 교과서(textbook). 책을 읽다(read book). Many 24-hour bookstores."
     },
     {
-      "korean": "신문",
-      "english": "newspaper",
-      "example": "아버지는 매일 아침 신문을 읽으세요.",
-      "example_en": "My father reads the newspaper every morning.",
-      "notes": "신문(新聞 newspaper) - 신(新 new) appears in 신상품(new product). 문(聞 hear/news) appears in 소문(rumor), 견문(knowledge)."
-    },
-    {
-      "korean": "콘서트",
-      "english": "concert",
-      "example": "다음 주에 콘서트에 가요!",
-      "example_en": "I'm going to a concert next week!",
-      "notes": "Loanword from English 'concert.' K-pop concerts are huge. 티켓팅(ticketing) is competitive. 공연장(concert hall)."
-    },
-    {
-      "korean": "공연",
-      "english": "performance; show",
-      "example": "뮤지컬 공연을 보러 갈 거예요.",
-      "example_en": "I'm going to see a musical performance.",
-      "notes": "공연(公演 performance) - 공(公 public) appears in 공개(public release). 연(演 perform) appears in 연기(acting), 연극(theater play)."
-    },
-    {
       "korean": "전시회",
       "english": "exhibition",
       "example": "미술 전시회에 같이 가요.",
       "example_en": "Let's go to the art exhibition together.",
       "notes": "전시회(展示會 exhibition) - 전시(展示 display), 회(會 meeting/event). 미술 전시회(art exhibition), 박람회(expo)."
-    },
-    {
-      "korean": "박물관",
-      "english": "museum",
-      "example": "국립박물관에 가 본 적 있어요?",
-      "example_en": "Have you been to the National Museum?",
-      "notes": "박물관(博物館 museum) - 박물(博物 wide learning), 관(館 building) appears in 미술관(art museum), 도서관(library). 국립중앙박물관 is major museum."
     },
     {
       "korean": "미술관",
@@ -5333,13 +4948,6 @@
       "notes": "Loanword from English 'skate.' 스케이트를 타다(ice skate), 아이스링크(ice rink). Popular in winter."
     },
     {
-      "korean": "서핑",
-      "english": "surfing",
-      "example": "양양에서 서핑하는 게 요즘 인기예요.",
-      "example_en": "Surfing in Yangyang is popular these days.",
-      "notes": "Loanword from English 'surfing.' 양양, 부산 are popular surf spots. Growing popularity among young Koreans."
-    },
-    {
       "korean": "헬스",
       "english": "gym / fitness / working out",
       "example": "매일 헬스장에 가서 운동해요.",
@@ -5380,20 +4988,6 @@
       "example": "천 조각짜리 퍼즐을 완성했어요!",
       "example_en": "I completed a 1000-piece puzzle!",
       "notes": "Loanword from English 'puzzle.' 직소 퍼즐(jigsaw puzzle). Relaxing solo activity, popular among all ages."
-    },
-    {
-      "korean": "유튜브",
-      "english": "YouTube",
-      "example": "요리 유튜브를 보면서 따라 해요.",
-      "example_en": "I follow along while watching cooking YouTube.",
-      "notes": "Loanword from English 'YouTube.' 유튜버(YouTuber) is aspirational career. 구독(subscribe), 좋아요(like) are common terms."
-    },
-    {
-      "korean": "팟캐스트",
-      "english": "podcast",
-      "example": "출퇴근할 때 팟캐스트를 들어요.",
-      "example_en": "I listen to podcasts during my commute.",
-      "notes": "Loanword from English 'podcast.' Growing medium in Korea. Topics range from comedy to education."
     },
     {
       "korean": "웹툰",
@@ -5601,13 +5195,6 @@
       "notes": "Native Korean compound. 배(stomach) + 고프다(empty/craving). ㅡ irregular: 배고파요(polite), 배고팠어요(past). Common: 배고픈 사람(hungry person), 배가 너무 고파요(I'm so hungry). Opposite: 배부르다(full)."
     },
     {
-      "korean": "배부르다",
-      "english": "full (stomach)",
-      "example": "너무 많이 먹어서 배불러요.",
-      "example_en": "I'm full because I ate too much.",
-      "notes": "Native Korean compound. 배(stomach) + 부르다(full/swollen). 르 irregular: 배불러요(polite), 배불렀어요(past). Common: 배불리 먹다(to eat until full), 배가 불러요(my stomach is full). Opposite: 배고프다(hungry)."
-    },
-    {
       "korean": "목마르다",
       "english": "thirsty",
       "example": "운동한 후에 목말라요.",
@@ -5620,13 +5207,6 @@
       "example": "어젯밤에 잠을 못 자서 졸려요.",
       "example_en": "I'm sleepy because I couldn't sleep last night.",
       "notes": "Native Korean. Polite: 졸려요. Past: 졸렸어요. 졸리다(to feel sleepy, involuntary) vs 졸다(to doze off, action). Noun: 졸음(drowsiness). Common: 졸음운전(drowsy driving), 졸음이 쏟아지다(drowsiness hits). Related: 잠이 오다(sleep comes)."
-    },
-    {
-      "korean": "아프다",
-      "english": "sick, hurt, painful",
-      "example": "머리가 아파요.",
-      "example_en": "I have a headache. (My head hurts.)",
-      "notes": "Native Korean. ㅡ irregular: 아파요(polite), 아팠어요(past). Used for all types of pain and illness. Pattern: body part + 이/가 아프다. Common: 머리가 아프다(headache), 배가 아프다(stomachache), 마음이 아프다(heartache). Noun: 아픔(pain)."
     },
     {
       "korean": "좋다",
@@ -6135,13 +5715,6 @@
       "notes": "Native Korean compound. 오래(a long time) + 되다(to become). Polite: 오래돼요. Modifier: 오래된. Only for things and relationships, NOT people's age (use 나이가 많다). Common: 오래된 건물(old building), 오래된 친구(long-time friend). Related: 낡다(worn out/shabby)."
     },
     {
-      "korean": "좋다",
-      "english": "good, nice",
-      "example": "이 식당은 음식이 좋아요.",
-      "example_en": "This restaurant has good food.",
-      "notes": "Native Korean. Polite: 좋아요. Modifier: 좋은. Essential distinction: 좋다(adjective: it IS good) vs 좋아하다(verb: to actively LIKE). Common: 좋은 날씨(nice weather), 좋은 사람(good person), 기분이 좋다(feel good), 사이가 좋다(get along well). Opposite: 나쁘다."
-    },
-    {
       "korean": "나쁘다",
       "english": "bad",
       "example": "오늘 날씨가 나빠요.",
@@ -6196,13 +5769,6 @@
       "example": "밖이 벌써 어두워요.",
       "example_en": "It's already dark outside.",
       "notes": "Native Korean. ㅂ irregular: 어두워요(polite), 어두웠어요(past). Modifier: 어두운. For lack of light or figuratively somber. Common: 어두운 밤(dark night), 어두운 방(dark room), 어두운 표정(dark/somber expression). Noun: 어둠(darkness). Opposite: 밝다(bright)."
-    },
-    {
-      "korean": "따뜻하다",
-      "english": "warm",
-      "example": "오늘 날씨가 따뜻해요.",
-      "example_en": "The weather is warm today.",
-      "notes": "Native Korean. Polite: 따뜻해요. Modifier: 따뜻한. Physical warmth or emotional warmth. Common: 따뜻한 날씨(warm weather), 따뜻한 물(warm water), 따뜻한 마음(warm heart), 따뜻한 말(warm words). Opposite: 차갑다(cold to touch). Related: 따스하다(cozy warmth)."
     },
     {
       "korean": "차갑다",
@@ -6669,20 +6235,6 @@
       "notes": "Native Korean compound. 끝(end) + 나다(come out). Polite: 끝나요(ㅏ+아 contracts). Past: 끝났어요. Intransitive (things end by themselves). Common: 수업이 끝나다(class ends), 일이 끝나다(work ends). Transitive counterpart: 끝내다(to finish something actively). Opposite: 시작하다."
     },
     {
-      "korean": "도착하다",
-      "english": "to arrive",
-      "example": "공항에 도착했어요.",
-      "example_en": "I arrived at the airport.",
-      "notes": "Sino-Korean compound. 도(到 arrive/reach) + 착(着 land/attach) + 하다. Polite: 도착해요(하→해). Common: 공항에 도착하다(arrive at airport), 도착 시간(arrival time), 무사히 도착하다(arrive safely). Opposite: 출발하다(depart). Related: 도달하다(to reach, formal)."
-    },
-    {
-      "korean": "출발하다",
-      "english": "to depart, to leave",
-      "example": "기차가 곧 출발해요.",
-      "example_en": "The train is departing soon.",
-      "notes": "Sino-Korean compound. 출(出 go out/exit) + 발(發 release/send) + 하다. Polite: 출발해요(하→해). Common: 기차가 출발하다(train departs), 출발 시간(departure time), 내일 출발하다(depart tomorrow). Opposite: 도착하다(arrive). Related: 떠나다(to leave, native Korean)."
-    },
-    {
       "korean": "놀다",
       "english": "to play, to hang out",
       "example": "주말에 같이 놀아요.",
@@ -6793,48 +6345,6 @@
       "example": "그 이야기가 재미있어서 웃었어요.",
       "example_en": "I laughed because that story was funny.",
       "notes": "Native Korean. Polite: 웃어요. Past: 웃었어요. Both laughing and smiling. Common: 크게 웃다(laugh loudly), 웃는 얼굴(smiling face), 웃기다(to be funny). Noun: 웃음(laughter), 미소(smile, gentler). Opposite: 울다(cry). Related: 웃음소리(sound of laughter)."
-    },
-    {
-      "korean": "청소하다",
-      "english": "to clean",
-      "example": "주말마다 방을 청소해요.",
-      "example_en": "I clean my room every weekend.",
-      "notes": "Sino-Korean compound. 청(淸 clean/clear) + 소(掃 sweep) + 하다. Polite: 청소해요(하→해). Common: 방을 청소하다(clean a room), 대청소(big/spring cleaning), 청소기(vacuum cleaner). Related: 정리하다(to tidy up), 쓸다(to sweep), 닦다(to wipe)."
-    },
-    {
-      "korean": "빨래하다",
-      "english": "to do laundry",
-      "example": "빨래를 해야 돼요.",
-      "example_en": "I need to do laundry.",
-      "notes": "Native compound. 빨래(laundry) + 하다. Polite: 빨래해요(하→해). Common: 빨래를 널다(hang laundry to dry), 빨래를 개다(fold laundry), 빨래를 돌리다(run the laundry machine). Related: 세탁하다(to launder, formal), 세탁기(washing machine), 건조기(dryer)."
-    },
-    {
-      "korean": "요리하다",
-      "english": "to cook",
-      "example": "집에서 요리해요.",
-      "example_en": "I cook at home.",
-      "notes": "Sino-Korean compound. 요리(料理 cooking/cuisine) + 하다. Polite: 요리해요(하→해). Common: 한국 요리(Korean cuisine), 요리사(chef), 요리를 잘하다(to be good at cooking). Related: 만들다(to make food), 끓이다(to boil), 볶다(to stir-fry), 굽다(to grill/bake)."
-    },
-    {
-      "korean": "운전하다",
-      "english": "to drive",
-      "example": "매일 회사까지 운전해요.",
-      "example_en": "I drive to work every day.",
-      "notes": "Sino-Korean compound. 운(運 carry/transport) + 전(轉 turn/rotate) + 하다. Polite: 운전해요(하→해). Common: 운전면허(driver's license), 운전자(driver), 운전을 배우다(learn to drive). Related: 몰다(to drive, native Korean), 주행하다(to drive/travel, formal)."
-    },
-    {
-      "korean": "타다",
-      "english": "to ride, to take (transportation)",
-      "example": "지하철을 타고 가요.",
-      "example_en": "I go by subway.",
-      "notes": "Native Korean. Polite: 타요(ㅏ+아 contracts). Past: 탔어요. For riding or taking transportation. Common: 지하철을 타다(take the subway), 버스를 타다(take the bus), 자전거를 타다(ride a bicycle), 비행기를 타다(take a plane). Opposite: 내리다(get off). Note: 타다 also means 'to burn.'"
-    },
-    {
-      "korean": "내리다",
-      "english": "to get off, to go down",
-      "example": "다음 역에서 내려요.",
-      "example_en": "I get off at the next station.",
-      "notes": "Native Korean. Polite: 내려요(리+어→려). Past: 내렸어요. Multiple meanings: to get off transport, to go down, to fall (rain/snow). Common: 버스에서 내리다(get off bus), 비가 내리다(rain falls), 눈이 내리다(snow falls), 다음 역에서 내리다(get off at next station). Opposite: 타다."
     },
     {
       "korean": "걸리다",
@@ -7012,13 +6522,6 @@
       "notes": "Sino-Korean compound. 준(準 standard/level) + 비(備 equip/prepare) + 하다. Polite: 준비해요(하→해). Common: 시험 준비(exam preparation), 여행 준비(trip preparation), 준비물(things to prepare), 준비 다 했어요?(are you all ready?). Related: 마련하다(to arrange/prepare)."
     },
     {
-      "korean": "정리하다",
-      "english": "to organize / to tidy up / to sort out",
-      "example": "방을 정리해야 해요. 너무 지저분해요.",
-      "example_en": "I need to tidy up my room. It's too messy.",
-      "notes": "Sino-Korean compound. 정(整 arrange/tidy) + 리(理 manage/organize) + 하다. Polite: 정리해요(하→해). Common: 방을 정리하다(tidy a room), 생각을 정리하다(organize thoughts), 짐을 정리하다(sort/pack luggage). Related: 치우다(to put away/clear), 정돈하다(to arrange neatly)."
-    },
-    {
       "korean": "확인하다",
       "english": "to confirm / to check / to verify",
       "example": "예약을 확인해 주세요.",
@@ -7129,13 +6632,6 @@
       "example": "매일 한국어를 공부하려고 노력해요.",
       "example_en": "I make an effort to study Korean every day.",
       "notes": "Sino-Korean compound. 노(努 strive/exert) + 력(力 power/force) + 하다. Polite: 노력해요(하→해). Common: 열심히 노력하다(try very hard), 노력의 결과(result of effort), 노력이 필요하다(effort is needed). Related: 애쓰다(to strive, native Korean), 분투하다(to struggle hard)."
-    },
-    {
-      "korean": "축하하다",
-      "english": "to congratulate; to celebrate",
-      "example": "생일 축하해요!",
-      "example_en": "Happy birthday!",
-      "notes": "Sino-Korean compound. 축(祝 celebrate/wish) + 하(賀 congratulate) + 하다. Polite: 축하해요(하→해). Common: 생일 축하해요!(Happy birthday!), 축하합니다!(Congratulations!, formal), 졸업 축하해요(congrats on graduation). Related: 축하 파티(celebration party), 축제(festival)."
     },
     {
       "korean": "응원하다",
@@ -7397,13 +6893,6 @@
       "example": "먼저 손을 씻으세요.",
       "example_en": "Wash your hands first.",
       "notes": "Native Korean. Politeness: 먼저 드세요(please eat first), 먼저 가세요(you go first). Opposite: 나중에."
-    },
-    {
-      "korean": "나중에",
-      "english": "later, afterward",
-      "example": "나중에 전화할게요.",
-      "example_en": "I'll call you later.",
-      "notes": "Native Korean. 나중 = later time(noun) + 에(at). Opposite: 먼저. Common: 나중에 봐요(see you later)."
     },
     {
       "korean": "함께/같이",
@@ -8418,13 +7907,6 @@
       "notes": "한국(Korea) + 어(語 language) appears in 언어(language), 일본어(Japanese). Korean language."
     },
     {
-      "korean": "음악",
-      "english": "music class",
-      "example": "음악 시간에 노래를 불렀어요.",
-      "example_en": "We sang songs during music class.",
-      "notes": "음(音 sound) appears in 소음(noise), 발음(pronunciation). 악(樂 music) appears in 즐거움(joy), 낙천(optimism). Music class."
-    },
-    {
       "korean": "미술",
       "english": "art class",
       "example": "미술 시간에 수채화를 그렸어요.",
@@ -8826,20 +8308,6 @@
       "notes": "점심(lunch) + 시간(time). Lunch break. Typical: 12시부터 1시까지(12-1pm)."
     },
     {
-      "korean": "회식",
-      "english": "company dinner",
-      "example": "오늘 저녁에 팀 회식이 있어요.",
-      "example_en": "There's a team dinner this evening.",
-      "notes": "회(會 gathering) + 식(食 meal). Company dinner/drinking. Korean work culture: 회식 문화."
-    },
-    {
-      "korean": "스트레스",
-      "english": "stress",
-      "example": "요즘 업무 스트레스가 심해요.",
-      "example_en": "Work stress has been severe lately.",
-      "notes": "Loanword from English 'stress'. Work pressure. Common: 스트레스를 받다(be stressed), 스트레스 해소(stress relief)."
-    },
-    {
       "korean": "성과",
       "english": "achievement",
       "example": "올해 좋은 성과를 냈어요.",
@@ -9057,13 +8525,6 @@
       "example": "저녁 먹고 설거지해요.",
       "example_en": "I do the dishes after dinner.",
       "notes": "Native Korean. From 설다(wash dishes) + 거지(old action noun). Related: 설거지통(dish basin), 설거지 비누(dish soap). Common: 식후에 설거지하다."
-    },
-    {
-      "korean": "요리하다",
-      "english": "to cook",
-      "example": "오늘은 제가 요리해요.",
-      "example_en": "Today I'm cooking.",
-      "notes": "요(料 ingredient) appears in 재료(material), 요금(fee), 연료(fuel). 리(理 manage) appears in 관리(management), 처리(processing), 물리(physics). Common: 저녁을 요리하다."
     },
     {
       "korean": "다림질하다",
@@ -9628,13 +9089,6 @@
       "notes": "Loanword from English 'upload.' Also: 올리다(casual native). Related: 파일 업로드, 사진 업로드. Common: 사진을 업로드하다(upload photo)."
     },
     {
-      "korean": "사진 찍다",
-      "english": "to take a photo",
-      "example": "같이 사진 찍어요!",
-      "example_en": "Let's take a photo together!",
-      "notes": "Native phrase. 사진(寫眞 photograph) + 찍다(take/click). Related: 셀카 찍다(take selfie), 인증샷(proof photo). Common: 같이 사진 찍어요(let's take a photo together)."
-    },
-    {
       "korean": "동영상",
       "english": "video",
       "example": "재미있는 동영상을 봤어요.",
@@ -9817,20 +9271,6 @@
       "notes": "해(解 release) appears in 해결(resolution), 이해(understanding), 풀다(untie). 제(除 remove) appears in 제거(removal), 삭제(deletion), 배제(exclusion). Common: 잠금을 해제하다(unlock)."
     },
     {
-      "korean": "스피커",
-      "english": "speaker",
-      "example": "스피커 소리가 너무 작아요.",
-      "example_en": "The speaker volume is too low.",
-      "notes": "Loanword from English 'speaker.' Related: 블루투스 스피커(Bluetooth speaker), 음량(volume). Common: 스피커 소리를 키우다/줄이다(increase/decrease speaker volume)."
-    },
-    {
-      "korean": "마이크",
-      "english": "microphone",
-      "example": "마이크가 안 돼서 통화할 수 없어요.",
-      "example_en": "I can't make a call because the microphone isn't working.",
-      "notes": "Loanword from English 'microphone.' Related: 마이크를 켜다/끄다(turn mic on/off), 음소거(mute). Common: 마이크가 안 돼요(mic not working)."
-    },
-    {
       "korean": "카메라",
       "english": "camera",
       "example": "이 핸드폰은 카메라가 정말 좋아요.",
@@ -9916,13 +9356,6 @@
     }
   ],
   "외모 & 옷 (Appearance & Clothes)": [
-    {
-      "korean": "얼굴",
-      "english": "face",
-      "example": "얼굴을 씻고 나가요.",
-      "example_en": "I wash my face and go out.",
-      "notes": "Native Korean word. Related: 세수하다(wash face), 얼굴을 씻다(wash face), 표정(facial expression). Cultural: 얼굴이 작다(small face) is a compliment in Korea."
-    },
     {
       "korean": "피부",
       "english": "skin",
@@ -10216,20 +9649,6 @@
       "example": "지갑을 집에 두고 왔어요.",
       "example_en": "I left my wallet at home.",
       "notes": "Native Korean word. Related: 지갑을 잃어버리다(lose wallet), 카드 지갑(card wallet), 장지갑(long wallet). Common: 지갑을 챙기다(grab wallet)."
-    },
-    {
-      "korean": "우산",
-      "english": "umbrella",
-      "example": "우산을 가져가세요.",
-      "example_en": "Please take an umbrella.",
-      "notes": "Native Korean. From 우(雨 rain) + 산(umbrella). Related: 우산을 쓰다(use umbrella), 접이식 우산(folding umbrella). Common: 우산을 가져가다(take umbrella)."
-    },
-    {
-      "korean": "배낭",
-      "english": "backpack",
-      "example": "여행할 때 배낭을 메고 다녀요.",
-      "example_en": "I carry a backpack when I travel.",
-      "notes": "Native Korean word. Related: 배낭을 메다(carry backpack), 배낭여행(backpacking), 백팩(backpack). Common: 학생 배낭(student backpack)."
     },
     {
       "korean": "생머리",
@@ -10780,13 +10199,6 @@
       "notes": "투(投 throw/cast) appears in 투자(investment), 투입(input). 표(票 vote/ballot) appears in 득표(win votes), 표결(vote). Vote, voting. Democracy participation; voting age is 18."
     },
     {
-      "korean": "세금",
-      "english": "tax",
-      "example": "월급에서 세금이 빠져요.",
-      "example_en": "Tax is deducted from my salary.",
-      "notes": "세(稅 tax) appears in 관세(customs duty), 과세(taxation). 금(金 money/gold) appears in 돈(money), 금액(amount). Tax. Common types: 소득세(income tax), 부가세(VAT)."
-    },
-    {
       "korean": "법",
       "english": "law",
       "example": "법을 지키는 것이 중요해요.",
@@ -10915,20 +10327,6 @@
       "notes": "분(紛 scatter/lose) appears in 분산(dispersion), 혼란(confusion). 실(失 lose) appears in 잃다(lose), 실패(failure). Loss of item. Formal term; report: 분실 신고."
     },
     {
-      "korean": "잃어버리다",
-      "english": "to lose (an item)",
-      "example": "지하철에서 핸드폰을 잃어버렸어요.",
-      "example_en": "I lost my phone on the subway.",
-      "notes": "Native Korean 잃다(lose) + 어버리다(completely). To lose something. Casual equivalent of 분실하다. Common: 지갑을 잃어버렸어요."
-    },
-    {
-      "korean": "찾다",
-      "english": "to find; to look for",
-      "example": "잃어버린 가방을 찾았어요!",
-      "example_en": "I found the bag I lost!",
-      "notes": "Native Korean. To find, to look for. Multi-meaning: find lost items, visit someone, or search. Context determines meaning."
-    },
-    {
       "korean": "신고하다",
       "english": "to report (to authorities)",
       "example": "이상한 사람을 보면 신고해 주세요.",
@@ -10992,20 +10390,6 @@
       "notes": "보(保 protect) appears in 보호(protection), 보존(preservation). 험(險 danger) appears in 위험(danger), 험난(perilous). Insurance. Common: 건강보험(health insurance), 자동차보험(car insurance)."
     },
     {
-      "korean": "여권",
-      "english": "passport",
-      "example": "여권을 꼭 챙기세요.",
-      "example_en": "Make sure to bring your passport.",
-      "notes": "여(旅 travel) appears in 여행(travel), 여정(journey). 권(券 ticket/passport) appears in 승차권(train ticket), 입장권(admission ticket). Passport. Essential for international travel; validity check: 유효기간."
-    },
-    {
-      "korean": "비자",
-      "english": "visa",
-      "example": "한국에서 공부하려면 비자가 필요해요.",
-      "example_en": "You need a visa to study in Korea.",
-      "notes": "English loanword: visa. Visa. Entry permit for foreign countries. Types: 관광 비자(tourist visa), 취업 비자(work visa)."
-    },
-    {
       "korean": "신분증",
       "english": "ID card; identification",
       "example": "신분증 좀 보여 주세요.",
@@ -11041,13 +10425,6 @@
       "notes": "약속(promise/appointment) + 잡다(catch/set). To make an appointment, to schedule. Casual phrase. Formal: 예약하다."
     },
     {
-      "korean": "예약하다",
-      "english": "to make a reservation",
-      "example": "식당을 예약하고 갈게요.",
-      "example_en": "I'll make a reservation at the restaurant before going.",
-      "notes": "예(豫 beforehand) + 약(約 promise). To make a reservation. Very common for restaurants, hotels, services in Korea. Noun: 예약(reservation)."
-    },
-    {
       "korean": "취소하다",
       "english": "to cancel",
       "example": "비가 와서 약속을 취소했어요.",
@@ -11060,13 +10437,6 @@
       "example": "비행기 날짜를 변경하고 싶어요.",
       "example_en": "I want to change my flight date.",
       "notes": "변(變 change) appears in 변화(change), 변동(fluctuation). 경(更 change/renew) appears in 갱신(renewal), 경신(renewal). To change, to modify. Noun: 변경(modification)."
-    },
-    {
-      "korean": "확인하다",
-      "english": "to confirm; to check",
-      "example": "예약을 다시 한번 확인해 주세요.",
-      "example_en": "Please confirm the reservation one more time.",
-      "notes": "확(確 certain) + 인(認 recognize). To confirm, to check. Noun: 확인(confirmation). Very common: 예약 확인(reservation confirmation)."
     },
     {
       "korean": "서명하다",
@@ -11307,13 +10677,6 @@
       "example": "한국에서는 뭐든지 배달이 돼요.",
       "example_en": "In Korea, anything can be delivered.",
       "notes": "배(配 distribute/deliver) appears in 배치(arrangement), 분배(distribution). 달(達 reach/deliver) appears in 달성(achievement), 전달(delivery). Delivery. Korea has extensive 배달 culture for all foods, 24/7."
-    },
-    {
-      "korean": "편의점",
-      "english": "convenience store",
-      "example": "편의점에서 삼각김밥을 샀어요.",
-      "example_en": "I bought a triangle kimbap at the convenience store.",
-      "notes": "편(便 convenience) + 의(宜 suitable) + 점(店 store). Convenience store. Open 24/7; CU, GS25, 세븐일레븐. More than stores: bill payment, banking, seating."
     },
     {
       "korean": "눈치",
@@ -11675,13 +11038,6 @@
       "notes": "Native Korean. Room. Context: hotel room, bedroom, any enclosed space. Counter: 방 하나 (one room). Honorific: 객실(guest room)."
     },
     {
-      "korean": "열쇠",
-      "english": "key",
-      "example": "방 열쇠를 프런트에 맡겨 주세요.",
-      "example_en": "Please leave the room key at the front desk.",
-      "notes": "Native Korean. Key. Hotel keys, house keys. Modern: 카드키(key card). Phrase: 열쇠를 잃어버렸어요(I lost my key)."
-    },
-    {
       "korean": "짐",
       "english": "luggage",
       "example": "짐이 너무 무거워요.",
@@ -11694,13 +11050,6 @@
       "example": "캐리어 바퀴가 고장 났어요.",
       "example_en": "The suitcase wheel broke.",
       "notes": "English loanword: carrier (rolling suitcase). Wheeled luggage. More specific than 가방. Sizes: 기내용(carry-on), 위탁용(checked)."
-    },
-    {
-      "korean": "가방",
-      "english": "bag",
-      "example": "가방에 여권을 넣었어요.",
-      "example_en": "I put my passport in my bag.",
-      "notes": "Native Korean. Bag, purse. General term for any bag: 여행 가방(travel bag), 핸드백(handbag), 백팩(backpack)."
     },
     {
       "korean": "배낭",
@@ -11722,13 +11071,6 @@
       "example": "한국에 가려면 비자가 필요해요?",
       "example_en": "Do I need a visa to go to Korea?",
       "notes": "English loanword: visa. Visa, entry permit. Types: 관광 비자(tourist), 취업 비자(work), 학생 비자(student). Korea offers visa-free entry to many countries (90 days)."
-    },
-    {
-      "korean": "공항",
-      "english": "airport",
-      "example": "공항까지 얼마나 걸려요?",
-      "example_en": "How long does it take to get to the airport?",
-      "notes": "공(空 sky/air) appears in 하늘(sky), 공군(air force). 항(港 port/harbor) appears in 항구(port), 항해(voyage). Airport. Major Korean airports: 인천(Incheon), 김포(Gimpo), 제주."
     },
     {
       "korean": "탑승권",
@@ -11764,20 +11106,6 @@
       "example": "면세점에서 선물을 샀어요.",
       "example_en": "I bought gifts at the duty-free shop.",
       "notes": "면(免 exempt) + 세(稅 tax) + 점(店 store). Duty-free shop. Popular at airports; save on luxury goods, cosmetics, alcohol. Limits apply."
-    },
-    {
-      "korean": "환전",
-      "english": "currency exchange",
-      "example": "은행에서 환전하면 수수료가 싸요.",
-      "example_en": "Exchange fees are cheaper if you exchange at a bank.",
-      "notes": "환(換 exchange) appears in 교환(exchange), 전환(conversion). 전(錢 money) appears in 돈(money), 금전(money). Currency exchange. Better rates often at banks than airports."
-    },
-    {
-      "korean": "환율",
-      "english": "exchange rate",
-      "example": "오늘 환율이 어떻게 돼요?",
-      "example_en": "What is the exchange rate today?",
-      "notes": "환(換 exchange) + 율(率 rate). Exchange rate. Fluctuates daily. Check before exchanging: 환율이 좋다/나쁘다."
     },
     {
       "korean": "안내소",
@@ -11885,13 +11213,6 @@
       "notes": "해(海 sea/ocean) appears in 바다(sea), 해안(coast). 변(邊 edge/side) appears in 주변(vicinity), 근처(nearby). Beach, seaside. Famous: 해운대(Haeundae), 광안리(Gwangalli)."
     },
     {
-      "korean": "등산",
-      "english": "hiking",
-      "example": "한국 사람들은 등산을 정말 좋아해요.",
-      "example_en": "Korean people really like hiking.",
-      "notes": "등(登 climb/ascend) appears in 등반(climbing), 등록(registration). 산(山 mountain) appears in 산(mountain), 화산(volcano). Hiking, mountain climbing. National pastime in Korea; well-marked trails."
-    },
-    {
       "korean": "박물관",
       "english": "museum",
       "example": "국립중앙박물관에 가 봤어요?",
@@ -11932,13 +11253,6 @@
       "example": "캠핑장 예약이 금방 찼어요.",
       "example_en": "The campground reservation filled up quickly.",
       "notes": "Camping (loanword) + 장(場 place). Campground, camping site. Popular in Korea; facilities often good. Glamping trend rising: 글램핑."
-    },
-    {
-      "korean": "렌터카",
-      "english": "rental car",
-      "example": "제주도에서는 렌터카가 편해요.",
-      "example_en": "A rental car is convenient in Jeju Island.",
-      "notes": "Rental car (loanword blend). Rental car. Need international driving permit in Korea. Apps: 쏘카(Socar - car sharing)."
     },
     {
       "korean": "교통편",
@@ -12002,13 +11316,6 @@
       "example": "입국심사 줄이 정말 길어요.",
       "example_en": "The immigration line is really long.",
       "notes": "입국(entry to country) + 심(審 examine) + 사(査 investigate). Immigration inspection. Show passport, visa if required. Questions about purpose of visit."
-    },
-    {
-      "korean": "환승",
-      "english": "transit; transfer",
-      "example": "인천공항에서 환승할 거예요.",
-      "example_en": "I'm going to transfer at Incheon Airport.",
-      "notes": "환(換 change/transfer) appears in 교환(exchange), 전환(conversion). 승(乘 ride/board) appears in 탑승(boarding), 승객(passenger). Transfer, connection. Airport: 환승 구역. Public transport: 환승 할인(transfer discount)."
     },
     {
       "korean": "게이트",
@@ -12827,13 +12134,6 @@
       "notes": "[TODO: Add note for '잠깐만요' in category '자주 쓰는 표현 (Common Expressions)']"
     },
     {
-      "korean": "천만에요",
-      "english": "you're welcome",
-      "example": "감사합니다. — 천만에요.",
-      "example_en": "Thank you. — You're welcome.",
-      "notes": "천(千 thousand) + 만(萬 ten thousand) = 천만(ten million, immeasurable). Polite 'you're welcome' meaning 'it's nothing compared to ten million'. Somewhat old-fashioned."
-    },
-    {
       "korean": "그럼요",
       "english": "of course / certainly",
       "example": "도와줄 수 있어요? — 그럼요!",
@@ -13433,13 +12733,6 @@
       "notes": "[TODO: Add note for '무승부' in category '스포츠 & 운동 (Sports & Exercise)']"
     },
     {
-      "korean": "점수",
-      "english": "score / points",
-      "example": "지금 점수가 어떻게 돼요?",
-      "example_en": "What's the score right now?",
-      "notes": "점(點 point) appears in 관점(viewpoint), 지점(branch). 수(數 number) appears in 수학(math), 숫자(numeral). Score/points."
-    },
-    {
       "korean": "골",
       "english": "goal",
       "example": "마지막에 골을 넣어서 역전했어요.",
@@ -13888,13 +13181,6 @@
       "example": "인기 있는 영화는 미리 예매해야 해요.",
       "example_en": "You have to book tickets in advance for popular movies.",
       "notes": "[TODO: Add note for '예매' in category '미디어 & 엔터테인먼트 (Media & Entertainment)']"
-    },
-    {
-      "korean": "음악",
-      "english": "music",
-      "example": "어떤 음악 좋아해요?",
-      "example_en": "What kind of music do you like?",
-      "notes": "음(音 sound) appears in 소리(sound native), 음성(voice). 악(樂 music) appears in 즐겁다(joyful), 낙원(paradise). Music."
     },
     {
       "korean": "가수",
