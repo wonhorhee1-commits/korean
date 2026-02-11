@@ -29897,7 +29897,7 @@
       "english": "heat dissipation",
       "example": "노트북의 방열 구멍을 막으면 과열로 인해 기기가 자동으로 꺼진다.",
       "example_en": "Blocking a laptop's heat dissipation vents causes it to shut down due to overheating.",
-      "notes": "방, 열. Related: 냉각."
+      "notes": "방(放 release/emit) + 열(熱 heat). 방 as in 방출 (emission), 방사 (radiation); 열 as in 열기 (heat), 발열 (heat generation). Refers to heat dissipation — the process of releasing excess heat from electronic components, engines, etc. 방열판 = heat sink, 방열 설계 = thermal design. Related: 냉각 (cooling), 발열 (heat generation), 단열 (insulation)."
     },
     {
       "korean": "발열",
