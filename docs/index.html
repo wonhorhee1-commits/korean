@@ -1003,6 +1003,10 @@ function escHtml(s) {
   return d.innerHTML;
 }
 
+function normalizeKorean(s) {
+  return s.trim().replace(/\s+/g, ' ').replace(/[.!?]+$/, '').toLowerCase();
+}
+
 // ===== SCREENS =====
 function countTotal() {
   let v = 0, g = 0;
@@ -1078,10 +1082,20 @@ function showCategorySelect(type) {
   app.innerHTML = `
     <button class="back-btn" onclick="showMenu()">← Back</button>
     <h2 style="margin-bottom:15px">${title}</h2>
+    <input id="cat-search" type="text" placeholder="Search categories..." style="width:100%;padding:10px 14px;margin-bottom:12px;border:1px solid #555;border-radius:8px;background:#2a2a2a;color:#eee;font-size:15px;outline:none;">
     <div class="menu">
-      <button onclick="startDrill('${type}', null)"><span class="num">0</span> All Categories</button>
-      ${cats.map((c, i) => `<button onclick="startDrill('${type}', '${escHtml(c)}')"><span class="num">${i+1}</span> ${escHtml(c)}</button>`).join('')}
+      <button data-cat="" onclick="startDrill('${type}', null)"><span class="num">0</span> All Categories</button>
+      ${cats.map((c, i) => `<button data-cat="${escHtml(c)}" onclick="startDrill('${type}', '${escHtml(c)}')"><span class="num">${i+1}</span> ${escHtml(c)}</button>`).join('')}
     </div>`;
+  const searchInput = document.getElementById('cat-search');
+  searchInput.addEventListener('input', () => {
+    const q = searchInput.value.toLowerCase();
+    document.querySelectorAll('.menu button[data-cat]').forEach(btn => {
+      const cat = btn.getAttribute('data-cat');
+      btn.style.display = (!q || cat === '' || cat.toLowerCase().includes(q)) ? '' : 'none';
+    });
+  });
+  searchInput.focus();
   document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
 }
 
@@ -1596,17 +1610,15 @@ function startReadingComprehension() {
       ${nextBtnHtml}`;
 
     if (isLastQ) {
-      if (isCorrect) correct++;
       document.querySelectorAll('.rating button').forEach(btn => {
-        btn.onclick = () => { const qq = parseInt(btn.dataset.q); srs.recordReview(id, qq); reviewed++; idx++; showCard(); };
+        btn.onclick = () => { const qq = parseInt(btn.dataset.q); if (qq >= GOOD) correct++; srs.recordReview(id, qq); reviewed++; idx++; showCard(); };
       });
       document.onkeydown = e => {
         const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
-        if (map[e.key] !== undefined) { const qq = map[e.key]; srs.recordReview(id, qq); reviewed++; idx++; showCard(); }
+        if (map[e.key] !== undefined) { const qq = map[e.key]; if (qq >= GOOD) correct++; srs.recordReview(id, qq); reviewed++; idx++; showCard(); }
         if (e.key === 'Escape') showMenu();
       };
     } else {
-      if (isCorrect) correct++;
       const nextBtn = document.getElementById('next-q-btn');
       nextBtn.onclick = () => showPassage(id, drill, qIdx + 1);
       document.onkeydown = e => {
@@ -1675,7 +1687,7 @@ function startRegisterSwitching() {
   }
 
   function revealRegister(id, drill, guess, progress, pct) {
-    const isCorrect = guess === drill.correct;
+    const isCorrect = normalizeKorean(guess) === normalizeKorean(drill.correct);
     const guessHtml = guess ? `<div class="your-guess">Your version: <span>${escHtml(guess)}</span></div>` : '';
 
     app.innerHTML = `
@@ -1765,7 +1777,7 @@ function startErrorCorrection() {
   }
 
   function revealError(id, drill, guess, progress, pct) {
-    const isCorrect = guess === drill.correct;
+    const isCorrect = normalizeKorean(guess) === normalizeKorean(drill.correct);
     const guessHtml = guess ? `<div class="your-guess">Your correction: <span>${escHtml(guess)}</span></div>` : '';
 
     app.innerHTML = `
