@@ -1,4 +1,4 @@
-const CACHE_NAME = 'korean-coach-v3';
+const CACHE_NAME = 'korean-coach-v4';
 const ASSETS = [
   './',
   './index.html',
@@ -7,7 +7,8 @@ const ASSETS = [
   './data/error_drills.json',
   './data/grammar_context.json',
   './data/reading_drills.json',
-  './data/register_drills.json'
+  './data/register_drills.json',
+  './data/dialogue_drills.json'
 ];
 
 // Install: cache all core assets

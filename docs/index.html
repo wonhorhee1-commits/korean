@@ -174,6 +174,18 @@ h1 {
 .answer-input::placeholder {
   color: var(--dim);
 }
+.show-answer-btn {
+  width: 100%;
+  padding: 12px;
+  margin-top: 8px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--dim);
+  font-size: 0.95em;
+  cursor: pointer;
+}
+.show-answer-btn:hover { background: var(--surface); border-color: var(--blue); color: var(--text); }
 
 /* Reveal */
 .reveal {
@@ -835,6 +847,70 @@ h1 {
   text-align: center;
   padding: 0 8px;
 }
+
+/* Dialogue drill */
+.dialogue-context {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 15px 20px;
+  margin: 10px 0;
+  color: var(--dim);
+  font-size: 0.9em;
+  font-style: italic;
+}
+.dialogue-area {
+  margin: 15px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.chat-bubble {
+  max-width: 80%;
+  padding: 12px 16px;
+  border-radius: 16px;
+  font-size: 1.05em;
+  line-height: 1.5;
+}
+.chat-bubble .speaker-label {
+  font-size: 0.75em;
+  color: var(--dim);
+  margin-bottom: 4px;
+}
+.chat-bubble-left {
+  align-self: flex-start;
+  background: var(--surface2);
+  color: var(--text);
+  border-bottom-left-radius: 4px;
+}
+.chat-bubble-right {
+  align-self: flex-end;
+  background: var(--blue);
+  color: #fff;
+  border-bottom-right-radius: 4px;
+}
+.chat-bubble-blank {
+  align-self: flex-end;
+  background: var(--surface);
+  border: 2px dashed var(--blue);
+  color: var(--dim);
+  border-bottom-right-radius: 4px;
+  padding: 12px 16px;
+  max-width: 80%;
+  text-align: center;
+}
+.chat-bubble-correct {
+  align-self: flex-end;
+  background: var(--green);
+  color: #fff;
+  border-bottom-right-radius: 4px;
+}
+.dialogue-options {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+  margin: 15px 0;
+}
 </style>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
@@ -1023,7 +1099,7 @@ function updateSyncStatus(cls, text) {
 // ===== APP =====
 const app = document.getElementById('app');
 const srs = new SRSEngine();
-let vocabData = {}, grammarData = {}, errorDrills = [], grammarContext = [], readingDrills = [], registerDrills = [];
+let vocabData = {}, grammarData = {}, errorDrills = [], grammarContext = [], readingDrills = [], registerDrills = [], dialogueDrills = [];
 let timedMode = localStorage.getItem('korean_coach_timed') === 'true';
 let activeTimer = null;
 
@@ -1194,12 +1270,13 @@ function showMenu() {
       <button onclick="startReadingComprehension()"><span class="num">7</span> \u{1F4DA} Reading Comprehension</button>
       <button onclick="startRegisterSwitching()"><span class="num">8</span> \u{1F504} Register Switching</button>
       <button onclick="startClozeDrill()"><span class="num">9</span> \u{1F9E9} Cloze Drill (fill the gap)</button>
+      <button onclick="startDialogueDrill()"><span class="num">D</span> \u{1F4AC} Dialogue Practice</button>
       <button onclick="showProgress()"><span class="num">0</span> \u{1F4CA} View Progress</button>
     </div>
     <div class="timed-toggle${timedMode ? ' active' : ''}" onclick="toggleTimedMode()">
       <div class="switch"></div> Timed Mode ${timedMode ? 'ON' : 'OFF'}
     </div>
-    <div class="shortcuts">Keyboard: 1-9, 0 to select</div>`;
+    <div class="shortcuts">Keyboard: 1-9, D, 0 to select</div>`;
 
   document.onkeydown = e => {
     if (e.key === '1') showCategorySelect('vocab');
@@ -1211,6 +1288,7 @@ function showMenu() {
     else if (e.key === '7') startReadingComprehension();
     else if (e.key === '8') startRegisterSwitching();
     else if (e.key === '9') startClozeDrill();
+    else if (e.key === 'd') startDialogueDrill();
     else if (e.key === '0') showProgress();
     else if (e.key === 't') toggleTimedMode();
   };
@@ -1314,13 +1392,16 @@ function runSession(cards) {
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
       ${timerHtml(15)}
       ${prompt}
-      <input class="answer-input" placeholder="Your answer (Enter to reveal)" autofocus>`;
+      <input class="answer-input" placeholder="Your answer (Enter to reveal)" autofocus>
+      <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');
     input.focus();
-    if (timedMode) startTimer(15, () => revealVocab(id, cat, entry, answer, input.value.trim(), progress, pct));
+    const reveal = () => { clearTimer(); revealVocab(id, cat, entry, answer, input.value.trim(), progress, pct); };
+    if (timedMode) startTimer(15, reveal);
+    document.getElementById('show-answer').onclick = reveal;
     input.onkeydown = e => {
-      if (e.key === 'Enter') { clearTimer(); revealVocab(id, cat, entry, answer, input.value.trim(), progress, pct); }
+      if (e.key === 'Enter') reveal();
       if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
@@ -1352,13 +1433,16 @@ function runSession(cards) {
       ${timerHtml(20)}
       <div class="card"><div class="card-korean">${escHtml(entry.pattern)}</div></div>
       <div class="card-prompt">What does this pattern mean?</div>
-      <input class="answer-input" placeholder="Your answer (Enter to reveal)" autofocus>`;
+      <input class="answer-input" placeholder="Your answer (Enter to reveal)" autofocus>
+      <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');
     input.focus();
-    if (timedMode) startTimer(20, () => revealGrammar(id, cat, entry, input.value.trim(), progress, pct));
+    const reveal = () => { clearTimer(); revealGrammar(id, cat, entry, input.value.trim(), progress, pct); };
+    if (timedMode) startTimer(20, reveal);
+    document.getElementById('show-answer').onclick = reveal;
     input.onkeydown = e => {
-      if (e.key === 'Enter') { clearTimer(); revealGrammar(id, cat, entry, input.value.trim(), progress, pct); }
+      if (e.key === 'Enter') reveal();
       if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
@@ -1483,13 +1567,16 @@ function startSentenceProduction() {
         <div class="production-context">Hint: ${escHtml(entry.english)}</div>
       </div>
       <div class="card-prompt">Write this in Korean:</div>
-      <input class="answer-input" placeholder="Type your Korean sentence (Enter to check)" autofocus>`;
+      <input class="answer-input" placeholder="Type your Korean sentence (Enter to check)" autofocus>
+      <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');
     input.focus();
-    if (timedMode) startTimer(30, () => revealProduction(id, entry, input.value.trim(), progress, pct));
+    const reveal = () => { clearTimer(); revealProduction(id, entry, input.value.trim(), progress, pct); };
+    if (timedMode) startTimer(30, reveal);
+    document.getElementById('show-answer').onclick = reveal;
     input.onkeydown = e => {
-      if (e.key === 'Enter') { clearTimer(); revealProduction(id, entry, input.value.trim(), progress, pct); }
+      if (e.key === 'Enter') reveal();
       if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
@@ -1795,13 +1882,16 @@ function startRegisterSwitching() {
         <div class="register-badge ${regBadgeClass(drill.target_register)}">${escHtml(drill.target_register)}</div>
       </div>
       <div class="card-prompt">Rewrite in ${escHtml(drill.target_register)}:</div>
-      <input class="answer-input" placeholder="Type the converted sentence (Enter to check)" autofocus>`;
+      <input class="answer-input" placeholder="Type the converted sentence (Enter to check)" autofocus>
+      <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');
     input.focus();
-    if (timedMode) startTimer(25, () => revealRegister(id, drill, input.value.trim(), progress, pct));
+    const reveal = () => { clearTimer(); revealRegister(id, drill, input.value.trim(), progress, pct); };
+    if (timedMode) startTimer(25, reveal);
+    document.getElementById('show-answer').onclick = reveal;
     input.onkeydown = e => {
-      if (e.key === 'Enter') { clearTimer(); revealRegister(id, drill, input.value.trim(), progress, pct); }
+      if (e.key === 'Enter') reveal();
       if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
@@ -1881,13 +1971,16 @@ function startErrorCorrection() {
         <div class="korean">${escHtml(drill.incorrect)}</div>
       </div>
       <div class="card-prompt">Find and fix the error:</div>
-      <input class="answer-input" placeholder="Type the corrected sentence (Enter to check)" autofocus>`;
+      <input class="answer-input" placeholder="Type the corrected sentence (Enter to check)" autofocus>
+      <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');
     input.focus();
-    if (timedMode) startTimer(25, () => revealError(id, drill, input.value.trim(), progress, pct));
+    const reveal = () => { clearTimer(); revealError(id, drill, input.value.trim(), progress, pct); };
+    if (timedMode) startTimer(25, reveal);
+    document.getElementById('show-answer').onclick = reveal;
     input.onkeydown = e => {
-      if (e.key === 'Enter') { clearTimer(); revealError(id, drill, input.value.trim(), progress, pct); }
+      if (e.key === 'Enter') reveal();
       if (e.key === 'Escape') { clearTimer(); showMenu(); }
     };
   }
@@ -2172,17 +2265,153 @@ function showProgress() {
   document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
 }
 
+// ===== DIALOGUE DRILL =====
+function startDialogueDrill() {
+  if (dialogueDrills.length === 0) {
+    app.innerHTML = `<button class="back-btn" onclick="showMenu()">\u2190 Back</button>
+      <div class="card"><p>Dialogue drill data not loaded. Make sure data/dialogue_drills.json exists.</p></div>`;
+    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    return;
+  }
+
+  const pool = dialogueDrills.map((d, i) => ({id: `dlg:${i}`, drill: d}));
+  const ids = pool.map(p => p.id);
+  const dueSet = new Set(srs.getDueCards(ids));
+  let session = shuffle(pool.filter(p => dueSet.has(p.id))).slice(0, 8);
+  if (session.length < 8) {
+    const rest = shuffle(pool.filter(p => !dueSet.has(p.id)));
+    session.push(...rest.slice(0, 8 - session.length));
+  }
+
+  let idx = 0, correct = 0, reviewed = 0;
+
+  function showCard() {
+    if (idx >= session.length) { showSummary(reviewed, correct); return; }
+    const {id, drill} = session[idx];
+    runDialogue(id, drill, 0, []);
+  }
+
+  function findNextBlank(turns, fromIdx) {
+    for (let i = fromIdx; i < turns.length; i++) {
+      if (turns[i].options) return i;
+    }
+    return -1;
+  }
+
+  function runDialogue(id, drill, turnIdx, answered) {
+    const blankIdx = findNextBlank(drill.turns, turnIdx);
+    const progress = `${idx + 1}/${session.length}`;
+    const pct = ((idx) / session.length * 100).toFixed(0);
+
+    let bubblesHtml = '';
+    for (let i = 0; i < drill.turns.length; i++) {
+      const t = drill.turns[i];
+      const isYou = t.speaker === 'You';
+      if (i < blankIdx || (blankIdx === -1)) {
+        if (isYou) {
+          const wasAnswered = answered.includes(i);
+          bubblesHtml += `<div class="chat-bubble ${wasAnswered ? 'chat-bubble-correct' : 'chat-bubble-right'}">
+            <div class="speaker-label">${escHtml(t.speaker)}</div>${escHtml(t.line)}</div>`;
+        } else {
+          bubblesHtml += `<div class="chat-bubble chat-bubble-left">
+            <div class="speaker-label">${escHtml(t.speaker)}</div>${escHtml(t.line)}</div>`;
+        }
+      } else if (i === blankIdx) {
+        bubblesHtml += `<div class="chat-bubble-blank">
+          <div class="speaker-label">You</div>???</div>`;
+        break;
+      } else {
+        break;
+      }
+    }
+
+    if (blankIdx === -1) {
+      app.innerHTML = `
+        <button class="back-btn" onclick="showMenu()">\u2190 Quit</button>
+        <div class="counter">Dialogue Practice &nbsp; ${progress}</div>
+        <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+        <div class="dialogue-context">${escHtml(drill.title)} \u2014 ${escHtml(drill.context)}</div>
+        <div class="dialogue-area">${bubblesHtml}</div>
+        <div class="reveal"><div class="reveal-notes">${escHtml(drill.explanation)}</div></div>
+        ${ratingButtonsHtml(id, {again: 'struggled', hard: 'some guessing', good: 'understood', easy: 'natural'})}`;
+
+      document.querySelectorAll('.rating button').forEach(btn => {
+        btn.onclick = () => {
+          const q = parseInt(btn.dataset.q);
+          srs.recordReview(id, q);
+          reviewed++;
+          if (q >= GOOD) correct++;
+          idx++;
+          showCard();
+        };
+      });
+      document.onkeydown = e => {
+        const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
+        if (map[e.key] !== undefined) {
+          const q = map[e.key];
+          srs.recordReview(id, q);
+          reviewed++;
+          if (q >= GOOD) correct++;
+          idx++;
+          showCard();
+        }
+        if (e.key === 'Escape') showMenu();
+      };
+      return;
+    }
+
+    const turn = drill.turns[blankIdx];
+    const shuffledOpts = shuffle(turn.options.map((o, i) => ({text: o, idx: i})));
+
+    const optionsHtml = shuffledOpts.map((o, i) =>
+      `<button class="option-btn" data-text="${escHtml(o.text)}">${escHtml(o.text)}</button>`
+    ).join('');
+
+    app.innerHTML = `
+      <button class="back-btn" onclick="showMenu()">\u2190 Quit</button>
+      <div class="counter">Dialogue Practice &nbsp; ${progress}</div>
+      <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+      <div class="dialogue-context">${escHtml(drill.title)} \u2014 ${escHtml(drill.context)}</div>
+      <div class="dialogue-area">${bubblesHtml}</div>
+      <div class="dialogue-options">${optionsHtml}</div>`;
+
+    document.querySelectorAll('.option-btn').forEach(btn => {
+      btn.onclick = () => {
+        const chosen = btn.dataset.text;
+        if (chosen === turn.line) {
+          answered.push(blankIdx);
+          runDialogue(id, drill, blankIdx + 1, answered);
+        } else {
+          btn.classList.add('wrong');
+          btn.disabled = true;
+        }
+      };
+    });
+    document.onkeydown = e => {
+      const num = parseInt(e.key);
+      if (num >= 1 && num <= shuffledOpts.length) {
+        const btns = document.querySelectorAll('.option-btn');
+        if (btns[num - 1]) btns[num - 1].click();
+      }
+      if (e.key === 'Escape') showMenu();
+    };
+  }
+
+  showCard();
+}
+
 // ===== LOAD DATA =====
 async function init() {
   app.innerHTML = '<h1>한국어 코치</h1><p class="subtitle">Loading...</p>';
   try {
-    const [vResp, gResp, eResp, gcResp, rdResp, rgResp] = await Promise.all([
+    const [vResp, gResp, eResp, gcResp, rdResp, rgResp, dlResp] = await Promise.all([
       fetch('data/vocab.json'),
       fetch('data/grammar.json'),
       fetch('data/error_drills.json').catch(() => null),
       fetch('data/grammar_context.json').catch(() => null),
       fetch('data/reading_drills.json').catch(() => null),
-      fetch('data/register_drills.json').catch(() => null)
+      fetch('data/register_drills.json').catch(() => null),
+      fetch('data/dialogue_drills.json').catch(() => null)
     ]);
     vocabData = await vResp.json();
     grammarData = await gResp.json();
@@ -2190,15 +2419,17 @@ async function init() {
     if (gcResp && gcResp.ok) grammarContext = await gcResp.json();
     if (rdResp && rdResp.ok) readingDrills = await rdResp.json();
     if (rgResp && rgResp.ok) registerDrills = await rgResp.json();
+    if (dlResp && dlResp.ok) dialogueDrills = await dlResp.json();
   } catch(e) {
     try {
-      const [vResp, gResp, eResp, gcResp, rdResp, rgResp] = await Promise.all([
+      const [vResp, gResp, eResp, gcResp, rdResp, rgResp, dlResp] = await Promise.all([
         fetch('../data/vocab.json'),
         fetch('../data/grammar.json'),
         fetch('../data/error_drills.json').catch(() => null),
         fetch('../data/grammar_context.json').catch(() => null),
         fetch('../data/reading_drills.json').catch(() => null),
-        fetch('../data/register_drills.json').catch(() => null)
+        fetch('../data/register_drills.json').catch(() => null),
+        fetch('../data/dialogue_drills.json').catch(() => null)
       ]);
       vocabData = await vResp.json();
       grammarData = await gResp.json();
@@ -2206,6 +2437,7 @@ async function init() {
       if (gcResp && gcResp.ok) grammarContext = await gcResp.json();
       if (rdResp && rdResp.ok) readingDrills = await rdResp.json();
       if (rgResp && rgResp.ok) registerDrills = await rgResp.json();
+      if (dlResp && dlResp.ok) dialogueDrills = await dlResp.json();
     } catch(e2) {
       app.innerHTML = '<h1>Error</h1><p>Could not load data files.</p>';
       return;
