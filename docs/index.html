@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>한국어 코치 — Korean Coach</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
 <style>
 :root {
   --bg: #0f1117;
@@ -24,7 +27,7 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body {
-  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-family: 'Inter', 'Noto Sans KR', system-ui, -apple-system, sans-serif;
   background: var(--bg);
   color: var(--text);
   min-height: 100vh;
@@ -85,11 +88,25 @@ h1 {
   display: flex;
   align-items: center;
   gap: 12px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+  animation: menuSlideIn 0.3s ease-out both;
 }
+
+.menu button:nth-child(1) { animation-delay: 0s; }
+.menu button:nth-child(2) { animation-delay: 0.03s; }
+.menu button:nth-child(3) { animation-delay: 0.06s; }
+.menu button:nth-child(4) { animation-delay: 0.09s; }
+.menu button:nth-child(5) { animation-delay: 0.12s; }
+.menu button:nth-child(6) { animation-delay: 0.15s; }
+.menu button:nth-child(7) { animation-delay: 0.18s; }
+.menu button:nth-child(8) { animation-delay: 0.21s; }
+.menu button:nth-child(9) { animation-delay: 0.24s; }
+.menu button:nth-child(10) { animation-delay: 0.27s; }
 
 .menu button:hover {
   background: var(--surface2);
   border-color: var(--blue);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
 .menu button .num {
@@ -106,6 +123,7 @@ h1 {
   padding: 30px;
   margin: 15px 0;
   text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
 .card-korean {
@@ -113,6 +131,7 @@ h1 {
   font-weight: bold;
   color: #fff;
   margin-bottom: 8px;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 .card-hint {
@@ -149,6 +168,7 @@ h1 {
 
 .answer-input:focus {
   border-color: var(--blue);
+  box-shadow: 0 0 0 3px rgba(96,165,250,0.2);
 }
 
 .answer-input::placeholder {
@@ -162,6 +182,7 @@ h1 {
   border-radius: 12px;
   padding: 20px 25px;
   margin: 15px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
 .reveal-answer {
@@ -243,7 +264,8 @@ h1 {
   font-size: 0.95em;
 }
 
-.rating button:hover { transform: translateY(-1px); }
+.rating button:hover { transform: translateY(-1px); box-shadow: 0 2px 6px rgba(0,0,0,0.25); }
+.rating button:active { transform: scale(0.97); }
 
 .rating .btn-again { border-color: var(--red); }
 .rating .btn-again:hover { background: rgba(248,113,113,0.15); }
@@ -262,6 +284,20 @@ h1 {
 .rating .btn-easy .label { color: var(--cyan); font-weight: bold; }
 
 .rating .desc { color: var(--dim); font-size: 0.8em; }
+.rating .interval { color: var(--dim); font-size: 0.7em; margin-bottom: 2px; opacity: 0.7; }
+
+/* Streak badge */
+.streak-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: rgba(251,146,60,0.15);
+  color: var(--orange);
+  padding: 4px 14px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  font-weight: bold;
+}
 
 /* Progress bar */
 .progress-bar {
@@ -274,9 +310,10 @@ h1 {
 
 .progress-fill {
   height: 100%;
-  background: var(--blue);
+  background: linear-gradient(90deg, var(--blue), var(--cyan));
   border-radius: 2px;
   transition: width 0.3s;
+  box-shadow: 0 0 8px rgba(96,165,250,0.4);
 }
 
 /* Category selector */
@@ -312,6 +349,7 @@ h1 {
   padding: 25px;
   text-align: center;
   margin: 20px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
 .summary h2 { margin-bottom: 15px; color: var(--blue); }
@@ -384,14 +422,18 @@ h1 {
 }
 
 .btn-primary {
-  background: var(--blue);
+  background: linear-gradient(135deg, var(--blue), #818cf8);
   border-color: var(--blue);
   color: #000;
   font-weight: bold;
 }
 
 .btn-primary:hover {
-  background: #93bbfd;
+  background: linear-gradient(135deg, #93bbfd, #a5b4fc);
+}
+
+.btn:active, .btn-primary:active {
+  transform: scale(0.97);
 }
 
 .back-btn {
@@ -575,9 +617,10 @@ h1 {
   font-size: 1.05em;
   transition: all 0.15s;
   text-align: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
 }
 
-.option-btn:hover { background: var(--surface2); border-color: var(--blue); }
+.option-btn:hover { background: var(--surface2); border-color: var(--blue); box-shadow: 0 2px 6px rgba(0,0,0,0.25); }
 .option-btn.selected { border-color: var(--blue); background: rgba(96,165,250,0.15); }
 .option-btn.correct { border-color: var(--green); background: rgba(74,222,128,0.15); color: var(--green); }
 .option-btn.wrong { border-color: var(--red); background: rgba(248,113,113,0.1); color: var(--red); }
@@ -632,6 +675,7 @@ h1 {
   font-size: 1.25em;
   color: #fff;
   line-height: 1.5;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 .register-arrow {
@@ -643,6 +687,38 @@ h1 {
 @media (max-width: 600px) {
   .option-grid { grid-template-columns: 1fr; }
 }
+
+/* Animations */
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes correctPulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(74,222,128,0.4); }
+  50% { box-shadow: 0 0 0 8px rgba(74,222,128,0); }
+}
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-5px); }
+  40% { transform: translateX(5px); }
+  60% { transform: translateX(-5px); }
+  80% { transform: translateX(3px); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes menuSlideIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.card, .reveal, .production-prompt, .error-sentence, .context-passage, .reading-passage, .register-card, .model-answer, .correction-reveal, .cloze-sentence {
+  animation: slideIn 0.3s ease-out;
+}
+.result-correct { animation: correctPulse 0.6s ease-out; }
+.result-incorrect { animation: shake 0.4s ease-out; }
+.summary, .menu { animation: fadeIn 0.25s ease-out; }
 
 /* Keyboard shortcuts hint */
 .shortcuts {
@@ -848,6 +924,7 @@ class SRSEngine {
   }
 
   recordReview(id, quality) {
+    recordStudyDay();
     this.getCard(id).review(quality);
     this.save();
   }
@@ -1007,6 +1084,67 @@ function normalizeKorean(s) {
   return s.trim().replace(/\s+/g, ' ').replace(/[.!?]+$/, '').toLowerCase();
 }
 
+// ===== INTERVAL PREDICTION =====
+function getNextInterval(card, quality) {
+  if (quality < GOOD) return 0.007; // ~10min
+  const r = card ? card.repetitions : 0;
+  const ef = card ? card.ease_factor : 2.5;
+  if (r === 0) return 0.04; // ~1h
+  if (r === 1) return 1;
+  if (r === 2) return 3;
+  return (card ? card.interval_days : 3) * ef;
+}
+
+function formatInterval(days) {
+  if (days < 0.04) return '10m';
+  if (days < 0.5) return Math.round(days * 24) + 'h';
+  if (days < 30) return Math.round(days) + 'd';
+  return Math.round(days / 30) + 'mo';
+}
+
+function ratingButtonsHtml(cardId, descs) {
+  const d = descs || {again: "didn't know", hard: 'struggled', good: 'knew it', easy: 'effortless'};
+  const card = srs.cards[cardId] || null;
+  const intervals = {
+    [AGAIN]: formatInterval(getNextInterval(card, AGAIN)),
+    [HARD]: formatInterval(getNextInterval(card, HARD)),
+    [GOOD]: formatInterval(getNextInterval(card, GOOD)),
+    [EASY]: formatInterval(getNextInterval(card, EASY)),
+  };
+  return `
+    <div class="rating">
+      <button class="btn-again" data-q="${AGAIN}"><div class="interval">${intervals[AGAIN]}</div><div class="label">Again</div><div class="desc">${d.again}</div></button>
+      <button class="btn-hard" data-q="${HARD}"><div class="interval">${intervals[HARD]}</div><div class="label">Hard</div><div class="desc">${d.hard}</div></button>
+      <button class="btn-good" data-q="${GOOD}"><div class="interval">${intervals[GOOD]}</div><div class="label">Good</div><div class="desc">${d.good}</div></button>
+      <button class="btn-easy" data-q="${EASY}"><div class="interval">${intervals[EASY]}</div><div class="label">Easy</div><div class="desc">${d.easy}</div></button>
+    </div>
+    <div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+}
+
+// ===== STREAK TRACKING =====
+function getStreak() {
+  const data = JSON.parse(localStorage.getItem('korean_coach_streak') || '{"count":0,"lastDate":""}');
+  const today = new Date().toISOString().slice(0, 10);
+  if (data.lastDate === today) return data.count;
+  const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+  if (data.lastDate === yesterday) return data.count;
+  return 0;
+}
+
+function recordStudyDay() {
+  const data = JSON.parse(localStorage.getItem('korean_coach_streak') || '{"count":0,"lastDate":""}');
+  const today = new Date().toISOString().slice(0, 10);
+  if (data.lastDate === today) return;
+  const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+  if (data.lastDate === yesterday) {
+    data.count++;
+  } else {
+    data.count = 1;
+  }
+  data.lastDate = today;
+  localStorage.setItem('korean_coach_streak', JSON.stringify(data));
+}
+
 // ===== SCREENS =====
 function countTotal() {
   let v = 0, g = 0;
@@ -1018,7 +1156,10 @@ function countTotal() {
 function showMenu() {
   const stats = srs.getStats();
   const totals = countTotal();
+  const streak = getStreak();
   const reviewedPct = totals.total > 0 ? Math.round(stats.total / totals.total * 100) : 0;
+
+  const streakHtml = streak > 0 ? `<div style="text-align:center;margin:8px 0"><span class="streak-badge">\u{1F525} ${streak} day${streak > 1 ? 's' : ''} streak</span></div>` : '';
 
   const statsHtml = `
     <div class="stats-bar">
@@ -1041,18 +1182,19 @@ function showMenu() {
     <p class="subtitle">Korean Coach — Advanced Fluency Trainer</p>
     <div id="offline-banner" class="offline-banner${isOffline ? ' visible' : ''}">${isOffline ? 'Offline — using cached data' : ''}</div>
     ${syncHtml}
+    ${streakHtml}
     ${statsHtml}
     <div class="menu">
-      <button onclick="showCategorySelect('vocab')"><span class="num">1</span> Vocabulary Drill</button>
-      <button onclick="showCategorySelect('grammar')"><span class="num">2</span> Grammar Practice</button>
-      <button onclick="startMixedReview()"><span class="num">3</span> Mixed Review (weakest first)</button>
-      <button onclick="startSentenceProduction()"><span class="num">4</span> Sentence Production</button>
-      <button onclick="startErrorCorrection()"><span class="num">5</span> Error Correction</button>
-      <button onclick="startGrammarContext()"><span class="num">6</span> Grammar in Context</button>
-      <button onclick="startReadingComprehension()"><span class="num">7</span> Reading Comprehension</button>
-      <button onclick="startRegisterSwitching()"><span class="num">8</span> Register Switching</button>
-      <button onclick="startClozeDrill()"><span class="num">9</span> Cloze Drill (fill the gap)</button>
-      <button onclick="showProgress()"><span class="num">0</span> View Progress</button>
+      <button onclick="showCategorySelect('vocab')"><span class="num">1</span> \u{1F4D6} Vocabulary Drill</button>
+      <button onclick="showCategorySelect('grammar')"><span class="num">2</span> \u{270F}\u{FE0F} Grammar Practice</button>
+      <button onclick="startMixedReview()"><span class="num">3</span> \u{1F500} Mixed Review (weakest first)</button>
+      <button onclick="startSentenceProduction()"><span class="num">4</span> \u{1F4AC} Sentence Production</button>
+      <button onclick="startErrorCorrection()"><span class="num">5</span> \u{1F6A8} Error Correction</button>
+      <button onclick="startGrammarContext()"><span class="num">6</span> \u{1F4CB} Grammar in Context</button>
+      <button onclick="startReadingComprehension()"><span class="num">7</span> \u{1F4DA} Reading Comprehension</button>
+      <button onclick="startRegisterSwitching()"><span class="num">8</span> \u{1F504} Register Switching</button>
+      <button onclick="startClozeDrill()"><span class="num">9</span> \u{1F9E9} Cloze Drill (fill the gap)</button>
+      <button onclick="showProgress()"><span class="num">0</span> \u{1F4CA} View Progress</button>
     </div>
     <div class="timed-toggle${timedMode ? ' active' : ''}" onclick="toggleTimedMode()">
       <div class="switch"></div> Timed Mode ${timedMode ? 'ON' : 'OFF'}
@@ -1276,14 +1418,7 @@ function runSession(cards) {
   }
 
   function ratingButtons() {
-    return `
-      <div class="rating">
-        <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">didn't know</div></button>
-        <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">struggled</div></button>
-        <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">knew it</div></button>
-        <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">effortless</div></button>
-      </div>
-      <div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+    return ratingButtonsHtml(session[idx >= session.length ? session.length - 1 : idx].id);
   }
 
   function setupRating(id) {
@@ -1406,14 +1541,8 @@ function startSentenceProduction() {
   }
 
   function prodRatingButtons() {
-    return `
-      <div class="rating">
-        <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">couldn't produce</div></button>
-        <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">major errors</div></button>
-        <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">close enough</div></button>
-        <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">nailed it</div></button>
-      </div>
-      <div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+    return ratingButtonsHtml(session[idx >= session.length ? session.length - 1 : idx].id,
+      {again: "couldn't produce", hard: 'major errors', good: 'close enough', easy: 'nailed it'});
   }
 
   showCard();
@@ -1496,12 +1625,8 @@ function startGrammarContext() {
   }
 
   function gcRatingButtons() {
-    return `<div class="rating">
-      <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">wrong</div></button>
-      <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">guessed</div></button>
-      <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">knew it</div></button>
-      <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">obvious</div></button>
-    </div><div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+    return ratingButtonsHtml(session[idx >= session.length ? session.length - 1 : idx].id,
+      {again: 'wrong', hard: 'guessed', good: 'knew it', easy: 'obvious'});
   }
 
   function setupGcRating(id) {
@@ -1586,12 +1711,7 @@ function startReadingComprehension() {
     }).join('');
 
     const nextBtnHtml = isLastQ
-      ? `<div class="rating">
-          <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">struggled</div></button>
-          <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">some guessing</div></button>
-          <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">understood</div></button>
-          <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">clear</div></button>
-        </div><div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`
+      ? ratingButtonsHtml(id, {again: 'struggled', hard: 'some guessing', good: 'understood', easy: 'clear'})
       : `<button class="btn btn-primary" id="next-q-btn" style="width:100%;margin-top:15px">Next Question →</button>`;
 
     app.innerHTML = `
@@ -1717,12 +1837,8 @@ function startRegisterSwitching() {
   }
 
   function regRatingButtons() {
-    return `<div class="rating">
-      <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">couldn't convert</div></button>
-      <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">partial</div></button>
-      <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">mostly right</div></button>
-      <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">nailed it</div></button>
-    </div><div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+    return ratingButtonsHtml(session[idx >= session.length ? session.length - 1 : idx].id,
+      {again: "couldn't convert", hard: 'partial', good: 'mostly right', easy: 'nailed it'});
   }
 
   showCard();
@@ -1819,14 +1935,8 @@ function startErrorCorrection() {
   }
 
   function errRatingButtons() {
-    return `
-      <div class="rating">
-        <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">missed it</div></button>
-        <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">partially right</div></button>
-        <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">found the error</div></button>
-        <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">obvious fix</div></button>
-      </div>
-      <div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+    return ratingButtonsHtml(session[idx >= session.length ? session.length - 1 : idx].id,
+      {again: 'missed it', hard: 'partially right', good: 'found the error', easy: 'obvious fix'});
   }
 
   showCard();
@@ -1952,12 +2062,8 @@ function startClozeDrill() {
   }
 
   function clozeRatingButtons() {
-    return `<div class="rating">
-      <button class="btn-again" data-q="${AGAIN}"><div class="label">Again</div><div class="desc">wrong</div></button>
-      <button class="btn-hard" data-q="${HARD}"><div class="label">Hard</div><div class="desc">guessed</div></button>
-      <button class="btn-good" data-q="${GOOD}"><div class="label">Good</div><div class="desc">knew it</div></button>
-      <button class="btn-easy" data-q="${EASY}"><div class="label">Easy</div><div class="desc">obvious</div></button>
-    </div><div class="shortcuts">Keyboard: 1=Again  2=Hard  3=Good  4=Easy</div>`;
+    return ratingButtonsHtml(session[idx >= session.length ? session.length - 1 : idx].id,
+      {again: 'wrong', hard: 'guessed', good: 'knew it', easy: 'obvious'});
   }
 
   showCard();
@@ -1965,23 +2071,64 @@ function startClozeDrill() {
 
 function showSummary(reviewed, correct) {
   const acc = reviewed > 0 ? correct / reviewed : 0;
-  let comment, color;
-  if (acc >= 0.9) { comment = 'Excellent.'; color = 'var(--green)'; }
-  else if (acc >= 0.7) { comment = 'Solid, but room to sharpen.'; color = 'var(--yellow)'; }
-  else if (acc >= 0.5) { comment = 'Getting there. Keep drilling.'; color = 'var(--orange)'; }
-  else { comment = "These need more work. They'll come back."; color = 'var(--red)'; }
+  const accPct = Math.round(acc * 100);
+  let comment, color, ringColor;
+  if (acc >= 0.9) { comment = 'Excellent.'; color = 'var(--green)'; ringColor = '#4ade80'; }
+  else if (acc >= 0.7) { comment = 'Solid, but room to sharpen.'; color = 'var(--yellow)'; ringColor = '#facc15'; }
+  else if (acc >= 0.5) { comment = 'Getting there. Keep drilling.'; color = 'var(--orange)'; ringColor = '#fb923c'; }
+  else { comment = "These need more work. They'll come back."; color = 'var(--red)'; ringColor = '#f87171'; }
+
+  const streak = getStreak();
+  const streakMsg = streak > 0 ? `<div style="margin-top:12px"><span class="streak-badge">\u{1F525} ${streak} day${streak > 1 ? 's' : ''} streak</span></div>` : '';
+
+  // SVG accuracy ring
+  const r = 50, circ = 2 * Math.PI * r;
+  const offset = circ * (1 - acc);
 
   app.innerHTML = `
     <div class="summary">
       <h2>Session Complete</h2>
+      <div style="display:flex;justify-content:center;margin:15px 0">
+        <svg width="130" height="130" viewBox="0 0 130 130">
+          <circle cx="65" cy="65" r="${r}" fill="none" stroke="var(--surface2)" stroke-width="8"/>
+          <circle cx="65" cy="65" r="${r}" fill="none" stroke="${ringColor}" stroke-width="8"
+            stroke-linecap="round" stroke-dasharray="${circ}" stroke-dashoffset="${circ}"
+            transform="rotate(-90 65 65)" style="transition: stroke-dashoffset 1s ease-out"/>
+          <text x="65" y="65" text-anchor="middle" dominant-baseline="central"
+            fill="${ringColor}" font-size="28" font-weight="bold" class="acc-number">0%</text>
+        </svg>
+      </div>
       <div class="summary-stats">
-        <div class="summary-stat"><div class="value">${reviewed}</div><div class="label">Reviewed</div></div>
-        <div class="summary-stat"><div class="value">${correct}</div><div class="label">Correct</div></div>
-        <div class="summary-stat"><div class="value" style="color:${color}">${Math.round(acc*100)}%</div><div class="label">Accuracy</div></div>
+        <div class="summary-stat"><div class="value count-up" data-target="${reviewed}">0</div><div class="label">Reviewed</div></div>
+        <div class="summary-stat"><div class="value count-up" data-target="${correct}">0</div><div class="label">Correct</div></div>
       </div>
       <div class="comment">${comment}</div>
+      ${streakMsg}
     </div>
     <button class="btn btn-primary" onclick="showMenu()" style="width:100%">Back to Menu</button>`;
+
+  // Animate ring
+  requestAnimationFrame(() => {
+    const ring = app.querySelector('circle:nth-child(2)');
+    if (ring) ring.style.strokeDashoffset = offset;
+  });
+
+  // Animate count-up numbers
+  const duration = 600;
+  const start = performance.now();
+  function animateCountUp(ts) {
+    const elapsed = ts - start;
+    const t = Math.min(elapsed / duration, 1);
+    const ease = 1 - Math.pow(1 - t, 3);
+    app.querySelectorAll('.count-up').forEach(el => {
+      el.textContent = Math.round(ease * parseInt(el.dataset.target));
+    });
+    const accEl = app.querySelector('.acc-number');
+    if (accEl) accEl.textContent = Math.round(ease * accPct) + '%';
+    if (t < 1) requestAnimationFrame(animateCountUp);
+  }
+  requestAnimationFrame(animateCountUp);
+
   document.onkeydown = e => { if (e.key === 'Enter' || e.key === 'Escape') showMenu(); };
 }
 
@@ -2004,9 +2151,11 @@ function showProgress() {
     weakRows += `<tr><td>${escHtml(label)}</td><td>${Math.round(c.accuracy*100)}%</td><td>${c.total_reviews}</td><td>${c.ease_factor.toFixed(1)}</td></tr>`;
   }
 
+  const streak = getStreak();
   app.innerHTML = `
     <button class="back-btn" onclick="showMenu()">← Back</button>
     <h2 style="margin-bottom:20px">Progress</h2>
+    ${streak > 0 ? `<div style="text-align:center;margin-bottom:15px"><span class="streak-badge">\u{1F525} ${streak} day${streak > 1 ? 's' : ''} streak</span></div>` : ''}
     <div class="summary-stats" style="margin-bottom:25px">
       <div class="summary-stat"><div class="value" style="color:var(--cyan)">${stats.total}</div><div class="label">Cards Seen</div></div>
       <div class="summary-stat"><div class="value" style="color:var(--yellow)">${stats.due}</div><div class="label">Due Now</div></div>
