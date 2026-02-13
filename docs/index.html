@@ -278,7 +278,7 @@ h1 {
   flex: 1;
   min-width: 120px;
   min-height: 44px;
-  padding: 12px 8px;
+  padding: 12px 16px;
   border-radius: 8px;
   border: 1px solid var(--border);
   background: var(--surface);
@@ -336,7 +336,7 @@ h1 {
   height: 100%;
   background: linear-gradient(90deg, var(--blue), var(--cyan));
   border-radius: 2px;
-  transition: width 0.3s;
+  transition: width 0.3s ease-out;
   box-shadow: 0 0 8px rgba(96,165,250,0.4);
 }
 
@@ -467,7 +467,7 @@ h1 {
   color: var(--dim);
   cursor: pointer;
   font-size: 0.9em;
-  padding: 12px 8px;
+  padding: 12px 16px;
   margin-bottom: 10px;
 }
 
@@ -650,7 +650,9 @@ h1 {
 .option-btn:active { transform: scale(0.97); }
 .option-btn.selected { border-color: var(--blue); background: rgba(96,165,250,0.15); }
 .option-btn.correct { border-color: var(--green); background: rgba(74,222,128,0.15); color: var(--green); }
+.option-btn.correct::before { content: '\2713 '; }
 .option-btn.wrong { border-color: var(--red); background: rgba(248,113,113,0.1); color: var(--red); }
+.option-btn.wrong::before { content: '\2717 '; }
 
 /* Reading comprehension */
 .reading-passage {
@@ -779,7 +781,7 @@ h1 {
   .card-korean { font-size: 1.5em; }
   .card-english { font-size: 1.3em; }
   .rating { flex-direction: column; }
-  .rating button { min-width: unset; }
+  .rating button { min-width: unset; width: 100%; }
   h1 { font-size: 1.5em; }
 }
 .sync-status {
@@ -953,6 +955,9 @@ h1 {
 @media (max-height: 500px) {
   .menu button { padding: 10px 14px; }
   .menu { gap: 4px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }
 </style>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
@@ -1533,6 +1538,9 @@ function setupTextInput(onReveal, timerSeconds) {
     if (e.key === 'Enter') reveal();
     if (e.key === 'Escape') { clearTimer(); showMenu(); }
   };
+  document.onkeydown = e => {
+    if (e.key === 'Escape') { clearTimer(); showMenu(); }
+  };
 }
 
 function startDrill(type, category) {
@@ -2062,10 +2070,28 @@ function showProgress() {
     const parts = c.card_id.split(':');
     let label = c.card_id;
     try {
-      const type = parts[0], cat = parts[1], idx = parseInt(parts[2]);
-      const data = type === 'vocab' ? vocabData : grammarData;
-      if (data[cat] && data[cat][idx]) {
-        label = type === 'vocab' ? data[cat][idx].korean : data[cat][idx].pattern;
+      const type = parts[0];
+      if (type === 'err') {
+        const idx = parseInt(parts[1]);
+        if (errorDrills[idx]) label = errorDrills[idx].incorrect;
+      } else if (type === 'read') {
+        const idx = parseInt(parts[1]);
+        if (readingDrills[idx]) label = readingDrills[idx].passage.substring(0, 30) + '...';
+      } else if (type === 'dlg') {
+        const idx = parseInt(parts[1]);
+        if (dialogueDrills[idx]) label = dialogueDrills[idx].title;
+      } else if (type === 'gctx') {
+        const idx = parseInt(parts[1]);
+        if (grammarContext[idx]) label = grammarContext[idx].passage.substring(0, 30) + '...';
+      } else if (type === 'reg') {
+        const idx = parseInt(parts[1]);
+        if (registerDrills[idx]) label = registerDrills[idx].given;
+      } else {
+        const cat = parts[1], pidx = parseInt(parts[2]);
+        const data = type === 'vocab' || type === 'cloze' ? vocabData : grammarData;
+        if (data[cat] && data[cat][pidx]) {
+          label = type === 'vocab' || type === 'cloze' ? data[cat][pidx].korean : data[cat][pidx].pattern;
+        }
       }
     } catch(e) {}
     weakRows += `<tr><td>${escHtml(label)}</td><td>${Math.round(c.accuracy*100)}%</td><td>${c.total_reviews}</td><td>${c.ease_factor.toFixed(1)}</td></tr>`;
@@ -2161,9 +2187,12 @@ function startDialogueDrill() {
           <div class="dialogue-area">${bubblesHtml}</div>
           <div class="dialogue-options">${optionsHtml}</div>`;
 
+        let dlgFired = false;
         document.querySelectorAll('.option-btn').forEach(btn => {
           btn.onclick = () => {
             if (btn.dataset.text === turn.line) {
+              if (dlgFired) return;
+              dlgFired = true;
               answered.push(blankIdx);
               runDialogue(item, prog, blankIdx + 1, answered);
             } else {
