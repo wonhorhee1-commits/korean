@@ -161,7 +161,7 @@ h1 {
   border: 1px solid var(--border);
   border-radius: 8px;
   color: var(--text);
-  font-size: 1.05em;
+  font-size: 16px;
   outline: none;
   transition: border-color 0.15s;
 }
@@ -296,7 +296,7 @@ h1 {
 .rating .btn-easy .label { color: var(--cyan); font-weight: bold; }
 
 .rating .desc { color: var(--dim); font-size: 0.8em; }
-.rating .interval { color: var(--dim); font-size: 0.7em; margin-bottom: 2px; opacity: 0.7; }
+.rating .interval { color: var(--dim); font-size: 0.8em; margin-bottom: 2px; opacity: 0.7; }
 
 /* Streak badge */
 .streak-badge {
@@ -454,7 +454,7 @@ h1 {
   color: var(--dim);
   cursor: pointer;
   font-size: 0.9em;
-  padding: 8px 0;
+  padding: 12px 8px;
   margin-bottom: 10px;
 }
 
@@ -910,6 +910,15 @@ h1 {
   grid-template-columns: 1fr;
   gap: 8px;
   margin: 15px 0;
+}
+@media (max-width: 360px) {
+  .error-sentence { padding: 16px; }
+  .reading-passage { padding: 16px; }
+  .chat-bubble { padding: 10px 12px; }
+}
+@media (max-height: 500px) {
+  .menu button { padding: 10px 14px; }
+  .menu { gap: 4px; }
 }
 </style>
 <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
@@ -1392,7 +1401,7 @@ function runSession(cards) {
       <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
       ${timerHtml(15)}
       ${prompt}
-      <input class="answer-input" placeholder="Your answer (Enter to reveal)" autofocus>
+      <input class="answer-input" placeholder="Your answer (Enter to reveal)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
       <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');
@@ -1433,7 +1442,7 @@ function runSession(cards) {
       ${timerHtml(20)}
       <div class="card"><div class="card-korean">${escHtml(entry.pattern)}</div></div>
       <div class="card-prompt">What does this pattern mean?</div>
-      <input class="answer-input" placeholder="Your answer (Enter to reveal)" autofocus>
+      <input class="answer-input" placeholder="Your answer (Enter to reveal)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
       <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');
@@ -1459,7 +1468,7 @@ function runSession(cards) {
       drillHtml = `
         <div class="fill-prompt">Fill in the blank:</div>
         <div class="fill-sentence">${escHtml(entry.drill.prompt)}</div>
-        <input class="answer-input" id="drill-input" placeholder="Your answer" autofocus>
+        <input class="answer-input" id="drill-input" placeholder="Your answer" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
         <div id="drill-result" class="hidden"></div>`;
     }
 
@@ -1502,7 +1511,7 @@ function runSession(cards) {
   }
 
   function ratingButtons() {
-    return ratingButtonsHtml(session[idx >= session.length ? session.length - 1 : idx].id);
+    return ratingButtonsHtml(cards[idx >= cards.length ? cards.length - 1 : idx].id);
   }
 
   function setupRating(id) {
@@ -1567,7 +1576,7 @@ function startSentenceProduction() {
         <div class="production-context">Hint: ${escHtml(entry.english)}</div>
       </div>
       <div class="card-prompt">Write this in Korean:</div>
-      <input class="answer-input" placeholder="Type your Korean sentence (Enter to check)" autofocus>
+      <input class="answer-input" placeholder="Type your Korean sentence (Enter to check)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
       <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');
@@ -1882,7 +1891,7 @@ function startRegisterSwitching() {
         <div class="register-badge ${regBadgeClass(drill.target_register)}">${escHtml(drill.target_register)}</div>
       </div>
       <div class="card-prompt">Rewrite in ${escHtml(drill.target_register)}:</div>
-      <input class="answer-input" placeholder="Type the converted sentence (Enter to check)" autofocus>
+      <input class="answer-input" placeholder="Type the converted sentence (Enter to check)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
       <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');
@@ -1971,7 +1980,7 @@ function startErrorCorrection() {
         <div class="korean">${escHtml(drill.incorrect)}</div>
       </div>
       <div class="card-prompt">Find and fix the error:</div>
-      <input class="answer-input" placeholder="Type the corrected sentence (Enter to check)" autofocus>
+      <input class="answer-input" placeholder="Type the corrected sentence (Enter to check)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
       <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
 
     const input = app.querySelector('.answer-input');

@@ -19074,6 +19074,111 @@
       "example": "하루 재워두면 양념이 충분히 배어서 맛있다.",
       "example_en": "If you let it marinate for a day, the seasoning soaks in well and it tastes great.",
       "notes": "Seasoning absorbs/soaks in. Collocation: 양념이 배다, 맛이 배다. Takes time (1 hour+)."
+    },
+    {
+      "korean": "졸이다",
+      "english": "to boil down; to reduce (liquid)",
+      "example": "간장을 약한 불에서 천천히 졸여서 농도를 맞췄다.",
+      "example_en": "I slowly reduced the soy sauce over low heat to adjust the consistency.",
+      "notes": "Cooking technique to concentrate flavors by evaporating liquid. Common: 조림 (braised dish), 양념 졸이다. Requires low heat and patience for proper reduction without burning."
+    },
+    {
+      "korean": "데치다",
+      "english": "to blanch; to parboil",
+      "example": "시금치를 끓는 물에 데쳐서 쌉쌀한 맛을 없앴다.",
+      "example_en": "I blanched the spinach in boiling water to remove the bitter taste.",
+      "notes": "Brief boiling to remove bitterness, preserve color, or pre-cook. Essential for 나물 (seasoned vegetables). Duration: 30 seconds to 2 minutes. Shock in cold water after to stop cooking."
+    },
+    {
+      "korean": "재우다",
+      "english": "to marinate; to let soak",
+      "example": "고기를 양념에 하룻밤 재웠더니 맛이 깊게 배었다.",
+      "example_en": "After marinating the meat in seasoning overnight, the flavor deeply penetrated.",
+      "notes": "Letting ingredients sit in seasoning to absorb flavor. Longer marination = deeper flavor. Common: 불고기 재우다, 닭고기 재우다. Refrigerate while marinating."
+    },
+    {
+      "korean": "무치다",
+      "english": "to season and mix (vegetables)",
+      "example": "데친 시금치를 참기름과 마늘로 무쳤다.",
+      "example_en": "I seasoned and mixed the blanched spinach with sesame oil and garlic.",
+      "notes": "Tossing vegetables with seasonings to coat evenly. Essential for 나물 (Korean vegetable side dishes). Common ingredients: sesame oil, garlic, salt, soy sauce."
+    },
+    {
+      "korean": "치대다",
+      "english": "to knead (dough)",
+      "example": "반죽을 10분 이상 치대야 글루텐이 형성된다.",
+      "example_en": "You need to knead the dough for at least 10 minutes to develop gluten.",
+      "notes": "Kneading develops gluten for elasticity. Essential for bread, noodles, dumplings. Hand-kneading: 손으로 치대다. Proper kneading = better texture and rise."
+    },
+    {
+      "korean": "부침개",
+      "english": "Korean savory pancake (generic term)",
+      "example": "비오는 날에는 부침개와 막걸리가 제격이다.",
+      "example_en": "On rainy days, savory pancakes and makgeolli are perfect.",
+      "notes": "Umbrella term for Korean pancakes: 파전 (green onion), 김치전, 해물전. Regional name: 전 (formal), 지짐이 (dialect). Crispy outside, soft inside when done right."
+    },
+    {
+      "korean": "냄비받침",
+      "english": "trivet; pot holder stand",
+      "example": "뜨거운 냄비를 냄비받침 위에 올려놔야 식탁이 타지 않는다.",
+      "example_en": "You need to place the hot pot on a trivet so the table doesn't burn.",
+      "notes": "Protects surfaces from hot cookware. Types: 실리콘 (silicone), 나무 (wood), 천 (fabric). Essential kitchen accessory for Korean cooking with hot stoneware."
+    },
+    {
+      "korean": "뚝배기",
+      "english": "Korean earthenware pot; stone pot",
+      "example": "뚝배기에 끓인 찌개는 식탁에서도 오래 따뜻하게 유지된다.",
+      "example_en": "Stew boiled in an earthenware pot stays warm for a long time at the table.",
+      "notes": "Traditional Korean cooking vessel retaining heat well. Used for 찌개, 국, 비빔밥. Seasoning (길들이기) required before first use. Absorbs flavors over time."
+    },
+    {
+      "korean": "국자",
+      "english": "ladle; soup ladle",
+      "example": "국을 국자로 떠서 그릇에 담았다.",
+      "example_en": "I ladled the soup into bowls with a ladle.",
+      "notes": "Essential for serving soups and stews. Korean kitchens typically have multiple sizes. Related: 주걱 (spatula), 집게 (tongs). Stainless steel most common for durability."
+    },
+    {
+      "korean": "집게",
+      "english": "tongs; kitchen tongs",
+      "example": "고기를 뒤집을 때는 집게를 사용하는 것이 안전하다.",
+      "example_en": "It's safer to use tongs when flipping meat.",
+      "notes": "Korean BBQ essential tool. Prevents burns and maintains meat integrity. Types: 금속 집게 (metal), 실리콘 집게 (silicone). Barbecue culture staple."
+    },
+    {
+      "korean": "믹서기",
+      "english": "blender; food processor",
+      "example": "과일을 믹서기에 갈아서 스무디를 만들었다.",
+      "example_en": "I blended fruit in a blender to make a smoothie.",
+      "notes": "Korean term for blender. Used for smoothies, soups, grinding. Related: 믹서 (same), 블렌더. Common for making traditional 미숫가루 drinks or grinding nuts."
+    },
+    {
+      "korean": "거품기",
+      "english": "whisk; egg beater",
+      "example": "달걀을 거품기로 충분히 풀어야 부드러운 계란찜이 된다.",
+      "example_en": "You need to beat the eggs thoroughly with a whisk for soft steamed eggs.",
+      "notes": "Manual or electric whisk for incorporating air. Essential for baking and 계란찜. Types: 수동 거품기 (manual), 전동 거품기 (electric). Creates volume and texture."
+    },
+    {
+      "korean": "쌉싸래하다",
+      "english": "slightly bitter; pleasantly bitter",
+      "example": "봄나물의 쌉싸래한 맛이 입맛을 돋운다.",
+      "example_en": "The pleasantly bitter taste of spring greens stimulates the appetite.",
+      "notes": "Describes pleasant bitterness in vegetables (쑥, 냉이, 취나물). Not harsh bitterness (쓰다). Spring greens characteristic. Considered healthy and appetite-stimulating."
+    },
+    {
+      "korean": "구수하다",
+      "english": "savory; nutty; toasty (flavor)",
+      "example": "된장찌개의 구수한 향이 집안 가득 퍼졌다.",
+      "example_en": "The savory aroma of doenjang jjigae filled the whole house.",
+      "notes": "Describes savory, nutty, comforting flavors in Korean cuisine. Common with fermented foods (된장, 청국장), roasted grains (누룽지). Distinct Korean flavor descriptor."
+    },
+    {
+      "korean": "텁텁하다",
+      "english": "chalky; rough on the palate",
+      "example": "밀가루를 너무 많이 넣어서 맛이 텁텁해졌다.",
+      "example_en": "I added too much flour, so the taste became chalky.",
+      "notes": "Unpleasant dry, rough texture in mouth. Often from excess starch or improper cooking. Opposite of 부드럽다 (smooth). Describes texture failures in cooking."
     }
   ],
   "주제별 단어 — 패션 (Topic: Fashion)": [
@@ -23716,6 +23821,90 @@
       "example": "국제 운송료가 최근에 상승했습니다.",
       "example_en": "International freight rates have risen recently.",
       "notes": "Common: 운송료 인상. Related: 배송비, 운송비. Tip: 운송료는 더 공식적인 표현."
+    },
+    {
+      "korean": "통관",
+      "english": "customs clearance",
+      "example": "해외 직구 상품이 통관 절차를 거치는 중입니다.",
+      "example_en": "The overseas direct purchase item is undergoing customs clearance.",
+      "notes": "Hanja: 通關 (pass through gate). Required for international shipments. Involves customs declaration, duty payment, inspection. Delays common at 통관 단계. Essential for import/export."
+    },
+    {
+      "korean": "관세",
+      "english": "customs duty; tariff",
+      "example": "200달러가 넘는 해외 구매 시 관세가 부과됩니다.",
+      "example_en": "Customs duty is imposed on overseas purchases exceeding $200.",
+      "notes": "Hanja: 關稅 (gate tax). Tax on imported goods. Threshold varies by country. Calculated on product value + shipping. Common complaint in Korean online shopping from abroad."
+    },
+    {
+      "korean": "재고관리",
+      "english": "inventory management",
+      "example": "효율적인 재고관리를 위해 바코드 시스템을 도입했습니다.",
+      "example_en": "We introduced a barcode system for efficient inventory management.",
+      "notes": "Hanja: 在庫管理 (existing stock management). Critical for supply chain efficiency. Software solutions: ERP, WMS. Prevents overstocking/stockouts. Real-time tracking essential."
+    },
+    {
+      "korean": "하역",
+      "english": "unloading; cargo handling",
+      "example": "항구에서 컨테이너 하역 작업이 진행 중입니다.",
+      "example_en": "Container unloading operations are in progress at the port.",
+      "notes": "Hanja: 荷役 (load work). Opposite of 적재 (loading). Requires specialized equipment: forklift, crane. Labor-intensive in traditional warehouses. Port operations term."
+    },
+    {
+      "korean": "운송장",
+      "english": "waybill; shipping label",
+      "example": "운송장 번호로 실시간 배송 추적이 가능합니다.",
+      "example_en": "Real-time delivery tracking is possible with the waybill number.",
+      "notes": "Contains tracking number, sender/recipient info, item details. Essential for logistics tracking. Barcode/QR code for scanning. Also called 송장 (invoice) in casual speech."
+    },
+    {
+      "korean": "집하",
+      "english": "collection; pickup (of packages)",
+      "example": "오후 3시에 택배 집하가 예정되어 있습니다.",
+      "example_en": "Package pickup is scheduled for 3 PM.",
+      "notes": "Hanja: 集荷 (gather goods). First step in delivery process. Courier collects packages from sender. Scheduled 집하 vs on-demand. Critical for same-day shipping services."
+    },
+    {
+      "korean": "배송지연",
+      "english": "delivery delay",
+      "example": "악천후로 인해 배송지연이 발생했습니다.",
+      "example_en": "Delivery delays occurred due to bad weather.",
+      "notes": "Common causes: weather, customs, high volume, address errors. Requires customer notification. E-commerce pain point. Compensation policies vary by company."
+    },
+    {
+      "korean": "분류작업",
+      "english": "sorting operation",
+      "example": "물류센터에서 자동화 시스템으로 분류작업을 처리합니다.",
+      "example_en": "The logistics center handles sorting operations with an automated system.",
+      "notes": "Separating packages by destination/type. Automation common in modern centers: conveyor belts, scanners. Critical bottleneck in high-volume operations. Speed determines throughput."
+    },
+    {
+      "korean": "라스트마일",
+      "english": "last-mile delivery",
+      "example": "라스트마일 배송 효율화가 물류 업계의 최대 과제입니다.",
+      "example_en": "Last-mile delivery efficiency is the biggest challenge in the logistics industry.",
+      "notes": "Final leg from distribution center to customer. Most expensive delivery stage. Korean solutions: quick commerce, drone delivery trials. Urban density makes Korea ideal for innovation."
+    },
+    {
+      "korean": "택배기사",
+      "english": "delivery driver; courier",
+      "example": "택배기사가 하루에 200개가 넘는 소포를 배달합니다.",
+      "example_en": "The delivery driver delivers over 200 parcels per day.",
+      "notes": "Demanding job with high package volumes in Korea. Often independent contractors. Safety concerns and working conditions debated. Essential workers, especially during pandemic."
+    },
+    {
+      "korean": "포장재",
+      "english": "packaging materials",
+      "example": "친환경 포장재를 사용해서 환경 보호에 동참하고 있습니다.",
+      "example_en": "We participate in environmental protection by using eco-friendly packaging materials.",
+      "notes": "Types: boxes, bubble wrap, packing peanuts, tape. Trend toward eco-friendly: biodegradable, recycled. Cost factor in shipping. Protection vs sustainability balance."
+    },
+    {
+      "korean": "대량배송",
+      "english": "bulk shipping; mass delivery",
+      "example": "대량배송 할인을 받아서 운송비를 절감했습니다.",
+      "example_en": "We reduced shipping costs by receiving bulk shipping discounts.",
+      "notes": "Economies of scale for high-volume shippers. B2B common scenario. Negotiated rates with carriers. Consolidation strategies to achieve 대량배송 benefits."
     }
   ],
   "주제별 단어 — 건설 (Topic: Construction)": [
@@ -26729,6 +26918,111 @@
       "example": "주택 건설을 원한다면 먼저 그 토지의 용도지역을 확인해야 합니다.",
       "example_en": "If you want to build a house, you must first check the zoning district of the land.",
       "notes": "Related: 토지용도(land use), 도시계획(urban planning). Etymology: 用途地域 (use-purpose-area), Sino-Korean root."
+    },
+    {
+      "korean": "매물",
+      "english": "property for sale; listing",
+      "example": "이 지역에는 좋은 조건의 매물이 거의 나오지 않습니다.",
+      "example_en": "Properties with good conditions rarely come on the market in this area.",
+      "notes": "Collocations: 매물 내놓다(list property), 급매물(urgent sale). Etymology: 賣物 (sell-thing), Sino-Korean. Used by agents to refer to available properties."
+    },
+    {
+      "korean": "명도",
+      "english": "eviction; surrender of property",
+      "example": "임차인이 계약 만료 후에도 나가지 않아서 명도 소송을 진행했습니다.",
+      "example_en": "We proceeded with an eviction lawsuit because the tenant didn't leave after the contract expired.",
+      "notes": "Legal term. Collocations: 명도 소송(eviction lawsuit), 명도 집행(eviction execution). Etymology: 明渡 (clear-hand over), Sino-Korean. Critical in tenant disputes."
+    },
+    {
+      "korean": "공실",
+      "english": "vacancy; empty unit",
+      "example": "이 건물은 공실률이 높아서 임대 수익이 좋지 않습니다.",
+      "example_en": "This building has a high vacancy rate, so rental income is poor.",
+      "notes": "Collocations: 공실률(vacancy rate), 공실 기간(vacancy period). Etymology: 空室 (empty-room), Sino-Korean. Key metric for landlords and investors."
+    },
+    {
+      "korean": "선순위",
+      "english": "senior lien; priority claim",
+      "example": "이 주택에는 선순위 근저당이 설정되어 있어서 전세금 회수가 어려울 수 있습니다.",
+      "example_en": "This house has a senior mortgage lien, so recovering the jeonse deposit may be difficult.",
+      "notes": "Legal term. Related: 후순위(junior lien), 근저당(mortgage). Etymology: 先順位 (first-order-position), Sino-Korean. Critical for tenant safety in jeonse contracts."
+    },
+    {
+      "korean": "실거래가",
+      "english": "actual transaction price",
+      "example": "정부가 공개하는 실거래가 정보를 확인하면 시세를 파악할 수 있습니다.",
+      "example_en": "You can understand market prices by checking the actual transaction price information published by the government.",
+      "notes": "Collocations: 실거래가 공개(price disclosure), 실거래가 조회(price lookup). Related: 시세(market price), 호가(asking price). Government-mandated transparency measure."
+    },
+    {
+      "korean": "역세권",
+      "english": "area near subway station",
+      "example": "역세권 아파트는 교통이 편리해서 항상 인기가 많습니다.",
+      "example_en": "Apartments near subway stations are always popular due to convenient transportation.",
+      "notes": "Collocations: 역세권 프리미엄(station area premium), 더블역세권(near two stations). Korean real estate term combining 역(station) + 세(勢, influence) + 권(圈, zone)."
+    },
+    {
+      "korean": "학군",
+      "english": "school district",
+      "example": "좋은 학군의 아파트는 가격이 비싸도 수요가 끊이지 않습니다.",
+      "example_en": "Apartments in good school districts always have demand even if prices are high.",
+      "notes": "Collocations: 학군 프리미엄(school district premium), 명문 학군(prestigious school district). Etymology: 學群 (learning-group), Sino-Korean. Major price determinant in Korean real estate."
+    },
+    {
+      "korean": "투기",
+      "english": "speculation (real estate)",
+      "example": "정부는 부동산 투기를 막기 위해 다주택자 세금을 강화했습니다.",
+      "example_en": "The government strengthened taxes on multiple homeowners to prevent real estate speculation.",
+      "notes": "Collocations: 투기 수요(speculative demand), 투기 억제(speculation control). Etymology: 投機 (throw-opportunity), Sino-Korean. Negative connotation in policy discourse."
+    },
+    {
+      "korean": "청약",
+      "english": "housing subscription; lottery application",
+      "example": "신규 분양 아파트 청약에 10만 명이 넘게 신청했습니다.",
+      "example_en": "Over 100,000 people applied for the new apartment housing subscription.",
+      "notes": "Collocations: 청약 통장(subscription savings account), 청약 경쟁률(subscription competition rate). Etymology: 請約 (request-contract), Sino-Korean. Unique Korean housing allocation system."
+    },
+    {
+      "korean": "분양권",
+      "english": "presale rights; allocation rights",
+      "example": "분양권을 전매하려면 일정 기간이 지나야 합니다.",
+      "example_en": "A certain period must pass before you can resell presale rights.",
+      "notes": "Collocations: 분양권 전매(resale of presale rights), 분양권 프리미엄(presale premium). Related: 분양(presale), 전매(resale). Can be traded before construction completion."
+    },
+    {
+      "korean": "프리미엄",
+      "english": "premium (over list price)",
+      "example": "인기 지역의 전세는 프리미엄을 수천만 원 얹어야 구할 수 있습니다.",
+      "example_en": "To get a jeonse in popular areas, you have to add tens of millions of won as premium.",
+      "notes": "Loanword. Collocations: 프리미엄 얹다(add premium), 웃돈(premium, Korean word). Used extensively in Korean real estate for amounts exceeding official prices."
+    },
+    {
+      "korean": "갱신 거절",
+      "english": "non-renewal; refusal to renew lease",
+      "example": "임대인이 갱신 거절을 하려면 정당한 사유가 필요합니다.",
+      "example_en": "A landlord needs legitimate grounds to refuse lease renewal.",
+      "notes": "Legal term. Related: 계약갱신청구권(right to request renewal), 임대차보호법(lease protection law). Etymology: 更新(renewal) + 拒絶(refusal), Sino-Korean. Tenant protection issue."
+    },
+    {
+      "korean": "준공",
+      "english": "completion of construction",
+      "example": "아파트 준공이 예정보다 6개월 늦어지고 있습니다.",
+      "example_en": "The apartment construction completion is delayed by 6 months from schedule.",
+      "notes": "Collocations: 준공 승인(completion approval), 준공 검사(completion inspection). Etymology: 竣工 (complete-work), Sino-Korean. Critical milestone for presale buyers."
+    },
+    {
+      "korean": "입주",
+      "english": "move-in; occupancy",
+      "example": "신축 아파트 입주 예정일이 내년 3월로 확정되었습니다.",
+      "example_en": "The move-in date for the new apartment has been confirmed for March next year.",
+      "notes": "Collocations: 입주 예정일(scheduled move-in date), 입주 청소(move-in cleaning). Etymology: 入住 (enter-reside), Sino-Korean. Follows 준공(completion) in construction timeline."
+    },
+    {
+      "korean": "취득세",
+      "english": "acquisition tax",
+      "example": "주택 구입 시 취득세는 매매가의 1~3% 정도입니다.",
+      "example_en": "When purchasing a house, the acquisition tax is approximately 1-3% of the sale price.",
+      "notes": "Related: 재산세(property tax), 양도소득세(capital gains tax). Etymology: 取得稅 (acquire-tax), Sino-Korean. One-time tax paid at purchase. Rate varies by property value and buyer status."
     }
   ],
   "주제별 단어 — 해양생물 (Topic: Marine Biology)": [
@@ -28148,6 +28442,146 @@
       "example": "바다의 수온이 평년보다 높아져서 해양 생물의 서식지가 변하고 있어요.",
       "example_en": "The water temperature of the sea is higher than normal, and marine habitats are changing.",
       "notes": "Weather/disaster term: water temperature. Meteorological/emergency context. Related: 날씨(weather), 대비(preparation), 예보(forecast). Usage: 수온 경보(alert), 수온 예보(forecast), 수온 영향(impact)."
+    },
+    {
+      "korean": "풍속",
+      "english": "wind speed",
+      "example": "태풍 접근 시 풍속이 시속 200km에 달할 수 있어 매우 위험하다.",
+      "example_en": "When a typhoon approaches, wind speed can reach 200 km/h, making it very dangerous.",
+      "notes": "풍(風 wind) + 속(速 speed). Meteorological measurement term. Units: m/s (초속), km/h (시속). Related: 풍향(wind direction), 강풍(strong wind), 돌풍(gust)."
+    },
+    {
+      "korean": "습도",
+      "english": "humidity",
+      "example": "장마철에는 습도가 80% 이상 올라가서 불쾌지수가 높아진다.",
+      "example_en": "During monsoon season, humidity rises above 80%, increasing the discomfort index.",
+      "notes": "습(濕 moist) + 도(度 degree). Relative humidity measured in percentage. Related: 건조(dry), 불쾌지수(discomfort index), 상대습도(relative humidity), 절대습도(absolute humidity)."
+    },
+    {
+      "korean": "산사태",
+      "english": "landslide/mudslide",
+      "example": "집중호우로 인해 산간 지역에서 대규모 산사태가 발생했다.",
+      "example_en": "Heavy downpours caused large-scale landslides in mountainous areas.",
+      "notes": "산(山 mountain) + 사태(事態 situation/incident). Natural disaster. Causes: 폭우(heavy rain), 지진(earthquake). Prevention: 사방공사(erosion control), 배수(drainage)."
+    },
+    {
+      "korean": "해일",
+      "english": "tsunami/tidal wave",
+      "example": "해저 지진으로 발생한 해일이 연안 마을을 덮쳤다.",
+      "example_en": "A tsunami caused by an undersea earthquake struck coastal villages.",
+      "notes": "해(海 sea) + 일(溢 overflow). Tsunami/tidal wave. Types: 지진해일(seismic tsunami), 풍랑(storm surge). Warning system: 해일경보(tsunami warning)."
+    },
+    {
+      "korean": "폭풍",
+      "english": "storm/tempest",
+      "example": "북태평양에서 발생한 폭풍이 동해안으로 접근하고 있다.",
+      "example_en": "A storm originating in the North Pacific is approaching the east coast.",
+      "notes": "폭(暴 violent) + 풍(風 wind). Severe weather event. Types: 눈폭풍(snowstorm), 뇌폭풍(thunderstorm), 모래폭풍(sandstorm). Related: 폭풍우(rainstorm), 강풍(strong wind)."
+    },
+    {
+      "korean": "가뭄",
+      "english": "drought",
+      "example": "3개월간 비가 내리지 않아 전국적으로 심각한 가뭄이 이어지고 있다.",
+      "example_en": "With no rain for three months, a severe drought continues nationwide.",
+      "notes": "Native Korean word. Agricultural and water resource disaster. Related: 물부족(water shortage), 농작물 피해(crop damage), 제한급수(water rationing). Opposite: 폭우(heavy rain), 홍수(flood)."
+    },
+    {
+      "korean": "홍수",
+      "english": "flood",
+      "example": "댐이 범람하면서 하류 지역에 홍수 경보가 발령되었다.",
+      "example_en": "As the dam overflowed, a flood warning was issued for downstream areas.",
+      "notes": "홍(洪 flood) + 수(水 water). Major water disaster. Types: 하천범람(river overflow), 침수(inundation). Prevention: 제방(levee), 배수펌프장(drainage pump station)."
+    },
+    {
+      "korean": "폭설",
+      "english": "heavy snow/blizzard",
+      "example": "폭설로 인해 고속도로가 전면 통제되고 항공편이 결항됐다.",
+      "example_en": "Heavy snow led to complete highway closures and flight cancellations.",
+      "notes": "폭(暴 violent) + 설(雪 snow). Winter disaster. Effects: 교통마비(traffic paralysis), 고립(isolation). Warning: 대설주의보(heavy snow advisory), 대설경보(heavy snow warning)."
+    },
+    {
+      "korean": "한파",
+      "english": "cold wave",
+      "example": "시베리아에서 내려온 한파로 체감온도가 영하 30도까지 떨어졌다.",
+      "example_en": "A cold wave from Siberia dropped the perceived temperature to minus 30 degrees.",
+      "notes": "한(寒 cold) + 파(波 wave). Severe cold weather event. Related: 체감온도(wind chill), 강추위(severe cold), 한파특보(cold wave alert). Health risks: 동상(frostbite), 저체온증(hypothermia)."
+    },
+    {
+      "korean": "이상기후",
+      "english": "abnormal climate/climate anomaly",
+      "example": "지구 온난화로 인한 이상기후 현상이 전 세계적으로 빈번해지고 있다.",
+      "example_en": "Climate anomalies due to global warming are becoming more frequent worldwide.",
+      "notes": "이상(異常 abnormal) + 기후(氣候 climate). Long-term weather pattern disruption. Examples: 극심한 더위(extreme heat), 기록적 강수량(record rainfall). Related: 기후변화(climate change)."
+    },
+    {
+      "korean": "낙뢰",
+      "english": "lightning strike",
+      "example": "골프장에서 낙뢰로 인한 인명 사고가 발생했다.",
+      "example_en": "A lightning strike caused casualties at a golf course.",
+      "notes": "낙(落 fall) + 뢰(雷 thunder). Lightning striking ground or objects. Safety: 낙뢰 대피(lightning shelter), 피뢰침(lightning rod). Related: 벼락(lightning), 천둥(thunder)."
+    },
+    {
+      "korean": "기상특보",
+      "english": "weather warning/advisory",
+      "example": "기상청은 내일 새벽 기상특보를 발령할 예정이다.",
+      "example_en": "The meteorological office plans to issue a weather warning tomorrow morning.",
+      "notes": "기상(氣象 weather) + 특보(特報 special report). Types: 주의보(advisory - yellow), 경보(warning - red). Categories: 태풍, 호우, 강풍, 대설, 한파, 폭염 등."
+    },
+    {
+      "korean": "폭염",
+      "english": "extreme heat/heat wave",
+      "example": "연일 계속되는 폭염으로 온열질환자가 급증하고 있다.",
+      "example_en": "Heat-related illnesses are surging due to consecutive days of extreme heat.",
+      "notes": "폭(暴 violent) + 염(炎 heat/flame). Summer disaster. Health risks: 열사병(heatstroke), 탈수(dehydration). Alert levels: 폭염주의보(33°C+), 폭염경보(35°C+)."
+    },
+    {
+      "korean": "열대야",
+      "english": "tropical night",
+      "example": "열대야가 일주일째 이어지면서 수면 부족을 호소하는 시민이 늘고 있다.",
+      "example_en": "As tropical nights continue for a week, more citizens are complaining of sleep deprivation.",
+      "notes": "열대(熱帶 tropical) + 야(夜 night). Meteorological term for nights with minimum temperature above 25°C. Sleep disruption and health impact. Related: 폭염(heat wave), 불쾌지수(discomfort index)."
+    },
+    {
+      "korean": "강수량",
+      "english": "precipitation/rainfall amount",
+      "example": "이번 장마의 누적 강수량이 평년의 두 배를 넘어섰다.",
+      "example_en": "The cumulative precipitation this monsoon season exceeded twice the normal amount.",
+      "notes": "강수(降水 falling water) + 량(量 amount). Meteorological measurement in mm (밀리미터). Types: 일강수량(daily), 시간당강수량(hourly). Related: 호우(heavy rain)."
+    },
+    {
+      "korean": "태풍의 눈",
+      "english": "eye of the typhoon",
+      "example": "태풍의 눈이 육지를 통과하는 동안 잠시 바람이 잦아들었다.",
+      "example_en": "The wind briefly subsided while the eye of the typhoon passed over land.",
+      "notes": "태풍(颱風 typhoon) + 의 + 눈(eye). Calm center of tropical cyclone surrounded by eyewall. Meteorological phenomenon where wind speed drops dramatically. Diameter: 20-40km typically."
+    },
+    {
+      "korean": "지진",
+      "english": "earthquake",
+      "example": "새벽 4시에 규모 5.8의 지진이 발생해 건물들이 흔들렸다.",
+      "example_en": "A magnitude 5.8 earthquake occurred at 4 AM, shaking buildings.",
+      "notes": "지(地 earth) + 진(震 shake). Tectonic disaster. Measurement: 규모(magnitude - Richter scale), 진도(intensity - seismic scale). Related: 진원지(epicenter), 여진(aftershock), 내진설계(earthquake-resistant design)."
+    },
+    {
+      "korean": "토네이도",
+      "english": "tornado",
+      "example": "미국 중서부에서는 토네이도가 자주 발생해 막대한 재산 피해를 일으킨다.",
+      "example_en": "Tornadoes frequently occur in the American Midwest, causing enormous property damage.",
+      "notes": "Loanword from Spanish/English. Violently rotating column of air. Classification: F0-F5 (Fujita scale). Rare in Korea but common in North America. Related: 회오리바람(whirlwind), 강풍(strong wind)."
+    },
+    {
+      "korean": "황사",
+      "english": "yellow dust/Asian dust",
+      "example": "중국에서 날아온 황사로 인해 미세먼지 농도가 매우 나쁨 수준에 달했다.",
+      "example_en": "Yellow dust from China caused fine dust levels to reach very bad levels.",
+      "notes": "황(黃 yellow) + 사(沙 sand). Seasonal atmospheric phenomenon from Gobi Desert. Health impact: respiratory issues, visibility reduction. Related: 미세먼지(fine dust), 마스크 착용(mask wearing). Peak season: March-May."
+    },
+    {
+      "korean": "적설량",
+      "english": "snowfall amount/snow accumulation",
+      "example": "강원도 산간 지역의 적설량이 1미터를 넘어서며 교통이 두절됐다.",
+      "example_en": "Snow accumulation in mountainous areas of Gangwon Province exceeded 1 meter, cutting off traffic.",
+      "notes": "적설(積雪 accumulated snow) + 량(量 amount). Meteorological measurement of snow depth in cm. Warning levels: 대설주의보(5cm+ in 24h), 대설경보(20cm+ in 24h). Related: 폭설(heavy snow), 제설작업(snow removal)."
     }
   ],
   "주제별 단어 — 재활용 (Topic: Recycling & Waste Management)": [
@@ -31741,6 +32175,111 @@
       "example": "무용수의 부드러운 움직임이 관객들을 매료시킨다.",
       "example_en": "The graceful movements of dancers captivate the audience.",
       "notes": "Native Korean word meaning movement. 움직이다(to move) + 임(nominalizing suffix). Not Sino-Korean."
+    },
+    {
+      "korean": "안무",
+      "english": "choreography",
+      "example": "이번 공연의 안무는 세계적으로 유명한 무용가가 맡았다.",
+      "example_en": "The choreography for this performance was done by a world-renowned dancer.",
+      "notes": "안(案 plan) + 무(舞 dance). Choreography, dance composition. Related: 안무가(choreographer), 안무하다(to choreograph). Used in both traditional and modern dance contexts."
+    },
+    {
+      "korean": "춤사위",
+      "english": "dance movements/dance steps",
+      "example": "한국 전통무용의 춤사위는 자연의 흐름을 담고 있다.",
+      "example_en": "The dance movements of Korean traditional dance embody the flow of nature.",
+      "notes": "Native Korean compound: 춤(dance) + 사위(movements/gestures). Specifically refers to the stylized movements and gestures in traditional Korean dance. Related: 손사위(hand gestures), 발사위(foot movements)."
+    },
+    {
+      "korean": "군무",
+      "english": "group dance/ensemble dance",
+      "example": "군무에서는 모든 무용수의 동작이 완벽하게 일치해야 한다.",
+      "example_en": "In group dance, all dancers movements must be perfectly synchronized.",
+      "notes": "군(群 group) + 무(舞 dance). Group or ensemble dance performance. Contrasts with 독무(solo dance). Requires precise synchronization and formation work."
+    },
+    {
+      "korean": "독무",
+      "english": "solo dance",
+      "example": "그녀의 독무는 관객들에게 깊은 인상을 남겼다.",
+      "example_en": "Her solo dance left a deep impression on the audience.",
+      "notes": "독(獨 alone/solo) + 무(舞 dance). Solo dance performance. Showcases individual dancers technical skill and artistic expression. Contrasts with 군무(group dance), 2인무(duet)."
+    },
+    {
+      "korean": "무보",
+      "english": "dance notation",
+      "example": "전통 무용을 보존하기 위해 무보를 체계적으로 기록하고 있다.",
+      "example_en": "Dance notation is being systematically recorded to preserve traditional dance.",
+      "notes": "무(舞 dance) + 보(譜 notation/score). System for recording dance movements, similar to musical notation. Methods include Labanotation (라반 무보) and Benesh notation. Critical for dance preservation."
+    },
+    {
+      "korean": "리듬감",
+      "english": "sense of rhythm",
+      "example": "뛰어난 리듬감은 무용수의 필수 능력이다.",
+      "example_en": "An excellent sense of rhythm is an essential ability for dancers.",
+      "notes": "Loanword rhythm (리듬) + 감(感 sense/feeling). Ability to perceive and execute rhythmic patterns. Related: 박자감(sense of beat), 음악성(musicality). Critical for synchronization with music."
+    },
+    {
+      "korean": "발디딤",
+      "english": "footwork",
+      "example": "한국 무용의 발디딤은 바닥을 밀듯이 움직이는 것이 특징이다.",
+      "example_en": "The footwork in Korean dance is characterized by movements that seem to push the floor.",
+      "notes": "Native Korean compound: 발(foot) + 디딤(stepping/treading). Footwork technique. In Korean traditional dance, characterized by gliding, grounded movements. Related: 발놀림(foot technique), 디딤새(stepping pattern)."
+    },
+    {
+      "korean": "탈춤",
+      "english": "mask dance",
+      "example": "탈춤은 조선시대부터 내려온 한국의 전통 민속 공연 예술이다.",
+      "example_en": "Mask dance is a traditional Korean folk performance art passed down since the Joseon Dynasty.",
+      "notes": "탈(mask) + 춤(dance). Traditional Korean masked dance-drama. Examples: 봉산탈춤, 양주별산대놀이. Combines dance, music, and satirical theater. UNESCO intangible cultural heritage."
+    },
+    {
+      "korean": "살풀이춤",
+      "english": "Salpuri dance (exorcism dance)",
+      "example": "살풀이춤은 흰 수건을 들고 추는 한국의 전통 무용이다.",
+      "example_en": "Salpuri dance is a Korean traditional dance performed with a white handkerchief.",
+      "notes": "Native Korean: 살(evil spirits) + 풀이(解 解 untying/releasing) + 춤(dance). Shamanistic Korean dance for dispelling misfortune. Characterized by flowing movements with white cloth. Emotional and improvisational in nature."
+    },
+    {
+      "korean": "승무",
+      "english": "Buddhist monk dance",
+      "example": "승무는 장삼과 가사를 입고 추는 한국의 대표적인 전통 무용이다.",
+      "example_en": "Seungmu is a representative Korean traditional dance performed wearing a monk's robe and kasa.",
+      "notes": "승(僧 monk) + 무(舞 dance). Elegant Korean Buddhist dance. Performed in monk's robe (장삼) and ceremonial scarf (가사). Characterized by graceful, meditative movements. Important intangible cultural asset."
+    },
+    {
+      "korean": "리듬체조",
+      "english": "rhythmic gymnastics",
+      "example": "리듬체조는 리본, 공, 곤봉 등의 도구를 사용하는 예술 스포츠다.",
+      "example_en": "Rhythmic gymnastics is an artistic sport using equipment such as ribbons, balls, and clubs.",
+      "notes": "Loanword: rhythm (리듬) + 체조(體操 gymnastics). Olympic sport combining dance, gymnastics, and apparatus manipulation. Equipment: 리본(ribbon), 공(ball), 후프(hoop), 곤봉(clubs), 로프(rope)."
+    },
+    {
+      "korean": "무대 공포증",
+      "english": "stage fright",
+      "example": "무대 공포증을 극복하기 위해 반복적인 연습과 심리 훈련이 필요하다.",
+      "example_en": "Repeated practice and psychological training are needed to overcome stage fright.",
+      "notes": "무대(舞臺 stage) + 공포(恐怖 fear) + 증(症 condition). Performance anxiety. Common among performers. Related: 긴장(tension), 떨림(trembling). Overcome through experience and mental training."
+    },
+    {
+      "korean": "즉흥 무용",
+      "english": "improvisation dance",
+      "example": "즉흥 무용은 사전에 정해진 안무 없이 그 순간의 느낌으로 춤을 추는 것이다.",
+      "example_en": "Improvisation dance is dancing based on feelings in the moment without predetermined choreography.",
+      "notes": "즉흥(卽興 improvisation) + 무용(舞踊 dance). Spontaneous, non-choreographed dance. Important in modern and contemporary dance. Requires strong foundation and creativity. Related: 즉흥성(improvisational quality)."
+    },
+    {
+      "korean": "발끝",
+      "english": "tiptoe/point (ballet)",
+      "example": "발레에서 발끝으로 서는 기술을 포앙트라고 한다.",
+      "example_en": "In ballet, the technique of standing on tiptoe is called pointe.",
+      "notes": "Native Korean: 발(foot) + 끝(tip/end). Refers to dancing on the tips of the toes, especially in ballet. Related: 포앙트(pointe), 토슈즈(pointe shoes). Requires years of training and strong ankles."
+    },
+    {
+      "korean": "무용수",
+      "english": "dancer",
+      "example": "프로 무용수가 되기 위해서는 어릴 때부터 체계적인 훈련이 필요하다.",
+      "example_en": "To become a professional dancer, systematic training from a young age is necessary.",
+      "notes": "무용(舞踊 dance) + 수(手 person who does). Professional dancer. Related: 발레리나(ballerina), 무용가(dancer/choreographer), 댄서(dancer - casual). Career requires dedication, physical fitness, and artistry."
     }
   ],
   "주제별 단어 — 생명공학 (Topic: Biotechnology)": [
@@ -33817,6 +34356,111 @@
       "example": "자연을 테마로 한 컨셉으로 전체 공간을 설계했다.",
       "example_en": "I designed the entire space with a nature-themed concept.",
       "notes": "Interior design term. Collocations: 컨셉 비용, 컨셉 공사, 컨셉 업체."
+    },
+    {
+      "korean": "원목",
+      "english": "solid wood; natural wood",
+      "example": "원목 가구는 시간이 지날수록 고유한 멋을 낸다.",
+      "example_en": "Solid wood furniture develops its own unique charm over time.",
+      "notes": "Hanja: 原木 (original wood). Premium material prized for natural grain and durability. Collocations: 원목 가구, 원목 마루, 원목 테이블. More expensive than engineered wood."
+    },
+    {
+      "korean": "조명 배치",
+      "english": "lighting arrangement/placement",
+      "example": "조명 배치를 잘하면 공간이 훨씬 넓어 보인다.",
+      "example_en": "Proper lighting placement makes the space look much more spacious.",
+      "notes": "Critical for ambiance and functionality. Includes task lighting, ambient lighting, accent lighting. Collocations: 간접조명 배치, 스포트라이트 배치."
+    },
+    {
+      "korean": "북유럽풍",
+      "english": "Scandinavian style; Nordic style",
+      "example": "북유럽풍 인테리어는 밝은 색감과 단순한 라인이 특징이다.",
+      "example_en": "Scandinavian-style interiors are characterized by bright colors and simple lines.",
+      "notes": "Also called 스칸디나비안 스타일. Features: minimalism, natural materials, neutral palette, hygge concept. Popular in modern Korean apartments."
+    },
+    {
+      "korean": "바닥재",
+      "english": "flooring material",
+      "example": "거실 바닥재로 강마루를 선택했다.",
+      "example_en": "I chose engineered wood flooring as the living room flooring material.",
+      "notes": "Types: 강마루 (engineered wood), 원목 마루 (solid wood), 타일 (tile), 대리석 (marble), 장판 (vinyl). Affects room temperature, acoustics, maintenance."
+    },
+    {
+      "korean": "수납공간",
+      "english": "storage space",
+      "example": "수납공간을 최대한 확보하기 위해 붙박이장을 설치했다.",
+      "example_en": "We installed built-in closets to maximize storage space.",
+      "notes": "Critical for small apartments. Solutions: 붙박이장 (built-in closet), 수납장, 언더베드 수납. Collocations: 수납공간 확보, 수납공간 부족."
+    },
+    {
+      "korean": "색상 톤",
+      "english": "color tone",
+      "example": "따뜻한 색상 톤으로 침실을 꾸며서 편안한 분위기를 만들었다.",
+      "example_en": "I decorated the bedroom with warm color tones to create a cozy atmosphere.",
+      "notes": "Categories: 따뜻한 톤 (warm tones), 차가운 톤 (cool tones), 중성 톤 (neutral tones). Affects mood and perceived space size."
+    },
+    {
+      "korean": "악센트 월",
+      "english": "accent wall",
+      "example": "거실 한쪽 벽을 진한 네이비로 칠해서 악센트 월을 만들었다.",
+      "example_en": "We painted one living room wall in deep navy to create an accent wall.",
+      "notes": "Design technique: one wall in contrasting color/material to add visual interest. Common materials: paint, wallpaper, wood panels, stone."
+    },
+    {
+      "korean": "펜던트 조명",
+      "english": "pendant light; hanging light",
+      "example": "식탁 위에 펜던트 조명 세 개를 설치해서 포인트를 줬다.",
+      "example_en": "We installed three pendant lights above the dining table as a focal point.",
+      "notes": "Suspended from ceiling by cord/chain. Common locations: dining tables, kitchen islands. Height adjustment critical for functionality and aesthetics."
+    },
+    {
+      "korean": "간접조명",
+      "english": "indirect lighting; ambient lighting",
+      "example": "천장에 간접조명을 설치해서 부드러운 분위기를 연출했다.",
+      "example_en": "We installed indirect lighting on the ceiling to create a soft atmosphere.",
+      "notes": "Light reflected off surfaces rather than direct illumination. Creates softer, more diffused ambiance. Common in modern Korean interiors for 분위기 (mood)."
+    },
+    {
+      "korean": "맞춤가구",
+      "english": "custom-made furniture; bespoke furniture",
+      "example": "공간 활용을 위해 서재에 맞춤가구를 제작했다.",
+      "example_en": "We had custom-made furniture created for the study to maximize space utilization.",
+      "notes": "Built to exact specifications for space/function. More expensive than ready-made but optimizes awkward spaces. Collocations: 맞춤가구 제작, 맞춤가구 업체."
+    },
+    {
+      "korean": "중문",
+      "english": "interior sliding door; room divider door",
+      "example": "거실과 주방 사이에 중문을 달아서 냄새 차단 효과를 높였다.",
+      "example_en": "We installed a sliding door between the living room and kitchen to better block odors.",
+      "notes": "Hanja: 中門 (middle door). Separates spaces while maintaining openness. Popular in Korean apartments for kitchen isolation. Types: 유리 중문 (glass), 목재 중문 (wood)."
+    },
+    {
+      "korean": "포인트 컬러",
+      "english": "accent color; pop of color",
+      "example": "무채색 공간에 노란색 쿠션으로 포인트 컬러를 줬다.",
+      "example_en": "I added yellow cushions as an accent color to the achromatic space.",
+      "notes": "Small amounts of bright color to break monotony. Easily changeable through accessories: cushions, artwork, rugs. Adds visual interest without overwhelming."
+    },
+    {
+      "korean": "우드 톤",
+      "english": "wood tone",
+      "example": "가구와 바닥의 우드 톤을 통일해서 조화로운 느낌을 만들었다.",
+      "example_en": "We unified the wood tones of the furniture and floor to create a harmonious feel.",
+      "notes": "Wood color temperature affects room mood. Categories: 밝은 우드 톤 (light), 중간 톤 (medium), 다크 우드 톤 (dark). Should coordinate across room elements."
+    },
+    {
+      "korean": "벽면 수납",
+      "english": "wall-mounted storage; wall storage",
+      "example": "벽면 수납을 활용해서 바닥 공간을 확보했다.",
+      "example_en": "We utilized wall-mounted storage to free up floor space.",
+      "notes": "Vertical storage solution for small spaces. Types: floating shelves, wall cabinets, pegboards. Maximizes usable floor area in compact Korean apartments."
+    },
+    {
+      "korean": "마감재",
+      "english": "finishing material",
+      "example": "욕실 마감재로 방수 타일을 선택했다.",
+      "example_en": "We chose waterproof tile as the bathroom finishing material.",
+      "notes": "Hanja: 磨甘材 (finishing material). Final surface layer that affects aesthetics and functionality. Types vary by room: kitchen (tile, stone), bedroom (wallpaper, paint), bathroom (tile, waterproofing)."
     }
   ],
   "주제별 단어 — 우편/택배 (Topic: Postal & Delivery)": [
@@ -34912,6 +35556,111 @@
       "example": "부정적인 생각의 패턴인 인지 왜곡은 CBT를 통해 수정할 수 있다.",
       "example_en": "Cognitive distortions, patterns of negative thinking, can be corrected through CBT.",
       "notes": "Mental health term. Related: 심리 상담, 정신과. Collocations: 인지 왜곡 관리, 인지 왜곡 증상."
+    },
+    {
+      "korean": "인지행동치료",
+      "english": "cognitive behavioral therapy (CBT)",
+      "example": "인지행동치료는 불안과 우울을 치료하는 데 가장 효과적인 방법 중 하나입니다.",
+      "example_en": "Cognitive behavioral therapy is one of the most effective methods for treating anxiety and depression.",
+      "notes": "Therapy method. Collocations: 인지행동치료를 받다(receive CBT), CBT 기법. Etymology: 認知行動治療 (cognition-behavior-treatment), Sino-Korean. Evidence-based psychotherapy approach."
+    },
+    {
+      "korean": "방어기제",
+      "english": "defense mechanism",
+      "example": "부정은 고통스러운 현실을 피하려는 방어기제입니다.",
+      "example_en": "Denial is a defense mechanism to avoid painful reality.",
+      "notes": "Psychoanalytic term. Related: 억압(repression), 투사(projection), 합리화(rationalization). Etymology: 防禦機制 (defense-mechanism), Sino-Korean. Unconscious psychological strategies."
+    },
+    {
+      "korean": "정신적 여유",
+      "english": "mental space; peace of mind",
+      "example": "바쁜 일상 속에서도 정신적 여유를 갖는 것이 중요합니다.",
+      "example_en": "It's important to maintain mental space even in a busy daily life.",
+      "notes": "Wellness concept. Collocations: 정신적 여유가 없다(have no mental space), 여유를 찾다. Related: 마음의 평화(peace of mind), 휴식(rest)."
+    },
+    {
+      "korean": "심리적 안정",
+      "english": "psychological stability",
+      "example": "아이의 심리적 안정을 위해서는 일관된 양육 태도가 필요합니다.",
+      "example_en": "Consistent parenting attitudes are needed for a child's psychological stability.",
+      "notes": "Mental health concept. Related: 정서적 안정(emotional stability), 마음의 평화. Etymology: 心理的安定 (mind-theory-stability), Sino-Korean. Foundation of mental wellness."
+    },
+    {
+      "korean": "감정 기복",
+      "english": "mood swings; emotional ups and downs",
+      "example": "사춘기에는 호르몬 변화로 인한 감정 기복이 심합니다.",
+      "example_en": "During puberty, mood swings due to hormonal changes are severe.",
+      "notes": "Emotional state. Collocations: 감정 기복이 심하다(have severe mood swings), 기복이 있다. Related: 양극성 장애(bipolar disorder), 정서 불안(emotional instability)."
+    },
+    {
+      "korean": "정서 장애",
+      "english": "mood disorder; emotional disorder",
+      "example": "정서 장애는 일상생활에 큰 지장을 줄 수 있으므로 전문가의 도움이 필요합니다.",
+      "example_en": "Mood disorders can significantly disrupt daily life, so professional help is needed.",
+      "notes": "Clinical term. Related: 우울증(depression), 양극성 장애(bipolar disorder). Etymology: 情緖障碍 (emotion-obstacle), Sino-Korean. Umbrella term for various mood conditions."
+    },
+    {
+      "korean": "소진",
+      "english": "burnout; exhaustion",
+      "example": "장기간의 업무 스트레스로 인한 소진 증상이 나타나고 있습니다.",
+      "example_en": "Symptoms of burnout from long-term work stress are appearing.",
+      "notes": "Mental health term. Collocations: 소진되다(be burnt out), 감정적 소진. Etymology: 消盡 (disappear-exhaust), Sino-Korean. Related to 번아웃 but more formal."
+    },
+    {
+      "korean": "정신 건강 인식",
+      "english": "mental health awareness",
+      "example": "최근 몇 년간 사회 전체의 정신 건강 인식이 크게 높아졌습니다.",
+      "example_en": "Mental health awareness across society has significantly increased in recent years.",
+      "notes": "Public health concept. Collocations: 인식 개선(awareness improvement), 인식 캠페인(awareness campaign). Related: 낙인 감소(stigma reduction). Growing social movement."
+    },
+    {
+      "korean": "자해",
+      "english": "self-harm; self-injury",
+      "example": "자해는 심각한 정신 건강 문제의 신호일 수 있으므로 즉시 전문가와 상담해야 합니다.",
+      "example_en": "Self-harm can be a sign of serious mental health issues and requires immediate consultation with a professional.",
+      "notes": "Clinical term. Related: 자살 충동(suicidal ideation), 경계성 성격장애. Etymology: 自害 (self-harm), Sino-Korean. Requires urgent intervention."
+    },
+    {
+      "korean": "해리",
+      "english": "dissociation",
+      "example": "극심한 스트레스 상황에서 해리 증상이 나타날 수 있습니다.",
+      "example_en": "Dissociation symptoms can appear in extremely stressful situations.",
+      "notes": "Psychological phenomenon. Related: 해리성 장애(dissociative disorder), 현실감 상실. Etymology: 解離 (untie-separate), Sino-Korean. Defense mechanism against trauma."
+    },
+    {
+      "korean": "경계선 성격장애",
+      "english": "borderline personality disorder (BPD)",
+      "example": "경계선 성격장애 환자는 대인관계에서 극단적인 감정 변화를 보입니다.",
+      "example_en": "Patients with borderline personality disorder show extreme emotional changes in interpersonal relationships.",
+      "notes": "Clinical diagnosis. Collocations: BPD 증상, 경계선 성격. Related: 감정 조절 장애, 불안정한 자아상. Complex personality disorder requiring long-term treatment."
+    },
+    {
+      "korean": "공존 질환",
+      "english": "comorbidity; co-occurring disorder",
+      "example": "우울증 환자의 절반 이상이 불안장애를 공존 질환으로 가지고 있습니다.",
+      "example_en": "More than half of depression patients have anxiety disorders as a comorbidity.",
+      "notes": "Medical term. Related: 동반 질환(concurrent illness), 복합 진단. Etymology: 共存疾患 (together-exist-illness), Sino-Korean. Common in mental health contexts."
+    },
+    {
+      "korean": "항우울제",
+      "english": "antidepressant",
+      "example": "항우울제는 의사의 처방 없이 복용하면 안 됩니다.",
+      "example_en": "Antidepressants should not be taken without a doctor's prescription.",
+      "notes": "Psychiatric medication. Collocations: 항우울제 처방(antidepressant prescription), 복용하다. Etymology: 抗憂鬱劑 (anti-depression-medicine), Sino-Korean. Includes SSRIs, SNRIs, etc."
+    },
+    {
+      "korean": "심리 검사",
+      "english": "psychological assessment; psychological test",
+      "example": "정확한 진단을 위해 다양한 심리 검사를 실시했습니다.",
+      "example_en": "Various psychological assessments were conducted for accurate diagnosis.",
+      "notes": "Clinical tool. Collocations: 심리 검사 받다(undergo testing), 성격 검사. Related: 지능 검사(IQ test), MMPI. Used in diagnosis and treatment planning."
+    },
+    {
+      "korean": "집단 치료",
+      "english": "group therapy",
+      "example": "집단 치료에서는 비슷한 문제를 겪는 사람들과 경험을 나눌 수 있습니다.",
+      "example_en": "In group therapy, you can share experiences with others facing similar problems.",
+      "notes": "Therapy modality. Related: 개인 상담(individual therapy), 지지 집단(support group). Etymology: 集團治療 (group-treatment), Sino-Korean. Cost-effective therapeutic approach."
     }
   ]
 }
