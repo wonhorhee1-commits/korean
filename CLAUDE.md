@@ -99,6 +99,22 @@ Each drill: given, given_register, target_register, correct, explanation, diffic
 - Grammar: 101 patterns across 8 categories
 - Fluency drills: 157 error correction + 125 grammar context + 56 reading + 107 register = 445 total
 
+## DrillEngine Architecture
+All drills use a shared `DrillEngine()` that owns the lifecycle: session iteration, showCard, reveal, setupRating, rate, advance, showSummary. Each drill is a config object with:
+- `renderCard(item, prog, onReveal)` — renders the card UI, calls `onReveal(result)` when ready
+- `renderReveal(item, result, prog)` — renders the reveal UI with rating buttons. Return `false` to skip automatic `setupRating` (used by grammar exercises, reading, dialogue)
+- `ratingDescs` — optional `{again, hard, good, easy}` labels for rating buttons
+
+### Drill patterns
+- **Standard drills** (Vocab, Sentence Production, Error Correction, Register): `renderCard` → user interacts → `onReveal()` → `renderReveal` shows answer + rating buttons → DrillEngine wires up rating
+- **Complex drills** (Reading, Dialogue): `renderCard` manages sub-steps (questions/turns) internally, calls `engine.setupRating(id)` directly on the last step. `renderReveal` returns `false`
+- **Auto-graded option drills** (Grammar Context, Cloze): Handle grading + next-button inline in `renderCard`
+
+### Helper functions
+- `drillHeader(title, prog)` — quit button + counter + progress bar HTML
+- `ratingButtonsHtml(cardId, descs)` — rating buttons with interval predictions
+- `getDistractors(entry, cat)` — picks 3 wrong options from vocab pool (module-level, not inside drill closures)
+
 ## Key Design Decisions
 - Self-rated flashcards (Anki-style reveal + rate), NOT auto-graded (except grammar fill-in-the-blank and grammar context)
 - Comparison cards (" vs ") always show Korean→English to avoid exposing the answer
