@@ -644,6 +644,8 @@ h1 {
   transition: all 0.15s;
   text-align: center;
   box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 .option-btn:hover { background: var(--surface2); border-color: var(--blue); box-shadow: 0 2px 6px rgba(0,0,0,0.25); }
@@ -717,6 +719,8 @@ h1 {
   .option-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 380px) {
+  .option-grid { grid-template-columns: 1fr; }
+  .rating { flex-wrap: wrap; }
   .cloze-blank, .context-passage .blank { min-width: 50px; }
 }
 
@@ -778,10 +782,11 @@ h1 {
 
 @media (max-width: 600px) {
   .container { padding: 12px; }
-  .card-korean { font-size: 1.5em; }
+  .card-korean { font-size: 1.7em; }
   .card-english { font-size: 1.3em; }
   .rating { flex-direction: column; }
   .rating button { min-width: unset; width: 100%; }
+  .summary-stats { gap: 15px; }
   h1 { font-size: 1.5em; }
 }
 .sync-status {
@@ -907,6 +912,8 @@ h1 {
   border-radius: 16px;
   font-size: 1.05em;
   line-height: 1.5;
+  position: relative;
+  overflow-wrap: break-word;
 }
 .chat-bubble .speaker-label {
   font-size: 0.75em;
@@ -948,9 +955,12 @@ h1 {
   margin: 15px 0;
 }
 @media (max-width: 360px) {
+  .card { padding: 20px; }
+  .cloze-sentence { padding: 16px; }
   .error-sentence { padding: 16px; }
   .reading-passage { padding: 16px; }
   .chat-bubble { padding: 10px 12px; }
+  .production-prompt, .register-card, .context-passage { padding: 16px; }
 }
 @media (max-height: 500px) {
   .menu button { padding: 10px 14px; }
@@ -1289,6 +1299,15 @@ function countTotal() {
   return {vocab: v, grammar: g, total: v + g, cats: Object.keys(vocabData).length + Object.keys(grammarData).length};
 }
 
+let _keyBlock = 0;
+function setKeyHandler(fn) {
+  _keyBlock = Date.now();
+  document.onkeydown = fn ? (e => {
+    if (e.repeat || Date.now() - _keyBlock < 150) return;
+    fn(e);
+  }) : null;
+}
+
 function showMenu() {
   window.scrollTo(0, 0);
   clearTimer();
@@ -1340,7 +1359,7 @@ function showMenu() {
     </div>
     <div class="shortcuts">Keyboard: 1-9, D, 0 to select</div>`;
 
-  document.onkeydown = e => {
+  setKeyHandler(e => {
     if (e.key === '1') showCategorySelect('vocab');
     else if (e.key === '2') showCategorySelect('grammar');
     else if (e.key === '3') startMixedReview();
@@ -1353,7 +1372,7 @@ function showMenu() {
     else if (e.key === 'd') startDialogueDrill();
     else if (e.key === '0') showProgress();
     else if (e.key === 't') toggleTimedMode();
-  };
+  });
 }
 
 function showCategorySelect(type) {
@@ -1378,14 +1397,14 @@ function showCategorySelect(type) {
     });
   });
   searchInput.focus();
-  document.onkeydown = e => {
+  setKeyHandler(e => {
     if (e.key === 'Escape') showMenu();
     else if (e.key === '0' && !searchInput.value) startDrill(type, null);
     else if (!searchInput.value) {
       const num = parseInt(e.key);
       if (num >= 1 && num <= cats.length) startDrill(type, cats[num - 1]);
     }
-  };
+  });
 }
 
 function buildPool(type, category) {
@@ -1418,7 +1437,7 @@ function DrillEngine({ session, renderCard, renderReveal, ratingDescs, onRate })
 
   function showCard() {
     window.scrollTo(0, 0);
-    document.onkeydown = null;
+    setKeyHandler(null);
     clearTimer();
     if (idx >= session.length) { showSummary(reviewed, correct); return; }
     renderCard(session[idx], progress(), showReveal);
@@ -1434,16 +1453,16 @@ function DrillEngine({ session, renderCard, renderReveal, ratingDescs, onRate })
     document.querySelectorAll('.rating button').forEach(btn => {
       btn.onclick = () => { disableRating(); rate(id, parseInt(btn.dataset.q)); };
     });
-    document.onkeydown = e => {
+    setKeyHandler(e => {
       const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
       if (map[e.key] !== undefined) { e.preventDefault(); disableRating(); rate(id, map[e.key]); }
       if (e.key === 'Escape') showMenu();
-    };
+    });
   }
 
   function disableRating() {
     document.querySelectorAll('.rating button').forEach(b => b.disabled = true);
-    document.onkeydown = null;
+    setKeyHandler(null);
   }
 
   function rate(id, quality) {
@@ -1502,7 +1521,7 @@ function setupOptionHandlers(onSelect, extraKeys) {
   const fire = (idx) => {
     if (fired) return;
     fired = true;
-    document.onkeydown = null;
+    setKeyHandler(null);
     document.querySelectorAll('.option-btn').forEach(b => b.disabled = true);
     clearTimer();
     onSelect(idx);
@@ -1510,21 +1529,21 @@ function setupOptionHandlers(onSelect, extraKeys) {
   document.querySelectorAll('.option-btn').forEach(btn => {
     btn.onclick = () => fire(parseInt(btn.dataset.idx));
   });
-  document.onkeydown = e => {
+  setKeyHandler(e => {
     const num = parseInt(e.key);
     if (num >= 1 && num <= 4) fire(num - 1);
     else if (e.key === 'Escape') { clearTimer(); showMenu(); }
     else if (extraKeys) extraKeys(e);
-  };
+  });
   return fire;
 }
 
 function setupNextButton(engine) {
   document.getElementById('next-btn').onclick = () => engine.autoAdvance();
-  document.onkeydown = e => {
+  setKeyHandler(e => {
     if (e.key === 'Enter' || e.key === ' ') engine.autoAdvance();
     if (e.key === 'Escape') showMenu();
-  };
+  });
 }
 
 function setupTextInput(onReveal, timerSeconds) {
@@ -1536,9 +1555,6 @@ function setupTextInput(onReveal, timerSeconds) {
   if (showBtn) showBtn.onclick = reveal;
   input.onkeydown = e => {
     if (e.key === 'Enter') reveal();
-    if (e.key === 'Escape') { clearTimer(); showMenu(); }
-  };
-  document.onkeydown = e => {
     if (e.key === 'Escape') { clearTimer(); showMenu(); }
   };
 }
@@ -1577,7 +1593,7 @@ function runSession(cards) {
         app.innerHTML = `${drillHeader(cat, prog)}
           ${timerHtml(TIMER.vocab)}
           ${prompt}
-          <input class="answer-input" placeholder="Your answer (Enter to reveal)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
+          <input class="answer-input" autocomplete="off" placeholder="Your answer (Enter to reveal)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
           <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
         setupTextInput(guess => onReveal({guess, answer, showKorean}), TIMER.vocab);
       } else {
@@ -1585,7 +1601,7 @@ function runSession(cards) {
           ${timerHtml(TIMER.grammar)}
           <div class="card"><div class="card-korean">${escHtml(entry.pattern)}</div></div>
           <div class="card-prompt">What does this pattern mean?</div>
-          <input class="answer-input" placeholder="Your answer (Enter to reveal)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
+          <input class="answer-input" autocomplete="off" placeholder="Your answer (Enter to reveal)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
           <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
         setupTextInput(guess => onReveal({guess}), TIMER.grammar);
       }
@@ -1618,7 +1634,7 @@ function runSession(cards) {
         if (entry.drill) {
           drillHtml = `<div class="fill-prompt">Fill in the blank:</div>
             <div class="fill-sentence">${escHtml(entry.drill.prompt)}</div>
-            <input class="answer-input" id="drill-input" placeholder="Your answer" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
+            <input class="answer-input" id="drill-input" autocomplete="off" placeholder="Your answer" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
             <div id="drill-result" class="hidden"></div>`;
         }
         const guessHtml = result.guess ? `<div class="your-guess">Your answer: <span>${escHtml(result.guess)}</span></div>` : '';
@@ -1680,7 +1696,7 @@ function startSentenceProduction() {
           <div class="production-context">Hint: ${escHtml(entry.english)}</div>
         </div>
         <div class="card-prompt">Write this in Korean:</div>
-        <input class="answer-input" placeholder="Type your Korean sentence (Enter to check)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
+        <input class="answer-input" autocomplete="off" placeholder="Type your Korean sentence (Enter to check)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
         <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
       setupTextInput(guess => onReveal({guess}), TIMER.production);
     },
@@ -1710,7 +1726,7 @@ function startGrammarContext() {
   if (grammarContext.length === 0) {
     app.innerHTML = `<button class="back-btn" onclick="showMenu()">← Back</button>
       <div class="card"><p>Grammar context data not loaded.</p></div>`;
-    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    setKeyHandler(e => { if (e.key === 'Escape') showMenu(); });
     return;
   }
   const pool = grammarContext.map((d, i) => ({id: `gctx:${i}`, drill: d}));
@@ -1758,7 +1774,7 @@ function startReadingComprehension() {
   if (readingDrills.length === 0) {
     app.innerHTML = `<button class="back-btn" onclick="showMenu()">← Back</button>
       <div class="card"><p>Reading comprehension data not loaded.</p></div>`;
-    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    setKeyHandler(e => { if (e.key === 'Escape') showMenu(); });
     return;
   }
   const pool = readingDrills.map((d, i) => ({id: `read:${i}`, drill: d}));
@@ -1817,10 +1833,10 @@ function startReadingComprehension() {
         } else {
           const next = () => showPassage(item, prog, qIdx + 1);
           document.getElementById('next-btn').onclick = next;
-          document.onkeydown = e => {
+          setKeyHandler(e => {
             if (e.key === 'Enter' || e.key === ' ') next();
             if (e.key === 'Escape') showMenu();
-          };
+          });
         }
       }
     },
@@ -1833,7 +1849,7 @@ function startRegisterSwitching() {
   if (registerDrills.length === 0) {
     app.innerHTML = `<button class="back-btn" onclick="showMenu()">← Back</button>
       <div class="card"><p>Register switching data not loaded.</p></div>`;
-    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    setKeyHandler(e => { if (e.key === 'Escape') showMenu(); });
     return;
   }
   const pool = registerDrills.map((d, i) => ({id: `reg:${i}`, drill: d}));
@@ -1854,7 +1870,7 @@ function startRegisterSwitching() {
           <div class="register-badge ${regBadge(drill.target_register)}">${escHtml(drill.target_register)}</div>
         </div>
         <div class="card-prompt">Rewrite in ${escHtml(drill.target_register)}:</div>
-        <input class="answer-input" placeholder="Type the converted sentence (Enter to check)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
+        <input class="answer-input" autocomplete="off" placeholder="Type the converted sentence (Enter to check)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
         <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
       setupTextInput(guess => onReveal({guess}), TIMER.register);
     },
@@ -1883,7 +1899,7 @@ function startErrorCorrection() {
   if (errorDrills.length === 0) {
     app.innerHTML = `<button class="back-btn" onclick="showMenu()">← Back</button>
       <div class="card"><p>Error drill data not loaded. Make sure data/error_drills.json exists.</p></div>`;
-    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    setKeyHandler(e => { if (e.key === 'Escape') showMenu(); });
     return;
   }
   const pool = errorDrills.map((d, i) => ({id: `err:${i}`, drill: d}));
@@ -1901,7 +1917,7 @@ function startErrorCorrection() {
           <div class="korean">${escHtml(drill.incorrect)}</div>
         </div>
         <div class="card-prompt">Find and fix the error:</div>
-        <input class="answer-input" placeholder="Type the corrected sentence (Enter to check)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
+        <input class="answer-input" autocomplete="off" placeholder="Type the corrected sentence (Enter to check)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
         <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
       setupTextInput(guess => onReveal({guess}), TIMER.error);
     },
@@ -2057,7 +2073,7 @@ function showSummary(reviewed, correct) {
   }
   requestAnimationFrame(animateCountUp);
 
-  document.onkeydown = e => { if (e.key === 'Enter' || e.key === 'Escape') showMenu(); };
+  setKeyHandler(e => { if (e.key === 'Enter' || e.key === 'Escape') showMenu(); });
 }
 
 function showProgress() {
@@ -2115,7 +2131,7 @@ function showProgress() {
         ${weakRows}
       </table></div>` : '<p style="color:var(--dim)">No cards reviewed yet. Start a drill!</p>'}
     <button class="btn" onclick="if(confirm('Reset all progress?')){localStorage.removeItem('korean_coach_srs');location.reload()}" style="margin-top:20px;color:var(--red);border-color:var(--red)">Reset Progress</button>`;
-  document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+  setKeyHandler(e => { if (e.key === 'Escape') showMenu(); });
 }
 
 // ===== DIALOGUE DRILL =====
@@ -2123,7 +2139,7 @@ function startDialogueDrill() {
   if (dialogueDrills.length === 0) {
     app.innerHTML = `<button class="back-btn" onclick="showMenu()">← Back</button>
       <div class="card"><p>Dialogue drill data not loaded. Make sure data/dialogue_drills.json exists.</p></div>`;
-    document.onkeydown = e => { if (e.key === 'Escape') showMenu(); };
+    setKeyHandler(e => { if (e.key === 'Escape') showMenu(); });
     return;
   }
   const pool = dialogueDrills.map((d, i) => ({id: `dlg:${i}`, drill: d}));
@@ -2201,14 +2217,14 @@ function startDialogueDrill() {
             }
           };
         });
-        document.onkeydown = e => {
+        setKeyHandler(e => {
           const num = parseInt(e.key);
           if (num >= 1 && num <= shuffledOpts.length) {
             const btns = document.querySelectorAll('.option-btn');
             if (btns[num - 1]) btns[num - 1].click();
           }
           if (e.key === 'Escape') showMenu();
-        };
+        });
       }
     },
     renderReveal() {} // handled inline by renderCard
@@ -2265,7 +2281,7 @@ async function init() {
       if (rgResp && rgResp.ok) registerDrills = await rgResp.json();
       if (dlResp && dlResp.ok) dialogueDrills = await dlResp.json();
     } catch(e2) {
-      app.innerHTML = '<h1>Error</h1><p>Could not load data files.</p>';
+      app.innerHTML = '<h1>Error</h1><p>Could not load data files.</p><button class="btn" onclick="location.reload()" style="margin-top:20px">Retry</button>';
       return;
     }
   }
