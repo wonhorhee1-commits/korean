@@ -108,12 +108,24 @@ All drills use a shared `DrillEngine()` that owns the lifecycle: session iterati
 ### Drill patterns
 - **Standard drills** (Vocab, Sentence Production, Error Correction, Register): `renderCard` → user interacts → `onReveal()` → `renderReveal` shows answer + rating buttons → DrillEngine wires up rating
 - **Complex drills** (Reading, Dialogue): `renderCard` manages sub-steps (questions/turns) internally, calls `engine.setupRating(id)` directly on the last step. `renderReveal` returns `false`
-- **Auto-graded option drills** (Grammar Context, Cloze): Handle grading + next-button inline in `renderCard`
+- **Auto-graded option drills** (Grammar Context, Cloze): Use `setupOptionHandlers()` for input, `engine.autoGrade()`/`engine.autoAdvance()` for grading
 
 ### Helper functions
 - `drillHeader(title, prog)` — quit button + counter + progress bar HTML
 - `ratingButtonsHtml(cardId, descs)` — rating buttons with interval predictions
 - `getDistractors(entry, cat)` — picks 3 wrong options from vocab pool (module-level, not inside drill closures)
+- `setupOptionHandlers(onSelect, extraKeys)` — wires click+keyboard on `.option-btn`, double-fire guard via `fired` flag
+- `setupNextButton(engine)` — wires click+Enter/Space on `#next-btn` to `engine.autoAdvance()`
+- `setupTextInput(onReveal, timerSeconds)` — wires Enter/Escape/Show Answer on `.answer-input`, starts timer if timed mode
+
+### Constants
+- `SESSION` — cards per session: `{vocab: 15, grammar: 15, mixed: 15, production: 12, error: 10, grammarCtx: 10, reading: 8, register: 10, cloze: 12, dialogue: 8}`
+- `TIMER` — seconds per card: `{vocab: 15, grammar: 20, production: 30, error: 25, grammarCtx: 20, reading: 30, register: 25, cloze: 12}`
+
+### Robustness
+- `debouncedSync()` — debounces Firestore writes to 2s of inactivity (called from `SRSEngine.save()`)
+- `validateVocab(data)` — schema check on vocab load (verifies arrays + required fields)
+- Category select supports number key shortcuts (search-aware — only fires when search box is empty)
 
 ## Key Design Decisions
 - Self-rated flashcards (Anki-style reveal + rate), NOT auto-graded (except grammar fill-in-the-blank and grammar context)
