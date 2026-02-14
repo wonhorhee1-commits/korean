@@ -1299,11 +1299,10 @@ function countTotal() {
   return {vocab: v, grammar: g, total: v + g, cats: Object.keys(vocabData).length + Object.keys(grammarData).length};
 }
 
-let _keyBlock = 0;
 function setKeyHandler(fn) {
-  _keyBlock = Date.now();
   document.onkeydown = fn ? (e => {
-    if (e.repeat || Date.now() - _keyBlock < 150) return;
+    if (e.repeat) return;
+    if (e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') e.preventDefault();
     fn(e);
   }) : null;
 }
