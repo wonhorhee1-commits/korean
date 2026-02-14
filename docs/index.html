@@ -290,6 +290,10 @@ h1 {
 
 .rating button:hover { transform: translateY(-1px); box-shadow: 0 2px 6px rgba(0,0,0,0.25); }
 .rating button:active { transform: scale(0.97); }
+button:disabled, input:disabled { opacity: 0.5; cursor: not-allowed; }
+mark { background: rgba(96,165,250,0.2); color: inherit; padding: 0 2px; border-radius: 3px; }
+.skip-rating { text-align: center; margin-top: 10px; }
+.skip-rating button { color: var(--dim); border: 1px solid var(--border); background: var(--surface); padding: 8px 24px; border-radius: 8px; cursor: pointer; font-size: 0.9em; }
 
 .rating .btn-again { border-color: var(--red); }
 .rating .btn-again:hover { background: rgba(248,113,113,0.15); }
@@ -321,7 +325,16 @@ h1 {
   border-radius: 12px;
   font-size: 0.85em;
   font-weight: bold;
+  cursor: pointer;
 }
+.cal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 100; display: flex; align-items: center; justify-content: center; }
+.cal-box { background: var(--surface); border-radius: 16px; padding: 20px; max-width: 340px; width: 90%; box-shadow: var(--shadow-md); }
+.cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 4px; text-align: center; }
+.cal-header { font-size: 0.7em; color: var(--dim); font-weight: 600; padding: 4px 0; }
+.cal-day { width: 100%; aspect-ratio: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; border-radius: 8px; font-size: 0.8em; color: var(--dim); position: relative; }
+.cal-day.studied { color: var(--text); }
+.cal-day.studied::after { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--green); position: absolute; bottom: 2px; }
+.cal-day.today { outline: 2px solid var(--blue); border-radius: 8px; }
 
 /* Progress bar */
 .progress-bar {
@@ -867,6 +880,14 @@ h1 {
   background: #fff;
 }
 
+/* Direction toggle */
+.direction-toggle { display: flex; justify-content: center; margin: 8px 0; gap: 0; }
+.direction-toggle button { padding: 6px 14px; border: 1px solid var(--border); background: var(--surface); color: var(--dim); cursor: pointer; font-size: 0.85em; transition: all 0.15s; }
+.direction-toggle button:first-child { border-radius: 8px 0 0 8px; }
+.direction-toggle button:last-child { border-radius: 0 8px 8px 0; }
+.direction-toggle button:not(:first-child) { border-left: none; }
+.direction-toggle button.active { background: var(--blue); color: #fff; border-color: var(--blue); }
+
 /* Cloze */
 .cloze-sentence {
   background: var(--surface);
@@ -1165,12 +1186,32 @@ const app = document.getElementById('app');
 const srs = new SRSEngine();
 let vocabData = {}, grammarData = {}, errorDrills = [], grammarContext = [], readingDrills = [], registerDrills = [], dialogueDrills = [];
 let timedMode = localStorage.getItem('korean_coach_timed') === 'true';
+let drillDirection = localStorage.getItem('korean_coach_direction') || 'both';
+let autoTts = localStorage.getItem('korean_coach_autotts') === 'true';
 let activeTimer = null;
 
 function toggleTimedMode() {
   timedMode = !timedMode;
   safeSave('korean_coach_timed', timedMode);
   showMenu();
+}
+
+function setDirection(dir) {
+  drillDirection = dir;
+  safeSave('korean_coach_direction', dir);
+  showMenu();
+}
+
+function toggleAutoTts() {
+  autoTts = !autoTts;
+  safeSave('korean_coach_autotts', autoTts);
+  showMenu();
+}
+
+function getShowKorean(entry) {
+  if (drillDirection === 'kor') return true;
+  if (drillDirection === 'eng') return false;
+  return Math.random() < 0.5;
 }
 
 function startTimer(seconds, onExpire) {
@@ -1205,6 +1246,24 @@ function timerHtml(seconds) {
     <div class="timer-bar"><div class="timer-fill" id="timer-fill" style="width:100%;background:var(--blue)"></div></div>`;
 }
 
+// ===== TTS =====
+let koVoice = null;
+if ('speechSynthesis' in window) {
+  const findKo = () => { koVoice = speechSynthesis.getVoices().find(v => v.lang.startsWith('ko')); };
+  findKo();
+  speechSynthesis.onvoiceschanged = findKo;
+}
+
+function speak(text) {
+  if (!('speechSynthesis' in window)) return;
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'ko-KR';
+  u.rate = 0.85;
+  if (koVoice) u.voice = koVoice;
+  speechSynthesis.speak(u);
+}
+
 function shuffle(arr) {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
@@ -1228,6 +1287,13 @@ const TIMER = { vocab: 15, grammar: 20, production: 30, error: 25, grammarCtx: 2
 
 function normalizeKorean(s) {
   return s.trim().replace(/\s+/g, ' ').replace(/[.!?]+$/, '').toLowerCase();
+}
+
+function highlightWord(sentence, word) {
+  if (!sentence || !word) return escHtml(sentence);
+  const esc = escHtml(sentence);
+  const escW = escHtml(word);
+  return esc.split(escW).join(`<mark>${escW}</mark>`);
 }
 
 // ===== INTERVAL PREDICTION =====
@@ -1278,7 +1344,7 @@ function getStreak() {
 }
 
 function recordStudyDay() {
-  const data = JSON.parse(localStorage.getItem('korean_coach_streak') || '{"count":0,"lastDate":""}');
+  const data = JSON.parse(localStorage.getItem('korean_coach_streak') || '{"count":0,"lastDate":"","days":[]}');
   const today = new Date().toISOString().slice(0, 10);
   if (data.lastDate === today) return;
   const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
@@ -1288,7 +1354,51 @@ function recordStudyDay() {
     data.count = 1;
   }
   data.lastDate = today;
+  if (!data.days) data.days = [];
+  if (!data.days.includes(today)) data.days.push(today);
+  const cutoff = new Date(Date.now() - 90 * 86400000).toISOString().slice(0, 10);
+  data.days = data.days.filter(d => d >= cutoff);
   safeSave('korean_coach_streak', JSON.stringify(data));
+}
+
+function showStreakCalendar() {
+  const data = JSON.parse(localStorage.getItem('korean_coach_streak') || '{"count":0,"lastDate":"","days":[]}');
+  const days = new Set(data.days || []);
+  const streak = getStreak();
+  const today = new Date();
+  const todayStr = today.toISOString().slice(0, 10);
+
+  const start = new Date(today);
+  start.setDate(start.getDate() - 55);
+  while (start.getDay() !== 1) start.setDate(start.getDate() - 1);
+
+  let cells = '';
+  const headers = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+  headers.forEach(h => { cells += `<div class="cal-header">${h}</div>`; });
+
+  const d = new Date(start);
+  while (d <= today) {
+    const ds = d.toISOString().slice(0, 10);
+    const isToday = ds === todayStr;
+    const studied = days.has(ds);
+    cells += `<div class="cal-day${studied ? ' studied' : ''}${isToday ? ' today' : ''}">${d.getDate()}</div>`;
+    d.setDate(d.getDate() + 1);
+  }
+
+  const overlay = document.createElement('div');
+  overlay.className = 'cal-overlay';
+  overlay.innerHTML = `<div class="cal-box">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
+      <h3 style="margin:0;font-size:1em">${streak > 0 ? `\u{1F525} ${streak} day streak` : 'Start your streak today!'}</h3>
+      <button onclick="this.closest('.cal-overlay').remove()" style="background:none;border:none;font-size:1.2em;cursor:pointer;color:var(--dim)">\u2715</button>
+    </div>
+    <div class="cal-grid">${cells}</div>
+    <div style="margin-top:8px;display:flex;gap:12px;justify-content:center;font-size:0.75em;color:var(--dim)">
+      <span>\u{1F7E2} studied</span><span>\u{1F535} today</span>
+    </div>
+  </div>`;
+  overlay.onclick = e => { if (e.target === overlay) overlay.remove(); };
+  document.body.appendChild(overlay);
 }
 
 // ===== SCREENS =====
@@ -1315,7 +1425,9 @@ function showMenu() {
   const streak = getStreak();
   const reviewedPct = totals.total > 0 ? Math.round(stats.total / totals.total * 100) : 0;
 
-  const streakHtml = streak > 0 ? `<div style="text-align:center;margin:8px 0"><span class="streak-badge">\u{1F525} ${streak} day${streak > 1 ? 's' : ''} streak</span></div>` : '';
+  const streakHtml = streak > 0
+    ? `<div style="text-align:center;margin:8px 0"><span class="streak-badge" onclick="showStreakCalendar()">\u{1F525} ${streak} day${streak > 1 ? 's' : ''} streak</span></div>`
+    : `<div style="text-align:center;margin:8px 0"><span class="streak-badge" onclick="showStreakCalendar()" style="opacity:0.6">\u{1F4C5} Study calendar</span></div>`;
 
   const statsHtml = `
     <div class="stats-bar">
@@ -1355,6 +1467,14 @@ function showMenu() {
     </div>
     <div class="timed-toggle${timedMode ? ' active' : ''}" onclick="toggleTimedMode()">
       <div class="switch"></div> Timed Mode ${timedMode ? 'ON' : 'OFF'}
+    </div>
+    <div class="direction-toggle">
+      <button class="${drillDirection === 'kor' ? 'active' : ''}" onclick="setDirection('kor')">\ud55c\u2192\uc601</button>
+      <button class="${drillDirection === 'eng' ? 'active' : ''}" onclick="setDirection('eng')">\uc601\u2192\ud55c</button>
+      <button class="${drillDirection === 'both' ? 'active' : ''}" onclick="setDirection('both')">Both</button>
+    </div>
+    <div class="timed-toggle${autoTts ? ' active' : ''}" onclick="toggleAutoTts()">
+      <div class="switch"></div> \uD83D\uDD0A Auto-play ${autoTts ? 'ON' : 'OFF'}
     </div>
     <div class="shortcuts">Keyboard: 1-9, D, 0 to select</div>`;
 
@@ -1433,12 +1553,13 @@ function prioritizeCards(pool, limit) {
 // ===== DRILL ENGINE =====
 function DrillEngine({ session, renderCard, renderReveal, ratingDescs, onRate }) {
   let idx = 0, correct = 0, reviewed = 0;
+  const mistakes = [];
 
   function showCard() {
     window.scrollTo(0, 0);
     setKeyHandler(null);
     clearTimer();
-    if (idx >= session.length) { showSummary(reviewed, correct); return; }
+    if (idx >= session.length) { showSummary(reviewed, correct, mistakes); return; }
     renderCard(session[idx], progress(), showReveal);
   }
 
@@ -1452,9 +1573,15 @@ function DrillEngine({ session, renderCard, renderReveal, ratingDescs, onRate })
     document.querySelectorAll('.rating button').forEach(btn => {
       btn.onclick = () => { disableRating(); rate(id, parseInt(btn.dataset.q)); };
     });
+    const ratingDiv = document.querySelector('.rating');
+    if (ratingDiv) {
+      ratingDiv.insertAdjacentHTML('afterend', '<div class="skip-rating"><button id="next-skip">Next \u2192</button></div>');
+      document.getElementById('next-skip').onclick = () => { disableRating(); rate(id, GOOD); };
+    }
     setKeyHandler(e => {
       const map = {'1': AGAIN, '2': HARD, '3': GOOD, '4': EASY};
       if (map[e.key] !== undefined) { e.preventDefault(); disableRating(); rate(id, map[e.key]); }
+      if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); disableRating(); rate(id, GOOD); }
       if (e.key === 'Escape') showMenu();
     });
   }
@@ -1465,6 +1592,7 @@ function DrillEngine({ session, renderCard, renderReveal, ratingDescs, onRate })
   }
 
   function rate(id, quality) {
+    if (quality <= HARD) mistakes.push(session[idx]);
     if (onRate) onRate(session[idx], quality);
     srs.recordReview(id, quality);
     reviewed++;
@@ -1485,6 +1613,7 @@ function DrillEngine({ session, renderCard, renderReveal, ratingDescs, onRate })
   }
 
   function autoGrade(id, isCorrect) {
+    if (!isCorrect) mistakes.push(session[idx]);
     srs.recordReview(id, isCorrect ? GOOD : AGAIN);
     reviewed++;
     if (isCorrect) correct++;
@@ -1581,7 +1710,7 @@ function runSession(cards) {
       const {type, cat, entry} = item;
       if (type === 'vocab') {
         const isComparison = entry.korean.includes(' vs ');
-        const showKorean = isComparison || Math.random() < 0.5;
+        const showKorean = isComparison || getShowKorean(entry);
         const prompt = showKorean
           ? `<div class="card"><div class="card-korean">${escHtml(entry.korean)}</div>
              ${entry.hanja ? `<div class="card-hint">${escHtml(entry.hanja)}</div>` : ''}
@@ -1594,6 +1723,7 @@ function runSession(cards) {
           ${prompt}
           <input class="answer-input" autocomplete="off" placeholder="Your answer (Enter to reveal)" autocorrect="off" autocapitalize="off" spellcheck="false" autofocus>
           <button class="show-answer-btn" id="show-answer">Show Answer</button>`;
+        if (showKorean && autoTts) setTimeout(() => speak(entry.korean), 300);
         setupTextInput(guess => onReveal({guess, answer, showKorean}), TIMER.vocab);
       } else {
         app.innerHTML = `${drillHeader(cat, prog)}
@@ -1614,8 +1744,8 @@ function runSession(cards) {
         if (entry.hanja) extra += `<div class="breakdown">${escHtml(entry.hanja)}</div>`;
         if (entry.breakdown) extra += `<div class="breakdown">${escHtml(entry.breakdown)}</div>`;
         if (entry.notes) extra += `<div class="reveal-notes">${escHtml(entry.notes)}</div>`;
-        if (entry.example) extra += `<div class="example"><div class="example-kr">${escHtml(entry.example)}</div>
-          ${entry.example_en ? `<div class="example-en">${escHtml(entry.example_en)}</div>` : ''}</div>`;
+        if (entry.example) extra += `<div class="example"><div class="example-kr">${highlightWord(entry.example, entry.korean)}</div>
+          ${entry.example_en ? `<div class="example-en">${highlightWord(entry.example_en, entry.english)}</div>` : ''}</div>`;
         const guessHtml = result.guess ? `<div class="your-guess">Your answer: <span>${escHtml(result.guess)}</span></div>` : '';
         app.innerHTML = `${drillHeader(cat, prog)}
           <div class="card" style="margin-bottom:8px"><div class="${isKoreanAnswer ? 'card-english' : 'card-korean'}">${escHtml(promptWord)}</div></div>
@@ -2012,7 +2142,8 @@ function startClozeDrill() {
   });
 }
 
-function showSummary(reviewed, correct) {
+function showSummary(reviewed, correct, mistakes) {
+  mistakes = mistakes || [];
   const acc = reviewed > 0 ? correct / reviewed : 0;
   const accPct = Math.round(acc * 100);
   let comment, color, ringColor;
@@ -2022,7 +2153,7 @@ function showSummary(reviewed, correct) {
   else { comment = "These need more work. They'll come back."; color = 'var(--red)'; ringColor = '#f87171'; }
 
   const streak = getStreak();
-  const streakMsg = streak > 0 ? `<div style="margin-top:12px"><span class="streak-badge">\u{1F525} ${streak} day${streak > 1 ? 's' : ''} streak</span></div>` : '';
+  const streakMsg = streak > 0 ? `<div style="margin-top:12px"><span class="streak-badge" onclick="showStreakCalendar()">\u{1F525} ${streak} day${streak > 1 ? 's' : ''} streak</span></div>` : '';
 
   // SVG accuracy ring
   const r = 50, circ = 2 * Math.PI * r;
@@ -2048,6 +2179,13 @@ function showSummary(reviewed, correct) {
       <div class="comment">${comment}</div>
       ${streakMsg}
     </div>
+    ${mistakes.length > 0 ? `<div style="margin:15px 0;padding:15px;background:var(--surface);border:1px solid var(--border);border-radius:12px">
+      <h3 style="margin-bottom:8px;color:var(--dim);font-size:0.95em">Cards to review</h3>
+      ${mistakes.map(m => `<div style="padding:4px 0;border-bottom:1px solid var(--border);font-size:0.9em">
+        <span style="color:var(--text)">${escHtml(m.entry.korean || m.entry.pattern || m.entry.incorrect || m.entry.given || '')}</span>
+        <span style="color:var(--dim);margin-left:8px">${escHtml(m.entry.english || m.entry.meaning || m.entry.correct || '')}</span>
+      </div>`).join('')}
+    </div>` : ''}
     <button class="btn btn-primary" onclick="showMenu()" style="width:100%">Back to Menu</button>`;
 
   // Animate ring
@@ -2116,7 +2254,7 @@ function showProgress() {
   app.innerHTML = `
     <button class="back-btn" onclick="showMenu()">← Back</button>
     <h2 style="margin-bottom:20px">Progress</h2>
-    ${streak > 0 ? `<div style="text-align:center;margin-bottom:15px"><span class="streak-badge">\u{1F525} ${streak} day${streak > 1 ? 's' : ''} streak</span></div>` : ''}
+    ${streak > 0 ? `<div style="text-align:center;margin-bottom:15px"><span class="streak-badge" onclick="showStreakCalendar()">\u{1F525} ${streak} day${streak > 1 ? 's' : ''} streak</span></div>` : ''}
     <div class="summary-stats" style="margin-bottom:25px">
       <div class="summary-stat"><div class="value" style="color:var(--cyan)">${stats.total}</div><div class="label">Cards Seen</div></div>
       <div class="summary-stat"><div class="value" style="color:var(--yellow)">${stats.due}</div><div class="label">Due Now</div></div>
